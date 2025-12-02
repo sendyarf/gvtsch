@@ -256,12 +256,14 @@ def load_source_data():
     d2 = load_json_file('sportsonline.json')
     d3 = load_json_file('streamcenter.json')
     d4 = load_json_file('flashscore.json')
-    return d1, d2, d3, d4
+    d5 = load_json_file('flashscore_home.json')
+    return d1, d2, d3, d4, d5
 
-def merge_data(d1, d2, d3, d4):
+def merge_data(d1, d2, d3, d4, d5):
     """
     Advanced merge using composite keys and fuzzy matching
     Priority: Flashscore first (d4), then others
+    d5 (flashscore_home) is used to supplement missing data only
     """
     merged = {}
     
@@ -290,6 +292,31 @@ def merge_data(d1, d2, d3, d4):
             new_key = create_composite_key(match)
             merged[new_key] = match
     
+    def supplement_from_home(home_match):
+        """Use flashscore_home data to fill in missing logos and league names"""
+        # Match based on team names (with fuzzy matching) since flashscore_home lacks kickoff_date
+        home_team1 = normalize_team_name(home_match['team1']['name'])
+        home_team2 = normalize_team_name(home_match['team2']['name'])
+        
+        for existing_key, existing_match in merged.items():
+            # Try to match based on teams
+            if fuzzy_match_teams(
+                home_match['team1']['name'], home_match['team2']['name'],
+                existing_match['team1']['name'], existing_match['team2']['name'],
+                threshold=80  # High threshold for accuracy
+            ):
+                # Match found - supplement missing data
+                if not existing_match['league'] and home_match.get('league'):
+                    existing_match['league'] = home_match['league']
+                
+                if not existing_match['team1'].get('logo') and home_match['team1'].get('logo'):
+                    existing_match['team1']['logo'] = home_match['team1']['logo']
+                if not existing_match['team2'].get('logo') and home_match['team2'].get('logo'):
+                    existing_match['team2']['logo'] = home_match['team2']['logo']
+                
+                # Only supplement one match per home_match
+                break
+    
     # Process Flashscore FIRST as priority source
     print(f"Merging {len(d4)} matches from Flashscore (PRIORITY)...")
     for match in d4:
@@ -307,6 +334,11 @@ def merge_data(d1, d2, d3, d4):
     print(f"Merging {len(d3)} matches from Streamcenter...")
     for match in d3:
         merge_match(match)
+    
+    # Finally, use flashscore_home to supplement missing data
+    print(f"Supplementing data from Flashscore Home ({len(d5)} matches)...")
+    for match in d5:
+        supplement_from_home(match)
     
     return list(merged.values())
 
@@ -336,16 +368,17 @@ def normalize_output_data(matches):
 
 if __name__ == "__main__":
     # Load data from existing JSON files
-    d1, d2, d3, d4 = load_source_data()
+    d1, d2, d3, d4, d5 = load_source_data()
     
     print(f"\nMerging data from all sources...")
     print(f"  - Bolaloca: {len(d1)} matches")
     print(f"  - Sportsonline: {len(d2)} matches")
     print(f"  - Streamcenter: {len(d3)} matches")
     print(f"  - Flashscore: {len(d4)} matches")
+    print(f"  - Flashscore Home: {len(d5)} matches")
     print(f"  - Total before merge: {len(d1) + len(d2) + len(d3) + len(d4)} matches")
     
-    final_data = merge_data(d1, d2, d3, d4)
+    final_data = merge_data(d1, d2, d3, d4, d5)
     
     # Apply Flashscore formatting to output
     final_data = normalize_output_data(final_data)

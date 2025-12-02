@@ -3,16 +3,32 @@
   "_usage": "Map semua variant tim/liga langsung ke display name. Tidak perlu canonical name lagi!",
   "team_names": {
     "acmilan": "AC Milan",
+    "Milan": "AC Milan",
 
     "afcwimbledon": "AFC Wimbledon",
 
     "ajax": "Ajax",
 
+    "AL Ahli Saudi": "Al Ahli SC",
+
+    "AL Qadisiyah FC": "Al Qadisiya",
+
+    "Al-Duhail (Qat)": "Al-Duhail",
+
+    "Al-Hilal (Sau)": "Al-Hilal",
+
     "alaves": "Alaves",
+    "Deportivo Alavés": "Alaves",
 
     "albacete": "Albacete",
 
+    "Albanie": "Albania",
+
+    "Algérie": "Algeria",
+
     "almeria": "Almeria",
+
+    "America De Cali (Col)": "America de Cali",
 
     "amiens": "Amiens",
 
@@ -22,42 +38,82 @@
 
     "annecy": "Annecy",
 
+    "Arema": "Arema FC",
+
+    "Argentine": "Argentina",
+
     "arminiabielefeld": "Arminia Bielefeld",
 
     "arsenal": "Arsenal",
 
+    "AS Rome": "AS Roma",
     "asroma": "AS Roma",
+    "Roma": "AS Roma",
 
     "astonvilla": "Aston Villa",
 
     "atalanta": "Atalanta",
 
+    "Ath. Bilbao": "Ath Bilbao",
     "athbilbao": "Ath Bilbao",
+    "Athletic Bilbao": "Ath Bilbao",
+    "Athletic Club": "Ath Bilbao",
     "athleticclub": "Ath Bilbao",
 
     "atlmadrid": "Atl. Madrid",
+    "Atlético Madrid": "Atl. Madrid",
 
     "augsburg": "Augsburg",
+
+    "Autriche": "Austria",
 
     "auxerre": "Auxerre",
 
     "avellino": "Avellino",
 
+    "Alkmaar": "AZ Alkmaar",
+    "AZ": "AZ Alkmaar",
     "azalkmaar": "AZ Alkmaar",
 
+    "Azerbaïdjan": "Azerbaijan",
+
     "bmonchengladbach": "B. Monchengladbach",
+    "Borussia M'gladbach": "B. Monchengladbach",
+
+    "Bahia BA": "Bahia",
 
     "barcelona": "Barcelona",
+    "Barcelone": "Barcelona",
 
     "bari": "Bari",
+    "Bari 1908": "Bari",
 
     "barnsley": "Barnsley",
+
+    "İstanbul Başakşehir": "Basaksehir",
+
+    "Bâle": "Basel",
+    "Bâle (Sui)": "Basel",
 
     "bastia": "Bastia",
 
     "bayerleverkusen": "Bayer Leverkusen",
 
+    "Bayern München": "Bayern Munich",
     "bayernmunich": "Bayern Munich",
+
+    "Biélorussie": "Belarus",
+
+    "Belgique": "Belgium",
+
+    "Benfica": "Benfica",
+    "Benfica (Por)": "Benfica",
+    "Benfica Lisbon": "Benfica",
+
+    "Bermudes": "Bermuda",
+
+    "Beşiktaş": "Besiktas",
+    "Beşiktaş (Tur)": "Besiktas",
 
     "betis": "Betis",
 
@@ -69,27 +125,54 @@
 
     "bochum": "Bochum",
 
+    "Bodo/Glimt (Nor)": "Bodo/Glimt",
+    "Bodø / Glimt": "Bodo/Glimt",
+
+    "Bolivie": "Bolivia",
+
     "bologna": "Bologna",
+    "Bologne": "Bologna",
 
     "bolton": "Bolton",
 
+    "Borneo Samarinda": "Borneo",
+
+    "Bosnia & Herzegovina": "Bosnia and Herzegovina",
+    "Bosnie-Herzégovine": "Bosnia and Herzegovina",
+
+    "Botswana": "Botswana",
+
     "boulogne": "Boulogne",
 
+    "AFC Bournemouth": "Bournemouth",
+    "Bournemouth": "Bournemouth",
     "bournemouth": "Bournemouth",
 
     "bradfordcity": "Bradford City",
 
+    "Braga": "Braga",
+    "Braga (Por)": "Braga",
+    "Sporting Braga": "Braga",
+
     "braunschweig": "Braunschweig",
+
+    "Brésil": "Brazil",
 
     "brentford": "Brentford",
 
     "brest": "Brest",
 
     "brighton": "Brighton",
+    "Brighton & Hove Albion": "Brighton",
 
     "bristolcity": "Bristol City",
 
+    "Bulgarie": "Bulgaria",
+
     "burgoscf": "Burgos CF",
+
+    "Buriram (Tha)": "Buriram",
+    "Buriram United": "Buriram",
 
     "burnley": "Burnley",
 
@@ -99,6 +182,10 @@
 
     "cagliari": "Cagliari",
 
+    "Cameroun": "Cameroon",
+
+    "Cap-Vert": "Cape Verde",
+
     "cardiff": "Cardiff",
 
     "carrarese": "Carrarese",
@@ -107,19 +194,38 @@
 
     "catanzaro": "Catanzaro",
 
+    "Ceara SC CE": "Ceara",
+
+    "Celta de Vigo": "Celta Vigo",
     "celtavigo": "Celta Vigo",
+
+    "Celtic": "Celtic",
+    "Celtic (Sco)": "Celtic",
 
     "cesena": "Cesena",
 
     "ceuta": "Ceuta",
 
+    "CFR Cluj": "CFR Cluj",
+    "CFR Cluj (Rou)": "CFR Cluj",
+
     "charlton": "Charlton",
 
     "chelsea": "Chelsea",
 
+    "Chili": "Chile",
+
     "clermont": "Clermont",
 
+    "Club Brugge": "Club Brugge KV",
+
+    "Colombie": "Colombia",
+
     "como": "Como",
+
+    "Comores": "Comoros",
+
+    "RD Congo": "Congo DR",
 
     "cordoba": "Cordoba",
 
@@ -127,23 +233,43 @@
 
     "cremonese": "Cremonese",
 
+    "Croatie": "Croatia",
+
+    "Crvena Zvezda": "Crvena Zvezda",
+    "Étoile Rouge Belgrade": "Crvena Zvezda",
+
     "crystalpalace": "Crystal Palace",
 
     "culturalleonesa": "Cultural Leonesa",
 
+    "Curaçao": "Curacao",
+
+    "Chypre": "Cyprus",
+
+    "République Tchèque": "Czech Republic",
+
     "darmstadt": "Darmstadt",
+
+    "Danemark": "Denmark",
 
     "deplacoruna": "Dep. La Coruna",
 
     "derby": "Derby",
 
+    "Din. Tirana (Alb)": "Dinamo Tirana",
+
     "doncaster": "Doncaster",
 
+    "Borussia Dortmund": "Dortmund",
     "dortmund": "Dortmund",
 
     "dunkerque": "Dunkerque",
 
     "dusseldorf": "Dusseldorf",
+
+    "Equateur": "Ecuador",
+
+    "Egypte": "Egypt",
 
     "eibar": "Eibar",
 
@@ -155,9 +281,17 @@
 
     "empoli": "Empoli",
 
+    "Angleterre": "England",
+
     "entella": "Entella",
 
+    "Envigado FC": "Envigado",
+
+    "Guinée Équatoriale": "Equatoriale Guinea",
+
     "espanyol": "Espanyol",
+
+    "Estonie": "Estonia",
 
     "everton": "Everton",
 
@@ -165,13 +299,38 @@
 
     "exeter": "Exeter",
 
+    "Iles Féroé": "Faroe Islands",
+
+    "København": "FC Copenhagen",
+
+    "Copenhague": "FC Copenhague",
+    "FC Copenhague (Den)": "FC Copenhague",
+
     "fckoln": "FC Koln",
 
+    "Porto": "FC Porto",
+
     "fcvolendam": "FC Volendam",
+    "Volendam": "FC Volendam",
+
+    "Fenerbahce": "Fenerbahce",
+    "Fenerbahce (Tur)": "Fenerbahce",
+    "Fenerbahçe": "Fenerbahce",
+
+    "Ferencváros": "Ferencvaros",
 
     "feyenoord": "Feyenoord",
 
+    "Finlande": "Finland",
+
     "fiorentina": "Fiorentina",
+
+    "Flamengo": "Flamengo RJ",
+    "Flamengo (Bra)": "Flamengo RJ",
+
+    "Fluminense (Bra)": "Fluminense RJ",
+
+    "Ligue 1": "France - Ligue 1",
 
     "freiburg": "Freiburg",
 
@@ -180,16 +339,28 @@
     "fulham": "Fulham",
 
     "gaeagles": "G.A. Eagles",
+    "Go Ahead Eagles": "G.A. Eagles",
+
+    "Gambie": "Gambia",
+
+    "Gangwon (Kor)": "Gangwon",
 
     "genoa": "Genoa",
+
+    "Géorgie": "Georgia",
+
+    "Allemagne": "Germany",
 
     "getafe": "Getafe",
 
     "gijon": "Gijon",
 
     "girona": "Girona",
+    "Gérone": "Girona",
 
     "granadacf": "Granada CF",
+
+    "Grèce": "Greece",
 
     "grenoble": "Grenoble",
 
@@ -197,8 +368,17 @@
 
     "groningen": "Groningen",
 
+    "Guinée": "Guinea",
+
+    "Guinée-Bissau": "Guinea Bissau",
+
     "guingamp": "Guingamp",
 
+    "Haïti": "Haiti",
+
+    "Hajduk Split (Cro)": "Hajduk Split",
+
+    "Hambourg SV": "Hamburger SV",
     "hamburgersv": "Hamburger SV",
 
     "hannover": "Hannover",
@@ -221,19 +401,55 @@
 
     "hull": "Hull",
 
-    "inter": "Inter",
+    "Hongrie": "Hungary",
 
+    "Islande": "Iceland",
+
+    "CA Independiente de La Chorrera": "Independiente",
+
+    "Indonésie": "Indonesia",
+
+    "inter": "Inter",
+    "Internazionale": "Inter",
+
+    "Internacional (Bra)": "Internacional",
+
+    "Ipswich": "Ipswich",
     "ipswich": "Ipswich",
+    "Ipswich Town": "Ipswich",
+
+    "Irlande": "Ireland",
+
+    "Israël": "Israel",
+
+    "Italie": "Italy",
+
+    "Cote d'Ivoire": "Ivory Coast",
+
+    "Jamaique": "Jamaica",
+
+    "Japon": "Japan",
+
+    "Johor Darul Ta'zim": "Johor DT",
+    "Johor DT (Mys)": "Johor DT",
 
     "juvestabia": "Juve Stabia",
 
     "juventus": "Juventus",
 
+    "FC Kairat Almaty": "Kairat Almaty",
+    "Kairat": "Kairat Almaty",
+    "Kairat Almaty (Kaz)": "Kairat Almaty",
+
     "kaiserslautern": "Kaiserslautern",
 
     "karlsruhersc": "Karlsruher SC",
 
+    "Köln": "Koln",
+
     "laspalmas": "Las Palmas",
+
+    "Lettonie": "Latvia",
 
     "laval": "Laval",
 
@@ -246,6 +462,7 @@
     "lecce": "Lecce",
 
     "leeds": "Leeds",
+    "Leeds United": "Leeds",
 
     "leganes": "Leganes",
 
@@ -254,31 +471,50 @@
     "lens": "Lens",
 
     "levante": "Levante",
+    "Levante UD": "Levante",
 
     "leytonorient": "Leyton Orient",
+
+    "Libéria": "Liberia",
+
+    "Libye": "Libya",
 
     "lille": "Lille",
 
     "lincoln": "Lincoln",
 
+    "Lituanie": "Lithuania",
+
+    "Liverpool": "Liverpool",
     "liverpool": "Liverpool",
 
     "lorient": "Lorient",
 
     "luton": "Luton",
 
+    "Luxembourg": "Luxembourg",
+
     "lyon": "Lyon",
+
+    "Machida (Jpn)": "Machida",
 
     "magdeburg": "Magdeburg",
 
     "mainz": "Mainz",
+    "Mainz 05": "Mainz",
+    "Mayence": "Mainz",
 
     "malaga": "Malaga",
 
+    "Malaisie": "Malaysia",
+
     "mallorca": "Mallorca",
+
+    "Malte": "Malta",
 
     "manchestercity": "Manchester City",
 
+    "Manchester United": "Manchester Utd",
     "manchesterutd": "Manchester Utd",
 
     "mansfield": "Mansfield",
@@ -286,10 +522,21 @@
     "mantova": "Mantova",
 
     "marseille": "Marseille",
+    "Olympique Marseille": "Marseille",
+
+    "Mauritanie": "Mauritania",
+
+    "Maurice": "Mauritius",
+
+    "Melbourne City (Aus)": "Melbourne City",
 
     "metz": "Metz",
 
+    "Mexique": "Mexico",
+
     "middlesbrough": "Middlesbrough",
+
+    "Millonarios FC": "Millonarios",
 
     "millwall": "Millwall",
 
@@ -297,33 +544,59 @@
 
     "modena": "Modena",
 
+    "Moldavie": "Moldova",
+
     "monaco": "Monaco",
+
+    "Monténégro": "Montenegro",
 
     "montpellier": "Montpellier",
 
     "monza": "Monza",
 
+    "Maroc": "Morocco",
+
+    "Breda": "NAC Breda",
     "nacbreda": "NAC Breda",
+
+    "Namibie": "Namibia",
 
     "nancy": "Nancy",
 
     "nantes": "Nantes",
 
+    "Naples": "Napoli",
     "napoli": "Napoli",
 
+    "Nashville": "Nashville SC",
+
+    "Pays-Bas": "Netherlands",
+
     "newcastle": "Newcastle",
+    "Newcastle United": "Newcastle",
 
     "nice": "Nice",
 
+    "NEC": "Nijmegen",
     "nijmegen": "Nijmegen",
 
+    "Macédoine du Nord": "North Macedonia",
+
     "northampton": "Northampton",
+
+    "Irlande du Nord": "Northern Ireland",
+
+    "Norvège": "Norway",
 
     "norwich": "Norwich",
 
     "nottingham": "Nottingham",
+    "Nottingham Forest": "Nottingham",
 
     "nurnberg": "Nurnberg",
+
+    "Olympiacos": "Olympiacos Piraeus",
+    "Olympiakos Piraeus": "Olympiacos Piraeus",
 
     "osasuna": "Osasuna",
 
@@ -335,13 +608,24 @@
 
     "padova": "Padova",
 
+    "Paphos": "Pafos",
+
     "palermo": "Palermo",
 
+    "Panathinaikos": "Panathinaikos",
+    "Panathinaikos (Gre)": "Panathinaikos",
+
+    "Paris": "Paris FC",
     "parisfc": "Paris FC",
 
     "parma": "Parma",
+    "Parme": "Parma",
 
     "paufc": "Pau FC",
+
+    "Persebaya Surabaya": "Persebaya",
+
+    "Pérou": "Peru",
 
     "pescara": "Pescara",
 
@@ -351,6 +635,8 @@
 
     "plymouth": "Plymouth",
 
+    "Pologne": "Poland",
+
     "portvale": "Port Vale",
 
     "portsmouth": "Portsmouth",
@@ -359,15 +645,22 @@
 
     "preussenmunster": "Preussen Munster",
 
+    "Paris Saint-Germain": "PSG",
     "psg": "PSG",
 
     "psv": "PSV",
+    "PSV Eindhoven": "PSV",
+
+    "Qarabağ": "Qarabag",
 
     "qpr": "QPR",
+
+    "Real Oviedo": "R. Oviedo",
 
     "racingsantander": "Racing Santander",
 
     "rayovallecano": "Rayo Vallecano",
+    "Vallecano": "Rayo Vallecano",
 
     "rbleipzig": "RB Leipzig",
 
@@ -389,31 +682,90 @@
 
     "rodez": "Rodez",
 
+    "Roumanie": "Romania",
+
     "rotherham": "Rotherham",
+
+    "Union Saint-Gilloise": "Royale Union SG",
+    "Union St.-Gilloise": "Royale Union SG",
 
     "sampdoria": "Sampdoria",
 
+    "Hiroshima (Jpn)": "Sanfrecce Hiroshima",
+
+    "Independiente Santa Fe": "Santa Fe",
+
+    "Sao Tomé-et-Principe": "Sao Tome and Principe",
+    "São Tomé-et-Príncipe": "Sao Tome and Principe",
+
+    "Deportivo Saprissa": "Saprissa",
+
     "sassuolo": "Sassuolo",
 
+    "Arabie Saoudite": "Saudi Arabia",
+
     "schalke": "Schalke",
+
+    "Écosse": "Scotland",
+
+    "Seattle Sounders FC": "Seattle Sounders",
+
+    "Sénégal": "Senegal",
+
+    "Seoul (Kor)": "Seoul",
+
+    "Serbie": "Serbia",
+
+    "Servette": "Servette",
+    "Servette (Sui)": "Servette",
 
     "sevilla": "Sevilla",
 
     "sgdynamodresden": "SG Dynamo Dresden",
 
+    "Al-Ahli Dubai (Uae)": "Shabab Al-Ahli Dubai",
+
+    "Shakhtar (Ukr)": "Shakhtar Donetsk",
+    "Shakhtar Donetsk": "Shakhtar Donetsk",
+
+    "Shanghai Shenhua (Chn)": "Shanghai Shenhua",
+
     "sheffieldutd": "Sheffield Utd",
 
     "sheffieldwed": "Sheffield Wed",
 
+    "Singapour": "Singapore",
+
+    "Fortuna Sittard": "Sittard",
     "sittard": "Sittard",
 
+    "Slavia Praha": "Slavia Prague",
+
+    "Slovaquie": "Slovakia",
+
+    "Slovénie": "Slovenia",
+
+    "Somalie": "Somalia",
+
+    "Afrique du Sud": "South Africa",
+
+    "Corée du Sud": "South Korea",
+
+    "Soudan du Sud": "South Sudan",
+
+    "Southampton": "Southampton",
     "southampton": "Southampton",
+
+    "Espagne": "Spain",
 
     "spartarotterdam": "Sparta Rotterdam",
 
     "spezia": "Spezia",
 
     "stetienne": "St Etienne",
+
+    "St Patrick's": "St. Patricks",
+    "St. Patricks": "St. Patricks",
 
     "stpauli": "St. Pauli",
 
@@ -425,7 +777,12 @@
 
     "strasbourg": "Strasbourg",
 
+    "Sturm Graz": "Sturm Graz",
+    "Sturm Graz (Aut)": "Sturm Graz",
+
     "stuttgart": "Stuttgart",
+
+    "Soudan": "Sudan",
 
     "sudtirol": "Sudtirol",
 
@@ -433,46 +790,82 @@
 
     "swansea": "Swansea",
 
+    "Suède": "Sweden",
+
+    "Suisse": "Switzerland",
+
+    "Syrie": "Syria",
+
     "telstar": "Telstar",
+
+    "Tigres": "Tigres UANL",
 
     "torino": "Torino",
 
     "tottenham": "Tottenham",
+    "Tottenham Hotspur": "Tottenham",
 
     "toulouse": "Toulouse",
 
+    "Tractor (Irn)": "Tractor",
+
+    "Trinité-et-Tobago": "Trinidad and Tobago",
+
     "troyes": "Troyes",
+
+    "Tunisie": "Tunisia",
+
+    "Turquie": "Turkey",
 
     "twente": "Twente",
 
+    "Union Magdalena": "U. Magdalena",
+
+    "Emirats Arabes Unis": "UAE",
+
     "udinese": "Udinese",
+
+    "Ouganda": "Uganda",
 
     "unionberlin": "Union Berlin",
 
+    "Utrecht": "Utrecht",
     "utrecht": "Utrecht",
+    "Utrecht (Ned)": "Utrecht",
 
+    "Ouzbekistan": "Uzbekistan",
+
+    "Valence": "Valencia",
     "valencia": "Valencia",
 
     "valladolid": "Valladolid",
 
     "venezia": "Venezia",
 
+    "Venezuela": "Venezuela",
+
+    "Hellas Vérone": "Verona",
     "verona": "Verona",
 
     "villarreal": "Villarreal",
 
+    "Pays de Galles": "Wales",
+
     "watford": "Watford",
 
+    "Werder Brême": "Werder Bremen",
     "werderbremen": "Werder Bremen",
 
     "westbrom": "West Brom",
 
+    "West Ham United": "West Ham",
     "westham": "West Ham",
 
     "wigan": "Wigan",
 
     "wolfsburg": "Wolfsburg",
 
+    "Wolverhampton Wanderers": "Wolves",
     "wolves": "Wolves",
 
     "wrexham": "Wrexham",
@@ -484,17 +877,50 @@
     "zwolle": "Zwolle"
   },
   "league_names": {
+    "AFC Asian Cup U23 - Qualification - Round 1": "AFC Asian Cup U23 - Qualification",
+    "AFC Asian Cup U23 - Qualification - Round 2": "AFC Asian Cup U23 - Qualification",
+    "International Youth - U23 AFC Championship, Qualification, Group Stage": "AFC Asian Cup U23 - Qualification",
+
+    "Afc Ligue Des Champions": "AFC Champions League Elite",
+    "International Clubs - AFC Champions League Elite, East Region": "AFC Champions League Elite",
+
     "argentina:primerab": "Argentina - Primera B",
 
+    "TorneoLPF": "Argentina - Primera LPF",
+
     "argentina:torneobetano": "Argentina - Torneo Betano",
+
+    "International Clubs - ASEAN Club Championship, Group A": "ASEAN Club Championship",
+    "International Clubs - ASEAN Club Championship, Group B": "ASEAN Club Championship",
+
+    "Brazil - Serie A": "Brazil - Serie A",
+    "Serie A Bresil": "Brazil - Serie A",
+
+    "Brazil - Copa do Nordeste, Knockout stage": "BRAZIL: Copa do Nordeste",
 
     "bulgaria:efbetleague": "Bulgaria - efbet League",
 
     "bulgaria:vtoraliga": "Bulgaria - Vtora liga",
 
+    "UEFA Champions League - League Stage": "Champions League",
+
     "chile:ligadeprimera": "Chile - Liga de Primera",
 
     "colombia:primeraa": "Colombia - Primera A",
+
+    "Colombia - Primera A": "Colombia: Primera A",
+    "Colombia - Primera A, Clausura": "Colombia: Primera A",
+    "Colombia, Primera A, Clausura": "Colombia: Primera A",
+    "Liga Betplay Dimayor": "Colombia: Primera A",
+
+    "International Clubs - CONCACAF Central American Cup, Group A": "CONCACAF Central American Cup",
+    "International Clubs - CONCACAF Central American Cup, Group B": "CONCACAF Central American Cup",
+    "International Clubs - CONCACAF Central American Cup, Group C": "CONCACAF Central American Cup",
+    "International Clubs - CONCACAF Central American Cup, Group D": "CONCACAF Central American Cup",
+
+    "International Clubs - Copa Libertadores": "Copa Libertadores",
+
+    "International Clubs - Copa Sudamericana, Knockout stage": "Copa Sudamericana",
 
     "croatia:hnl": "Croatia - HNL",
 
@@ -504,7 +930,10 @@
 
     "egypt:egyptcup": "Egypt - Egypt Cup",
 
+    "Championship": "England - Championship",
     "england:championship": "England - Championship",
+
+    "Efl Cup": "England - EFL Cup",
 
     "england:leagueone": "England - League One",
 
@@ -513,6 +942,7 @@
     "england:nplpremierdivision": "England - NPL Premier Division",
 
     "england:premierleague": "England - Premier League",
+    "Premier League": "England - Premier League",
 
     "england:premierleaguecup": "England - Premier League Cup",
 
@@ -520,12 +950,20 @@
 
     "ethiopia:premierleague": "Ethiopia - Premier League",
 
+    "EuroBasket - Playoffs": "EuroBasket",
+
+    "Ligue Europa": "Europa League",
+
     "france:ligue1": "France - Ligue 1",
 
     "france:ligue2": "France - Ligue 2",
 
+    "Amical International": "Friendly International",
+    "International - International Friendly Games": "Friendly International",
+
     "germany:2bundesliga": "Germany - 2. Bundesliga",
 
+    "Bundesliga": "Germany - Bundesliga",
     "germany:bundesliga": "Germany - Bundesliga",
 
     "gibraltar:nationalleague": "Gibraltar - National League",
@@ -534,11 +972,13 @@
 
     "hongkong:premierleague": "Hong Kong - Premier League",
 
+    "Indonesia - Liga 1": "Indonesia - Super League",
     "indonesialiga1": "Indonesia - Super League",
 
     "israel:leumitleague": "Israel - Leumit League",
 
     "italy:seriea": "Italy - Serie A",
+    "Serie A": "Italy - Serie A",
 
     "italy:serieb": "Italy - Serie B",
 
@@ -550,12 +990,17 @@
 
     "ivorycoast:ligue1": "Ivory Coast - Ligue 1",
 
+    "International Clubs - Leagues Cup": "Leagues Cup",
+
     "lebanon:premierleague": "Lebanon - Premier League",
 
     "liberia:lfafirstdivision": "Liberia - LFA First Division",
 
+    "Multiplex Coupe du Monde 2026": "Multiplex World Cup 2026",
+
     "netherlands:eerstedivisie": "Netherlands - Eerste Divisie",
 
+    "Eredivisie": "Netherlands - Eredivisie",
     "netherlands:eredivisie": "Netherlands - Eredivisie",
 
     "poland:ekstraklasa": "Poland - Ekstraklasa",
@@ -578,7 +1023,13 @@
 
     "saudiarabia:proleague": "Saudi Arabia - Pro League",
 
+    "Saudi Arabia - Super Cup": "Saudi Arabia - Super Cup",
+    "Saudi Supercup": "Saudi Arabia - Super Cup",
+
     "sierraleone:premierleague": "Sierra Leone - Premier League",
+
+    "LaLiga": "Spain - LaLiga",
+    "Laliga": "Spain - LaLiga",
 
     "spain:laliga": "Spain - LaLiga",
 
@@ -592,8 +1043,14 @@
 
     "turkey:superlig": "Turkey - Super Lig",
 
+    "Champions League": "UEFA Champions League",
+    "Ligue Des Champions": "UEFA Champions League",
+    "UEFA Champions League, Playoff Round": "UEFA Champions League",
+
     "mlb": "USA - MLB",
 
+    "MLS": "USA - MLS",
+    "USA - MLS": "USA - MLS",
     "usa:mls": "USA - MLS",
 
     "nba": "USA - NBA",
@@ -616,6 +1073,29 @@
 
     "world:uefanationsleague": "World - UEFA Nations League",
 
-    "world:worldcup": "World - World Cup"
+    "world:worldcup": "World Cup",
+
+    "International - World Cup Qualification, CONCACAF 3rd round, Group A": "World Cup Qualification",
+    "International - World Cup Qualification, CONCACAF 3rd round, Group B": "World Cup Qualification",
+    "International - World Cup Qualification, CONCACAF 3rd round, Group C": "World Cup Qualification",
+    "Qualif. Cm Afrique": "World Cup Qualification",
+    "Qualif. Cm Amsud": "World Cup Qualification",
+    "Qualif. Cm Asie": "World Cup Qualification",
+    "Qualif. Cm Concacaf": "World Cup Qualification",
+    "Qualif. Cm Europe": "World Cup Qualification",
+    "World Cup - Qualification CAF": "World Cup Qualification",
+    "World Cup - Qualification, Conmebol": "World Cup Qualification",
+    "World Cup - Qualification. Uefa. Group A": "World Cup Qualification",
+    "World Cup - Qualification. Uefa. Group B": "World Cup Qualification",
+    "World Cup - Qualification. Uefa. Group C": "World Cup Qualification",
+    "World Cup - Qualification. Uefa. Group D": "World Cup Qualification",
+    "World Cup - Qualification. Uefa. Group E": "World Cup Qualification",
+    "World Cup - Qualification. Uefa. Group F": "World Cup Qualification",
+    "World Cup - Qualification. Uefa. Group G": "World Cup Qualification",
+    "World Cup - Qualification. Uefa. Group H": "World Cup Qualification",
+    "World Cup - Qualification. Uefa. Group I": "World Cup Qualification",
+    "World Cup - Qualification. Uefa. Group J": "World Cup Qualification",
+    "World Cup - Qualification. Uefa. Group K": "World Cup Qualification",
+    "World Cup - Qualification. Uefa. Group L": "World Cup Qualification"
   }
 }
