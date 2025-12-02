@@ -22,7 +22,8 @@ def scrape_flashscore():
         {"url": "https://www.flashscore.com/football/italy/serie-a/fixtures/", "league": "Italy - Serie A"},
         {"url": "https://www.flashscore.com/football/spain/laliga/fixtures/", "league": "Spain - Laliga"},
         {"url": "https://www.flashscore.com/football/indonesia/super-league/fixtures/", "league": "Indonesia - Super League"},
-        #{"url": "https://www.flashscore.com/basketball/usa/nba/fixtures/", "league": "USA - NBA"},
+        {"url": "https://www.flashscore.com/basketball/usa/nba/fixtures/", "league": "USA - NBA"},
+        {"url": "https://www.flashscore.com/nhl/fixtures/", "league": "USA - NHL"},
     ]
 
     # Set up Chrome options for headless mode

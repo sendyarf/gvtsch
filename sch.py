@@ -5,10 +5,6 @@ import time
 import sys
 import urllib3
 import unicodedata
-import bolaloca
-import sportsonline
-import streamcenter
-import flashscore
 from difflib import SequenceMatcher
 
 # Suppress warnings globally
@@ -237,80 +233,30 @@ def find_matching_entry(match, merged_dict):
     return None
 
 # ============================================
-# SCRAPER & MERGE FUNCTIONS
+# LOAD & MERGE FUNCTIONS
 # ============================================
 
-def get_cached_data(filename, max_age_minutes=60):
-    """Try to load data from local JSON if it's recent enough"""
+def load_json_file(filename):
+    """Load data from a JSON file, returning empty list if not found"""
     if os.path.exists(filename):
         try:
-            file_age = (time.time() - os.path.getmtime(filename)) / 60
-            if file_age < max_age_minutes:
-                print(f"Loading cached data from {filename} ({file_age:.1f} min old)...")
-                with open(filename, 'r', encoding='utf-8') as f:
-                    return json.load(f)
+            with open(filename, 'r', encoding='utf-8') as f:
+                return json.load(f)
         except Exception as e:
-            print(f"Error reading cache {filename}: {e}")
-    return None
+            print(f"Error reading {filename}: {e}")
+            return []
+    else:
+        print(f"File {filename} not found. Returning empty list.")
+        return []
 
-def run_scrapers():
-    force_update = "--force" in sys.argv
-    if force_update:
-        print("Force update detected. Ignoring cache.")
-
-    # Bolaloca
-    data_bolaloca = None
-    if not force_update:
-        data_bolaloca = get_cached_data('bolaloca.json')
-    
-    if data_bolaloca is None:
-        print("Running Bolaloca scraper...")
-        try:
-            data_bolaloca = bolaloca.parse_bolaloca()
-        except Exception as e:
-            print(f"Bolaloca failed: {e}")
-            data_bolaloca = []
-    
-    # Sportsonline
-    data_sportsonline = None
-    if not force_update:
-        data_sportsonline = get_cached_data('sportsonline.json')
-
-    if data_sportsonline is None:
-        print("Running Sportsonline scraper...")
-        try:
-            data_sportsonline = sportsonline.parse_sportsonline()
-        except Exception as e:
-            print(f"Sportsonline failed: {e}")
-            data_sportsonline = []
-    
-    # Streamcenter
-    data_streamcenter = None
-    if not force_update:
-        data_streamcenter = get_cached_data('streamcenter.json')
-
-    if data_streamcenter is None:
-        print("Running Streamcenter scraper...")
-        try:
-            data_streamcenter = streamcenter.parse_streamcenter()
-        except Exception as e:
-            print(f"Streamcenter failed: {e}")
-            data_streamcenter = []
-    
-    # Flashscore
-    data_flashscore = None
-    if not force_update:
-        data_flashscore = get_cached_data('flashscore.json')
-
-    if data_flashscore is None:
-        print("Running Flashscore scraper...")
-        try:
-            data_flashscore = flashscore.scrape_flashscore()
-        except Exception as e:
-            print(f"Flashscore failed: {e}")
-            data_flashscore = []
-    
-    return data_bolaloca, data_sportsonline, data_streamcenter, data_flashscore
+def load_source_data():
+    """Load data from all source JSON files"""
+    print("Loading source data files...")
+    d1 = load_json_file('bolaloca.json')
+    d2 = load_json_file('sportsonline.json')
+    d3 = load_json_file('streamcenter.json')
+    d4 = load_json_file('flashscore.json')
+    return d1, d2, d3, d4
 
 def merge_data(d1, d2, d3, d4):
     """
@@ -389,19 +335,8 @@ def normalize_output_data(matches):
 # ============================================
 
 if __name__ == "__main__":
-    d1, d2, d3, d4 = run_scrapers()
-    
-    # Save individual files
-    print("\nSaving individual source files...")
-    with open('bolaloca.json', 'w', encoding='utf-8') as f:
-        json.dump(d1, f, indent=2, ensure_ascii=False)
-    with open('sportsonline.json', 'w', encoding='utf-8') as f:
-        json.dump(d2, f, indent=2, ensure_ascii=False)
-    with open('streamcenter.json', 'w', encoding='utf-8') as f:
-        json.dump(d3, f, indent=2, ensure_ascii=False)
-    with open('flashscore.json', 'w', encoding='utf-8') as f:
-        json.dump(d4, f, indent=2, ensure_ascii=False)
-    
+    # Load data from existing JSON files
+    d1, d2, d3, d4 = load_source_data()
     
     print(f"\nMerging data from all sources...")
     print(f"  - Bolaloca: {len(d1)} matches")
