@@ -24,10 +24,10 @@ jobs:
           pip install requests pytz
 
       - name: Run Streamcenter Scraper
-        run: python script/gvtsch/streamcenter.py
+        run: python streamcenter.py
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update streamcenter.json"
-          file_pattern: "script/gvtsch/streamcenter.json"
+          file_pattern: "streamcenter.json"

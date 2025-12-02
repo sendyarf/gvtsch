@@ -41,10 +41,10 @@ jobs:
           pip install selenium webdriver-manager python-dateutil
 
       - name: Run Flashscore Scraper
-        run: python script/gvtsch/flashscore.py
+        run: python flashscore.py
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update flashscore.json"
-          file_pattern: "script/gvtsch/flashscore.json"
+          file_pattern: "flashscore.json"

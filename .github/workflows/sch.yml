@@ -24,10 +24,10 @@ jobs:
           pip install requests
 
       - name: Run Schedule Merger
-        run: python script/gvtsch/sch.py
+        run: python sch.py
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update sch.json"
-          file_pattern: "script/gvtsch/sch.json"
+          file_pattern: "sch.json"

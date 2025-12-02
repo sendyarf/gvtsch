@@ -24,10 +24,10 @@ jobs:
           pip install requests pytz
 
       - name: Run Sportsonline Scraper
-        run: python script/gvtsch/sportsonline.py
+        run: python sportsonline.py
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update sportsonline.json"
-          file_pattern: "script/gvtsch/sportsonline.json"
+          file_pattern: "sportsonline.json"
