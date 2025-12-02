@@ -11,32 +11,6 @@ from difflib import SequenceMatcher
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # ============================================
-# MANUAL MAPPING DICTIONARIES
-# ============================================
-
-def load_manual_mapping():
-    """
-    Load manual mapping from external JSON file.
-    Falls back to empty dictionaries if file not found.
-    """
-    try:
-        with open('manual_mapping.json', 'r', encoding='utf-8') as f:
-            mapping_data = json.load(f)
-            return (
-                mapping_data.get('team_names', {}),
-                mapping_data.get('league_names', {})
-            )
-    except FileNotFoundError:
-        print("⚠️  Warning: manual_mapping.json not found. Using empty aliases.")
-        return {}, {}
-    except json.JSONDecodeError as e:
-        print(f"⚠️  Warning: Error parsing manual_mapping.json: {e}")
-        return {}, {}
-
-# Load mapping at module level
-TEAM_NAMES, LEAGUE_NAMES = load_manual_mapping()
-
-# ============================================
 # NORMALIZATION FUNCTIONS
 # ============================================
 
@@ -54,11 +28,42 @@ def normalize_text(text):
     text = re.sub(r'[^a-z0-9]', '', text)
     return text
 
+# ============================================
+# MANUAL MAPPING DICTIONARIES
+# ============================================
+
+def load_manual_mapping():
+    """
+    Load manual mapping from external JSON file.
+    Falls back to empty dictionaries if file not found.
+    """
+    try:
+        with open('manual_mapping.json', 'r', encoding='utf-8') as f:
+            mapping_data = json.load(f)
+            
+            raw_teams = mapping_data.get('team_names', {})
+            raw_leagues = mapping_data.get('league_names', {})
+            
+            # Normalize keys
+            norm_teams = {normalize_text(k): v for k, v in raw_teams.items() if k}
+            norm_leagues = {normalize_text(k): v for k, v in raw_leagues.items() if k}
+            
+            return norm_teams, norm_leagues
+            
+    except FileNotFoundError:
+        print("⚠️  Warning: manual_mapping.json not found. Using empty aliases.")
+        return {}, {}
+    except json.JSONDecodeError as e:
+        print(f"⚠️  Warning: Error parsing manual_mapping.json: {e}")
+        return {}, {}
+
+# Load mapping at module level
+TEAM_NAMES, LEAGUE_NAMES = load_manual_mapping()
+
 def normalize_team_name(name):
     """
     Normalize team name for matching purposes.
     First tries to get display name from mapping, then normalizes it.
-    This ensures variants map to the same normalized value.
     """
     normalized = normalize_text(name)
     # If there's a mapping, use the display name for normalization
@@ -69,25 +74,18 @@ def normalize_team_name(name):
 def normalize_league_name(name):
     """
     Normalize league name for matching purposes.
-    First tries to get display name from mapping, then normalizes it.
     """
     normalized = normalize_text(name)
-    # If there's a mapping, use the display name for normalization
     display_name = LEAGUE_NAMES.get(normalized, name)
-    # Normalize the result for matching
     return normalize_text(display_name)
 
 def get_display_team_name(name):
-    """
-    Get display name for team. Returns mapped name if found, original if not.
-    """
+    """Get display name for team."""
     normalized = normalize_text(name)
     return TEAM_NAMES.get(normalized, name)
 
 def get_display_league_name(name):
-    """
-    Get display name for league. Returns mapped name if found, title case original if not.
-    """
+    """Get display name for league."""
     normalized = normalize_text(name)
     if normalized in LEAGUE_NAMES:
         return LEAGUE_NAMES[normalized]
@@ -106,24 +104,20 @@ def calculate_similarity(str1, str2):
 def fuzzy_match_teams(team1_a, team2_a, team1_b, team2_b, threshold=85):
     """
     Check if two team pairs match using fuzzy matching
-    Handles both normal and reversed team order
-    Returns True if teams are similar enough
     """
-    # Normalize teams
     t1a = normalize_team_name(team1_a)
     t2a = normalize_team_name(team2_a)
     t1b = normalize_team_name(team1_b)
     t2b = normalize_team_name(team2_b)
     
-    # Check direct match (Team1A vs Team1B AND Team2A vs Team2B)
+    # Direct match
     sim1 = calculate_similarity(t1a, t1b)
     sim2 = calculate_similarity(t2a, t2b)
     
     if sim1 >= threshold and sim2 >= threshold:
         return True
     
-    # Check reversed match (Team1A vs Team2B AND Team2A vs Team1B)
-    # This handles cases like "Miami vs LA Clippers" matching "LA Clippers vs Miami"
+    # Reversed match
     sim1_rev = calculate_similarity(t1a, t2b)
     sim2_rev = calculate_similarity(t2a, t1b)
     
@@ -137,10 +131,7 @@ def fuzzy_match_teams(team1_a, team2_a, team1_b, team2_b, threshold=85):
 # ============================================
 
 def create_composite_key(match):
-    """
-    Create a composite key using multiple fields
-    Priority: date + time + league + sorted teams
-    """
+    """Create a composite key using multiple fields"""
     date = match.get('kickoff_date', '')
     time = match.get('kickoff_time', '')
     league = normalize_league_name(match.get('league', ''))
@@ -148,52 +139,86 @@ def create_composite_key(match):
     team1 = normalize_team_name(match['team1']['name'])
     team2 = normalize_team_name(match['team2']['name'])
     
-    # Sort teams to handle reversed matches
     teams = sorted([team1, team2])
     teams_key = '-'.join(teams)
     
-    # Combine all available fields
     key_parts = []
-    if date:
-        key_parts.append(date)
-    if time:
-        key_parts.append(time)
-    if league:
-        key_parts.append(league)
+    if date: key_parts.append(date)
+    if time: key_parts.append(time)
+    if league: key_parts.append(league)
     key_parts.append(teams_key)
     
     return '|'.join(key_parts)
 
-def create_fallback_key(match):
+# ============================================
+# DATA ENRICHMENT FUNCTION (NEW)
+# ============================================
+
+def enrich_with_flashscore_home(matches, home_data):
     """
-    Create a fallback key using only teams
-    Used when date/time/league might be missing
+    Fill missing data in matches using flashscore_home.json.
+    Matches primarily on Team Names since dates/times might be missing in home_data.
     """
-    team1 = normalize_team_name(match['team1']['name'])
-    team2 = normalize_team_name(match['team2']['name'])
-    teams = sorted([team1, team2])
-    return '-'.join(teams)
+    print("\nEnriching data using flashscore_home.json...")
+    
+    # Pre-process home_data into a dictionary for faster lookup
+    # Key: sorted normalized team names
+    home_lookup = {}
+    for item in home_data:
+        t1 = normalize_team_name(item['team1']['name'])
+        t2 = normalize_team_name(item['team2']['name'])
+        if t1 and t2:
+            teams_key = '-'.join(sorted([t1, t2]))
+            home_lookup[teams_key] = item
+
+    enriched_count = 0
+
+    for match in matches:
+        # Create lookup key for current match
+        t1 = normalize_team_name(match['team1']['name'])
+        t2 = normalize_team_name(match['team2']['name'])
+        teams_key = '-'.join(sorted([t1, t2]))
+
+        # Check if we have reference data
+        if teams_key in home_lookup:
+            ref_data = home_lookup[teams_key]
+            updated = False
+
+            # 1. Fill League if missing or if ref has better data
+            if not match.get('league') and ref_data.get('league'):
+                match['league'] = ref_data['league']
+                updated = True
+            
+            # 2. Fill Logos if missing
+            if not match['team1'].get('logo') and ref_data['team1'].get('logo'):
+                match['team1']['logo'] = ref_data['team1']['logo']
+                updated = True
+            
+            if not match['team2'].get('logo') and ref_data['team2'].get('logo'):
+                match['team2']['logo'] = ref_data['team2']['logo']
+                updated = True
+                
+            # 3. Fill Kickoff Time if missing
+            if not match.get('kickoff_time') and ref_data.get('kickoff_time'):
+                match['kickoff_time'] = ref_data['kickoff_time']
+                updated = True
+
+            if updated:
+                enriched_count += 1
+    
+    print(f"✅ Enriched {enriched_count} matches with additional metadata.")
+    return matches
 
 # ============================================
-# ADVANCED MATCHING FUNCTION
+# MATCHING & MERGING LOGIC
 # ============================================
 
 def find_matching_entry(match, merged_dict):
-    """
-    Find if a match already exists in merged dictionary
-    Returns the key if found, None otherwise
-    
-    Matching Strategy:
-    1. Exact composite key match (date+time+league+teams)
-    2. Fuzzy matching on teams with same date/time
-    3. Fuzzy matching on teams only (if date/time vary slightly)
-    """
-    # Level 1: Try composite key (most accurate)
+    """Find if a match already exists in merged dictionary"""
     composite_key = create_composite_key(match)
     if composite_key in merged_dict:
         return composite_key
     
-    # Level 2: Try fuzzy matching with date/time constraint
     match_date = match.get('kickoff_date', '')
     match_time = match.get('kickoff_time', '')
     
@@ -201,18 +226,17 @@ def find_matching_entry(match, merged_dict):
         existing_date = existing_match.get('kickoff_date', '')
         existing_time = existing_match.get('kickoff_time', '')
         
-        # If date and time match, use fuzzy matching on teams
+        # Strict Date/Time match -> Fuzzy Team match
         if match_date == existing_date and match_time == existing_time:
             if fuzzy_match_teams(
                 match['team1']['name'], match['team2']['name'],
                 existing_match['team1']['name'], existing_match['team2']['name'],
-                threshold=50  # Lowered threshold for more flexible matching
+                threshold=50
             ):
                 return existing_key
         
-        # Level 3: Fuzzy match on teams only (if time differs by max 15 min)
+        # Fuzzy Time match (±15 mins) -> Fuzzy Team match
         if match_date == existing_date:
-            # Check if time is within 15 minutes
             if match_time and existing_time:
                 try:
                     from datetime import datetime
@@ -224,17 +248,13 @@ def find_matching_entry(match, merged_dict):
                         if fuzzy_match_teams(
                             match['team1']['name'], match['team2']['name'],
                             existing_match['team1']['name'], existing_match['team2']['name'],
-                            threshold=80  # Threshold for time-fuzzy matching (±15 min)
+                            threshold=80
                         ):
                             return existing_key
                 except:
                     pass
     
     return None
-
-# ============================================
-# LOAD & MERGE FUNCTIONS
-# ============================================
 
 def load_json_file(filename):
     """Load data from a JSON file, returning empty list if not found"""
@@ -256,19 +276,15 @@ def load_source_data():
     d2 = load_json_file('sportsonline.json')
     d3 = load_json_file('streamcenter.json')
     d4 = load_json_file('flashscore.json')
-    d5 = load_json_file('flashscore_home.json')
-    return d1, d2, d3, d4, d5
+    # Load the new home file
+    d_home = load_json_file('flashscore_home.json')
+    return d1, d2, d3, d4, d_home
 
-def merge_data(d1, d2, d3, d4, d5):
-    """
-    Advanced merge using composite keys and fuzzy matching
-    Priority: Flashscore first (d4), then others
-    d5 (flashscore_home) is used to supplement missing data only
-    """
+def merge_data(d1, d2, d3, d4):
+    """Merge streaming sources"""
     merged = {}
     
     def merge_match(match):
-        # Try to find existing match
         existing_key = find_matching_entry(match, merged)
         
         if existing_key:
@@ -279,87 +295,42 @@ def merge_data(d1, d2, d3, d4, d5):
                     merged[existing_key]['servers'].append(srv)
                     existing_urls.add(srv['url'])
             
-            # Update missing metadata
+            # Retain non-empty metadata
             if not merged[existing_key]['league'] and match['league']:
                 merged[existing_key]['league'] = match['league']
-            
             if not merged[existing_key]['team1'].get('logo') and match['team1'].get('logo'):
                 merged[existing_key]['team1']['logo'] = match['team1']['logo']
             if not merged[existing_key]['team2'].get('logo') and match['team2'].get('logo'):
                 merged[existing_key]['team2']['logo'] = match['team2']['logo']
         else:
-            # New match - create new entry
             new_key = create_composite_key(match)
             merged[new_key] = match
     
-    def supplement_from_home(home_match):
-        """Use flashscore_home data to fill in missing logos and league names"""
-        # Match based on team names (with fuzzy matching) since flashscore_home lacks kickoff_date
-        home_team1 = normalize_team_name(home_match['team1']['name'])
-        home_team2 = normalize_team_name(home_match['team2']['name'])
-        
-        for existing_key, existing_match in merged.items():
-            # Try to match based on teams
-            if fuzzy_match_teams(
-                home_match['team1']['name'], home_match['team2']['name'],
-                existing_match['team1']['name'], existing_match['team2']['name'],
-                threshold=80  # High threshold for accuracy
-            ):
-                # Match found - supplement missing data
-                if not existing_match['league'] and home_match.get('league'):
-                    existing_match['league'] = home_match['league']
-                
-                if not existing_match['team1'].get('logo') and home_match['team1'].get('logo'):
-                    existing_match['team1']['logo'] = home_match['team1']['logo']
-                if not existing_match['team2'].get('logo') and home_match['team2'].get('logo'):
-                    existing_match['team2']['logo'] = home_match['team2']['logo']
-                
-                # Only supplement one match per home_match
-                break
-    
-    # Process Flashscore FIRST as priority source
     print(f"Merging {len(d4)} matches from Flashscore (PRIORITY)...")
-    for match in d4:
-        merge_match(match)
+    for match in d4: merge_match(match)
     
-    # Then process other sources
     print(f"Merging {len(d1)} matches from Bolaloca...")
-    for match in d1:
-        merge_match(match)
+    for match in d1: merge_match(match)
     
     print(f"Merging {len(d2)} matches from Sportsonline...")
-    for match in d2:
-        merge_match(match)
+    for match in d2: merge_match(match)
     
     print(f"Merging {len(d3)} matches from Streamcenter...")
-    for match in d3:
-        merge_match(match)
-    
-    # Finally, use flashscore_home to supplement missing data
-    print(f"Supplementing data from Flashscore Home ({len(d5)} matches)...")
-    for match in d5:
-        supplement_from_home(match)
+    for match in d3: merge_match(match)
     
     return list(merged.values())
 
 def normalize_output_data(matches):
-    """
-    Normalize team and league names in output data to Flashscore format
-    """
+    """Normalize team and league names in output data"""
     print("\nNormalizing output to Flashscore format...")
     
     for match in matches:
-        # Apply Flashscore display formatting
         match['team1']['name'] = get_display_team_name(match['team1']['name'])
-        
         if match['team2']['name']:
             match['team2']['name'] = get_display_team_name(match['team2']['name'])
-        
-        # Apply league formatting
         if match.get('league'):
             match['league'] = get_display_league_name(match.get('league', ''))
     
-    print(f"✅ Applied Flashscore formatting to {len(matches)} matches")
     return matches
 
 # ============================================
@@ -367,20 +338,23 @@ def normalize_output_data(matches):
 # ============================================
 
 if __name__ == "__main__":
-    # Load data from existing JSON files
-    d1, d2, d3, d4, d5 = load_source_data()
+    # Load data including flashscore_home
+    d1, d2, d3, d4, d_home = load_source_data()
     
     print(f"\nMerging data from all sources...")
-    print(f"  - Bolaloca: {len(d1)} matches")
-    print(f"  - Sportsonline: {len(d2)} matches")
-    print(f"  - Streamcenter: {len(d3)} matches")
-    print(f"  - Flashscore: {len(d4)} matches")
-    print(f"  - Flashscore Home: {len(d5)} matches")
-    print(f"  - Total before merge: {len(d1) + len(d2) + len(d3) + len(d4)} matches")
+    print(f"  - Bolaloca: {len(d1)}")
+    print(f"  - Sportsonline: {len(d2)}")
+    print(f"  - Streamcenter: {len(d3)}")
+    print(f"  - Flashscore (Source): {len(d4)}")
+    print(f"  - Flashscore Home (Enrichment): {len(d_home)}")
     
-    final_data = merge_data(d1, d2, d3, d4, d5)
+    # 1. Merge Streaming Sources
+    final_data = merge_data(d1, d2, d3, d4)
     
-    # Apply Flashscore formatting to output
+    # 2. Enrich with Flashscore Home Data (Fill empty logos/time)
+    final_data = enrich_with_flashscore_home(final_data, d_home)
+    
+    # 3. Final Name Normalization
     final_data = normalize_output_data(final_data)
     
     with open('sch.json', 'w', encoding='utf-8') as f:
@@ -388,4 +362,3 @@ if __name__ == "__main__":
     
     print(f"\n✅ Successfully generated sch.json")
     print(f"  - Final match count: {len(final_data)} matches")
-    print(f"  - Duplicates removed: {len(d1) + len(d2) + len(d3) + len(d4) - len(final_data)} matches")

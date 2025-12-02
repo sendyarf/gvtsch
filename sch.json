@@ -241,7 +241,12 @@
     "match_date": "2025-12-04",
     "match_time": "02:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Leeds-Chelsea",
@@ -303,7 +308,7 @@
   },
   {
     "id": "Barcelona-AtlMadrid",
-    "league": "Spain - Laliga",
+    "league": "Spain - LaLiga",
     "team1": {
       "name": "Barcelona",
       "logo": "https://static.flashscore.com/res/image/data/jZ8dSYS0-fcDVLdrL.png"
@@ -366,7 +371,7 @@
   },
   {
     "id": "AthBilbao-RealMadrid",
-    "league": "Spain - Laliga",
+    "league": "Spain - LaLiga",
     "team1": {
       "name": "Ath Bilbao",
       "logo": "https://static.flashscore.com/res/image/data/GUtNYAWH-vJb36ZBF.png"
@@ -405,14 +410,14 @@
   },
   {
     "id": "Maroc-Comores",
-    "league": "Coupe Arabe",
+    "league": "World - FIFA Arab Cup",
     "team1": {
-      "name": "Maroc",
-      "logo": ""
+      "name": "Morocco",
+      "logo": "https://static.flashscore.com/res/image/data/r18xjQkC-hOurGDLS.png"
     },
     "team2": {
-      "name": "Comores",
-      "logo": ""
+      "name": "Comoros",
+      "logo": "https://static.flashscore.com/res/image/data/ClQfZ2oe-xlL4vXdH.png"
     },
     "kickoff_date": "2025-12-02",
     "kickoff_time": "19:00",
@@ -440,14 +445,14 @@
   },
   {
     "id": "Ajax-Groningen",
-    "league": "Eredivisie",
+    "league": "Netherlands - Eredivisie",
     "team1": {
       "name": "Ajax",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/hEQxyYA6-bZZPiwAI.png"
     },
     "team2": {
       "name": "Groningen",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/AJOIh8jT-E5fitKGe.png"
     },
     "kickoff_date": "2025-12-02",
     "kickoff_time": "20:30",
@@ -463,14 +468,14 @@
   },
   {
     "id": "Egypte-Koweit",
-    "league": "Coupe Arabe",
+    "league": "World - FIFA Arab Cup",
     "team1": {
-      "name": "Egypte",
-      "logo": ""
+      "name": "Egypt",
+      "logo": "https://static.flashscore.com/res/image/data/SKagcEU0-j9fRtEHh.png"
     },
     "team2": {
-      "name": "Koweit",
-      "logo": ""
+      "name": "Kuwait",
+      "logo": "https://static.flashscore.com/res/image/data/2TRYth96-2ybyvrpo.png"
     },
     "kickoff_date": "2025-12-02",
     "kickoff_time": "21:30",
@@ -494,9 +499,9 @@
   },
   {
     "id": "ArabieSaoudite-Oman",
-    "league": "Coupe Arabe",
+    "league": "World - FIFA Arab Cup",
     "team1": {
-      "name": "Arabie Saoudite",
+      "name": "Saudi Arabia",
       "logo": ""
     },
     "team2": {
@@ -512,12 +517,16 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=46",
         "label": "CH-AE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
       }
     ]
   },
   {
     "id": "BMonchengladbach-StPauli",
-    "league": "Dfb Pokal",
+    "league": "Germany - DFB Pokal",
     "team1": {
       "name": "B. Monchengladbach",
       "logo": ""
@@ -548,7 +557,7 @@
   },
   {
     "id": "HerthaBerlin-Kaiserslautern",
-    "league": "Dfb Pokal",
+    "league": "Germany - DFB Pokal",
     "team1": {
       "name": "Hertha Berlin",
       "logo": ""
@@ -583,7 +592,7 @@
   },
   {
     "id": "Ebro-Osasuna",
-    "league": "Coupe Du Roi",
+    "league": "Spain - Copa del Rey",
     "team1": {
       "name": "Ebro",
       "logo": ""
@@ -606,13 +615,13 @@
   },
   {
     "id": "Numancia-Majorque",
-    "league": "Coupe Du Roi",
+    "league": "Spain - Copa del Rey",
     "team1": {
       "name": "Numancia",
       "logo": ""
     },
     "team2": {
-      "name": "Majorque",
+      "name": "Mallorca",
       "logo": ""
     },
     "kickoff_date": "2025-12-03",
@@ -629,7 +638,7 @@
   },
   {
     "id": "Portugalete-Alaves",
-    "league": "Coupe Du Roi",
+    "league": "Spain - Copa del Rey",
     "team1": {
       "name": "Portugalete",
       "logo": ""
@@ -652,7 +661,7 @@
   },
   {
     "id": "RacingClubFerrol-Huesca",
-    "league": "Coupe Du Roi",
+    "league": "Spain - Copa del Rey",
     "team1": {
       "name": "Racing Club Ferrol",
       "logo": ""
@@ -675,13 +684,13 @@
   },
   {
     "id": "Dender-StandardLige",
-    "league": "Coupe De Belgique",
+    "league": "Belgium - Belgian Cup",
     "team1": {
       "name": "Dender",
       "logo": ""
     },
     "team2": {
-      "name": "Standard Liège",
+      "name": "St. Liege",
       "logo": ""
     },
     "kickoff_date": "2025-12-03",
@@ -698,7 +707,7 @@
   },
   {
     "id": "Blackburn-Ipswich",
-    "league": "Championship",
+    "league": "England - Championship",
     "team1": {
       "name": "Blackburn",
       "logo": ""
@@ -721,7 +730,7 @@
   },
   {
     "id": "Juventus-Udinese",
-    "league": "Coppa Italia",
+    "league": "Italy - Coppa Italia",
     "team1": {
       "name": "Juventus",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
@@ -772,7 +781,7 @@
   },
   {
     "id": "Navalcarnero-Getafe",
-    "league": "Coupe Du Roi",
+    "league": "Spain - Copa del Rey",
     "team1": {
       "name": "Navalcarnero",
       "logo": ""
@@ -795,7 +804,7 @@
   },
   {
     "id": "Dortmund-BayerLeverkusen",
-    "league": "Dfb Pokal",
+    "league": "Germany - DFB Pokal",
     "team1": {
       "name": "Dortmund",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
@@ -850,7 +859,7 @@
   },
   {
     "id": "RBLeipzig-Magdeburg",
-    "league": "Dfb Pokal",
+    "league": "Germany - DFB Pokal",
     "team1": {
       "name": "RB Leipzig",
       "logo": ""
@@ -881,7 +890,7 @@
   },
   {
     "id": "UDeChile-Coquimbo",
-    "league": "Campeonato Itaú Chile",
+    "league": "Chile - Liga de Primera",
     "team1": {
       "name": "U. De Chile",
       "logo": ""
@@ -904,7 +913,7 @@
   },
   {
     "id": "Vasco-Mirassol",
-    "league": "Serie A Bresil",
+    "league": "Brazil - Serie A Betano",
     "team1": {
       "name": "Vasco",
       "logo": ""
@@ -931,7 +940,7 @@
   },
   {
     "id": "CuencaJuniors-UCatolica",
-    "league": "Copa Ecuador",
+    "league": "Ecuador - Copa Ecuador",
     "team1": {
       "name": "Cuenca Juniors",
       "logo": ""
@@ -1151,7 +1160,7 @@
   },
   {
     "id": "Gremio-Fluminense",
-    "league": "Serie A Bresil",
+    "league": "Brazil - Serie A Betano",
     "team1": {
       "name": "Gremio",
       "logo": ""
@@ -1174,13 +1183,13 @@
   },
   {
     "id": "SportingCristal-ALima",
-    "league": "Liga 1 Te Apuesto",
+    "league": "Peru - Liga 1",
     "team1": {
       "name": "Sporting Cristal",
       "logo": ""
     },
     "team2": {
-      "name": "A. Lima",
+      "name": "Alianza Lima",
       "logo": ""
     },
     "kickoff_date": "2025-12-03",
@@ -1460,14 +1469,14 @@
   },
   {
     "id": "RacingClub-Tigre",
-    "league": "",
+    "league": "Argentina - Torneo Betano - Clausura - Play Offs",
     "team1": {
       "name": "Racing Club",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/Wp6MmpQq-OCiVKiPK.png"
     },
     "team2": {
       "name": "Tigre",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/EgYDLGoe-ENHpchZ2.png"
     },
     "kickoff_date": "2025-12-08",
     "kickoff_time": "07:30",
@@ -1591,14 +1600,14 @@
   },
   {
     "id": "Keirengc-Kayserispor",
-    "league": "",
+    "league": "Turkey - Turkish Cup - Qualification",
     "team1": {
       "name": "Keçiörengücü",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/QkiiiG8k-WnYupC54.png"
     },
     "team2": {
       "name": "Kayserispor",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/UVNRzET0-Y99esCPN.png"
     },
     "kickoff_date": "2025-12-02",
     "kickoff_time": "19:30",
@@ -1637,14 +1646,14 @@
   },
   {
     "id": "Rizespor-Pendikspor",
-    "league": "",
+    "league": "Turkey - Turkish Cup - Qualification",
     "team1": {
       "name": "Rizespor",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/W4mOfm86-rZkRF8yE.png"
     },
     "team2": {
       "name": "Pendikspor",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/f7YPpTjT-MeaGzzpG.png"
     },
     "kickoff_date": "2025-12-02",
     "kickoff_time": "22:00",
@@ -1709,29 +1718,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br6",
         "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "SaudiArabia-Oman",
-    "league": "",
-    "team1": {
-      "name": "Saudi Arabia",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Oman",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-03",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-03",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-1"
       }
     ]
   },
@@ -1889,7 +1875,7 @@
       "logo": ""
     },
     "team2": {
-      "name": "Olympiakos Piraeus",
+      "name": "Olympiacos Piraeus",
       "logo": ""
     },
     "kickoff_date": "2025-12-03",
@@ -2224,29 +2210,6 @@
     ]
   },
   {
-    "id": "WolverhamptonWanderers-NottinghamForest",
-    "league": "",
-    "team1": {
-      "name": "Wolverhampton Wanderers",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Nottingham Forest",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-04",
-    "kickoff_time": "02:30",
-    "match_date": "2025-12-04",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd10",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
     "id": "UnionBerlin-BayernMnchen",
     "league": "",
     "team1": {
@@ -2254,7 +2217,7 @@
       "logo": ""
     },
     "team2": {
-      "name": "Bayern München",
+      "name": "Bayern Munich",
       "logo": ""
     },
     "kickoff_date": "2025-12-04",
@@ -2350,7 +2313,7 @@
     "id": "Internazionale-Venezia",
     "league": "Football",
     "team1": {
-      "name": "Internazionale",
+      "name": "Inter",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
     },
     "team2": {
@@ -2550,7 +2513,7 @@
     "id": "Flamengo-Cear",
     "league": "",
     "team1": {
-      "name": "Flamengo",
+      "name": "Flamengo RJ",
       "logo": ""
     },
     "team2": {
