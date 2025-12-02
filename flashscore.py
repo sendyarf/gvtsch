@@ -94,10 +94,18 @@ def scrape_flashscore():
                     # Home team
                     home_participant = match.find_element(By.CLASS_NAME, "event__homeParticipant")
                     home_name = home_participant.find_element(By.CSS_SELECTOR, "span.wcl-name_jjfMf").text
+                    try:
+                        home_logo = home_participant.find_element(By.TAG_NAME, "img").get_attribute("src")
+                    except NoSuchElementException:
+                        home_logo = ""
 
                     # Away team
                     away_participant = match.find_element(By.CLASS_NAME, "event__awayParticipant")
                     away_name = away_participant.find_element(By.CSS_SELECTOR, "span.wcl-name_jjfMf").text
+                    try:
+                        away_logo = away_participant.find_element(By.TAG_NAME, "img").get_attribute("src")
+                    except NoSuchElementException:
+                        away_logo = ""
 
                     # Time and date
                     time_div = match.find_element(By.CLASS_NAME, "event__time")
@@ -149,10 +157,12 @@ def scrape_flashscore():
                                 "id": match_id,
                                 "league": league_name,
                                 "team1": {
-                                    "name": home_name
+                                    "name": home_name,
+                                    "logo": home_logo
                                 },
                                 "team2": {
-                                    "name": away_name
+                                    "name": away_name,
+                                    "logo": away_logo
                                 },
                                 "kickoff_date": kickoff_date,
                                 "kickoff_time": kickoff_time,
