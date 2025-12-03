@@ -277,6 +277,27 @@ def find_matching_entry(match, merged_dict):
                         return existing_key
             except:
                 pass
+
+        # NEW: Match by Date + Strong Team Match (Relaxed Time)
+        # Handles cases with timezone differences (up to 3 hours) or reversed teams
+        if match_date and existing_date and match_date == existing_date:
+             if match_time and existing_time:
+                try:
+                    from datetime import datetime
+                    t1 = datetime.strptime(match_time, "%H:%M")
+                    t2 = datetime.strptime(existing_time, "%H:%M")
+                    diff_minutes = abs((t1 - t2).total_seconds() / 60)
+                    
+                    # Allow up to 3 hours difference if teams match strongly
+                    if diff_minutes <= 180:
+                        if fuzzy_match_teams(
+                            match['team1']['name'], match['team2']['name'],
+                            existing_match['team1']['name'], existing_match['team2']['name'],
+                            threshold=85
+                        ):
+                            return existing_key
+                except:
+                    pass
     
     return None
 
