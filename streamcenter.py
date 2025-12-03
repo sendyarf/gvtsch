@@ -99,8 +99,8 @@ def parse_streamcenter():
         match_data = {
             "id": id_str,
             "league": league, 
-            "team1": {"name": team1, "logo": item.get('logoTeam1', '')},
-            "team2": {"name": team2, "logo": item.get('logoTeam2', '')},
+            "team1": {"name": team1, "logo": item.get('logoTeam2', '')},
+            "team2": {"name": team2, "logo": item.get('logoTeam1', '')},
             "kickoff_date": kickoff_date,
             "kickoff_time": kickoff_time,
             "match_date": kickoff_date,

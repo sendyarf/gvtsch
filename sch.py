@@ -156,10 +156,10 @@ def create_composite_key(match):
 
 def enrich_with_flashscore_home(matches, home_data):
     """
-    Fill missing data in matches using flashscore_home.json.
-    Matches primarily on Team Names since dates/times might be missing in home_data.
+    Fill missing data and prioritize logos using Flashscore data.
+    Matches primarily on Team Names.
     """
-    print("\nEnriching data using flashscore_home.json...")
+    print("\nEnriching data using Flashscore data...")
     
     # Pre-process home_data into a dictionary for faster lookup
     # Key: sorted normalized team names
@@ -189,12 +189,12 @@ def enrich_with_flashscore_home(matches, home_data):
                 match['league'] = ref_data['league']
                 updated = True
             
-            # 2. Fill Logos if missing
-            if not match['team1'].get('logo') and ref_data['team1'].get('logo'):
+            # 2. Fill Logos (Prioritize Flashscore)
+            if ref_data['team1'].get('logo'):
                 match['team1']['logo'] = ref_data['team1']['logo']
                 updated = True
             
-            if not match['team2'].get('logo') and ref_data['team2'].get('logo'):
+            if ref_data['team2'].get('logo'):
                 match['team2']['logo'] = ref_data['team2']['logo']
                 updated = True
                 
@@ -294,13 +294,24 @@ def load_json_safe(filename):
 def main():
     print("Starting schedule merge...")
     
-    # Load all sources
-    # Priority: Manual -> Bolaloca -> Sportsonline -> Streamcenter
+    # Load Flashscore Data
+    flashscore_detailed = load_json_safe('flashscore.json')
+    flashscore_home = load_json_safe('flashscore_home.json')
+
+    # Clean Flashscore Home Data (remove "Preview" from time)
+    if isinstance(flashscore_home, list):
+        for item in flashscore_home:
+            if item.get('kickoff_time'):
+                item['kickoff_time'] = item['kickoff_time'].replace('Preview', '').strip()
+
+    # Priority: Manual -> Flashscore (Detailed) -> Flashscore (Home) -> Bolaloca -> Streamcenter -> Sportsonline
     sources = [
         ('manual_sch.json', load_json_safe('manual_sch.json')),
+        ('flashscore.json', flashscore_detailed),
+        ('flashscore_home.json', flashscore_home),
         ('bolaloca.json', load_json_safe('bolaloca.json')),
-        ('sportsonline.json', load_json_safe('sportsonline.json')),
-        ('streamcenter.json', load_json_safe('streamcenter.json'))
+        ('streamcenter.json', load_json_safe('streamcenter.json')),
+        ('sportsonline.json', load_json_safe('sportsonline.json'))
     ]
     
     merged_data = {}
@@ -354,10 +365,7 @@ def main():
     # Convert to list
     final_data = list(merged_data.values())
     
-    # Enrich with Flashscore Home data
-    home_data = load_json_safe('flashscore_home.json')
-    if home_data:
-        final_data = enrich_with_flashscore_home(final_data, home_data)
+    # Enrichment step removed as Flashscore is now a primary source
         
     # APPLY MANUAL MAPPING FOR DISPLAY
     print("\nApplying manual mapping for display names...")
