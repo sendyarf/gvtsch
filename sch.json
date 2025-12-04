@@ -2,8 +2,8 @@
   {
     "id": "Manual-Example-1",
     "league": "Manual - Example League",
-    "kickoff_date": "2024-12-03",
-    "kickoff_time": "20:00",
+    "kickoff_date": "2025-12-04",
+    "kickoff_time": "19:50",
     "team1": {
       "name": "Manual Team A",
       "logo": ""
@@ -14,9 +14,8 @@
     },
     "servers": [
       {
-        "name": "Manual Server 1",
-        "url": "http://example.com/stream",
-        "referer": ""
+        "url": "https://multi.govoet.my.id/?shaka=laliga",
+        "label": "CH-1"
       }
     ]
   },
