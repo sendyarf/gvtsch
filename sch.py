@@ -278,6 +278,201 @@ def load_json_safe(filename):
 def main():
     print("Starting schedule merge...")
     
+
+def get_display_league_name(name):
+    """Get display name for league."""
+    normalized = normalize_text(name)
+    if normalized in LEAGUE_NAMES:
+        return LEAGUE_NAMES[normalized]
+    elif name:
+        return name.title()
+    return ""
+
+# ============================================
+# FUZZY MATCHING FUNCTIONS
+# ============================================
+
+def calculate_similarity(str1, str2):
+    """Calculate similarity ratio between two strings (0-100)"""
+    return SequenceMatcher(None, str1, str2).ratio() * 100
+
+def fuzzy_match_teams(team1_a, team2_a, team1_b, team2_b, threshold=85):
+    """
+    Check if two team pairs match using fuzzy matching
+    """
+    t1a = normalize_team_name(team1_a)
+    t2a = normalize_team_name(team2_a)
+    t1b = normalize_team_name(team1_b)
+    t2b = normalize_team_name(team2_b)
+    
+    # Direct match
+    sim1 = calculate_similarity(t1a, t1b)
+    sim2 = calculate_similarity(t2a, t2b)
+    
+    if sim1 >= threshold and sim2 >= threshold:
+        return True
+    
+    # Reversed match
+    sim1_rev = calculate_similarity(t1a, t2b)
+    sim2_rev = calculate_similarity(t2a, t1b)
+    
+    if sim1_rev >= threshold and sim2_rev >= threshold:
+        return True
+    
+    return False
+
+# ============================================
+# KEY GENERATION FUNCTIONS
+# ============================================
+
+def create_composite_key(match):
+    """Create a composite key using multiple fields"""
+    date = match.get('kickoff_date', '')
+    time = match.get('kickoff_time', '')
+    league = normalize_league_name(match.get('league', ''))
+    
+    team1 = normalize_team_name(match['team1']['name'])
+    team2 = normalize_team_name(match['team2']['name'])
+    
+    teams = sorted([team1, team2])
+    teams_key = '-'.join(teams)
+    
+    key_parts = []
+    if date: key_parts.append(date)
+    if time: key_parts.append(time)
+    if league: key_parts.append(league)
+    key_parts.append(teams_key)
+    
+    return '|'.join(key_parts)
+
+# ============================================
+# DATA ENRICHMENT FUNCTION (NEW)
+# ============================================
+
+def enrich_with_flashscore_home(matches, home_data):
+    """
+    Fill missing data and prioritize logos using Flashscore data.
+    Matches primarily on Team Names.
+    """
+    print("\nEnriching data using Flashscore data...")
+    
+    # Pre-process home_data into a dictionary for faster lookup
+    # Key: sorted normalized team names
+    home_lookup = {}
+    for item in home_data:
+        t1 = normalize_team_name(item['team1']['name'])
+        t2 = normalize_team_name(item['team2']['name'])
+        if t1 and t2:
+            teams_key = '-'.join(sorted([t1, t2]))
+            home_lookup[teams_key] = item
+
+    enriched_count = 0
+
+    print(f"✅ Enriched {enriched_count} matches with additional metadata.")
+    return matches
+
+# ============================================
+# MATCHING & MERGING LOGIC
+# ============================================
+
+def find_matching_entry(match, merged_dict):
+    """Find if a match already exists in merged dictionary"""
+    composite_key = create_composite_key(match)
+    if composite_key in merged_dict:
+        return composite_key
+    
+    match_date = match.get('kickoff_date', '')
+    match_time = match.get('kickoff_time', '')
+    
+    for existing_key, existing_match in merged_dict.items():
+        existing_date = existing_match.get('kickoff_date', '')
+        existing_time = existing_match.get('kickoff_time', '')
+        
+        # Strict Date/Time match -> Fuzzy Team match (when both have dates)
+        if match_date and existing_date and match_date == existing_date and match_time == existing_time:
+            if fuzzy_match_teams(
+                match['team1']['name'], match['team2']['name'],
+                existing_match['team1']['name'], existing_match['team2']['name'],
+                threshold=50
+            ):
+                return existing_key
+        
+        # Fuzzy Time match (±15 mins) -> Fuzzy Team match (when both have dates)
+        if match_date and existing_date and match_date == existing_date:
+            if match_time and existing_time:
+                try:
+                    from datetime import datetime
+                    t1 = datetime.strptime(match_time, "%H:%M")
+                    t2 = datetime.strptime(existing_time, "%H:%M")
+                    diff_minutes = abs((t1 - t2).total_seconds() / 60)
+                    
+                    if diff_minutes <= 15:
+                        if fuzzy_match_teams(
+                            match['team1']['name'], match['team2']['name'],
+                            existing_match['team1']['name'], existing_match['team2']['name'],
+                            threshold=80
+                        ):
+                            return existing_key
+                except:
+                    pass
+        
+        # NEW: Match by Time + Teams only (for data without dates like sportsonline)
+        # This handles cases where one or both entries don't have dates
+        if (not match_date or not existing_date) and match_time and existing_time:
+            try:
+                from datetime import datetime
+                t1 = datetime.strptime(match_time, "%H:%M")
+                t2 = datetime.strptime(existing_time, "%H:%M")
+                diff_minutes = abs((t1 - t2).total_seconds() / 60)
+                
+                # Same time or very close (±5 mins for higher confidence)
+                if diff_minutes <= 5:
+                    if fuzzy_match_teams(
+                        match['team1']['name'], match['team2']['name'],
+                        existing_match['team1']['name'], existing_match['team2']['name'],
+                        threshold=85
+                    ):
+                        return existing_key
+            except:
+                pass
+
+        # NEW: Match by Date + Strong Team Match (Relaxed Time)
+        # Handles cases with timezone differences (up to 3 hours) or reversed teams
+        if match_date and existing_date and match_date == existing_date:
+             if match_time and existing_time:
+                try:
+                    from datetime import datetime
+                    t1 = datetime.strptime(match_time, "%H:%M")
+                    t2 = datetime.strptime(existing_time, "%H:%M")
+                    diff_minutes = abs((t1 - t2).total_seconds() / 60)
+                    
+                    # Allow up to 3 hours difference if teams match strongly
+                    if diff_minutes <= 180:
+                        if fuzzy_match_teams(
+                            match['team1']['name'], match['team2']['name'],
+                            existing_match['team1']['name'], existing_match['team2']['name'],
+                            threshold=85
+                        ):
+                            return existing_key
+                except:
+                    pass
+    
+    return None
+
+def load_json_safe(filename):
+    """Safely load JSON file"""
+    if not os.path.exists(filename):
+        return []
+    try:
+        with open(filename, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"Error loading {filename}: {e}")
+        return []
+
+def main():
+    print("Starting schedule merge...")
+    
     # Load Flashscore Data
     flashscore_detailed = load_json_safe('flashscore.json')
     flashscore_home = load_json_safe('flashscore_home.json')
@@ -288,9 +483,10 @@ def main():
             if item.get('kickoff_time'):
                 item['kickoff_time'] = item['kickoff_time'].replace('Preview', '').strip()
 
-    # Priority: Manual -> Flashscore (Detailed) -> Bolaloca -> Streamcenter -> Sportsonline
+    # Priority: Manual -> Soco -> Flashscore (Detailed) -> Bolaloca -> Streamcenter -> Sportsonline
     sources = [
         ('manual_sch.json', load_json_safe('manual_sch.json')),
+        ('soco.json', load_json_safe('soco.json')),
         ('flashscore.json', flashscore_detailed),
         ('bolaloca.json', load_json_safe('bolaloca.json')),
         ('streamcenter.json', load_json_safe('streamcenter.json')),
