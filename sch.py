@@ -173,43 +173,6 @@ def enrich_with_flashscore_home(matches, home_data):
 
     enriched_count = 0
 
-    for match in matches:
-        # Create lookup key for current match
-        t1 = normalize_team_name(match['team1']['name'])
-        t2 = normalize_team_name(match['team2']['name'])
-        teams_key = '-'.join(sorted([t1, t2]))
-
-        # Check if we have reference data
-        if teams_key in home_lookup:
-            ref_data = home_lookup[teams_key]
-            updated = False
-
-            # 1. Fill League if missing or if ref has better data
-            if not match.get('league') and ref_data.get('league'):
-                match['league'] = ref_data['league']
-                updated = True
-            
-            # 2. Fill Logos (Prioritize Flashscore)
-            if ref_data['team1'].get('logo'):
-                match['team1']['logo'] = ref_data['team1']['logo']
-                updated = True
-            
-            if ref_data['team2'].get('logo'):
-                match['team2']['logo'] = ref_data['team2']['logo']
-                updated = True
-                
-            # 3. Fill Kickoff Date and Time if missing
-            if not match.get('kickoff_date') and ref_data.get('kickoff_date'):
-                match['kickoff_date'] = ref_data['kickoff_date']
-                updated = True
-                
-            if not match.get('kickoff_time') and ref_data.get('kickoff_time'):
-                match['kickoff_time'] = ref_data['kickoff_time']
-                updated = True
-
-            if updated:
-                enriched_count += 1
-    
     print(f"✅ Enriched {enriched_count} matches with additional metadata.")
     return matches
 
