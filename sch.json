@@ -39,24 +39,6 @@
     ]
   },
   {
-    "id": "ManchesterUtd-WestHam",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Manchester Utd",
-      "logo": "https://static.flashscore.com/res/image/data/GhGV3qjT-h2pPXz3k.png"
-    },
-    "team2": {
-      "name": "West Ham",
-      "logo": "https://static.flashscore.com/res/image/data/YeSfKGlC-Q9DJHs4l.png"
-    },
-    "kickoff_date": "2025-12-05",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-05",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
     "id": "AstonVilla-Arsenal",
     "league": "England - Premier League",
     "team1": {
@@ -348,29 +330,6 @@
     ]
   },
   {
-    "id": "Excelsior-Groningen",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "Excelsior",
-      "logo": "https://static.flashscore.com/res/image/data/82r5rXU0-GOuuvzfL.png"
-    },
-    "team2": {
-      "name": "Groningen",
-      "logo": "https://static.flashscore.com/res/image/data/AJOIh8jT-E5fitKGe.png"
-    },
-    "kickoff_date": "2025-12-06",
-    "kickoff_time": "02:00",
-    "match_date": "2025-12-06",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd8",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
     "id": "Heerenveen-PSV",
     "league": "Netherlands - Eredivisie",
     "team1": {
@@ -527,68 +486,6 @@
     "match_time": "22:45",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Brest-Monaco",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Brest",
-      "logo": "https://static.flashscore.com/res/image/data/lWu2w4ne-Q15G9lAm.png"
-    },
-    "team2": {
-      "name": "Monaco",
-      "logo": "https://static.flashscore.com/res/image/data/n3jLkyne-0SFGJsPk.png"
-    },
-    "kickoff_date": "2025-12-06",
-    "kickoff_time": "01:00",
-    "match_date": "2025-12-06",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd10",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv2",
-        "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "Lille-Marseille",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Lille",
-      "logo": "https://static.flashscore.com/res/image/data/Q34pXImC-UDticXKP.png"
-    },
-    "team2": {
-      "name": "Marseille",
-      "logo": "https://static.flashscore.com/res/image/data/t6Kb5X76-voNnDKJK.png"
-    },
-    "kickoff_date": "2025-12-06",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-06",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd4",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv2",
-        "label": "CH-3"
-      }
-    ]
   },
   {
     "id": "Nantes-Lens",
@@ -761,29 +658,25 @@
     ]
   },
   {
-    "id": "Mainz-BMonchengladbach",
-    "league": "Germany - Bundesliga",
+    "id": "Lorient-Lyon",
+    "league": "France - Ligue 1",
     "team1": {
-      "name": "Mainz",
-      "logo": "https://static.flashscore.com/res/image/data/tbR3gUTH-EoYxhN5r.png"
+      "name": "Lorient",
+      "logo": "https://static.flashscore.com/res/image/data/0r9EzUS0-GU4hlIMk.png"
     },
     "team2": {
-      "name": "B. Monchengladbach",
-      "logo": "https://static.flashscore.com/res/image/data/tjlAHwhT-ncmj9JbF.png"
+      "name": "Lyon",
+      "logo": "https://static.flashscore.com/res/image/data/bkuX6RS0-GU4hlIMk.png"
     },
-    "kickoff_date": "2025-12-06",
-    "kickoff_time": "02:30",
-    "match_date": "2025-12-06",
-    "match_time": "02:30",
+    "kickoff_date": "2025-12-08",
+    "kickoff_time": "02:45",
+    "match_date": "2025-12-08",
+    "match_time": "02:45",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?ss=hd3",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-2"
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNy5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1136,31 +1029,96 @@
     ]
   },
   {
-    "id": "Oviedo-Mallorca",
-    "league": "Spain - LaLiga",
+    "id": "Lazio-Bologna",
+    "league": "Italy - Serie A",
     "team1": {
-      "name": "Oviedo",
-      "logo": "https://static.flashscore.com/res/image/data/8CuFFxlC-Y7pkY0PJ.png"
+      "name": "Lazio",
+      "logo": "https://static.flashscore.com/res/image/data/4CLpo27k-EaFfQ9z6.png"
     },
     "team2": {
-      "name": "Mallorca",
-      "logo": "https://static.flashscore.com/res/image/data/WKsw8cne-rmDEjevK.png"
+      "name": "Bologna",
+      "logo": "https://static.flashscore.com/res/image/data/6ovaa9T0-McvX4bye.png"
     },
-    "kickoff_date": "2025-12-06",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-06",
-    "match_time": "03:00",
+    "kickoff_date": "2025-12-08",
+    "kickoff_time": "00:00",
+    "match_date": "2025-12-08",
+    "match_time": "00:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoOS5waHA=",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
         "label": "CH-1"
       },
       {
-        "url": "https://multi.govoet.my.id/?ss=eleven2",
+        "url": "https://multi.govoet.my.id/?ss=sporttv3",
         "label": "CH-2"
       }
     ]
+  },
+  {
+    "id": "Napoli-Juventus",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Napoli",
+      "logo": "https://static.flashscore.com/res/image/data/tSuMfRjT-vTT58gae.png"
+    },
+    "team2": {
+      "name": "Juventus",
+      "logo": "https://static.flashscore.com/res/image/data/xxLGMOlC-EXzXDYgS.png"
+    },
+    "kickoff_date": "2025-12-08",
+    "kickoff_time": "02:45",
+    "match_date": "2025-12-08",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoOS5waHA=",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv3",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br6",
+        "label": "CH-5"
+      }
+    ]
+  },
+  {
+    "id": "Pisa-Parma",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Pisa",
+      "logo": "https://static.flashscore.com/res/image/data/vPrevkT0-GMOw3SI3.png"
+    },
+    "team2": {
+      "name": "Parma",
+      "logo": "https://static.flashscore.com/res/image/data/WI9nVggT-fydXzLY6.png"
+    },
+    "kickoff_date": "2025-12-08",
+    "kickoff_time": "21:00",
+    "match_date": "2025-12-08",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": []
   },
   {
     "id": "Villarreal-Getafe",
@@ -1361,22 +1319,78 @@
     ]
   },
   {
-    "id": "PersibBandung-Borneo",
-    "league": "Indonesia - Super League",
+    "id": "Espanyol-RayoVallecano",
+    "league": "Spain - LaLiga",
     "team1": {
-      "name": "Persib Bandung",
-      "logo": "https://static.flashscore.com/res/image/data/K0fBknlC-fXN2TGqm.png"
+      "name": "Espanyol",
+      "logo": "https://static.flashscore.com/res/image/data/QeCoIpXH-8GL0cHSF.png"
     },
     "team2": {
-      "name": "Borneo",
-      "logo": "https://static.flashscore.com/res/image/data/xvzHySR0-lSvymcJg.png"
+      "name": "Rayo Vallecano",
+      "logo": "https://static.flashscore.com/res/image/data/QyKcNfhT-EPWyZtpb.png"
     },
-    "kickoff_date": "2025-12-05",
-    "kickoff_time": "19:00",
-    "match_date": "2025-12-05",
-    "match_time": "19:00",
+    "kickoff_date": "2025-12-08",
+    "kickoff_time": "00:30",
+    "match_date": "2025-12-08",
+    "match_time": "00:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNi5waHA=",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven1",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "RealMadrid-CeltaVigo",
+    "league": "Spain - LaLiga",
+    "team1": {
+      "name": "Real Madrid",
+      "logo": "https://static.flashscore.com/res/image/data/CGPhnpne-ttfpEDUq.png"
+    },
+    "team2": {
+      "name": "Celta Vigo",
+      "logo": "https://static.flashscore.com/res/image/data/INW8oRBN-SOY3p1Si.png"
+    },
+    "kickoff_date": "2025-12-08",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-08",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNi5waHA=",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven1",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br2",
+        "label": "CH-4"
+      }
+    ]
   },
   {
     "id": "PSMMakassar-Persebaya",
@@ -1945,177 +1959,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNTQucGhw",
         "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "CeltaVigo-RealMadrid",
-    "league": "Football",
-    "team1": {
-      "name": "Celta Vigo",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
-    },
-    "team2": {
-      "name": "Real Madrid",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
-    },
-    "kickoff_date": "2025-12-08",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-08",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNi5waHA=",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br2",
-        "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "Juventus-Napoli",
-    "league": "Football",
-    "team1": {
-      "name": "Juventus",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
-    },
-    "team2": {
-      "name": "Napoli",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
-    },
-    "kickoff_date": "2025-12-08",
-    "kickoff_time": "02:45",
-    "match_date": "2025-12-08",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoOS5waHA=",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd7",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd3",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv3",
-        "label": "CH-4"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br6",
-        "label": "CH-5"
-      }
-    ]
-  },
-  {
-    "id": "Lyon-Lorient",
-    "league": "Football",
-    "team1": {
-      "name": "Lyon",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
-    },
-    "team2": {
-      "name": "Lorient",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png"
-    },
-    "kickoff_date": "2025-12-08",
-    "kickoff_time": "02:45",
-    "match_date": "2025-12-08",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNy5waHA=",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "RayoVallecano-Espanyol",
-    "league": "Football",
-    "team1": {
-      "name": "Rayo Vallecano",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
-    },
-    "team2": {
-      "name": "Espanyol",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png"
-    },
-    "kickoff_date": "2025-12-08",
-    "kickoff_time": "00:30",
-    "match_date": "2025-12-08",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNi5waHA=",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "Bologna-Lazio",
-    "league": "Football",
-    "team1": {
-      "name": "Bologna",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
-    },
-    "team2": {
-      "name": "Lazio",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
-    },
-    "kickoff_date": "2025-12-08",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-08",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoOS5waHA=",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv3",
-        "label": "CH-2"
       }
     ]
   },
