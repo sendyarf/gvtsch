@@ -65,7 +65,7 @@ def scrape_flashscore():
             # Wait for the page to load with reduced timeout
             print(f"Waiting for {league_name} page to load...")
             try:
-                WebDriverWait(driver, 5).until(
+                WebDriverWait(driver, 20).until(
                     EC.presence_of_element_located((By.CSS_SELECTOR, ".event__match--twoLine, .event__match--static"))
                 )
             except TimeoutException:
@@ -76,12 +76,12 @@ def scrape_flashscore():
             print(f"Checking for 'Show more matches' button for {league_name}...")
             while True:
                 try:
-                    show_more = WebDriverWait(driver, 3).until(
+                    show_more = WebDriverWait(driver, 10).until(
                         EC.element_to_be_clickable((By.CSS_SELECTOR, "a.wclButtonLink"))
                     )
                     print(f"Clicking 'Show more matches' to load additional {league_name} fixtures...")
                     show_more.click()
-                    time.sleep(1)  # Reduced from 2 seconds
+                    time.sleep(3)  # Reduced from 2 seconds
                 except:
                     print(f"No more matches to load for {league_name}.")
                     break
