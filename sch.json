@@ -1518,130 +1518,6 @@
     ]
   },
   {
-    "id": "SanPabloBurgos-Murcia",
-    "league": "Liga Endesa",
-    "team1": {
-      "name": "San Pablo Burgos",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/san-pablo-burgos.png"
-    },
-    "team2": {
-      "name": "Murcia",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/murcia.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-07",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=65",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Inter-Como",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Inter",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
-    },
-    "team2": {
-      "name": "Como",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-07",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=70",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoOS5waHA=",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd7",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv2",
-        "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "Basaksehir-Fenerbahce",
-    "league": "Turkey - Super Lig",
-    "team1": {
-      "name": "Basaksehir",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/basaksehir.png"
-    },
-    "team2": {
-      "name": "Fenerbahce",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fenerbahce.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-07",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=5",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=151",
-        "label": "CH-TR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=93",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=78",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "RoyaleUnionSG-LaGantoise",
-    "league": "Pro League",
-    "team1": {
-      "name": "Royale Union SG",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/royale-union-sg.png"
-    },
-    "team2": {
-      "name": "La Gantoise",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/la-gantoise.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "00:15",
-    "match_date": "2025-12-07",
-    "match_time": "00:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=153",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
     "id": "Leinster-Harlequins",
     "league": "Champions Cup",
     "team1": {
@@ -5680,25 +5556,37 @@
     ]
   },
   {
-    "id": "Lens-Nantes",
+    "id": "Como-Internazionale",
     "league": "Football",
     "team1": {
-      "name": "Lens",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
+      "name": "Como",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
     },
     "team2": {
-      "name": "Nantes",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png"
+      "name": "Inter",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
     },
-    "kickoff_date": "2025-12-06",
-    "kickoff_time": "23:00",
-    "match_date": "2025-12-06",
-    "match_time": "23:00",
+    "kickoff_date": "2025-12-07",
+    "kickoff_time": "00:00",
+    "match_date": "2025-12-07",
+    "match_time": "00:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNy5waHA=",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoOS5waHA=",
         "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv2",
+        "label": "CH-3"
       }
     ]
   }
