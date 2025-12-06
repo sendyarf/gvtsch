@@ -199,7 +199,7 @@ def enrich_logos(matches, streamcenter_data):
         for item in streamcenter_data:
             t1 = normalize_team_name(item['team1']['name'])
             t2 = normalize_team_name(item['team2']['name'])
-            if t1 and t2:
+            if t1 or t2:
                 teams_key = '-'.join(sorted([t1, t2]))
                 sc_lookup[teams_key] = item
 
