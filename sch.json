@@ -1074,22 +1074,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=6",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=50",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=90",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNi5waHA=",
         "label": "CH-EN"
       }
@@ -1312,148 +1296,6 @@
     ]
   },
   {
-    "id": "bundesliga2konferenz",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "bundesliga 2 konferenz -",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bundesliga-2-konferenz.png"
-    },
-    "team2": {
-      "name": "",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "19:30",
-    "match_date": "2025-12-07",
-    "match_time": "19:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=111",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Braunschweig-HolsteinKiel",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Braunschweig",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/braunschweig.png"
-    },
-    "team2": {
-      "name": "Holstein Kiel",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/holstein-kiel.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "19:30",
-    "match_date": "2025-12-07",
-    "match_time": "19:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=114",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "HerthaBerlin-Magdeburg",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Hertha Berlin",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/hertha-berlin.png"
-    },
-    "team2": {
-      "name": "Magdeburg",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/magdeburg.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "19:30",
-    "match_date": "2025-12-07",
-    "match_time": "19:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=112",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Nurnberg-GreutherFrth",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Nurnberg",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nurnberg.png"
-    },
-    "team2": {
-      "name": "Greuther Furth",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/greuther-furth.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "19:30",
-    "match_date": "2025-12-07",
-    "match_time": "19:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=113",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Slough-Macclesfield",
-    "league": "Fa Cup",
-    "team1": {
-      "name": "Slough",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/slough.png"
-    },
-    "team2": {
-      "name": "Macclesfield",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/macclesfield.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "19:30",
-    "match_date": "2025-12-07",
-    "match_time": "19:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=8",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=126",
-        "label": "CH-GB"
-      }
-    ]
-  },
-  {
-    "id": "Malines-Charleroi",
-    "league": "Pro League",
-    "team1": {
-      "name": "KV Mechelen",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/kv-mechelen.png"
-    },
-    "team2": {
-      "name": "Charleroi",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/charleroi.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "19:30",
-    "match_date": "2025-12-07",
-    "match_time": "19:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=153",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
     "id": "USAPerpignan-Dragons",
     "league": "Challenge Cup",
     "team1": {
@@ -1500,29 +1342,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=1",
         "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "CadixCF-RacingSantander",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Cadix CF",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/cadix-cf.png"
-    },
-    "team2": {
-      "name": "Racing Santander",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/racing-santander.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "20:00",
-    "match_date": "2025-12-07",
-    "match_time": "20:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
       }
     ]
   },
