@@ -120,18 +120,6 @@
       {
         "url": "https://multi.govoet.my.id/?shaka=universow",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br5",
-        "label": "CH-3"
       }
     ]
   },
@@ -331,16 +319,7 @@
     "match_date": "2025-12-07",
     "match_time": "00:45",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd11",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br6",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Heracles-Telstar",
@@ -494,16 +473,7 @@
     "match_date": "2025-12-07",
     "match_time": "01:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd4",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv3",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "PSG-Rennes",
@@ -521,24 +491,7 @@
     "match_date": "2025-12-07",
     "match_time": "03:05",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNy5waHA=",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd4",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv3",
-        "label": "CH-3"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Nice-Angers",
@@ -680,16 +633,7 @@
     "match_date": "2025-12-07",
     "match_time": "00:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd3",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br1",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "HamburgerSV-WerderBremen",
@@ -1108,20 +1052,7 @@
     "match_date": "2025-12-07",
     "match_time": "03:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNi5waHA=",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd6",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Elche-Girona",
@@ -1367,229 +1298,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=94",
         "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Coquimbo-UEspanola",
-    "league": "Chile - Liga de Primera",
-    "team1": {
-      "name": "Coquimbo",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/coquimbo.png"
-    },
-    "team2": {
-      "name": "U. Espanola",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/u-espanola.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "04:00",
-    "match_date": "2025-12-07",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=197",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "DeportesIquique-UDeChile",
-    "league": "Chile - Liga de Primera",
-    "team1": {
-      "name": "Deportes Iquique",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/deportes-iquique.png"
-    },
-    "team2": {
-      "name": "U. De Chile",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/u-de-chile.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "04:00",
-    "match_date": "2025-12-07",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Limache-LaSerena",
-    "league": "Chile - Liga de Primera",
-    "team1": {
-      "name": "Limache",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/limache.png"
-    },
-    "team2": {
-      "name": "La Serena",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/la-serena.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "04:00",
-    "match_date": "2025-12-07",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=198",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "OHiggins-Everton",
-    "league": "Chile - Liga de Primera",
-    "team1": {
-      "name": "O'Higgins",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/o-higgins.png"
-    },
-    "team2": {
-      "name": "Everton",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/everton.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "04:00",
-    "match_date": "2025-12-07",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=196",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "UCatolica-UCalera",
-    "league": "Chile - Liga de Primera",
-    "team1": {
-      "name": "U. Catolica",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/u-catolica.png"
-    },
-    "team2": {
-      "name": "U. Calera",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/u-calera.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "04:00",
-    "match_date": "2025-12-07",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=195",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Mirassol-Flamengo",
-    "league": "Brazil - Serie A Betano",
-    "team1": {
-      "name": "Mirassol",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/mirassol.png"
-    },
-    "team2": {
-      "name": "Flamengo RJ",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/flamengo-rj.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "04:30",
-    "match_date": "2025-12-07",
-    "match_time": "04:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=61",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "InddelValle-Libertad",
-    "league": "Ecuador - Liga Pro",
-    "team1": {
-      "name": "Ind. del Valle",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ind-del-valle.png"
-    },
-    "team2": {
-      "name": "Libertad",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/libertad.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "05:00",
-    "match_date": "2025-12-07",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=86",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Orense-LDUQuito",
-    "league": "Ecuador - Liga Pro",
-    "team1": {
-      "name": "Orense",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/orense.png"
-    },
-    "team2": {
-      "name": "LDU Quito",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ldu-quito.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "05:00",
-    "match_date": "2025-12-07",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=85",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "BrooklynNets-NewOrleansPelicans",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Brooklyn Nets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png"
-    },
-    "team2": {
-      "name": "New Orleans Pelicans",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "05:00",
-    "match_date": "2025-12-07",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=160",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=97",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjUucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv2",
-        "label": "CH-1"
       }
     ]
   },
@@ -4828,9 +4536,9 @@
       "logo": "data:image/jpeg;base64,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"
     },
     "kickoff_date": "2025-12-07",
-    "kickoff_time": "07:00",
+    "kickoff_time": "08:00",
     "match_date": "2025-12-07",
-    "match_time": "07:00",
+    "match_time": "08:00",
     "duration": "3.5",
     "servers": [
       {
@@ -4858,52 +4566,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNDgucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "GeorgiaBulldogs-AlabamaCrimsonTide",
-    "league": "Ncaa Division",
-    "team1": {
-      "name": "Georgia Bulldogs",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"
-    },
-    "team2": {
-      "name": "Alabama Crimson Tide",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "04:00",
-    "match_date": "2025-12-07",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoMzIucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ColumbusBlueJackets-FloridaPanthers",
-    "league": "Hockey",
-    "team1": {
-      "name": "Columbus Blue Jackets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png"
-    },
-    "team2": {
-      "name": "Florida Panthers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png"
-    },
-    "kickoff_date": "2025-12-07",
-    "kickoff_time": "03:30",
-    "match_date": "2025-12-07",
-    "match_time": "03:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNTEucGhw",
         "label": "CH-EN"
       }
     ]
