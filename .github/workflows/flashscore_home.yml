@@ -7,6 +7,9 @@ on:
     
     # 03:00 WIB = 20:00 UTC (sehari sebelumnya)
     - cron: "0 20 * * *"
+
+        # 12:00 WIB = 05:00 UTC
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 jobs:
