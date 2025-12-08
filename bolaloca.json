@@ -1,1 +1,492 @@
-[]
+[
+  {
+    "id": "BrackleyTown-Burton",
+    "league": "Fa Cup",
+    "team1": {
+      "name": "Brackley Town",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Burton",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "02:30",
+    "match_date": "2025-12-09",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=126",
+        "label": "CH-GB"
+      }
+    ]
+  },
+  {
+    "id": "Malaga-Saragosse",
+    "league": "Laliga 2",
+    "team1": {
+      "name": "Malaga",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Saragosse",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "02:30",
+    "match_date": "2025-12-09",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=53",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Reims-Laval",
+    "league": "Ligue 2",
+    "team1": {
+      "name": "Reims",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Laval",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "02:45",
+    "match_date": "2025-12-09",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Torino-ACMilan",
+    "league": "Serie A",
+    "team1": {
+      "name": "Torino",
+      "logo": ""
+    },
+    "team2": {
+      "name": "AC Milan",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "02:45",
+    "match_date": "2025-12-09",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=45",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=138",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=98",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Osasuna-Levante",
+    "league": "Laliga",
+    "team1": {
+      "name": "Osasuna",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Levante",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-09",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=4",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=49",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=94",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Wolves-ManchesterUtd",
+    "league": "Premier League",
+    "team1": {
+      "name": "Wolves",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Manchester Utd",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-09",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=12",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=127",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=120",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "GimnasiaLP-Estudiantes",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "Gimnasia L.P.",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Estudiantes",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-09",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=75",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=76",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Guimaraes-GilVicente",
+    "league": "Liga Portugal",
+    "team1": {
+      "name": "Guimaraes",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Gil Vicente",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "03:30",
+    "match_date": "2025-12-09",
+    "match_time": "03:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=144",
+        "label": "CH-PT"
+      }
+    ]
+  },
+  {
+    "id": "Emelec-Macara",
+    "league": "Ecuador Ligapro",
+    "team1": {
+      "name": "Emelec",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Macara",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "07:00",
+    "match_date": "2025-12-09",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=86",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "IndianaPacers-SacramentoKings",
+    "league": "NBA",
+    "team1": {
+      "name": "Indiana Pacers",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Sacramento Kings",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "07:00",
+    "match_date": "2025-12-09",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=160",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=75",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MinnesotaTimberwolves-PhoenixSuns",
+    "league": "NBA",
+    "team1": {
+      "name": "Minnesota Timberwolves",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Phoenix Suns",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "07:30",
+    "match_date": "2025-12-09",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=161",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=98",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=75",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "TorontoMapleLeafs-TampaBayLightning",
+    "league": "NHL",
+    "team1": {
+      "name": "Toronto Maple Leafs",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Tampa Bay Lightning",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "07:30",
+    "match_date": "2025-12-09",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=188",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NewOrleansPelicans-SanAntonioSpurs",
+    "league": "NBA",
+    "team1": {
+      "name": "New Orleans Pelicans",
+      "logo": ""
+    },
+    "team2": {
+      "name": "San Antonio Spurs",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "08:00",
+    "match_date": "2025-12-09",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=162",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "LosAngelesChargers-PhiladelphiaEagles",
+    "league": "NFL",
+    "team1": {
+      "name": "Los Angeles Chargers",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Philadelphia Eagles",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "08:15",
+    "match_date": "2025-12-09",
+    "match_time": "08:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=170",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=97",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "CalgaryFlames-BuffaloSabres",
+    "league": "NHL",
+    "team1": {
+      "name": "Calgary Flames",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Buffalo Sabres",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "09:00",
+    "match_date": "2025-12-09",
+    "match_time": "09:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=189",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "UtahMammoth-LosAngelesKings",
+    "league": "NHL",
+    "team1": {
+      "name": "Utah Mammoth",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Los Angeles Kings",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "09:00",
+    "match_date": "2025-12-09",
+    "match_time": "09:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=190",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "SeattleKraken-MinnesotaWild",
+    "league": "NHL",
+    "team1": {
+      "name": "Seattle Kraken",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Minnesota Wild",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "10:00",
+    "match_date": "2025-12-09",
+    "match_time": "10:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=191",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "VancouverCanucks-DetroitRedWings",
+    "league": "NHL",
+    "team1": {
+      "name": "Vancouver Canucks",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Detroit Red Wings",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-09",
+    "kickoff_time": "10:00",
+    "match_date": "2025-12-09",
+    "match_time": "10:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=192",
+        "label": "CH-US"
+      }
+    ]
+  }
+]
