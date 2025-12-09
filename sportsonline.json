@@ -1,51 +1,5 @@
 [
   {
-    "id": "GoldenStateWarriors-ChicagoBulls",
-    "league": "NBA",
-    "team1": {
-      "name": "Golden State Warriors",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Chicago Bulls",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "07:00",
-    "match_date": "",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv1",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "LosAngelesChargersvPhiladelphiaEagles",
-    "league": "NFL",
-    "team1": {
-      "name": "Los Angeles Chargers v Philadelphia Eagles",
-      "logo": ""
-    },
-    "team2": {
-      "name": "",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "08:00",
-    "match_date": "",
-    "match_time": "08:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
     "id": "PSVU19-AtlticoMadridU19",
     "league": "",
     "team1": {
