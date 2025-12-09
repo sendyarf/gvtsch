@@ -85,7 +85,7 @@
         "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoMy5waHA=",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
         "label": "CH-EN"
       },
       {
@@ -298,7 +298,7 @@
         "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNS5waHA=",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUucGhw",
         "label": "CH-EN"
       },
       {
@@ -353,7 +353,7 @@
         "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNy5waHA=",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
         "label": "CH-EN"
       },
       {
@@ -400,7 +400,7 @@
         "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNi5waHA=",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
       },
       {
@@ -447,7 +447,7 @@
         "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoOC5waHA=",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDgucGhw",
         "label": "CH-EN"
       },
       {
@@ -885,11 +885,11 @@
     "league": "UEFA Champions League",
     "team1": {
       "name": "Kairat Almaty",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      "logo": "https://static.flashscore.com/res/image/data/29cAf06k-rwQpsSWo.png"
     },
     "team2": {
       "name": "Olympiacos Piraeus",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png"
+      "logo": "https://static.flashscore.com/res/image/data/Ik1Usole-lzmp9FUJ.png"
     },
     "kickoff_date": "2025-12-09",
     "kickoff_time": "22:30",
@@ -920,10 +920,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=87",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoMy5waHA=",
-        "label": "CH-EN"
       },
       {
         "url": "https://multi.govoet.my.id/?ss=hd5",
@@ -1756,75 +1752,6 @@
     ]
   },
   {
-    "id": "LAClippers-HoustonRockets",
-    "league": "Basketball",
-    "team1": {
-      "name": "LA Clippers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png"
-    },
-    "team2": {
-      "name": "Houston Rockets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png"
-    },
-    "kickoff_date": "2025-12-12",
-    "kickoff_time": "08:00",
-    "match_date": "2025-12-12",
-    "match_time": "08:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjUucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "BostonCeltics-MilwaukeeBucks",
-    "league": "Basketball",
-    "team1": {
-      "name": "Boston Celtics",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
-    },
-    "team2": {
-      "name": "Milwaukee Bucks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png"
-    },
-    "kickoff_date": "2025-12-12",
-    "kickoff_time": "08:00",
-    "match_date": "2025-12-12",
-    "match_time": "08:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjYucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "PortlandTrailBlazers-NewOrleansPelicans",
-    "league": "Basketball",
-    "team1": {
-      "name": "Portland Trail Blazers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png"
-    },
-    "team2": {
-      "name": "New Orleans Pelicans",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png"
-    },
-    "kickoff_date": "2025-12-12",
-    "kickoff_time": "08:00",
-    "match_date": "2025-12-12",
-    "match_time": "08:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjcucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "StLouisBlues-NashvillePredators",
     "league": "Hockey",
     "team1": {
@@ -1889,6 +1816,75 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNTkucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "LAClippers-HoustonRockets",
+    "league": "Basketball",
+    "team1": {
+      "name": "LA Clippers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png"
+    },
+    "team2": {
+      "name": "Houston Rockets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png"
+    },
+    "kickoff_date": "2025-12-12",
+    "kickoff_time": "08:00",
+    "match_date": "2025-12-12",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjUucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "BostonCeltics-MilwaukeeBucks",
+    "league": "Basketball",
+    "team1": {
+      "name": "Boston Celtics",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
+    },
+    "team2": {
+      "name": "Milwaukee Bucks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png"
+    },
+    "kickoff_date": "2025-12-12",
+    "kickoff_time": "08:00",
+    "match_date": "2025-12-12",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjYucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "PortlandTrailBlazers-NewOrleansPelicans",
+    "league": "Basketball",
+    "team1": {
+      "name": "Portland Trail Blazers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png"
+    },
+    "team2": {
+      "name": "New Orleans Pelicans",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png"
+    },
+    "kickoff_date": "2025-12-12",
+    "kickoff_time": "08:00",
+    "match_date": "2025-12-12",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjcucGhw",
         "label": "CH-EN"
       }
     ]
@@ -2151,29 +2147,6 @@
     ]
   },
   {
-    "id": "PhoenixSuns-OklahomaCityThunder",
-    "league": "Basketball",
-    "team1": {
-      "name": "Phoenix Suns",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png"
-    },
-    "team2": {
-      "name": "Oklahoma City Thunder",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "07:30",
-    "match_date": "2025-12-11",
-    "match_time": "07:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjUucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "NewYorkRangers-ChicagoBlackhawks",
     "league": "Hockey",
     "team1": {
@@ -2192,6 +2165,29 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNTAucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "PhoenixSuns-OklahomaCityThunder",
+    "league": "Basketball",
+    "team1": {
+      "name": "Phoenix Suns",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png"
+    },
+    "team2": {
+      "name": "Oklahoma City Thunder",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
+    },
+    "kickoff_date": "2025-12-11",
+    "kickoff_time": "07:30",
+    "match_date": "2025-12-11",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjUucGhw",
         "label": "CH-EN"
       }
     ]
