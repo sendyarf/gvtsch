@@ -851,29 +851,6 @@
     ]
   },
   {
-    "id": "LosAngelesKings-SeattleKraken",
-    "league": "Hockey",
-    "team1": {
-      "name": "Los Angeles Kings",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png"
-    },
-    "team2": {
-      "name": "Seattle Kraken",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "10:00",
-    "match_date": "2025-12-11",
-    "match_time": "10:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUzLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "SanAntonioSpurs-LosAngelesLakers",
     "league": "Basketball",
     "team1": {
@@ -892,6 +869,29 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "LosAngelesKings-SeattleKraken",
+    "league": "Hockey",
+    "team1": {
+      "name": "Los Angeles Kings",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png"
+    },
+    "team2": {
+      "name": "Seattle Kraken",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png"
+    },
+    "kickoff_date": "2025-12-11",
+    "kickoff_time": "10:00",
+    "match_date": "2025-12-11",
+    "match_time": "10:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUzLnBocA==",
         "label": "CH-EN"
       }
     ]
@@ -984,167 +984,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ManchesterCity-RealMadrid",
-    "league": "Football",
-    "team1": {
-      "name": "Manchester City",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
-    },
-    "team2": {
-      "name": "Real Madrid",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-11",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Arsenal-ClubBrugge",
-    "league": "Football",
-    "team1": {
-      "name": "Arsenal",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
-    },
-    "team2": {
-      "name": "Club Brugge",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-11",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NewcastleUnited-BayerLeverkusen",
-    "league": "Football",
-    "team1": {
-      "name": "Newcastle United",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
-    },
-    "team2": {
-      "name": "Bayer Leverkusen",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-11",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ParisSaintGermain-AthleticClub",
-    "league": "Football",
-    "team1": {
-      "name": "Paris Saint-Germain",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
-    },
-    "team2": {
-      "name": "Athletic Club",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-11",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Napoli-Benfica",
-    "league": "Football",
-    "team1": {
-      "name": "Napoli",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
-    },
-    "team2": {
-      "name": "Benfica",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-11",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "BodoGlimt-BorussiaDortmund",
-    "league": "Football",
-    "team1": {
-      "name": "Bodo/Glimt",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
-    },
-    "team2": {
-      "name": "Borussia Dortmund",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-11",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Pafos-Juventus",
-    "league": "Football",
-    "team1": {
-      "name": "Pafos",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22281.png"
-    },
-    "team2": {
-      "name": "Juventus",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-11",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDgucGhw",
         "label": "CH-EN"
       }
     ]
