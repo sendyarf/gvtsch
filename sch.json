@@ -497,22 +497,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=20",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=123",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=155",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
         "label": "CH-EN"
       }
@@ -760,18 +744,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=9",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=91",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd3",
         "label": "CH-1"
       },
@@ -997,14 +969,6 @@
     "match_time": "02:45",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=90",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
         "label": "CH-EN"
@@ -1304,22 +1268,6 @@
     "match_time": "03:00",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=107",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
@@ -1627,252 +1575,6 @@
     "match_time": "13:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Barcelone-Olympiakos",
-    "league": "Europe - Euroleague",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://static.flashscore.com/res/image/data/4E1IJGS0-AZCWGI9F.png"
-    },
-    "team2": {
-      "name": "Olympiacos Piraeus",
-      "logo": "https://static.flashscore.com/res/image/data/p6ftzEPq-rXhVDRnT.png"
-    },
-    "kickoff_date": "2025-12-13",
-    "kickoff_time": "02:30",
-    "match_date": "2025-12-13",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=62",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv4",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "Partizan-toileRougeBelgrade",
-    "league": "Europe - Euroleague",
-    "team1": {
-      "name": "Partizan Mozzart Bet",
-      "logo": "https://static.flashscore.com/res/image/data/0vnTQnA6-boCH78dB.png"
-    },
-    "team2": {
-      "name": "Crvena Zvezda",
-      "logo": "https://static.flashscore.com/res/image/data/xQldm47k-YwJ7p7q9.png"
-    },
-    "kickoff_date": "2025-12-13",
-    "kickoff_time": "02:30",
-    "match_date": "2025-12-13",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=64",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "VirtusBologna-HapoelTelAviv",
-    "league": "Europe - Euroleague",
-    "team1": {
-      "name": "Virtus Bologna",
-      "logo": "https://static.flashscore.com/res/image/data/z15VGp7k-8nbIunjj.png"
-    },
-    "team2": {
-      "name": "Hapoel Tel-Aviv",
-      "logo": "https://static.flashscore.com/res/image/data/SMIdYniC-AoqqSdQE.png"
-    },
-    "kickoff_date": "2025-12-13",
-    "kickoff_time": "02:30",
-    "match_date": "2025-12-13",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=66",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "CulturalLeonesa-Huesca",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Cultural Leonesa",
-      "logo": "https://static.flashscore.com/res/image/data/nqcf2egT-WAOkzK99.png"
-    },
-    "team2": {
-      "name": "Huesca",
-      "logo": "https://static.flashscore.com/res/image/data/pMpCvJkC-EkA5g8Rs.png"
-    },
-    "kickoff_date": "2025-12-13",
-    "kickoff_time": "02:30",
-    "match_date": "2025-12-13",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd9",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "StandardLige-Louvain",
-    "league": "Pro League",
-    "team1": {
-      "name": "St. Liege",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Louvain",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-13",
-    "kickoff_time": "02:45",
-    "match_date": "2025-12-13",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=153",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Montpellier-Zebre",
-    "league": "Challenge Cup",
-    "team1": {
-      "name": "Montpellier",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Zebre",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-13",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-13",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=3",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "LeicesterTigers-Leinster",
-    "league": "Champions Cup",
-    "team1": {
-      "name": "Leicester Tigers",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Leinster",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-13",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-13",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=129",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "WestBrom-SheffieldUtd",
-    "league": "England - Championship",
-    "team1": {
-      "name": "West Brom",
-      "logo": "https://static.flashscore.com/res/image/data/QsGXnZjC-ImMEe0UF.png"
-    },
-    "team2": {
-      "name": "Sheffield Utd",
-      "logo": "https://static.flashscore.com/res/image/data/8nXNvlA6-K2FpWLH3.png"
-    },
-    "kickoff_date": "2025-12-13",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-13",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=93",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=98",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "PSGF-MontpellierF",
-    "league": "France - Premiere Ligue Women",
-    "team1": {
-      "name": "PSG F",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Montpellier F",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-13",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-13",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "RCVannes-BiarritzOlympique",
-    "league": "France - Pro D2",
-    "team1": {
-      "name": "RC Vannes",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Biarritz Olympique",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-13",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-13",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=13",
-        "label": "CH-FR"
-      }
-    ]
   },
   {
     "id": "CharlotteHornets-ChicagoBulls",
