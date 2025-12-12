@@ -2,7 +2,7 @@ name: Run Bolaloca Scraper
 
 on:
   schedule:
-    - cron: "*/20 * * * *" # Every 1 hour
+    - cron: "*/50 * * * *" # Every 1 hour
   workflow_dispatch:
 
 jobs:
