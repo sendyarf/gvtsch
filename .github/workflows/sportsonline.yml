@@ -2,7 +2,7 @@ name: Run Sportsonline Scraper
 
 on:
   schedule:
-    - cron: "*/20 * * * *" # Every 3 hours
+    - cron: "0 */3 * * *" # Every 3 hours
   workflow_dispatch:
 
 jobs:
