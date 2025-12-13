@@ -85,10 +85,6 @@
       {
         "url": "https://multi.govoet.cc/?shaka=universow",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
-        "label": "CH-EN"
       }
     ]
   },
@@ -246,10 +242,6 @@
       {
         "url": "https://multi.govoet.cc/?shaka=ziggosp",
         "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
       }
     ]
   },
@@ -534,16 +526,7 @@
     "match_date": "2025-12-14",
     "match_time": "02:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=141",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=98",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Zwolle-Sittard",
@@ -1628,79 +1611,6 @@
     "match_time": "13:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "GranCanaria-Baskonia",
-    "league": "Liga Endesa",
-    "team1": {
-      "name": "Gran Canaria",
-      "logo": "https://static.flashscore.com/res/image/data/r3kESSA6-0WPKO67g.png"
-    },
-    "team2": {
-      "name": "Baskonia",
-      "logo": "https://static.flashscore.com/res/image/data/xGQhkdAN-hhuZJcqF.png"
-    },
-    "kickoff_date": "2025-12-14",
-    "kickoff_time": "02:00",
-    "match_date": "2025-12-14",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=65",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Sainttienne-Bastia",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Saint-Étienne",
-      "logo": "https://static.flashscore.com/res/image/data/SvNL7CBN-8Ca53MKO.png"
-    },
-    "team2": {
-      "name": "Bastia",
-      "logo": "https://static.flashscore.com/res/image/data/joJrcijT-h6Qq9yDN.png"
-    },
-    "kickoff_date": "2025-12-14",
-    "kickoff_time": "02:00",
-    "match_date": "2025-12-14",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "MinnesotaWild-OttawaSenators",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Minnesota Wild",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png"
-    },
-    "team2": {
-      "name": "Ottawa Senators",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png"
-    },
-    "kickoff_date": "2025-12-14",
-    "kickoff_time": "02:00",
-    "match_date": "2025-12-14",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=161",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
   },
   {
     "id": "Hanovre-Bochum",
@@ -4829,24 +4739,24 @@
     ]
   },
   {
-    "id": "AnaheimDucks-NewJerseyDevils",
+    "id": "OttawaSenators-MinnesotaWild",
     "league": "Hockey",
     "team1": {
-      "name": "Anaheim Ducks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png"
+      "name": "Ottawa Senators",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png"
     },
     "team2": {
-      "name": "New Jersey Devils",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nj.png"
+      "name": "Minnesota Wild",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png"
     },
     "kickoff_date": "2025-12-14",
-    "kickoff_time": "00:30",
+    "kickoff_time": "02:00",
     "match_date": "2025-12-14",
-    "match_time": "00:30",
+    "match_time": "02:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUwLnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUxLnBocA==",
         "label": "CH-EN"
       }
     ]
