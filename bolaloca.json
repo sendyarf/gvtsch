@@ -1,55 +1,5 @@
 [
   {
-    "id": "OFICrete-Panserraikos",
-    "league": "Betfred Super League",
-    "team1": {
-      "name": "OFI Crete",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Panserraikos",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-13",
-    "kickoff_time": "23:00",
-    "match_date": "2025-12-13",
-    "match_time": "23:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=149",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "Rennes-Brest",
-    "league": "Ligue 1",
-    "team1": {
-      "name": "Rennes",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Brest",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-13",
-    "kickoff_time": "23:00",
-    "match_date": "2025-12-13",
-    "match_time": "23:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=90",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "Flamengo-Pyramids",
     "league": "Coupe intercontinentale",
     "team1": {
