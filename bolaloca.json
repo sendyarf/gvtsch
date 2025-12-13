@@ -23,14 +23,14 @@
     ]
   },
   {
-    "id": "bundesliga2konferenz-112",
+    "id": "bundesliga2konferenz",
     "league": "Bundesliga 2",
     "team1": {
-      "name": "bundesliga 2 konferenz",
+      "name": "bundesliga 2 konferenz -",
       "logo": ""
     },
     "team2": {
-      "name": "112",
+      "name": "",
       "logo": ""
     },
     "kickoff_date": "2025-12-13",
@@ -38,7 +38,12 @@
     "match_date": "2025-12-13",
     "match_time": "19:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=112",
+        "label": "CH-DE"
+      }
+    ]
   },
   {
     "id": "ArminiaBielefeld-Kaiserslautern",
@@ -441,6 +446,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=112",
         "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=116",
+        "label": "CH-ES"
       }
     ]
   },
@@ -472,6 +481,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=91",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=117",
+        "label": "CH-ES"
       }
     ]
   },
@@ -495,6 +508,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=111",
         "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=118",
+        "label": "CH-ES"
       }
     ]
   },
@@ -518,6 +535,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=114",
         "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=119",
+        "label": "CH-ES"
       }
     ]
   },
@@ -1231,6 +1252,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=111",
         "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=116",
+        "label": "CH-ES"
       }
     ]
   },
@@ -2524,14 +2549,14 @@
     ]
   },
   {
-    "id": "bundesliga2konferenz-111",
+    "id": "bundesliga2konferenz",
     "league": "Bundesliga 2",
     "team1": {
-      "name": "bundesliga 2 konferenz",
+      "name": "bundesliga 2 konferenz -",
       "logo": ""
     },
     "team2": {
-      "name": "111",
+      "name": "",
       "logo": ""
     },
     "kickoff_date": "2025-12-14",
@@ -2539,7 +2564,12 @@
     "match_date": "2025-12-14",
     "match_time": "19:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-DE"
+      }
+    ]
   },
   {
     "id": "Darmstadt-Mnster",
@@ -3106,6 +3136,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=124",
         "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=116",
+        "label": "CH-ES"
       }
     ]
   },
@@ -3505,6 +3539,10 @@
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=116",
         "label": "CH-ES"
       }
     ]
@@ -4111,6 +4149,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=123",
         "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=116",
+        "label": "CH-ES"
       }
     ]
   },
