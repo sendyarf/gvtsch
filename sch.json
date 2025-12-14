@@ -418,68 +418,6 @@
     ]
   },
   {
-    "id": "Arouca-Alverca",
-    "league": "Liga Portugal",
-    "team1": {
-      "name": "Arouca",
-      "logo": "https://static.flashscore.com/res/image/data/xSy6cS7k-UPMdbcD9.png"
-    },
-    "team2": {
-      "name": "Alverca",
-      "logo": "https://static.flashscore.com/res/image/data/tlIE7wkC-4OznjBKl.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "03:30",
-    "match_date": "2025-12-15",
-    "match_time": "03:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=144",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv1",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "ClevelandCavaliers-CharlotteHornets",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Cleveland Cavaliers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
-    },
-    "team2": {
-      "name": "Charlotte Hornets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "03:30",
-    "match_date": "2025-12-15",
-    "match_time": "03:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=171",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv4",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
     "id": "DenverBroncos-GreenBayPackers",
     "league": "USA - NFL",
     "team1": {
@@ -950,6 +888,10 @@
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=107",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=108",
         "label": "CH-ES"
       },
       {
@@ -1636,6 +1578,33 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=170",
         "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "CharlotteHornets-ClevelandCavaliers",
+    "league": "Basketball",
+    "team1": {
+      "name": "Charlotte Hornets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png"
+    },
+    "team2": {
+      "name": "Cleveland Cavaliers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
+    },
+    "kickoff_date": "2025-12-15",
+    "kickoff_time": "03:30",
+    "match_date": "2025-12-15",
+    "match_time": "03:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv4",
+        "label": "CH-1"
       }
     ]
   },
