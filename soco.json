@@ -3,31 +3,39 @@
     "id": "truc-tiep",
     "league": "Giải bóng đá VĐQG Indonesia",
     "team1": {
-      "name": "Borneo FC"
+      "name": "Malut United"
     },
     "team2": {
-      "name": "Bali United"
+      "name": "Persib Bandung"
     },
-    "kickoff_date": "2025-11-30",
-    "kickoff_time": "15:30",
-    "match_date": "2025-11-30",
-    "match_time": "15:30",
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "13:30",
+    "match_date": "2025-12-14",
+    "match_time": "13:30",
     "duration": "3.0",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80OTE4NzMubTN1OA==",
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80NjI0MTMubTN1OA==",
         "label": "CH-VN"
       },
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80NTk0MDEubTN1OA==",
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MjczODQubTN1OA==",
         "label": "CH-VN"
       },
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81NTcxNTAubTN1OA==",
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80OTk3NjUubTN1OA==",
         "label": "CH-VN"
       },
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MDY4NjUubTN1OA==",
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80NzIyNDEubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMTgyMDYubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMzkzODQubTN1OA==",
         "label": "CH-VN"
       }
     ]
