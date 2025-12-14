@@ -1154,28 +1154,7 @@
     "match_date": "2025-12-14",
     "match_time": "18:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd7",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd3",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv2",
-        "label": "CH-4"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br2",
-        "label": "CH-5"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Fiorentina-Verona",
@@ -1511,29 +1490,6 @@
     ]
   },
   {
-    "id": "NantesF-MarseilleF",
-    "league": "France - Premiere Ligue Women",
-    "team1": {
-      "name": "Nantes F",
-      "logo": "https://static.flashscore.com/res/image/data/ERRlJTjC-YRnNdAyj.png"
-    },
-    "team2": {
-      "name": "Marseille F",
-      "logo": "https://static.flashscore.com/res/image/data/rulBDOCN-4AJ4CsU2.png"
-    },
-    "kickoff_date": "2025-12-14",
-    "kickoff_time": "19:00",
-    "match_date": "2025-12-14",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
     "id": "bundesliga2konferenz",
     "league": "Bundesliga 2",
     "team1": {
@@ -1634,14 +1590,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=78",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd11",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven3",
-        "label": "CH-2"
       }
     ]
   },
