@@ -1,59 +1,5 @@
 [
   {
-    "id": "Genk-Westerlo",
-    "league": "Pro League",
-    "team1": {
-      "name": "Genk",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Westerlo",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "01:15",
-    "match_date": "2025-12-15",
-    "match_time": "01:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=154",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "WerderBrme-Stuttgart",
-    "league": "Bundesliga",
-    "team1": {
-      "name": "Werder Brême",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Stuttgart",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "01:30",
-    "match_date": "2025-12-15",
-    "match_time": "01:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=6",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=123",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=116",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "Panathinaikos-Volos",
     "league": "Betfred Super League",
     "team1": {
