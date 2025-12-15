@@ -31,18 +31,6 @@
       {
         "url": "https://multi.govoet.cc/?hls=psn2",
         "label": "CH-MN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd9",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br2",
-        "label": "CH-3"
       }
     ]
   },
@@ -78,14 +66,6 @@
       {
         "url": "https://multi.govoet.cc/?jw=ziggo2",
         "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd6",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven3",
-        "label": "CH-2"
       }
     ]
   },
@@ -121,22 +101,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br5",
-        "label": "CH-4"
       }
     ]
   },
@@ -160,18 +124,6 @@
       {
         "url": "https://multi.govoet.cc/?jw=ziggosp",
         "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd8",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br6",
-        "label": "CH-3"
       }
     ]
   },
@@ -195,22 +147,6 @@
       {
         "url": "https://multi.govoet.cc/?jw=ziggo2",
         "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd7",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br2",
-        "label": "CH-3"
       }
     ]
   },
@@ -289,20 +225,7 @@
     "match_date": "2025-12-15",
     "match_time": "02:45",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd4",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv3",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "WerderBremen-Stuttgart",
@@ -320,16 +243,7 @@
     "match_date": "2025-12-15",
     "match_time": "01:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd3",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven2",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ASRoma-Como",
@@ -418,234 +332,6 @@
     ]
   },
   {
-    "id": "DenverBroncos-GreenBayPackers",
-    "league": "USA - NFL",
-    "team1": {
-      "name": "Denver Broncos",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
-    },
-    "team2": {
-      "name": "Green Bay Packers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "04:25",
-    "match_date": "2025-12-15",
-    "match_time": "04:25",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=172",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=93",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDM4LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "LosAngelesRams-DetroitLions",
-    "league": "USA - NFL",
-    "team1": {
-      "name": "Los Angeles Rams",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
-    },
-    "team2": {
-      "name": "Detroit Lions",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "04:25",
-    "match_date": "2025-12-15",
-    "match_time": "04:25",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=3",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=173",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=91",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=101",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDM5LnBocA==",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br3",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "NewOrleansSaints-CarolinaPanthers",
-    "league": "USA - NFL",
-    "team1": {
-      "name": "New Orleans Saints",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png"
-    },
-    "team2": {
-      "name": "Carolina Panthers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "04:25",
-    "match_date": "2025-12-15",
-    "match_time": "04:25",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=174",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "SanFrancisco49ers-TennesseeTitans",
-    "league": "USA - NFL",
-    "team1": {
-      "name": "San Francisco 49ers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
-    },
-    "team2": {
-      "name": "Tennessee Titans",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "04:25",
-    "match_date": "2025-12-15",
-    "match_time": "04:25",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=175",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "SeattleSeahawks-IndianapolisColts",
-    "league": "USA - NFL",
-    "team1": {
-      "name": "Seattle Seahawks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
-    },
-    "team2": {
-      "name": "Indianapolis Colts",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "04:25",
-    "match_date": "2025-12-15",
-    "match_time": "04:25",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=176",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=102",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQyLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "BarceloneSC-Orense",
-    "league": "Ecuador - Liga Pro",
-    "team1": {
-      "name": "Barcelona SC",
-      "logo": "https://static.flashscore.com/res/image/data/4U7abDU0-WErjuywa.png"
-    },
-    "team2": {
-      "name": "Orense",
-      "logo": "https://static.flashscore.com/res/image/data/rHCAt0ne-4zwgEgF1.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "04:30",
-    "match_date": "2025-12-15",
-    "match_time": "04:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=158",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Libertad-LDUQuito",
-    "league": "Ecuador - Liga Pro",
-    "team1": {
-      "name": "Libertad",
-      "logo": "https://static.flashscore.com/res/image/data/faMhEniT-ERBXCrln.png"
-    },
-    "team2": {
-      "name": "LDU Quito",
-      "logo": "https://static.flashscore.com/res/image/data/WKZqhSPq-dldy8uVh.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "04:30",
-    "match_date": "2025-12-15",
-    "match_time": "04:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=85",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "UCatolica-InddelValle",
-    "league": "Ecuador - Liga Pro",
-    "team1": {
-      "name": "U. Catolica",
-      "logo": "https://static.flashscore.com/res/image/data/MgHsGYU0-Kt2BHCfq.png"
-    },
-    "team2": {
-      "name": "Ind. del Valle",
-      "logo": "https://static.flashscore.com/res/image/data/4rVUkugT-OnCKiY2r.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "04:30",
-    "match_date": "2025-12-15",
-    "match_time": "04:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=86",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "CarolinaHurricanes-PhiladelphiaFlyers",
     "league": "USA - NHL",
     "team1": {
@@ -692,10 +378,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=84",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd9",
-        "label": "CH-1"
       }
     ]
   },
@@ -1582,6 +1264,121 @@
     ]
   },
   {
+    "id": "GreenBayPackers-DenverBroncos",
+    "league": "American Football",
+    "team1": {
+      "name": "Green Bay Packers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
+    },
+    "team2": {
+      "name": "Denver Broncos",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
+    },
+    "kickoff_date": "2025-12-15",
+    "kickoff_time": "04:25",
+    "match_date": "2025-12-15",
+    "match_time": "04:25",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDM4LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "DetroitLions-LosAngelesRams",
+    "league": "American Football",
+    "team1": {
+      "name": "Detroit Lions",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png"
+    },
+    "team2": {
+      "name": "Los Angeles Rams",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
+    },
+    "kickoff_date": "2025-12-15",
+    "kickoff_time": "04:25",
+    "match_date": "2025-12-15",
+    "match_time": "04:25",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDM5LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "CarolinaPanthers-NewOrleansSaints",
+    "league": "American Football",
+    "team1": {
+      "name": "Carolina Panthers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
+    },
+    "team2": {
+      "name": "New Orleans Saints",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png"
+    },
+    "kickoff_date": "2025-12-15",
+    "kickoff_time": "04:25",
+    "match_date": "2025-12-15",
+    "match_time": "04:25",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQwLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "TennesseeTitans-SanFrancisco49ers",
+    "league": "American Football",
+    "team1": {
+      "name": "Tennessee Titans",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png"
+    },
+    "team2": {
+      "name": "San Francisco 49ers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
+    },
+    "kickoff_date": "2025-12-15",
+    "kickoff_time": "04:25",
+    "match_date": "2025-12-15",
+    "match_time": "04:25",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQxLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "IndianapolisColts-SeattleSeahawks",
+    "league": "American Football",
+    "team1": {
+      "name": "Indianapolis Colts",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png"
+    },
+    "team2": {
+      "name": "Seattle Seahawks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
+    },
+    "kickoff_date": "2025-12-15",
+    "kickoff_time": "04:25",
+    "match_date": "2025-12-15",
+    "match_time": "04:25",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQyLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
     "id": "CharlotteHornets-ClevelandCavaliers",
     "league": "Basketball",
     "team1": {
@@ -1601,10 +1398,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv4",
-        "label": "CH-1"
       }
     ]
   },
