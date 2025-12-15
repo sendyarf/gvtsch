@@ -64,10 +64,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd7",
         "label": "CH-1"
       },
@@ -97,49 +93,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "FCPorto-Estrela",
-    "league": "Liga Portugal",
-    "team1": {
-      "name": "FC Porto",
-      "logo": "https://static.flashscore.com/res/image/data/A5i3omUH-Kth3Rz1C.png"
-    },
-    "team2": {
-      "name": "Estrela",
-      "logo": "https://static.flashscore.com/res/image/data/MDdmzPjC-OtN6V8lD.png"
-    },
-    "kickoff_date": "2025-12-16",
-    "kickoff_time": "03:45",
-    "match_date": "2025-12-16",
-    "match_time": "03:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=3",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=144",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=74",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd9",
-        "label": "CH-3"
       }
     ]
   },
