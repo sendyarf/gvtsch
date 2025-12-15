@@ -97,10 +97,6 @@
       {
         "url": "https://multi.govoet.cc/?jw=ziggosp",
         "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
       }
     ]
   },
@@ -327,137 +323,6 @@
       },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "CarolinaHurricanes-PhiladelphiaFlyers",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Carolina Hurricanes",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png"
-    },
-    "team2": {
-      "name": "Philadelphia Flyers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "05:00",
-    "match_date": "2025-12-15",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=177",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUyLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Cusco-SportingCristal",
-    "league": "Peru - Liga 1",
-    "team1": {
-      "name": "Cusco",
-      "logo": "https://static.flashscore.com/res/image/data/QB6SLoiT-06OeOzI0.png"
-    },
-    "team2": {
-      "name": "Sporting Cristal",
-      "logo": "https://static.flashscore.com/res/image/data/xMxIWf86-Em9Gxj8O.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "06:00",
-    "match_date": "2025-12-15",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "AtlantaHawks-Philadelphia76ers",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Atlanta Hawks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png"
-    },
-    "team2": {
-      "name": "Philadelphia 76ers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "06:00",
-    "match_date": "2025-12-15",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=178",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "BrooklynNets-MilwaukeeBucks",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Brooklyn Nets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png"
-    },
-    "team2": {
-      "name": "Milwaukee Bucks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "06:00",
-    "match_date": "2025-12-15",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=179",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY4LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "MinnesotaWild-BostonBruins",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Minnesota Wild",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png"
-    },
-    "team2": {
-      "name": "Boston Bruins",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "06:00",
-    "match_date": "2025-12-15",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=180",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUzLnBocA==",
         "label": "CH-EN"
       }
     ]
@@ -967,11 +832,11 @@
     "league": "USA - NBA",
     "team1": {
       "name": "Boston Celtics",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
     },
     "team2": {
       "name": "Detroit Pistons",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"
     },
     "kickoff_date": "2025-12-16",
     "kickoff_time": "07:00",
@@ -992,6 +857,10 @@
         "label": "CH-ES"
       },
       {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY1LnBocA==",
+        "label": "CH-EN"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=br6",
         "label": "CH-1"
       }
@@ -1002,11 +871,11 @@
     "league": "USA - NHL",
     "team1": {
       "name": "New York Rangers",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png"
     },
     "team2": {
       "name": "Anaheim Ducks",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png"
     },
     "kickoff_date": "2025-12-16",
     "kickoff_time": "07:00",
@@ -1017,6 +886,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=161",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUxLnBocA==",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1025,11 +898,11 @@
     "league": "USA - NHL",
     "team1": {
       "name": "Tampa Bay Lightning",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png"
     },
     "team2": {
       "name": "Florida Panthers",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png"
     },
     "kickoff_date": "2025-12-16",
     "kickoff_time": "07:00",
@@ -1042,6 +915,10 @@
         "label": "CH-US"
       },
       {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUwLnBocA==",
+        "label": "CH-EN"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=sporttv3",
         "label": "CH-1"
       }
@@ -1052,11 +929,11 @@
     "league": "USA - NBA",
     "team1": {
       "name": "Miami Heat",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png"
     },
     "team2": {
       "name": "Toronto Raptors",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
     },
     "kickoff_date": "2025-12-16",
     "kickoff_time": "07:30",
@@ -1067,6 +944,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=163",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1075,11 +956,11 @@
     "league": "USA - NHL",
     "team1": {
       "name": "Winnipeg Jets",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wpg.png"
     },
     "team2": {
       "name": "Ottawa Senators",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png"
     },
     "kickoff_date": "2025-12-16",
     "kickoff_time": "07:30",
@@ -1090,6 +971,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=164",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUyLnBocA==",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1098,11 +983,11 @@
     "league": "USA - NHL",
     "team1": {
       "name": "Dallas Stars",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png"
     },
     "team2": {
       "name": "Los Angeles Kings",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png"
     },
     "kickoff_date": "2025-12-16",
     "kickoff_time": "08:00",
@@ -1113,6 +998,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=165",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU0LnBocA==",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1121,11 +1010,11 @@
     "league": "USA - NHL",
     "team1": {
       "name": "St. Louis Blues",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/stl.png"
     },
     "team2": {
       "name": "Nashville Predators",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nsh.png"
     },
     "kickoff_date": "2025-12-16",
     "kickoff_time": "08:00",
@@ -1136,6 +1025,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=166",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUzLnBocA==",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1187,11 +1080,11 @@
     "league": "USA - NBA",
     "team1": {
       "name": "Utah Jazz",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png"
     },
     "team2": {
       "name": "Dallas Mavericks",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png"
     },
     "kickoff_date": "2025-12-16",
     "kickoff_time": "09:00",
@@ -1202,6 +1095,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=168",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1210,11 +1107,11 @@
     "league": "USA - NBA",
     "team1": {
       "name": "Denver Nuggets",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png"
     },
     "team2": {
       "name": "Houston Rockets",
-      "logo": ""
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png"
     },
     "kickoff_date": "2025-12-16",
     "kickoff_time": "09:30",
@@ -1233,6 +1130,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=83",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY4LnBocA==",
+        "label": "CH-EN"
       },
       {
         "url": "https://multi.govoet.my.id/?ss=br6",
@@ -1260,162 +1161,74 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=170",
         "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "GreenBayPackers-DenverBroncos",
-    "league": "American Football",
-    "team1": {
-      "name": "Green Bay Packers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
-    },
-    "team2": {
-      "name": "Denver Broncos",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "04:25",
-    "match_date": "2025-12-15",
-    "match_time": "04:25",
-    "duration": "3.5",
-    "servers": [
+      },
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDM4LnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY5LnBocA==",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "DetroitLions-LosAngelesRams",
-    "league": "American Football",
+    "id": "CalgaryFlames-SanJoseSharks",
+    "league": "Hockey",
     "team1": {
-      "name": "Detroit Lions",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png"
+      "name": "Calgary Flames",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png"
     },
     "team2": {
-      "name": "Los Angeles Rams",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
+      "name": "San Jose Sharks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sj.png"
     },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "04:25",
-    "match_date": "2025-12-15",
-    "match_time": "04:25",
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "10:00",
+    "match_date": "2025-12-17",
+    "match_time": "10:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDM5LnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU4LnBocA==",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "CarolinaPanthers-NewOrleansSaints",
-    "league": "American Football",
+    "id": "ColoradoAvalanche-SeattleKraken",
+    "league": "Hockey",
     "team1": {
-      "name": "Carolina Panthers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
+      "name": "Colorado Avalanche",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png"
     },
     "team2": {
-      "name": "New Orleans Saints",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png"
+      "name": "Seattle Kraken",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png"
     },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "04:25",
-    "match_date": "2025-12-15",
-    "match_time": "04:25",
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "10:00",
+    "match_date": "2025-12-17",
+    "match_time": "10:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQwLnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU5LnBocA==",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "TennesseeTitans-SanFrancisco49ers",
-    "league": "American Football",
-    "team1": {
-      "name": "Tennessee Titans",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png"
-    },
-    "team2": {
-      "name": "San Francisco 49ers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "04:25",
-    "match_date": "2025-12-15",
-    "match_time": "04:25",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "IndianapolisColts-SeattleSeahawks",
-    "league": "American Football",
-    "team1": {
-      "name": "Indianapolis Colts",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png"
-    },
-    "team2": {
-      "name": "Seattle Seahawks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "04:25",
-    "match_date": "2025-12-15",
-    "match_time": "04:25",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQyLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "CharlotteHornets-ClevelandCavaliers",
+    "id": "SanAntonioSpurs-NewYorkKnicks",
     "league": "Basketball",
     "team1": {
-      "name": "Charlotte Hornets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png"
+      "name": "San Antonio Spurs",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
     },
     "team2": {
-      "name": "Cleveland Cavaliers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
+      "name": "New York Knicks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
     },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "03:30",
-    "match_date": "2025-12-15",
-    "match_time": "03:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "WashingtonWizards-IndianaPacers",
-    "league": "Basketball",
-    "team1": {
-      "name": "Washington Wizards",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png"
-    },
-    "team2": {
-      "name": "Indiana Pacers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png"
-    },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-15",
-    "match_time": "03:00",
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "08:30",
+    "match_date": "2025-12-17",
+    "match_time": "08:30",
     "duration": "3.5",
     "servers": [
       {
@@ -1425,20 +1238,89 @@
     ]
   },
   {
-    "id": "UtahMammoth-PittsburghPenguins",
+    "id": "WashingtonCapitals-MinnesotaWild",
+    "league": "Hockey",
+    "team1": {
+      "name": "Washington Capitals",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png"
+    },
+    "team2": {
+      "name": "Minnesota Wild",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "08:00",
+    "match_date": "2025-12-17",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU3LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "EdmontonOilers-PittsburghPenguins",
+    "league": "Hockey",
+    "team1": {
+      "name": "Edmonton Oilers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png"
+    },
+    "team2": {
+      "name": "Pittsburgh Penguins",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "07:30",
+    "match_date": "2025-12-17",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU2LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "UtahMammoth-BostonBruins",
     "league": "Hockey",
     "team1": {
       "name": "Utah Mammoth",
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/uta.png"
     },
     "team2": {
-      "name": "Pittsburgh Penguins",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png"
+      "name": "Boston Bruins",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png"
     },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-15",
-    "match_time": "03:00",
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "07:00",
+    "match_date": "2025-12-17",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUwLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "ChicagoBlackhawks-TorontoMapleLeafs",
+    "league": "Hockey",
+    "team1": {
+      "name": "Chicago Blackhawks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png"
+    },
+    "team2": {
+      "name": "Toronto Maple Leafs",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "07:00",
+    "match_date": "2025-12-17",
+    "match_time": "07:00",
     "duration": "3.5",
     "servers": [
       {
@@ -1448,24 +1330,162 @@
     ]
   },
   {
-    "id": "NFLRedZone",
-    "league": "American Football",
+    "id": "PhiladelphiaFlyers-MontrealCanadiens",
+    "league": "Hockey",
     "team1": {
-      "name": "NFL RedZone",
-      "logo": "https://imgs.search.brave.com/wtfLytMMdljchsrc8vsGzl5t28gMkLWQVBX-9rp_DjQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly92ZWN0/b3JzZWVrLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/OC9ORkwtUmVkWm9u/ZS1Mb2dvLVZlY3Rv/ci5zdmctLnBuZw"
+      "name": "Philadelphia Flyers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png"
     },
     "team2": {
-      "name": "",
-      "logo": "https://imgs.search.brave.com/wtfLytMMdljchsrc8vsGzl5t28gMkLWQVBX-9rp_DjQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly92ZWN0/b3JzZWVrLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/OC9ORkwtUmVkWm9u/ZS1Mb2dvLVZlY3Rv/ci5zdmctLnBuZw"
+      "name": "Montreal Canadiens",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png"
     },
-    "kickoff_date": "2025-12-15",
-    "kickoff_time": "00:59",
-    "match_date": "2025-12-15",
-    "match_time": "00:59",
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "07:00",
+    "match_date": "2025-12-17",
+    "match_time": "07:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQ0LnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUyLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NewYorkIslanders-DetroitRedWings",
+    "league": "Hockey",
+    "team1": {
+      "name": "New York Islanders",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyi.png"
+    },
+    "team2": {
+      "name": "Detroit Red Wings",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "07:00",
+    "match_date": "2025-12-17",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUzLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "VancouverCanucks-NewYorkRangers",
+    "league": "Hockey",
+    "team1": {
+      "name": "Vancouver Canucks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/van.png"
+    },
+    "team2": {
+      "name": "New York Rangers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "07:00",
+    "match_date": "2025-12-17",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU0LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "AnaheimDucks-ColumbusBlueJackets",
+    "league": "Hockey",
+    "team1": {
+      "name": "Anaheim Ducks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png"
+    },
+    "team2": {
+      "name": "Columbus Blue Jackets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "07:00",
+    "match_date": "2025-12-17",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU1LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Philadelphia76ers-AtlantaHawks",
+    "league": "Basketball",
+    "team1": {
+      "name": "Philadelphia 76ers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
+    },
+    "team2": {
+      "name": "Atlanta Hawks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png"
+    },
+    "kickoff_date": "2025-12-15",
+    "kickoff_time": "06:00",
+    "match_date": "2025-12-15",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "MilwaukeeBucks-BrooklynNets",
+    "league": "Basketball",
+    "team1": {
+      "name": "Milwaukee Bucks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png"
+    },
+    "team2": {
+      "name": "Brooklyn Nets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png"
+    },
+    "kickoff_date": "2025-12-15",
+    "kickoff_time": "06:00",
+    "match_date": "2025-12-15",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY4LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "BostonBruins-MinnesotaWild",
+    "league": "Hockey",
+    "team1": {
+      "name": "Boston Bruins",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png"
+    },
+    "team2": {
+      "name": "Minnesota Wild",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png"
+    },
+    "kickoff_date": "2025-12-15",
+    "kickoff_time": "06:00",
+    "match_date": "2025-12-15",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUzLnBocA==",
         "label": "CH-EN"
       }
     ]
