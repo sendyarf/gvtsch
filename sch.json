@@ -29,6 +29,30 @@
         "label": "CH-AR"
       },
       {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=127",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=98",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=19",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=63",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
         "label": "CH-EN"
       },
@@ -79,6 +103,14 @@
       {
         "url": "https://multi.govoet.cc/?hls=varzesh",
         "label": "CH-AR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=49",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=82",
+        "label": "CH-ES"
       },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
@@ -151,6 +183,642 @@
     "match_time": "03:00",
     "duration": "3.5",
     "servers": []
+  },
+  {
+    "id": "Dubai-MaccabiTelAviv",
+    "league": "Europe - Euroleague",
+    "team1": {
+      "name": "Dubai",
+      "logo": "https://static.flashscore.com/res/image/data/tQaiVdWH-8UKNAPGH.png"
+    },
+    "team2": {
+      "name": "Maccabi Tel Aviv",
+      "logo": "https://static.flashscore.com/res/image/data/dIcvedS0-f9Tgtd9a.png"
+    },
+    "kickoff_date": "2025-12-16",
+    "kickoff_time": "23:00",
+    "match_date": "2025-12-16",
+    "match_time": "23:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=62",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Fenerbahce-Panathinaikos",
+    "league": "Europe - Euroleague",
+    "team1": {
+      "name": "Fenerbahce",
+      "logo": "https://static.flashscore.com/res/image/data/4dx8d8kC-4O6TfMXl.png"
+    },
+    "team2": {
+      "name": "Panathinaikos",
+      "logo": "https://static.flashscore.com/res/image/data/42RuzvU0-0vzI4JeD.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "00:45",
+    "match_date": "2025-12-17",
+    "match_time": "00:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=64",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Heracles-Hoogeveen",
+    "league": "Netherlands - KNVB Beker",
+    "team1": {
+      "name": "Heracles",
+      "logo": "https://static.flashscore.com/res/image/data/MqiB1mme-vuxu3x67.png"
+    },
+    "team2": {
+      "name": "Hoogeveen",
+      "logo": "https://static.flashscore.com/res/image/data/ziotPZjT-xOL8Ssli.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "00:45",
+    "match_date": "2025-12-17",
+    "match_time": "00:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=142",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd4",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Eibar-Elche",
+    "league": "Spain - Copa del Rey",
+    "team1": {
+      "name": "Eibar",
+      "logo": "https://static.flashscore.com/res/image/data/drsSo7UH-4U3vjZKk.png"
+    },
+    "team2": {
+      "name": "Elche",
+      "logo": "https://static.flashscore.com/res/image/data/EVxB82BN-YmCZKGcR.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "01:00",
+    "match_date": "2025-12-17",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=163",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=81",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd9",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "LaCorogne-Majorque",
+    "league": "Spain - Copa del Rey",
+    "team1": {
+      "name": "La Corogne",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Mallorca",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "01:00",
+    "match_date": "2025-12-17",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=50",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=82",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "AFC-Nijmegen",
+    "league": "Netherlands - KNVB Beker",
+    "team1": {
+      "name": "AFC",
+      "logo": "https://static.flashscore.com/res/image/data/YTfNMzSq-ENcQzS1f.png"
+    },
+    "team2": {
+      "name": "Nijmegen",
+      "logo": "https://static.flashscore.com/res/image/data/C8FCtESq-4vob7cTR.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "02:00",
+    "match_date": "2025-12-17",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=144",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "HapoelTelAviv-toileRougeBelgrade",
+    "league": "Europe - Euroleague",
+    "team1": {
+      "name": "Hapoel Tel-Aviv",
+      "logo": "https://static.flashscore.com/res/image/data/SMIdYniC-AoqqSdQE.png"
+    },
+    "team2": {
+      "name": "Crvena Zvezda",
+      "logo": "https://static.flashscore.com/res/image/data/xQldm47k-YwJ7p7q9.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "02:05",
+    "match_date": "2025-12-17",
+    "match_time": "02:05",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=65",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Olympiakos-Valence",
+    "league": "Europe - Euroleague",
+    "team1": {
+      "name": "Olympiacos Piraeus",
+      "logo": "https://static.flashscore.com/res/image/data/p6ftzEPq-rXhVDRnT.png"
+    },
+    "team2": {
+      "name": "Valencia",
+      "logo": "https://static.flashscore.com/res/image/data/juNjUlle-0xo9H7fm.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "02:15",
+    "match_date": "2025-12-17",
+    "match_time": "02:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=55",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Milano-RealMadrid",
+    "league": "Europe - Euroleague",
+    "team1": {
+      "name": "Olimpia Milano",
+      "logo": "https://static.flashscore.com/res/image/data/djqBDIA6-xQ4mPAxG.png"
+    },
+    "team2": {
+      "name": "Real Madrid",
+      "logo": "https://static.flashscore.com/res/image/data/2edKw8Pq-bXlcmj9T.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "02:30",
+    "match_date": "2025-12-17",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=62",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Eldense-RealSociedad",
+    "league": "Spain - Copa del Rey",
+    "team1": {
+      "name": "Eldense",
+      "logo": "https://static.flashscore.com/res/image/data/jPhpmDU0-IoNgvMPR.png"
+    },
+    "team2": {
+      "name": "Real Sociedad",
+      "logo": "https://static.flashscore.com/res/image/data/rcAkl5le-vJb36ZBF.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-17",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=165",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Gijon-Valence",
+    "league": "Spain - Copa del Rey",
+    "team1": {
+      "name": "Gijon",
+      "logo": "https://static.flashscore.com/res/image/data/ziVpaDjC-bBonCJxo.png"
+    },
+    "team2": {
+      "name": "Valencia",
+      "logo": "https://static.flashscore.com/res/image/data/8Cqphq8k-MHrRLNUo.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-17",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=164",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=81",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "PSV-GVVV",
+    "league": "Netherlands - KNVB Beker",
+    "team1": {
+      "name": "PSV",
+      "logo": "https://static.flashscore.com/res/image/data/fefX7RQq-j5zA1baQ.png"
+    },
+    "team2": {
+      "name": "GVVV",
+      "logo": "https://static.flashscore.com/res/image/data/Qqhubp86-S29FhgDb.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-17",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=143",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven1",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "BostonBruins-UtahMammoth",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Boston Bruins",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png"
+    },
+    "team2": {
+      "name": "Utah Mammoth",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/uta.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "07:00",
+    "match_date": "2025-12-17",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=161",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUwLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "ColumbusBlueJackets-AnaheimDucks",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Columbus Blue Jackets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png"
+    },
+    "team2": {
+      "name": "Anaheim Ducks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "07:00",
+    "match_date": "2025-12-17",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=162",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU1LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "DetroitRedWings-NewYorkIslanders",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Detroit Red Wings",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png"
+    },
+    "team2": {
+      "name": "New York Islanders",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyi.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "07:00",
+    "match_date": "2025-12-17",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=163",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUzLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "MontrealCanadiens-PhiladelphiaFlyers",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Montreal Canadiens",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png"
+    },
+    "team2": {
+      "name": "Philadelphia Flyers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "07:00",
+    "match_date": "2025-12-17",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=164",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUyLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NewYorkRangers-VancouverCanucks",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "New York Rangers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png"
+    },
+    "team2": {
+      "name": "Vancouver Canucks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/van.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "07:00",
+    "match_date": "2025-12-17",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=165",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU0LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "TorontoMapleLeafs-ChicagoBlackhawks",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Toronto Maple Leafs",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png"
+    },
+    "team2": {
+      "name": "Chicago Blackhawks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "07:00",
+    "match_date": "2025-12-17",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=166",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUxLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Tolima-Junior",
+    "league": "Colombia: Primera A",
+    "team1": {
+      "name": "Tolima",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Junior",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "07:30",
+    "match_date": "2025-12-17",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=81",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "PittsburghPenguins-EdmontonOilers",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Pittsburgh Penguins",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png"
+    },
+    "team2": {
+      "name": "Edmonton Oilers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "07:30",
+    "match_date": "2025-12-17",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=167",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=89",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU2LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "MinnesotaWild-WashingtonCapitals",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Minnesota Wild",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png"
+    },
+    "team2": {
+      "name": "Washington Capitals",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "08:00",
+    "match_date": "2025-12-17",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=168",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU3LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NewYorkKnicks-SanAntonioSpurs",
+    "league": "Nba Cup",
+    "team1": {
+      "name": "New York Knicks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
+    },
+    "team2": {
+      "name": "San Antonio Spurs",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "08:30",
+    "match_date": "2025-12-17",
+    "match_time": "08:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=160",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY1LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "SanJoseSharks-CalgaryFlames",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "San Jose Sharks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sj.png"
+    },
+    "team2": {
+      "name": "Calgary Flames",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "10:00",
+    "match_date": "2025-12-17",
+    "match_time": "10:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=169",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU4LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "SeattleKraken-ColoradoAvalanche",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Seattle Kraken",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png"
+    },
+    "team2": {
+      "name": "Colorado Avalanche",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png"
+    },
+    "kickoff_date": "2025-12-17",
+    "kickoff_time": "10:00",
+    "match_date": "2025-12-17",
+    "match_time": "10:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=170",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU5LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
   },
   {
     "id": "SacramentoKings-PortlandTrailBlazers",
@@ -1010,52 +1678,6 @@
     ]
   },
   {
-    "id": "CalgaryFlames-SanJoseSharks",
-    "league": "Hockey",
-    "team1": {
-      "name": "Calgary Flames",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png"
-    },
-    "team2": {
-      "name": "San Jose Sharks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sj.png"
-    },
-    "kickoff_date": "2025-12-17",
-    "kickoff_time": "10:00",
-    "match_date": "2025-12-17",
-    "match_time": "10:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU4LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ColoradoAvalanche-SeattleKraken",
-    "league": "Hockey",
-    "team1": {
-      "name": "Colorado Avalanche",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png"
-    },
-    "team2": {
-      "name": "Seattle Kraken",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png"
-    },
-    "kickoff_date": "2025-12-17",
-    "kickoff_time": "10:00",
-    "match_date": "2025-12-17",
-    "match_time": "10:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU5LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "TroyTrojans-JacksonvilleStateGamecocks",
     "league": "Ncaa Division",
     "team1": {
@@ -1074,213 +1696,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "SanAntonioSpurs-NewYorkKnicks",
-    "league": "Basketball",
-    "team1": {
-      "name": "San Antonio Spurs",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
-    },
-    "team2": {
-      "name": "New York Knicks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
-    },
-    "kickoff_date": "2025-12-17",
-    "kickoff_time": "08:30",
-    "match_date": "2025-12-17",
-    "match_time": "08:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY1LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "WashingtonCapitals-MinnesotaWild",
-    "league": "Hockey",
-    "team1": {
-      "name": "Washington Capitals",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png"
-    },
-    "team2": {
-      "name": "Minnesota Wild",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png"
-    },
-    "kickoff_date": "2025-12-17",
-    "kickoff_time": "08:00",
-    "match_date": "2025-12-17",
-    "match_time": "08:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU3LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "EdmontonOilers-PittsburghPenguins",
-    "league": "Hockey",
-    "team1": {
-      "name": "Edmonton Oilers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png"
-    },
-    "team2": {
-      "name": "Pittsburgh Penguins",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png"
-    },
-    "kickoff_date": "2025-12-17",
-    "kickoff_time": "07:30",
-    "match_date": "2025-12-17",
-    "match_time": "07:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU2LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "UtahMammoth-BostonBruins",
-    "league": "Hockey",
-    "team1": {
-      "name": "Utah Mammoth",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/uta.png"
-    },
-    "team2": {
-      "name": "Boston Bruins",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png"
-    },
-    "kickoff_date": "2025-12-17",
-    "kickoff_time": "07:00",
-    "match_date": "2025-12-17",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ChicagoBlackhawks-TorontoMapleLeafs",
-    "league": "Hockey",
-    "team1": {
-      "name": "Chicago Blackhawks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png"
-    },
-    "team2": {
-      "name": "Toronto Maple Leafs",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png"
-    },
-    "kickoff_date": "2025-12-17",
-    "kickoff_time": "07:00",
-    "match_date": "2025-12-17",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "PhiladelphiaFlyers-MontrealCanadiens",
-    "league": "Hockey",
-    "team1": {
-      "name": "Philadelphia Flyers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png"
-    },
-    "team2": {
-      "name": "Montreal Canadiens",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png"
-    },
-    "kickoff_date": "2025-12-17",
-    "kickoff_time": "07:00",
-    "match_date": "2025-12-17",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUyLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NewYorkIslanders-DetroitRedWings",
-    "league": "Hockey",
-    "team1": {
-      "name": "New York Islanders",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyi.png"
-    },
-    "team2": {
-      "name": "Detroit Red Wings",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png"
-    },
-    "kickoff_date": "2025-12-17",
-    "kickoff_time": "07:00",
-    "match_date": "2025-12-17",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUzLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "VancouverCanucks-NewYorkRangers",
-    "league": "Hockey",
-    "team1": {
-      "name": "Vancouver Canucks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/van.png"
-    },
-    "team2": {
-      "name": "New York Rangers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png"
-    },
-    "kickoff_date": "2025-12-17",
-    "kickoff_time": "07:00",
-    "match_date": "2025-12-17",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU0LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "AnaheimDucks-ColumbusBlueJackets",
-    "league": "Hockey",
-    "team1": {
-      "name": "Anaheim Ducks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png"
-    },
-    "team2": {
-      "name": "Columbus Blue Jackets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png"
-    },
-    "kickoff_date": "2025-12-17",
-    "kickoff_time": "07:00",
-    "match_date": "2025-12-17",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU1LnBocA==",
         "label": "CH-EN"
       }
     ]
