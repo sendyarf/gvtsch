@@ -536,207 +536,6 @@
     "servers": []
   },
   {
-    "id": "ExcelsiorMaassluis-Ajax",
-    "league": "Netherlands - KNVB Beker",
-    "team1": {
-      "name": "Excelsior Maassluis",
-      "logo": "https://static.flashscore.com/res/image/data/UeGTpG6k-MmJR61Cd.png"
-    },
-    "team2": {
-      "name": "Ajax",
-      "logo": "https://static.flashscore.com/res/image/data/hEQxyYA6-bZZPiwAI.png"
-    },
-    "kickoff_date": "2025-12-18",
-    "kickoff_time": "00:45",
-    "match_date": "2025-12-18",
-    "match_time": "00:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=142",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=96",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "PAOK-Marko",
-    "league": "Greece - Greek Cup",
-    "team1": {
-      "name": "PAOK",
-      "logo": "https://static.flashscore.com/res/image/data/StctWES0-pvWT1yik.png"
-    },
-    "team2": {
-      "name": "Marko",
-      "logo": "https://static.flashscore.com/res/image/data/bNF3nH7k-U9jq4v62.png"
-    },
-    "kickoff_date": "2025-12-18",
-    "kickoff_time": "01:00",
-    "match_date": "2025-12-18",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=148",
-        "label": "CH-GR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd3",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "Albacete-CeltaVigo",
-    "league": "Spain - Copa del Rey",
-    "team1": {
-      "name": "Albacete",
-      "logo": "https://static.flashscore.com/res/image/data/Iw3DqQoe-6Hv9WIoj.png"
-    },
-    "team2": {
-      "name": "Celta Vigo",
-      "logo": "https://static.flashscore.com/res/image/data/INW8oRBN-SOY3p1Si.png"
-    },
-    "kickoff_date": "2025-12-18",
-    "kickoff_time": "01:00",
-    "match_date": "2025-12-18",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=164",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd9",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "Baleares-AtlMadrid",
-    "league": "Spain - Copa del Rey",
-    "team1": {
-      "name": "Baleares",
-      "logo": "https://static.flashscore.com/res/image/data/zBstsgjC-2ROn1aRj.png"
-    },
-    "team2": {
-      "name": "Atl. Madrid",
-      "logo": "https://static.flashscore.com/res/image/data/Kv2QSkhT-nLBjwR1F.png"
-    },
-    "kickoff_date": "2025-12-18",
-    "kickoff_time": "01:00",
-    "match_date": "2025-12-18",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Huesca-Osasuna",
-    "league": "Spain - Copa del Rey",
-    "team1": {
-      "name": "Huesca",
-      "logo": "https://static.flashscore.com/res/image/data/pMpCvJkC-EkA5g8Rs.png"
-    },
-    "team2": {
-      "name": "Osasuna",
-      "logo": "https://static.flashscore.com/res/image/data/UTfY3r86-Yu8w588N.png"
-    },
-    "kickoff_date": "2025-12-18",
-    "kickoff_time": "01:00",
-    "match_date": "2025-12-18",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=165",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=81",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd11",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "RacingSantander-Villarreal",
-    "league": "Spain - Copa del Rey",
-    "team1": {
-      "name": "Racing Santander",
-      "logo": "https://static.flashscore.com/res/image/data/UcT1DDUH-MsWrauH8.png"
-    },
-    "team2": {
-      "name": "Villarreal",
-      "logo": "https://static.flashscore.com/res/image/data/EBxZSOjT-GSuwY3p9.png"
-    },
-    "kickoff_date": "2025-12-18",
-    "kickoff_time": "01:00",
-    "match_date": "2025-12-18",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=163",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=82",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd8",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "ZalgirisKaunas-AnadoluEfes",
-    "league": "Europe - Euroleague",
-    "team1": {
-      "name": "Zalgiris Kaunas",
-      "logo": "https://static.flashscore.com/res/image/data/6TE3tK8k-t6LeClkp.png"
-    },
-    "team2": {
-      "name": "Anadolu Efes",
-      "logo": "https://static.flashscore.com/res/image/data/zDVhqpjT-YyjX4CW6.png"
-    },
-    "kickoff_date": "2025-12-18",
-    "kickoff_time": "01:00",
-    "match_date": "2025-12-18",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=64",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "CasaPia-Torreense",
     "league": "Portugal - Taça de Portugal",
     "team1": {
@@ -2006,6 +1805,37 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMwLnBocA==",
         "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "AtlticoMadrid-AtlticoBaleares",
+    "league": "Football",
+    "team1": {
+      "name": "Atl. Madrid",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+    },
+    "team2": {
+      "name": "Atlético Baleares",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-18",
+    "kickoff_time": "01:00",
+    "match_date": "2025-12-18",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUucGhw",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv1",
+        "label": "CH-2"
       }
     ]
   }
