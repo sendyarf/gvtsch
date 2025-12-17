@@ -1,32 +1,5 @@
 [
   {
-    "id": "Farense-Benfica",
-    "league": "Coupe Du Portugal",
-    "team1": {
-      "name": "Farense",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Benfica",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-18",
-    "kickoff_time": "03:45",
-    "match_date": "2025-12-18",
-    "match_time": "03:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=144",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=81",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "FloridaPanthers-LosAngelesKings",
     "league": "NHL",
     "team1": {
