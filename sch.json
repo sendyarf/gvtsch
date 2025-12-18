@@ -908,37 +908,6 @@
     "servers": []
   },
   {
-    "id": "SantaClara-Sporting",
-    "league": "Portugal - Taça de Portugal",
-    "team1": {
-      "name": "Santa Clara",
-      "logo": "https://static.flashscore.com/res/image/data/nN0lc3gT-MFVHqOh7.png"
-    },
-    "team2": {
-      "name": "Sporting",
-      "logo": "https://static.flashscore.com/res/image/data/jy2lEHBN-Ys9o4HYr.png"
-    },
-    "kickoff_date": "2025-12-19",
-    "kickoff_time": "01:45",
-    "match_date": "2025-12-19",
-    "match_time": "01:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=144",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=82",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv1",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
     "id": "FCVolendam-Genemuiden",
     "league": "Netherlands - KNVB Beker",
     "team1": {
