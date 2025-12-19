@@ -2052,137 +2052,6 @@
     "servers": []
   },
   {
-    "id": "Kocaelispor-Antalyaspor",
-    "league": "Super Lig",
-    "team1": {
-      "name": "Kocaelispor",
-      "logo": "https://static.flashscore.com/res/image/data/MmgQ3IA6-pfQVcl7E.png"
-    },
-    "team2": {
-      "name": "Antalyaspor",
-      "logo": "https://static.flashscore.com/res/image/data/S6yZui5k-ptkIYGIF.png"
-    },
-    "kickoff_date": "2025-12-20",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-20",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=151",
-        "label": "CH-TR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd9",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "bundesliga2konferenz",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "bundesliga 2 konferenz -",
-      "logo": ""
-    },
-    "team2": {
-      "name": "",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-20",
-    "kickoff_time": "00:30",
-    "match_date": "2025-12-20",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=112",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "HerthaBerlin-ArminiaBielefeld",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Hertha Berlin",
-      "logo": "https://static.flashscore.com/res/image/data/j1FIuRAN-M145xF2s.png"
-    },
-    "team2": {
-      "name": "Arminia Bielefeld",
-      "logo": "https://static.flashscore.com/res/image/data/tbqzXYS0-GOBDm2OL.png"
-    },
-    "kickoff_date": "2025-12-20",
-    "kickoff_time": "00:30",
-    "match_date": "2025-12-20",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=113",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=78",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Paderborn-Darmstadt",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Paderborn",
-      "logo": "https://static.flashscore.com/res/image/data/6ufhxjSq-Qmnf8wEL.png"
-    },
-    "team2": {
-      "name": "Darmstadt",
-      "logo": "https://static.flashscore.com/res/image/data/hbrmZHCN-hnEPJbbt.png"
-    },
-    "kickoff_date": "2025-12-20",
-    "kickoff_time": "00:30",
-    "match_date": "2025-12-20",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=114",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd11",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven2",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "AnadoluEfes-Dubai",
-    "league": "Europe - Euroleague",
-    "team1": {
-      "name": "Anadolu Efes",
-      "logo": "https://static.flashscore.com/res/image/data/zDVhqpjT-YyjX4CW6.png"
-    },
-    "team2": {
-      "name": "Dubai",
-      "logo": "https://static.flashscore.com/res/image/data/tQaiVdWH-8UKNAPGH.png"
-    },
-    "kickoff_date": "2025-12-20",
-    "kickoff_time": "00:30",
-    "match_date": "2025-12-20",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=64",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "ZalgirisKaunas-Partizan",
     "league": "Europe - Euroleague",
     "team1": {
@@ -7529,6 +7398,142 @@
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=144",
+        "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=74",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Egypte-Zimbabwe",
+    "league": "Can",
+    "team1": {
+      "name": "Egypt",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Zimbabwe",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-23",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-23",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=61",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "AthBilbao-Espanyol",
+    "league": "Spain - LaLiga",
+    "team1": {
+      "name": "Ath Bilbao",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Espanyol",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-23",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-23",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=7",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=49",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Fulham-Nottingham",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Fulham",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Nottingham",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-23",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-23",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=12",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=127",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=57",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=120",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Benfica-Famalicao",
+    "league": "Liga Portugal",
+    "team1": {
+      "name": "Benfica",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Famalicao",
+      "logo": ""
+    },
+    "kickoff_date": "2025-12-23",
+    "kickoff_time": "03:45",
+    "match_date": "2025-12-23",
+    "match_time": "03:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=145",
         "label": "CH-PT"
       },
       {
