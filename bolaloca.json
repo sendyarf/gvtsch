@@ -1,32 +1,5 @@
 [
   {
-    "id": "DallasMavericks-DetroitPistons",
-    "league": "NBA",
-    "team1": {
-      "name": "Dallas Mavericks",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Detroit Pistons",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-19",
-    "kickoff_time": "08:30",
-    "match_date": "2025-12-19",
-    "match_time": "08:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=176",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
     "id": "DenverNuggets-OrlandoMagic",
     "league": "NBA",
     "team1": {
