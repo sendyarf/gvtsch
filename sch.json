@@ -869,7 +869,32 @@
     "match_date": "2025-12-20",
     "match_time": "15:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xNzA0MzAubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81NTI3MTYubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMzIzNDMubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81NDczNDUubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MjczODQubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80Nzk4NDkubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Persebaya-Borneo",
@@ -887,7 +912,20 @@
     "match_date": "2025-12-20",
     "match_time": "19:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80OTE4NzMubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80NzIyNDEubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMTM5NzEubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Persita-PersikKediri",
