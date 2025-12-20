@@ -126,34 +126,6 @@
         "label": "CH-EN"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=120",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=72",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=73",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd1",
         "label": "CH-1"
       },
@@ -344,22 +316,6 @@
       {
         "url": "https://multi.govoet.cc/?shaka=cbssports",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=98",
-        "label": "CH-ES"
       },
       {
         "url": "https://multi.govoet.my.id/?ss=hd7",
@@ -564,14 +520,6 @@
       {
         "url": "https://multi.govoet.cc/?jw=ziggosp",
         "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=94",
-        "label": "CH-ES"
       },
       {
         "url": "https://multi.govoet.my.id/?ss=eleven2",
@@ -1058,12 +1006,7 @@
     "match_date": "2025-12-21",
     "match_time": "00:45",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=142",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Nijmegen-Ajax",
@@ -1291,18 +1234,6 @@
     "match_time": "00:30",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=116",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd3",
         "label": "CH-1"
@@ -1630,345 +1561,6 @@
     "match_time": "19:00",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "MultiplexCoupedeFrance",
-    "league": "Coupe De France",
-    "team1": {
-      "name": "Multiplex Coupe de France -",
-      "logo": ""
-    },
-    "team2": {
-      "name": "",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-21",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Bthune-Sochaux",
-    "league": "Coupe De France",
-    "team1": {
-      "name": "Béthune",
-      "logo": "https://static.flashscore.com/res/image/data/ryXejblC-fcBZDcUd.png"
-    },
-    "team2": {
-      "name": "Sochaux",
-      "logo": "https://static.flashscore.com/res/image/data/xGAjiOiT-GU4hlIMk.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-21",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=8",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Grenoble-Nancy",
-    "league": "Coupe De France",
-    "team1": {
-      "name": "Grenoble",
-      "logo": "https://static.flashscore.com/res/image/data/vmEDOI6k-Q1gteDfA.png"
-    },
-    "team2": {
-      "name": "Nancy",
-      "logo": "https://static.flashscore.com/res/image/data/bwZ427R0-Q15G9lAm.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-21",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=6",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "LyonLaDuchre-Toulouse",
-    "league": "Coupe De France",
-    "team1": {
-      "name": "Lyon-La Duchère",
-      "logo": "https://static.flashscore.com/res/image/data/d6eJgcDN-8lNFYbMi.png"
-    },
-    "team2": {
-      "name": "Toulouse",
-      "logo": "https://static.flashscore.com/res/image/data/AskYUH8k-COxgbCEm.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-21",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=4",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=105",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=70",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Pontivy-Bastia",
-    "league": "Coupe De France",
-    "team1": {
-      "name": "Pontivy",
-      "logo": "https://static.flashscore.com/res/image/data/IydtNPBN-YTBg3aOF.png"
-    },
-    "team2": {
-      "name": "Bastia",
-      "logo": "https://static.flashscore.com/res/image/data/joJrcijT-h6Qq9yDN.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-21",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=7",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Raonltape-ParisFC",
-    "league": "Coupe De France",
-    "team1": {
-      "name": "Raon-l'Étape",
-      "logo": "https://static.flashscore.com/res/image/data/jyPyeEhT-M7RIBtiN.png"
-    },
-    "team2": {
-      "name": "Paris FC",
-      "logo": "https://static.flashscore.com/res/image/data/S85qoCiT-AelKXger.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-21",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=5",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "SAMerignac-Istres",
-    "league": "Coupe De France",
-    "team1": {
-      "name": "SA Merignac",
-      "logo": "https://static.flashscore.com/res/image/data/OQUxstQq-nZYwIYPB.png"
-    },
-    "team2": {
-      "name": "Istres",
-      "logo": "https://static.flashscore.com/res/image/data/ptLtOM5k-2F0lpb5r.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-21",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=9",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "BasquetGirona-Tenerife",
-    "league": "Liga Endesa",
-    "team1": {
-      "name": "Basquet Girona",
-      "logo": "https://static.flashscore.com/res/image/data/b1j2quSq-j9n48rs9.png"
-    },
-    "team2": {
-      "name": "Tenerife",
-      "logo": "https://static.flashscore.com/res/image/data/fX6sJejT-jkCvWF0A.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-21",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=66",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Besiktas-Rizespor",
-    "league": "Super Lig",
-    "team1": {
-      "name": "Besiktas",
-      "logo": "https://static.flashscore.com/res/image/data/vPefzDlC-UcWWlFia.png"
-    },
-    "team2": {
-      "name": "Rizespor",
-      "logo": "https://static.flashscore.com/res/image/data/W4mOfm86-rZkRF8yE.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-21",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=151",
-        "label": "CH-TR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=78",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=93",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd9",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv5",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Westerlo-RAALLaLouviere",
-    "league": "Pro League",
-    "team1": {
-      "name": "Westerlo",
-      "logo": "https://static.flashscore.com/res/image/data/vaQpHW86-ht99hStl.png"
-    },
-    "team2": {
-      "name": "RAAL La Louviere",
-      "logo": "https://static.flashscore.com/res/image/data/YoXc17iT-2LLiS83t.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:15",
-    "match_date": "2025-12-21",
-    "match_time": "00:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=153",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Leganes-Gijon",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Leganes",
-      "logo": "https://static.flashscore.com/res/image/data/C4WkaSlC-Q3zX1dyT.png"
-    },
-    "team2": {
-      "name": "Gijon",
-      "logo": "https://static.flashscore.com/res/image/data/ziVpaDjC-bBonCJxo.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:30",
-    "match_date": "2025-12-21",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "NewYorkRangers-PhiladelphiaFlyers",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "New York Rangers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png"
-    },
-    "team2": {
-      "name": "Philadelphia Flyers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:30",
-    "match_date": "2025-12-21",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=160",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "WashingtonCapitals-DetroitRedWings",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Washington Capitals",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png"
-    },
-    "team2": {
-      "name": "Detroit Red Wings",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:30",
-    "match_date": "2025-12-21",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=10",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=161",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
   },
   {
     "id": "EspanyolF-RealMadridF",
@@ -5728,6 +5320,52 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQ4LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "PhiladelphiaFlyers-NewYorkRangers",
+    "league": "Hockey",
+    "team1": {
+      "name": "Philadelphia Flyers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png"
+    },
+    "team2": {
+      "name": "New York Rangers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png"
+    },
+    "kickoff_date": "2025-12-21",
+    "kickoff_time": "00:30",
+    "match_date": "2025-12-21",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUwLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "DetroitRedWings-WashingtonCapitals",
+    "league": "Hockey",
+    "team1": {
+      "name": "Detroit Red Wings",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png"
+    },
+    "team2": {
+      "name": "Washington Capitals",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png"
+    },
+    "kickoff_date": "2025-12-21",
+    "kickoff_time": "00:30",
+    "match_date": "2025-12-21",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUxLnBocA==",
         "label": "CH-EN"
       }
     ]
