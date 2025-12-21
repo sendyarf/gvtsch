@@ -309,10 +309,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd7",
         "label": "CH-1"
       },
@@ -377,24 +373,7 @@
     "match_date": "2025-12-22",
     "match_time": "03:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=5",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=94",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "AthBilbao-Espanyol",
@@ -518,79 +497,6 @@
     "match_time": "19:00",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Lyon-SaintCyrCollonges",
-    "league": "France - Coupe De France",
-    "team1": {
-      "name": "Lyon",
-      "logo": "https://static.flashscore.com/res/image/data/bkuX6RS0-GU4hlIMk.png"
-    },
-    "team2": {
-      "name": "Saint-Cyr Collonges",
-      "logo": "https://static.flashscore.com/res/image/data/vuvMYoiC-E5f2QgyD.png"
-    },
-    "kickoff_date": "2025-12-22",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-22",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=105",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "CadixCF-Castellon",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Cadix CF",
-      "logo": "https://static.flashscore.com/res/image/data/rPA6TR86-EPWyZtpb.png"
-    },
-    "team2": {
-      "name": "Castellon",
-      "logo": "https://static.flashscore.com/res/image/data/AowBBF6k-zBFXR8iF.png"
-    },
-    "kickoff_date": "2025-12-22",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-22",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "BordeauxBgles-RCToulon",
-    "league": "Top 14",
-    "team1": {
-      "name": "Bordeaux Bègles",
-      "logo": ""
-    },
-    "team2": {
-      "name": "RC Toulon",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-22",
-    "kickoff_time": "03:05",
-    "match_date": "2025-12-22",
-    "match_time": "03:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=11",
-        "label": "CH-FR"
-      }
-    ]
   },
   {
     "id": "SantaClara-Arouca",
