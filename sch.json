@@ -178,18 +178,6 @@
         "label": "CH-EN"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=97",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
         "label": "CH-EN"
       },
@@ -365,60 +353,6 @@
     ]
   },
   {
-    "id": "Tottenham-Liverpool",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Tottenham",
-      "logo": "https://static.flashscore.com/res/image/data/v3SzDxVH-Ig5FKJZ5.png"
-    },
-    "team2": {
-      "name": "Liverpool",
-      "logo": "https://static.flashscore.com/res/image/data/nBClzyne-KCp4zq5F.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:30",
-    "match_date": "2025-12-21",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Everton-Arsenal",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Everton",
-      "logo": "https://static.flashscore.com/res/image/data/EBfZuwme-bRmKmISE.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://static.flashscore.com/res/image/data/0n1ffK6k-vcNAdtF9.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-21",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Leeds-CrystalPalace",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Leeds",
-      "logo": "https://static.flashscore.com/res/image/data/lvs4WW5k-MTp25XgE.png"
-    },
-    "team2": {
-      "name": "Crystal Palace",
-      "logo": "https://static.flashscore.com/res/image/data/GfkvlLmC-pzMOQXRe.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-21",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
     "id": "Fulham-Nottingham",
     "league": "England - Premier League",
     "team1": {
@@ -470,308 +404,6 @@
     ]
   },
   {
-    "id": "Excelsior-Zwolle",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "Excelsior",
-      "logo": "https://static.flashscore.com/res/image/data/82r5rXU0-GOuuvzfL.png"
-    },
-    "team2": {
-      "name": "Zwolle",
-      "logo": "https://static.flashscore.com/res/image/data/jDtO0Y5k-vFbzuVd5.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:45",
-    "match_date": "2025-12-21",
-    "match_time": "00:45",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Nijmegen-Ajax",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "Nijmegen",
-      "logo": "https://static.flashscore.com/res/image/data/C8FCtESq-4vob7cTR.png"
-    },
-    "team2": {
-      "name": "Ajax",
-      "logo": "https://static.flashscore.com/res/image/data/hEQxyYA6-bZZPiwAI.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "02:00",
-    "match_date": "2025-12-21",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "NACBreda-Telstar",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "NAC Breda",
-      "logo": "https://static.flashscore.com/res/image/data/IVhDS6UH-voRxy8ml.png"
-    },
-    "team2": {
-      "name": "Telstar",
-      "logo": "https://static.flashscore.com/res/image/data/d46y71iT-xxe4Fem8.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-21",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Utrecht-PSV",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "Utrecht",
-      "logo": "https://static.flashscore.com/res/image/data/hWQdBH7k-4vob7cTR.png"
-    },
-    "team2": {
-      "name": "PSV",
-      "logo": "https://static.flashscore.com/res/image/data/fefX7RQq-j5zA1baQ.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "18:15",
-    "match_date": "2025-12-21",
-    "match_time": "18:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd10",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Feyenoord-Twente",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "Feyenoord",
-      "logo": "https://static.flashscore.com/res/image/data/Ag6J0jT0-Wz6bfhxO.png"
-    },
-    "team2": {
-      "name": "Twente",
-      "logo": "https://static.flashscore.com/res/image/data/Uo9lu6le-4vob7cTR.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "20:30",
-    "match_date": "2025-12-21",
-    "match_time": "20:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd11",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br6",
-        "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "GAEagles-Groningen",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "G.A. Eagles",
-      "logo": "https://static.flashscore.com/res/image/data/4IPDw4ne-x4Xh4Pu0.png"
-    },
-    "team2": {
-      "name": "Groningen",
-      "logo": "https://static.flashscore.com/res/image/data/AJOIh8jT-E5fitKGe.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "20:30",
-    "match_date": "2025-12-21",
-    "match_time": "20:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "FCVolendam-SpartaRotterdam",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "FC Volendam",
-      "logo": "https://static.flashscore.com/res/image/data/8tDUPO86-WYtEUtB2.png"
-    },
-    "team2": {
-      "name": "Sparta Rotterdam",
-      "logo": "https://static.flashscore.com/res/image/data/MHUzob96-rTjpk23j.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "22:45",
-    "match_date": "2025-12-21",
-    "match_time": "22:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=147",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "Sittard-AZAlkmaar",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "Sittard",
-      "logo": "https://static.flashscore.com/res/image/data/2Z2jcUT0-EFoqxv3t.png"
-    },
-    "team2": {
-      "name": "AZ Alkmaar",
-      "logo": "https://static.flashscore.com/res/image/data/v9zOEImC-4vob7cTR.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "22:45",
-    "match_date": "2025-12-21",
-    "match_time": "22:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=142",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=99",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd10",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "RBLeipzig-BayerLeverkusen",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "RB Leipzig",
-      "logo": "https://static.flashscore.com/res/image/data/fNS5fTmC-WvvSE8Dm.png"
-    },
-    "team2": {
-      "name": "Bayer Leverkusen",
-      "logo": "https://static.flashscore.com/res/image/data/dWZYQIPq-WrjrBuU2.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:30",
-    "match_date": "2025-12-21",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Mainz-StPauli",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "Mainz",
-      "logo": "https://static.flashscore.com/res/image/data/tbR3gUTH-EoYxhN5r.png"
-    },
-    "team2": {
-      "name": "St. Pauli",
-      "logo": "https://static.flashscore.com/res/image/data/QHdIUX96-ncmj9JbF.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "21:30",
-    "match_date": "2025-12-21",
-    "match_time": "21:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=116",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=91",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEwLnBocA==",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd3",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "Juventus-ASRoma",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Juventus",
-      "logo": "https://static.flashscore.com/res/image/data/xxLGMOlC-EXzXDYgS.png"
-    },
-    "team2": {
-      "name": "AS Roma",
-      "logo": "https://static.flashscore.com/res/image/data/j31Z1pne-GtNb9h2q.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "02:45",
-    "match_date": "2025-12-21",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Fiorentina-Udinese",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Fiorentina",
-      "logo": "https://static.flashscore.com/res/image/data/fZhEFLjT-6XKdgOM6.png"
-    },
-    "team2": {
-      "name": "Udinese",
-      "logo": "https://static.flashscore.com/res/image/data/277EtfPq-SYw7EcY6.png"
-    },
-    "kickoff_date": "2025-12-22",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-22",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=97",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=70",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv2",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
     "id": "Genoa-Atalanta",
     "league": "Italy - Serie A",
     "team1": {
@@ -809,42 +441,6 @@
         "label": "CH-3"
       }
     ]
-  },
-  {
-    "id": "Osasuna-Alaves",
-    "league": "Spain - LaLiga",
-    "team1": {
-      "name": "Osasuna",
-      "logo": "https://static.flashscore.com/res/image/data/UTfY3r86-Yu8w588N.png"
-    },
-    "team2": {
-      "name": "Alaves",
-      "logo": "https://static.flashscore.com/res/image/data/4rBxR4R0-4U3vjZKk.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "00:30",
-    "match_date": "2025-12-21",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "RealMadrid-Sevilla",
-    "league": "Spain - LaLiga",
-    "team1": {
-      "name": "Real Madrid",
-      "logo": "https://static.flashscore.com/res/image/data/CGPhnpne-ttfpEDUq.png"
-    },
-    "team2": {
-      "name": "Sevilla",
-      "logo": "https://static.flashscore.com/res/image/data/EcTGi086-tIT0KyhE.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-21",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": []
   },
   {
     "id": "Elche-RayoVallecano",
@@ -988,92 +584,6 @@
     ]
   },
   {
-    "id": "Persita-PersikKediri",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Persita",
-      "logo": "https://static.flashscore.com/res/image/data/zZLAaUT0-Mw6HAN8i.png"
-    },
-    "team2": {
-      "name": "Persik Kediri",
-      "logo": "https://static.flashscore.com/res/image/data/pbvGiliT-fudV7NWp.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "15:30",
-    "match_date": "2025-12-21",
-    "match_time": "15:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80Nzk4NDkubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMjI3NzQubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MDA2MDUubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MTMzOTQubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8yNTA4NzQubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MDA3MjIubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
-  },
-  {
-    "id": "PSMMakassar-MalutUnited",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "PSM Makassar",
-      "logo": "https://static.flashscore.com/res/image/data/j7AOPb6k-jNkiROW3.png"
-    },
-    "team2": {
-      "name": "Malut United",
-      "logo": "https://static.flashscore.com/res/image/data/4UwHHmne-IijC3nOP.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "15:30",
-    "match_date": "2025-12-21",
-    "match_time": "15:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MjczODQubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MzQ5ODIubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MDE0MTIubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81NDczNDUubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xNDc4MDEubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMzIzNDMubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
-  },
-  {
     "id": "PSBSBiakNumfor-BaliUnited",
     "league": "Indonesia - Super League",
     "team1": {
@@ -1144,6 +654,45 @@
     "match_time": "19:00",
     "duration": "3.5",
     "servers": []
+  },
+  {
+    "id": "Mayence-StPauli",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Mainz",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png"
+    },
+    "team2": {
+      "name": "St. Pauli",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png"
+    },
+    "kickoff_date": "2025-12-21",
+    "kickoff_time": "21:30",
+    "match_date": "2025-12-21",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=116",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=91",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEwLnBocA==",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Celtic-Aberdeen",
@@ -1284,6 +833,60 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=144",
         "label": "CH-PT"
+      }
+    ]
+  },
+  {
+    "id": "FCVolendam-SpartaRotterdam",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "FC Volendam",
+      "logo": "https://static.flashscore.com/res/image/data/8tDUPO86-WYtEUtB2.png"
+    },
+    "team2": {
+      "name": "Sparta Rotterdam",
+      "logo": "https://static.flashscore.com/res/image/data/MHUzob96-rTjpk23j.png"
+    },
+    "kickoff_date": "2025-12-21",
+    "kickoff_time": "22:45",
+    "match_date": "2025-12-21",
+    "match_time": "22:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=147",
+        "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "Sittard-Alkmaar",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Sittard",
+      "logo": "https://static.flashscore.com/res/image/data/2Z2jcUT0-EFoqxv3t.png"
+    },
+    "team2": {
+      "name": "AZ Alkmaar",
+      "logo": "https://static.flashscore.com/res/image/data/v9zOEImC-4vob7cTR.png"
+    },
+    "kickoff_date": "2025-12-21",
+    "kickoff_time": "22:45",
+    "match_date": "2025-12-21",
+    "match_time": "22:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=142",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=99",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-1"
       }
     ]
   },
@@ -1472,6 +1075,49 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=105",
         "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Fiorentina-Udinese",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Fiorentina",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
+    },
+    "team2": {
+      "name": "Udinese",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
+    },
+    "kickoff_date": "2025-12-22",
+    "kickoff_time": "00:00",
+    "match_date": "2025-12-22",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=138",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=97",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv2",
+        "label": "CH-2"
       }
     ]
   },
