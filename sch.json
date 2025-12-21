@@ -168,10 +168,6 @@
       {
         "url": "https://multi.govoet.cc/?shaka=bein3aus",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
       }
     ]
   },
@@ -590,56 +586,6 @@
     "match_time": "19:00",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "FCVolendam-SpartaRotterdam",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "FC Volendam",
-      "logo": "https://static.flashscore.com/res/image/data/8tDUPO86-WYtEUtB2.png"
-    },
-    "team2": {
-      "name": "Sparta Rotterdam",
-      "logo": "https://static.flashscore.com/res/image/data/MHUzob96-rTjpk23j.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "22:45",
-    "match_date": "2025-12-21",
-    "match_time": "22:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=147",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "Sittard-Alkmaar",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "Sittard",
-      "logo": "https://static.flashscore.com/res/image/data/2Z2jcUT0-EFoqxv3t.png"
-    },
-    "team2": {
-      "name": "AZ Alkmaar",
-      "logo": "https://static.flashscore.com/res/image/data/v9zOEImC-4vob7cTR.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "22:45",
-    "match_date": "2025-12-21",
-    "match_time": "22:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=142",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=99",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "Murcia-Valence",
@@ -3023,29 +2969,6 @@
     ]
   },
   {
-    "id": "UNLVRebels-OhioBobcats",
-    "league": "Ncaa Division",
-    "team1": {
-      "name": "UNLV Rebels",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png"
-    },
-    "team2": {
-      "name": "Ohio Bobcats",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/195.png"
-    },
-    "kickoff_date": "2025-12-24",
-    "kickoff_time": "09:00",
-    "match_date": "2025-12-24",
-    "match_time": "09:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMyLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "PhiladelphiaFlyers-ChicagoBlackhawks",
     "league": "Hockey",
     "team1": {
@@ -3110,6 +3033,29 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYwLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "UNLVRebels-OhioBobcats",
+    "league": "Ncaa Division",
+    "team1": {
+      "name": "UNLV Rebels",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png"
+    },
+    "team2": {
+      "name": "Ohio Bobcats",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/195.png"
+    },
+    "kickoff_date": "2025-12-24",
+    "kickoff_time": "09:00",
+    "match_date": "2025-12-24",
+    "match_time": "09:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMyLnBocA==",
         "label": "CH-EN"
       }
     ]
@@ -3616,29 +3562,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "StPauli-Mainz",
-    "league": "Football",
-    "team1": {
-      "name": "St. Pauli",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png"
-    },
-    "team2": {
-      "name": "Mainz",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png"
-    },
-    "kickoff_date": "2025-12-21",
-    "kickoff_time": "21:30",
-    "match_date": "2025-12-21",
-    "match_time": "21:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEwLnBocA==",
         "label": "CH-EN"
       }
     ]
