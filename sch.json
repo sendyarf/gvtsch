@@ -528,68 +528,6 @@
     "servers": []
   },
   {
-    "id": "AEK-OFICrete",
-    "league": "Greece - Super League",
-    "team1": {
-      "name": "AEK Athens",
-      "logo": "https://static.flashscore.com/res/image/data/ph8YRKne-Aq4Rjd2q.png"
-    },
-    "team2": {
-      "name": "OFI Crete",
-      "logo": "https://static.flashscore.com/res/image/data/OW14akRq-hOZ2RkTP.png"
-    },
-    "kickoff_date": "2025-12-22",
-    "kickoff_time": "02:00",
-    "match_date": "2025-12-22",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=150",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "Maroc-Comores",
-    "league": "Can",
-    "team1": {
-      "name": "Morocco",
-      "logo": "https://static.flashscore.com/res/image/data/r18xjQkC-hOurGDLS.png"
-    },
-    "team2": {
-      "name": "Comoros",
-      "logo": "https://static.flashscore.com/res/image/data/ClQfZ2oe-xlL4vXdH.png"
-    },
-    "kickoff_date": "2025-12-22",
-    "kickoff_time": "02:00",
-    "match_date": "2025-12-22",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=61",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br3",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
     "id": "Lyon-SaintCyrCollonges",
     "league": "France - Coupe De France",
     "team1": {
