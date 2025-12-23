@@ -1,51 +1,5 @@
 [
   {
-    "id": "ZalgirisKaunas-Panathinaikos",
-    "league": "EuroLeague",
-    "team1": {
-      "name": "Zalgiris Kaunas",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Panathinaikos",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-24",
-    "kickoff_time": "01:00",
-    "match_date": "2025-12-24",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=63",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "AlIttihadFCSau-NasafQarshiUzb",
-    "league": "Afc Ligue Des Champions",
-    "team1": {
-      "name": "Al-Ittihad FC (Sau)",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Nasaf Qarshi (Uzb)",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-24",
-    "kickoff_time": "01:15",
-    "match_date": "2025-12-24",
-    "match_time": "01:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=98",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "Bayern-HapoelTelAviv",
     "league": "EuroLeague",
     "team1": {
