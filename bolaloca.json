@@ -1,44 +1,5 @@
 [
   {
-    "id": "BurkinaFaso-Guinequatoriale",
-    "league": "CAN",
-    "team1": {
-      "name": "Burkina Faso",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Guinée Équatoriale",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-24",
-    "kickoff_time": "19:30",
-    "match_date": "2025-12-24",
-    "match_time": "19:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=61",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=81",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=125",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
     "id": "Algrie-Soudan",
     "league": "CAN",
     "team1": {
