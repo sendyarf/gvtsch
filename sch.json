@@ -185,14 +185,6 @@
       {
         "url": "https://multi.govoet.cc/?hls=psn2",
         "label": "CH-MN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-2"
       }
     ]
   },
@@ -443,18 +435,6 @@
       {
         "url": "https://multi.govoet.cc/?shaka=cbssports",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv2",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br2",
-        "label": "CH-3"
       }
     ]
   },
@@ -894,6 +874,22 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=70",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv2",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br2",
+        "label": "CH-4"
       }
     ]
   },
@@ -968,56 +964,6 @@
     "match_time": "15:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Zaragoza-Manresa",
-    "league": "Liga Endesa",
-    "team1": {
-      "name": "Zaragoza",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Manresa",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-28",
-    "kickoff_time": "01:00",
-    "match_date": "2025-12-28",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=66",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Famalicao-Estrela",
-    "league": "Liga Portugal",
-    "team1": {
-      "name": "Famalicao",
-      "logo": "https://static.flashscore.com/res/image/data/CpC7C67k-6PWOE9yD.png"
-    },
-    "team2": {
-      "name": "Estrela",
-      "logo": "https://static.flashscore.com/res/image/data/MDdmzPjC-OtN6V8lD.png"
-    },
-    "kickoff_date": "2025-12-28",
-    "kickoff_time": "01:00",
-    "match_date": "2025-12-28",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=144",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv1",
-        "label": "CH-1"
-      }
-    ]
   },
   {
     "id": "Grenade-Murcia",
@@ -3031,6 +2977,18 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=82",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv1",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br3",
+        "label": "CH-3"
       }
     ]
   },
@@ -3066,6 +3024,14 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=81",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv2",
+        "label": "CH-2"
       }
     ]
   },
@@ -3136,6 +3102,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=81",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-1"
       }
     ]
   },
@@ -3808,6 +3778,18 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=173",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv1",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br6",
+        "label": "CH-3"
       }
     ]
   },
@@ -4027,6 +4009,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=182",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br6",
+        "label": "CH-1"
       }
     ]
   },
@@ -4164,29 +4150,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDM0LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "PennStateNittanyLions-ClemsonTigers",
-    "league": "Ncaa Division",
-    "team1": {
-      "name": "Penn State Nittany Lions",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png"
-    },
-    "team2": {
-      "name": "Clemson Tigers",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png"
-    },
-    "kickoff_date": "2025-12-28",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-28",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMzLnBocA==",
         "label": "CH-EN"
       }
     ]
