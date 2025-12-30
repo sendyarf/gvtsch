@@ -1,40 +1,5 @@
 [
   {
-    "id": "AtlantaFalcons-LosAngelesRams",
-    "league": "NFL",
-    "team1": {
-      "name": "Atlanta Falcons",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Los Angeles Rams",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-30",
-    "kickoff_time": "08:15",
-    "match_date": "2025-12-30",
-    "match_time": "08:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=175",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=97",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "CalgaryFlames-BostonBruins",
     "league": "NHL",
     "team1": {
