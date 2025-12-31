@@ -1,28 +1,5 @@
 [
   {
-    "id": "ChicagoBlackhawks-NewYorkIslanders",
-    "league": "NHL",
-    "team1": {
-      "name": "Chicago Blackhawks",
-      "logo": ""
-    },
-    "team2": {
-      "name": "New York Islanders",
-      "logo": ""
-    },
-    "kickoff_date": "2025-12-31",
-    "kickoff_time": "08:30",
-    "match_date": "2025-12-31",
-    "match_time": "08:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=177",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
     "id": "UtahJazz-BostonCeltics",
     "league": "NBA",
     "team1": {
