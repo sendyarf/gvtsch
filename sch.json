@@ -778,114 +778,161 @@
     ]
   },
   {
-    "id": "PhiladelphiaFlyers-CalgaryFlames",
-    "league": "Hockey",
+    "id": "DetroitRedWings-WinnipegJets",
+    "league": "USA - NHL",
     "team1": {
-      "name": "Philadelphia Flyers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png"
+      "name": "Detroit Red Wings",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png"
     },
     "team2": {
-      "name": "Calgary Flames",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png"
+      "name": "Winnipeg Jets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wpg.png"
     },
     "kickoff_date": "2026-01-01",
-    "kickoff_time": "09:30",
+    "kickoff_time": "06:30",
     "match_date": "2026-01-01",
-    "match_time": "09:30",
+    "match_time": "06:30",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU4LnBocA==",
+        "url": "https://multi.govoet.my.id/?envivo=178",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU0LnBocA==",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "BostonBruins-EdmontonOilers",
-    "league": "Hockey",
+    "id": "ChicagoBulls-NewOrleansPelicans",
+    "league": "USA - NBA",
     "team1": {
-      "name": "Boston Bruins",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png"
+      "name": "Chicago Bulls",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png"
     },
     "team2": {
-      "name": "Edmonton Oilers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png"
+      "name": "New Orleans Pelicans",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png"
     },
     "kickoff_date": "2026-01-01",
-    "kickoff_time": "09:30",
+    "kickoff_time": "07:00",
     "match_date": "2026-01-01",
-    "match_time": "09:30",
+    "match_time": "07:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU5LnBocA==",
+        "url": "https://multi.govoet.my.id/?envivo=179",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY5LnBocA==",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "StLouisBlues-ColoradoAvalanche",
-    "league": "Hockey",
+    "id": "SanAntonioSpurs-NewYorkKnicks",
+    "league": "USA - NBA",
     "team1": {
-      "name": "St. Louis Blues",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/stl.png"
+      "name": "San Antonio Spurs",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
     },
     "team2": {
-      "name": "Colorado Avalanche",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png"
+      "name": "New York Knicks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
     },
     "kickoff_date": "2026-01-01",
-    "kickoff_time": "09:00",
+    "kickoff_time": "07:00",
     "match_date": "2026-01-01",
-    "match_time": "09:00",
+    "match_time": "07:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU3LnBocA==",
+        "url": "https://multi.govoet.my.id/?envivo=180",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcwLnBocA==",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "BuffaloSabres-DallasStars",
-    "league": "Hockey",
+    "id": "ColumbusBlueJackets-NewJerseyDevils",
+    "league": "USA - NHL",
     "team1": {
-      "name": "Buffalo Sabres",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png"
+      "name": "Columbus Blue Jackets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png"
     },
     "team2": {
-      "name": "Dallas Stars",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png"
+      "name": "New Jersey Devils",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nj.png"
     },
     "kickoff_date": "2026-01-01",
-    "kickoff_time": "08:00",
+    "kickoff_time": "07:00",
     "match_date": "2026-01-01",
-    "match_time": "08:00",
+    "match_time": "07:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU2LnBocA==",
+        "url": "https://multi.govoet.my.id/?envivo=181",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU1LnBocA==",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "WashingtonWizards-MilwaukeeBucks",
-    "league": "Basketball",
+    "id": "TorontoRaptors-DenverNuggets",
+    "league": "USA - NBA",
     "team1": {
-      "name": "Washington Wizards",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png"
+      "name": "Toronto Raptors",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
     },
     "team2": {
+      "name": "Denver Nuggets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png"
+    },
+    "kickoff_date": "2026-01-01",
+    "kickoff_time": "07:30",
+    "match_date": "2026-01-01",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=182",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcxLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "MilwaukeeBucks-WashingtonWizards",
+    "league": "USA - NBA",
+    "team1": {
       "name": "Milwaukee Bucks",
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png"
     },
+    "team2": {
+      "name": "Washington Wizards",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png"
+    },
     "kickoff_date": "2026-01-01",
     "kickoff_time": "08:00",
     "match_date": "2026-01-01",
     "match_time": "08:00",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=183",
+        "label": "CH-US"
+      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcyLnBocA==",
         "label": "CH-EN"
@@ -893,15 +940,15 @@
     ]
   },
   {
-    "id": "PortlandTrailBlazers-OklahomaCityThunder",
-    "league": "Basketball",
+    "id": "OklahomaCityThunder-PortlandTrailBlazers",
+    "league": "USA - NBA",
     "team1": {
-      "name": "Portland Trail Blazers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png"
-    },
-    "team2": {
       "name": "Oklahoma City Thunder",
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
+    },
+    "team2": {
+      "name": "Portland Trail Blazers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png"
     },
     "kickoff_date": "2026-01-01",
     "kickoff_time": "08:00",
@@ -909,6 +956,10 @@
     "match_time": "08:00",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=184",
+        "label": "CH-US"
+      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDczLnBocA==",
         "label": "CH-EN"
@@ -920,24 +971,109 @@
     ]
   },
   {
-    "id": "DenverNuggets-TorontoRaptors",
-    "league": "Basketball",
+    "id": "DallasStars-BuffaloSabres",
+    "league": "USA - NHL",
     "team1": {
-      "name": "Denver Nuggets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png"
+      "name": "Dallas Stars",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png"
     },
     "team2": {
-      "name": "Toronto Raptors",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
+      "name": "Buffalo Sabres",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png"
     },
     "kickoff_date": "2026-01-01",
-    "kickoff_time": "07:30",
+    "kickoff_time": "08:00",
     "match_date": "2026-01-01",
-    "match_time": "07:30",
+    "match_time": "08:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcxLnBocA==",
+        "url": "https://multi.govoet.my.id/?envivo=185",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU2LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "ColoradoAvalanche-StLouisBlues",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Colorado Avalanche",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png"
+    },
+    "team2": {
+      "name": "St. Louis Blues",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/stl.png"
+    },
+    "kickoff_date": "2026-01-01",
+    "kickoff_time": "09:00",
+    "match_date": "2026-01-01",
+    "match_time": "09:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=186",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU3LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "CalgaryFlames-PhiladelphiaFlyers",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Calgary Flames",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png"
+    },
+    "team2": {
+      "name": "Philadelphia Flyers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png"
+    },
+    "kickoff_date": "2026-01-01",
+    "kickoff_time": "09:30",
+    "match_date": "2026-01-01",
+    "match_time": "09:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=187",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU4LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "EdmontonOilers-BostonBruins",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Edmonton Oilers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png"
+    },
+    "team2": {
+      "name": "Boston Bruins",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png"
+    },
+    "kickoff_date": "2026-01-01",
+    "kickoff_time": "09:30",
+    "match_date": "2026-01-01",
+    "match_time": "09:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=188",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU5LnBocA==",
         "label": "CH-EN"
       }
     ]
@@ -961,98 +1097,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDM0LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NewOrleansPelicans-ChicagoBulls",
-    "league": "Basketball",
-    "team1": {
-      "name": "New Orleans Pelicans",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png"
-    },
-    "team2": {
-      "name": "Chicago Bulls",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png"
-    },
-    "kickoff_date": "2026-01-01",
-    "kickoff_time": "07:00",
-    "match_date": "2026-01-01",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY5LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NewYorkKnicks-SanAntonioSpurs",
-    "league": "Basketball",
-    "team1": {
-      "name": "New York Knicks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
-    },
-    "team2": {
-      "name": "San Antonio Spurs",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
-    },
-    "kickoff_date": "2026-01-01",
-    "kickoff_time": "07:00",
-    "match_date": "2026-01-01",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NewJerseyDevils-ColumbusBlueJackets",
-    "league": "Hockey",
-    "team1": {
-      "name": "New Jersey Devils",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nj.png"
-    },
-    "team2": {
-      "name": "Columbus Blue Jackets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png"
-    },
-    "kickoff_date": "2026-01-01",
-    "kickoff_time": "07:00",
-    "match_date": "2026-01-01",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU1LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "WinnipegJets-DetroitRedWings",
-    "league": "Hockey",
-    "team1": {
-      "name": "Winnipeg Jets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wpg.png"
-    },
-    "team2": {
-      "name": "Detroit Red Wings",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png"
-    },
-    "kickoff_date": "2026-01-01",
-    "kickoff_time": "06:30",
-    "match_date": "2026-01-01",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU0LnBocA==",
         "label": "CH-EN"
       }
     ]
