@@ -29,22 +29,6 @@
         "label": "CH-MN"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=14",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=129",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=57",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=119",
-        "label": "CH-DE"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd2",
         "label": "CH-1"
       },
@@ -86,26 +70,6 @@
       {
         "url": "https://multi.govoet.cc/?jw=psn2hls",
         "label": "CH-MN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=120",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
       },
       {
         "url": "https://multi.govoet.my.id/?ss=hd1",
@@ -1274,41 +1238,6 @@
     "match_time": "19:00",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "SheffieldUtd-Leicester",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Sheffield Utd",
-      "logo": "https://static.flashscore.com/res/image/data/8nXNvlA6-K2FpWLH3.png"
-    },
-    "team2": {
-      "name": "Leicester",
-      "logo": "https://static.flashscore.com/res/image/data/CvL5rhhT-UNZg5BP0.png"
-    },
-    "kickoff_date": "2026-01-02",
-    "kickoff_time": "00:30",
-    "match_date": "2026-01-02",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=4",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=128",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=98",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=91",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "OttawaSenators-WashingtonCapitals",
