@@ -1,1 +1,767 @@
-[]
+[
+  {
+    "id": "AnadoluEfes-toileRougeBelgrade",
+    "league": "EuroLeague",
+    "team1": {
+      "name": "Anadolu Efes",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Étoile Rouge Belgrade",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "00:00",
+    "match_date": "2026-01-03",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=62",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Bilbao-Valence",
+    "league": "Liga Endesa",
+    "team1": {
+      "name": "Bilbao",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Valence",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "00:00",
+    "match_date": "2026-01-03",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=155",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "AlAhliSC-AlNassr",
+    "league": "Saudi Pro League",
+    "team1": {
+      "name": "Al Ahli SC",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Al-Nassr",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "00:30",
+    "match_date": "2026-01-03",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=61",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=55",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MoraBancAndorra-Lleida",
+    "league": "Liga Endesa",
+    "team1": {
+      "name": "MoraBanc Andorra",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Lleida",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "01:00",
+    "match_date": "2026-01-03",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=156",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "GilVicente-Sporting",
+    "league": "Liga Portugal",
+    "team1": {
+      "name": "Gil Vicente",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Sporting",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "01:45",
+    "match_date": "2026-01-03",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=144",
+        "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=125",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Baskonia-Fenerbahce",
+    "league": "EuroLeague",
+    "team1": {
+      "name": "Baskonia",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Fenerbahce",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "02:00",
+    "match_date": "2026-01-03",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=63",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Barcelone-Zaragoza",
+    "league": "Liga Endesa",
+    "team1": {
+      "name": "Barcelone",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Zaragoza",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "02:00",
+    "match_date": "2026-01-03",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=157",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Panathinaikos-Olympiakos",
+    "league": "EuroLeague",
+    "team1": {
+      "name": "Panathinaikos",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Olympiakos",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "02:15",
+    "match_date": "2026-01-03",
+    "match_time": "02:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=64",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "VirtusBologna-Milano",
+    "league": "EuroLeague",
+    "team1": {
+      "name": "Virtus Bologna",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Milano",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "02:30",
+    "match_date": "2026-01-03",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=65",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Eibar-Mirandes",
+    "league": "Laliga 2",
+    "team1": {
+      "name": "Eibar",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Mirandes",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "02:30",
+    "match_date": "2026-01-03",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=53",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "RealMadrid-Dubai",
+    "league": "EuroLeague",
+    "team1": {
+      "name": "Real Madrid",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Dubai",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "02:45",
+    "match_date": "2026-01-03",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=62",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Toulouse-Lens",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Toulouse",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Lens",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "02:45",
+    "match_date": "2026-01-03",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=20",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Cagliari-ACMilan",
+    "league": "Serie A",
+    "team1": {
+      "name": "Cagliari",
+      "logo": ""
+    },
+    "team2": {
+      "name": "AC Milan",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "02:45",
+    "match_date": "2026-01-03",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=138",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Bayern-MaccabiTelAviv",
+    "league": "EuroLeague",
+    "team1": {
+      "name": "Bayern",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Maccabi Tel Aviv",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "03:00",
+    "match_date": "2026-01-03",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=66",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Vallecano-Getafe",
+    "league": "Laliga",
+    "team1": {
+      "name": "Vallecano",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Getafe",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "03:00",
+    "match_date": "2026-01-03",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=4",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=49",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=96",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Manresa-BasquetGirona",
+    "league": "Liga Endesa",
+    "team1": {
+      "name": "Manresa",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Basquet Girona",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "03:00",
+    "match_date": "2026-01-03",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=155",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "StLouisBlues-VegasGoldenKnights",
+    "league": "NHL",
+    "team1": {
+      "name": "St. Louis Blues",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Vegas Golden Knights",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "03:00",
+    "match_date": "2026-01-03",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=180",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Guimaraes-Nacional",
+    "league": "Liga Portugal",
+    "team1": {
+      "name": "Guimaraes",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Nacional",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "03:45",
+    "match_date": "2026-01-03",
+    "match_time": "03:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=145",
+        "label": "CH-PT"
+      }
+    ]
+  },
+  {
+    "id": "IndianaPacers-SanAntonioSpurs",
+    "league": "NBA",
+    "team1": {
+      "name": "Indiana Pacers",
+      "logo": ""
+    },
+    "team2": {
+      "name": "San Antonio Spurs",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "07:00",
+    "match_date": "2026-01-03",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=181",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "WashingtonWizards-BrooklynNets",
+    "league": "NBA",
+    "team1": {
+      "name": "Washington Wizards",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Brooklyn Nets",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "07:00",
+    "match_date": "2026-01-03",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=182",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "ClevelandCavaliers-DenverNuggets",
+    "league": "NBA",
+    "team1": {
+      "name": "Cleveland Cavaliers",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Denver Nuggets",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "07:30",
+    "match_date": "2026-01-03",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=183",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NewYorkKnicks-AtlantaHawks",
+    "league": "NBA",
+    "team1": {
+      "name": "New York Knicks",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Atlanta Hawks",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "07:30",
+    "match_date": "2026-01-03",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=184",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "ChicagoBulls-OrlandoMagic",
+    "league": "NBA",
+    "team1": {
+      "name": "Chicago Bulls",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Orlando Magic",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "08:00",
+    "match_date": "2026-01-03",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=185",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "MilwaukeeBucks-CharlotteHornets",
+    "league": "NBA",
+    "team1": {
+      "name": "Milwaukee Bucks",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Charlotte Hornets",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "08:00",
+    "match_date": "2026-01-03",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=186",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NewOrleansPelicans-PortlandTrailBlazers",
+    "league": "NBA",
+    "team1": {
+      "name": "New Orleans Pelicans",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Portland Trail Blazers",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "08:00",
+    "match_date": "2026-01-03",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=187",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "FloridaPanthers-NewYorkRangers",
+    "league": "NHL",
+    "team1": {
+      "name": "Florida Panthers",
+      "logo": ""
+    },
+    "team2": {
+      "name": "New York Rangers",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "08:00",
+    "match_date": "2026-01-03",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=188",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=89",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "PhoenixSuns-SacramentoKings",
+    "league": "NBA",
+    "team1": {
+      "name": "Phoenix Suns",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Sacramento Kings",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "09:00",
+    "match_date": "2026-01-03",
+    "match_time": "09:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=189",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "GoldenStateWarriors-OklahomaCityThunder",
+    "league": "NBA",
+    "team1": {
+      "name": "Golden State Warriors",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Oklahoma City Thunder",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "10:00",
+    "match_date": "2026-01-03",
+    "match_time": "10:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=190",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "LosAngelesLakers-MemphisGrizzlies",
+    "league": "NBA",
+    "team1": {
+      "name": "Los Angeles Lakers",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Memphis Grizzlies",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "10:30",
+    "match_date": "2026-01-03",
+    "match_time": "10:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=191",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "AnaheimDucks-MinnesotaWild",
+    "league": "NHL",
+    "team1": {
+      "name": "Anaheim Ducks",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Minnesota Wild",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "10:30",
+    "match_date": "2026-01-03",
+    "match_time": "10:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=192",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "VancouverCanucks-SeattleKraken",
+    "league": "NHL",
+    "team1": {
+      "name": "Vancouver Canucks",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Seattle Kraken",
+      "logo": ""
+    },
+    "kickoff_date": "2026-01-03",
+    "kickoff_time": "10:30",
+    "match_date": "2026-01-03",
+    "match_time": "10:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=193",
+        "label": "CH-US"
+      }
+    ]
+  }
+]
