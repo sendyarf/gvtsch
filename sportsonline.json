@@ -1,349 +1,5 @@
 [
   {
-    "id": "UnitedCupGREvJPN",
-    "league": "Tennis",
-    "team1": {
-      "name": "United Cup - GRE v JPN",
-      "logo": ""
-    },
-    "team2": {
-      "name": "",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "14:30",
-    "match_date": "",
-    "match_time": "14:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "AlEttifaq-AlOkhdood",
-    "league": "",
-    "team1": {
-      "name": "Al Ettifaq",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Al Okhdood",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "21:30",
-    "match_date": "",
-    "match_time": "21:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=br3",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "TestCricketSA20202526M10PaarlRoyalsVsMiCapeTown",
-    "league": "Cricket",
-    "team1": {
-      "name": "Test Cricket: SA20 2025/26: M10 - Paarl Royals Vs Mi Cape Town",
-      "logo": ""
-    },
-    "team2": {
-      "name": "",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "22:30",
-    "match_date": "",
-    "match_time": "22:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "TBD-TBD",
-    "league": "Africa Cup of Nations",
-    "team1": {
-      "name": "TBD",
-      "logo": ""
-    },
-    "team2": {
-      "name": "TBD",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "00:00",
-    "match_date": "",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd11",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd11",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd11",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br3",
-        "label": "CH-4"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd11",
-        "label": "CH-5"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br3",
-        "label": "CH-6"
-      }
-    ]
-  },
-  {
-    "id": "AlAhli-AlNassr",
-    "league": "",
-    "team1": {
-      "name": "Al-Ahli",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Al Nassr",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "00:30",
-    "match_date": "",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd8",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv2",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br3",
-        "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "GilVicente-SportingCP",
-    "league": "",
-    "team1": {
-      "name": "Gil Vicente",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Sporting CP",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "01:45",
-    "match_date": "",
-    "match_time": "01:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br6",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Eibar-Mirands",
-    "league": "",
-    "team1": {
-      "name": "Eibar",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Mirandés",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "02:30",
-    "match_date": "",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd9",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven2",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "WorldDartsChampionship2025D20SemiFinals",
-    "league": "Darts",
-    "team1": {
-      "name": "World Darts Championship: 2025 D20 Semi-Finals",
-      "logo": ""
-    },
-    "team2": {
-      "name": "",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "02:30",
-    "match_date": "",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "Toulouse-Lens",
-    "league": "",
-    "team1": {
-      "name": "Toulouse",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Lens",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "02:45",
-    "match_date": "",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd4",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv4",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Cagliari-Milan",
-    "league": "",
-    "team1": {
-      "name": "Cagliari",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Milan",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "02:45",
-    "match_date": "",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd7",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd8",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv3",
-        "label": "CH-4"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br2",
-        "label": "CH-5"
-      }
-    ]
-  },
-  {
-    "id": "RayoVallecano-Getafe",
-    "league": "",
-    "team1": {
-      "name": "Rayo Vallecano",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Getafe",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "03:00",
-    "match_date": "",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br4",
-        "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "VitriaGuimares-Nacional",
-    "league": "",
-    "team1": {
-      "name": "Vitória Guimarães",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Nacional",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "03:45",
-    "match_date": "",
-    "match_time": "03:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv2",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
     "id": "UnitedCupBELvCHN",
     "league": "Tennis",
     "team1": {
@@ -822,6 +478,41 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br2",
         "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "TBD-TBD",
+    "league": "Africa Cup of Nations",
+    "team1": {
+      "name": "TBD",
+      "logo": ""
+    },
+    "team2": {
+      "name": "TBD",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "00:00",
+    "match_date": "",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br3",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br3",
+        "label": "CH-4"
       }
     ]
   },
