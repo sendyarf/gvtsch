@@ -23,6 +23,650 @@
     ]
   },
   {
+    "id": "RealMadrid-Valencia",
+    "league": "Football",
+    "team1": {
+      "name": "Real Madrid",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+    },
+    "team2": {
+      "name": "Valencia",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png"
+    },
+    "kickoff_date": "2026-02-09",
+    "kickoff_time": "03:00",
+    "match_date": "2026-02-09",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "IndianaPacers-TorontoRaptors",
+    "league": "Basketball",
+    "team1": {
+      "name": "Indiana Pacers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png"
+    },
+    "team2": {
+      "name": "Toronto Raptors",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
+    },
+    "kickoff_date": "2026-02-09",
+    "kickoff_time": "03:00",
+    "match_date": "2026-02-09",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "LAClippers-MinnesotaTimberwolves",
+    "league": "Basketball",
+    "team1": {
+      "name": "LA Clippers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png"
+    },
+    "team2": {
+      "name": "Minnesota Timberwolves",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
+    },
+    "kickoff_date": "2026-02-09",
+    "kickoff_time": "03:00",
+    "match_date": "2026-02-09",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY4LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Lazio-Juventus",
+    "league": "Football",
+    "team1": {
+      "name": "Lazio",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
+    },
+    "team2": {
+      "name": "Juventus",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+    },
+    "kickoff_date": "2026-02-09",
+    "kickoff_time": "02:45",
+    "match_date": "2026-02-09",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Marseille-ParisSaintGermain",
+    "league": "Football",
+    "team1": {
+      "name": "Marseille",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
+    },
+    "team2": {
+      "name": "Paris Saint-Germain",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
+    },
+    "kickoff_date": "2026-02-09",
+    "kickoff_time": "02:45",
+    "match_date": "2026-02-09",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "MiamiHeat-WashingtonWizards",
+    "league": "Basketball",
+    "team1": {
+      "name": "Miami Heat",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png"
+    },
+    "team2": {
+      "name": "Washington Wizards",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png"
+    },
+    "kickoff_date": "2026-02-09",
+    "kickoff_time": "02:00",
+    "match_date": "2026-02-09",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NewYorkKnicks-BostonCeltics",
+    "league": "Basketball",
+    "team1": {
+      "name": "New York Knicks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
+    },
+    "team2": {
+      "name": "Boston Celtics",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
+    },
+    "kickoff_date": "2026-02-09",
+    "kickoff_time": "00:30",
+    "match_date": "2026-02-09",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY1LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "RealBetis-AtlticoMadrid",
+    "league": "Football",
+    "team1": {
+      "name": "Real Betis",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+    },
+    "team2": {
+      "name": "Atlético Madrid",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+    },
+    "kickoff_date": "2026-02-09",
+    "kickoff_time": "00:30",
+    "match_date": "2026-02-09",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Internazionale-Sassuolo",
+    "league": "Football",
+    "team1": {
+      "name": "Internazionale",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+    },
+    "team2": {
+      "name": "Sassuolo",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
+    },
+    "kickoff_date": "2026-02-09",
+    "kickoff_time": "00:00",
+    "match_date": "2026-02-09",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "ManchesterCity-Liverpool",
+    "league": "Football",
+    "team1": {
+      "name": "Manchester City",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+    },
+    "team2": {
+      "name": "Liverpool",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "23:30",
+    "match_date": "2026-02-08",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "TSGHoffenheim-BayernMunich",
+    "league": "Football",
+    "team1": {
+      "name": "TSG Hoffenheim",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
+    },
+    "team2": {
+      "name": "Bayern Munich",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "23:30",
+    "match_date": "2026-02-08",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDgucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "ParisFC-AJAuxerre",
+    "league": "Football",
+    "team1": {
+      "name": "Paris FC",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
+    },
+    "team2": {
+      "name": "AJ Auxerre",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "23:15",
+    "match_date": "2026-02-08",
+    "match_time": "23:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Toulouse-Angers",
+    "league": "Football",
+    "team1": {
+      "name": "Toulouse",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
+    },
+    "team2": {
+      "name": "Angers",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "23:15",
+    "match_date": "2026-02-08",
+    "match_time": "23:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Strasbourg-LeHavreAC",
+    "league": "Football",
+    "team1": {
+      "name": "Strasbourg",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png"
+    },
+    "team2": {
+      "name": "Le Havre AC",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "23:15",
+    "match_date": "2026-02-08",
+    "match_time": "23:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Levante-AthleticClub",
+    "league": "Football",
+    "team1": {
+      "name": "Levante",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
+    },
+    "team2": {
+      "name": "Athletic Club",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "22:15",
+    "match_date": "2026-02-08",
+    "match_time": "22:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Udinese-Lecce",
+    "league": "Football",
+    "team1": {
+      "name": "Udinese",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
+    },
+    "team2": {
+      "name": "Lecce",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "21:00",
+    "match_date": "2026-02-08",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "CrystalPalace-BrightonHoveAlbion",
+    "league": "Football",
+    "team1": {
+      "name": "Crystal Palace",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
+    },
+    "team2": {
+      "name": "Brighton & Hove Albion",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "21:00",
+    "match_date": "2026-02-08",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "ASMonaco-Nice",
+    "league": "Football",
+    "team1": {
+      "name": "AS Monaco",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png"
+    },
+    "team2": {
+      "name": "Nice",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "21:00",
+    "match_date": "2026-02-08",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Getafe-Alavs",
+    "league": "Football",
+    "team1": {
+      "name": "Getafe",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
+    },
+    "team2": {
+      "name": "Alavés",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "20:00",
+    "match_date": "2026-02-08",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Parma-Bologna",
+    "league": "Football",
+    "team1": {
+      "name": "Parma",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png"
+    },
+    "team2": {
+      "name": "Bologna",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "18:30",
+    "match_date": "2026-02-08",
+    "match_time": "18:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "MemphisGrizzlies-PortlandTrailBlazers",
+    "league": "Basketball",
+    "team1": {
+      "name": "Memphis Grizzlies",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png"
+    },
+    "team2": {
+      "name": "Portland Trail Blazers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "10:00",
+    "match_date": "2026-02-08",
+    "match_time": "10:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDczLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "ClevelandCavaliers-SacramentoKings",
+    "league": "Basketball",
+    "team1": {
+      "name": "Cleveland Cavaliers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
+    },
+    "team2": {
+      "name": "Sacramento Kings",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "10:00",
+    "match_date": "2026-02-08",
+    "match_time": "10:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDc0LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Philadelphia76ers-PhoenixSuns",
+    "league": "Basketball",
+    "team1": {
+      "name": "Philadelphia 76ers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
+    },
+    "team2": {
+      "name": "Phoenix Suns",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "09:00",
+    "match_date": "2026-02-08",
+    "match_time": "09:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcyLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "GoldenStateWarriors-LosAngelesLakers",
+    "league": "Basketball",
+    "team1": {
+      "name": "Golden State Warriors",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png"
+    },
+    "team2": {
+      "name": "Los Angeles Lakers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "08:30",
+    "match_date": "2026-02-08",
+    "match_time": "08:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcxLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "DenverNuggets-ChicagoBulls",
+    "league": "Basketball",
+    "team1": {
+      "name": "Denver Nuggets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png"
+    },
+    "team2": {
+      "name": "Chicago Bulls",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "08:00",
+    "match_date": "2026-02-08",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcwLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "CharlotteHornets-AtlantaHawks",
+    "league": "Basketball",
+    "team1": {
+      "name": "Charlotte Hornets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png"
+    },
+    "team2": {
+      "name": "Atlanta Hawks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "07:30",
+    "match_date": "2026-02-08",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY5LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "UtahJazz-OrlandoMagic",
+    "league": "Basketball",
+    "team1": {
+      "name": "Utah Jazz",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png"
+    },
+    "team2": {
+      "name": "Orlando Magic",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "07:00",
+    "match_date": "2026-02-08",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY4LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "DallasMavericks-SanAntonioSpurs",
+    "league": "Basketball",
+    "team1": {
+      "name": "Dallas Mavericks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png"
+    },
+    "team2": {
+      "name": "San Antonio Spurs",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "06:00",
+    "match_date": "2026-02-08",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
     "id": "BautistavsOliveira",
     "league": "Fight MMA",
     "team1": {
@@ -41,6 +685,443 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQ4LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "HoustonRockets-OklahomaCityThunder",
+    "league": "Basketball",
+    "team1": {
+      "name": "Houston Rockets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png"
+    },
+    "team2": {
+      "name": "Oklahoma City Thunder",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "03:30",
+    "match_date": "2026-02-08",
+    "match_time": "03:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Lyon-Nantes",
+    "league": "Football",
+    "team1": {
+      "name": "Lyon",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+    },
+    "team2": {
+      "name": "Nantes",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "03:05",
+    "match_date": "2026-02-08",
+    "match_time": "03:05",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "WashingtonWizards-BrooklynNets",
+    "league": "Basketball",
+    "team1": {
+      "name": "Washington Wizards",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png"
+    },
+    "team2": {
+      "name": "Brooklyn Nets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "03:00",
+    "match_date": "2026-02-08",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY1LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Elche-RealSociedad",
+    "league": "Football",
+    "team1": {
+      "name": "Elche",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
+    },
+    "team2": {
+      "name": "Real Sociedad",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "03:00",
+    "match_date": "2026-02-08",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Torino-Fiorentina",
+    "league": "Football",
+    "team1": {
+      "name": "Torino",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
+    },
+    "team2": {
+      "name": "Fiorentina",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "02:45",
+    "match_date": "2026-02-08",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Lorient-Brest",
+    "league": "Football",
+    "team1": {
+      "name": "Lorient",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png"
+    },
+    "team2": {
+      "name": "Brest",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "01:00",
+    "match_date": "2026-02-08",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Girona-Sevilla",
+    "league": "Football",
+    "team1": {
+      "name": "Girona",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9812.png"
+    },
+    "team2": {
+      "name": "Sevilla",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "00:30",
+    "match_date": "2026-02-08",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Brentford-NewcastleUnited",
+    "league": "Football",
+    "team1": {
+      "name": "Brentford",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
+    },
+    "team2": {
+      "name": "Newcastle United",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "00:30",
+    "match_date": "2026-02-08",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Napoli-Genoa",
+    "league": "Football",
+    "team1": {
+      "name": "Napoli",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
+    },
+    "team2": {
+      "name": "Genoa",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "00:00",
+    "match_date": "2026-02-08",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "StadeRennais-Lens",
+    "league": "Football",
+    "team1": {
+      "name": "Stade Rennais",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
+    },
+    "team2": {
+      "name": "Lens",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
+    },
+    "kickoff_date": "2026-02-07",
+    "kickoff_time": "23:00",
+    "match_date": "2026-02-07",
+    "match_time": "23:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Mallorca-Barcelona",
+    "league": "Football",
+    "team1": {
+      "name": "Mallorca",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png"
+    },
+    "team2": {
+      "name": "Barcelona",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+    },
+    "kickoff_date": "2026-02-07",
+    "kickoff_time": "22:15",
+    "match_date": "2026-02-07",
+    "match_time": "22:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Sunderland-Arsenal",
+    "league": "Football",
+    "team1": {
+      "name": "Sunderland",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
+    },
+    "team2": {
+      "name": "Arsenal",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+    },
+    "kickoff_date": "2026-02-07",
+    "kickoff_time": "22:00",
+    "match_date": "2026-02-07",
+    "match_time": "22:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "AstonVilla-AFCBournemouth",
+    "league": "Football",
+    "team1": {
+      "name": "Aston Villa",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+    },
+    "team2": {
+      "name": "AFC Bournemouth",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
+    },
+    "kickoff_date": "2026-02-07",
+    "kickoff_time": "22:00",
+    "match_date": "2026-02-07",
+    "match_time": "22:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "WestHamUnited-Burnley",
+    "league": "Football",
+    "team1": {
+      "name": "West Ham United",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png"
+    },
+    "team2": {
+      "name": "Burnley",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png"
+    },
+    "kickoff_date": "2026-02-07",
+    "kickoff_time": "22:00",
+    "match_date": "2026-02-07",
+    "match_time": "22:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Everton-Fulham",
+    "league": "Football",
+    "team1": {
+      "name": "Everton",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
+    },
+    "team2": {
+      "name": "Fulham",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png"
+    },
+    "kickoff_date": "2026-02-07",
+    "kickoff_time": "22:00",
+    "match_date": "2026-02-07",
+    "match_time": "22:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Chelsea-WolverhamptonWanderers",
+    "league": "Football",
+    "team1": {
+      "name": "Chelsea",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+    },
+    "team2": {
+      "name": "Wolverhampton Wanderers",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png"
+    },
+    "kickoff_date": "2026-02-07",
+    "kickoff_time": "22:00",
+    "match_date": "2026-02-07",
+    "match_time": "22:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "BorussiaDortmund-VfLWolfsburg",
+    "league": "Football",
+    "team1": {
+      "name": "Borussia Dortmund",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
+    },
+    "team2": {
+      "name": "VfL Wolfsburg",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png"
+    },
+    "kickoff_date": "2026-02-07",
+    "kickoff_time": "21:30",
+    "match_date": "2026-02-07",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDgucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "RealOviedo-RayoVallecano",
+    "league": "Football",
+    "team1": {
+      "name": "Real Oviedo",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/92.png"
+    },
+    "team2": {
+      "name": "Rayo Vallecano",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
+    },
+    "kickoff_date": "2026-02-07",
+    "kickoff_time": "20:00",
+    "match_date": "2026-02-07",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "TottenhamHotspur-ManchesterUnited",
+    "league": "Football",
+    "team1": {
+      "name": "Tottenham Hotspur",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png"
+    },
+    "team2": {
+      "name": "Manchester United",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+    },
+    "kickoff_date": "2026-02-07",
+    "kickoff_time": "19:30",
+    "match_date": "2026-02-07",
+    "match_time": "19:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
         "label": "CH-EN"
       }
     ]
@@ -184,93 +1265,93 @@
     ]
   },
   {
-    "id": "GoldenStateWarriors-PhoenixSuns",
-    "league": "Basketball",
+    "id": "NottinghamForest-LeedsUnited",
+    "league": "Football",
     "team1": {
-      "name": "Golden State Warriors",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png"
+      "name": "Nottingham Forest",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
     },
     "team2": {
-      "name": "Phoenix Suns",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png"
+      "name": "Leeds United",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
     },
-    "kickoff_date": "2026-02-06",
-    "kickoff_time": "10:00",
-    "match_date": "2026-02-06",
-    "match_time": "10:00",
+    "kickoff_date": "2026-02-07",
+    "kickoff_time": "03:00",
+    "match_date": "2026-02-07",
+    "match_time": "03:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcxLnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "Philadelphia76ers-LosAngelesLakers",
-    "league": "Basketball",
+    "id": "Osasuna-CeltaVigo",
+    "league": "Football",
     "team1": {
-      "name": "Philadelphia 76ers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
+      "name": "Osasuna",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png"
     },
     "team2": {
-      "name": "Los Angeles Lakers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
+      "name": "Celta Vigo",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
     },
-    "kickoff_date": "2026-02-06",
-    "kickoff_time": "10:00",
-    "match_date": "2026-02-06",
-    "match_time": "10:00",
+    "kickoff_date": "2026-02-07",
+    "kickoff_time": "03:00",
+    "match_date": "2026-02-07",
+    "match_time": "03:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcyLnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "LosAngelesKings-VegasGoldenKnights",
-    "league": "Hockey",
+    "id": "Pisa-HellasVerona",
+    "league": "Football",
     "team1": {
-      "name": "Los Angeles Kings",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png"
+      "name": "Pisa",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3956.png"
     },
     "team2": {
-      "name": "Vegas Golden Knights",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/vgk.png"
+      "name": "Hellas Verona",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png"
     },
-    "kickoff_date": "2026-02-06",
-    "kickoff_time": "10:00",
-    "match_date": "2026-02-06",
-    "match_time": "10:00",
+    "kickoff_date": "2026-02-07",
+    "kickoff_time": "02:45",
+    "match_date": "2026-02-07",
+    "match_time": "02:45",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU2LnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "NFLHonors",
-    "league": "American Football",
+    "id": "Lille-Metz",
+    "league": "Football",
     "team1": {
-      "name": "NFL Honors",
-      "logo": "data:image/jpeg;base64,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"
+      "name": "Lille",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
     },
     "team2": {
-      "name": "",
-      "logo": "data:image/jpeg;base64,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"
+      "name": "Metz",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png"
     },
-    "kickoff_date": "2026-02-06",
-    "kickoff_time": "09:00",
-    "match_date": "2026-02-06",
-    "match_time": "09:00",
+    "kickoff_date": "2026-02-07",
+    "kickoff_time": "02:45",
+    "match_date": "2026-02-07",
+    "match_time": "02:45",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMwLnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
         "label": "CH-EN"
       }
     ]
