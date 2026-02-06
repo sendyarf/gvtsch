@@ -579,10 +579,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=142",
-        "label": "CH-NL"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=hd8",
         "label": "CH-1"
       }
@@ -848,10 +844,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=88",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
-        "label": "CH-EN"
       },
       {
         "url": "https://multi.govoet.cc/?ss=hd5",
@@ -1459,10 +1451,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=149",
         "label": "CH-GR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
       },
       {
         "url": "https://multi.govoet.cc/?ss=hd7",
@@ -2573,240 +2561,6 @@
       {
         "url": "https://multi.govoet.cc/?ss=br2",
         "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "MCAlgerAlg-AlHilalOmdurmanSud",
-    "league": "Caf Ligue Des Champions",
-    "team1": {
-      "name": "MC Alger (Alg)",
-      "logo": "https://static.flashscore.com/res/image/data/6iZxVq86-jwbJzKoA.png"
-    },
-    "team2": {
-      "name": "Al-Hilal Omdurman (Sud)",
-      "logo": "https://static.flashscore.com/res/image/data/UgGILwne-CzVCsJdI.png"
-    },
-    "kickoff_date": "2026-02-07",
-    "kickoff_time": "02:00",
-    "match_date": "2026-02-07",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=161",
-        "label": "CH-DZ"
-      }
-    ]
-  },
-  {
-    "id": "Crvenazvezda-MaccabiTelAviv",
-    "league": "Europe - Euroleague",
-    "team1": {
-      "name": "Crvena Zvezda",
-      "logo": "https://static.flashscore.com/res/image/data/xQldm47k-YwJ7p7q9.png"
-    },
-    "team2": {
-      "name": "Maccabi Tel Aviv",
-      "logo": "https://static.flashscore.com/res/image/data/dIcvedS0-f9Tgtd9a.png"
-    },
-    "kickoff_date": "2026-02-07",
-    "kickoff_time": "02:00",
-    "match_date": "2026-02-07",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=67",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LyonVilleurbanne-OlimpiaMilano",
-    "league": "Europe - Euroleague",
-    "team1": {
-      "name": "Lyon-Villeurbanne",
-      "logo": "https://static.flashscore.com/res/image/data/SMBsIySq-dE1HHY1q.png"
-    },
-    "team2": {
-      "name": "Olimpia Milano",
-      "logo": "https://static.flashscore.com/res/image/data/djqBDIA6-xQ4mPAxG.png"
-    },
-    "kickoff_date": "2026-02-07",
-    "kickoff_time": "02:00",
-    "match_date": "2026-02-07",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=160",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "MultiplexLigue2",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Multiplex Ligue 2 -",
-      "logo": ""
-    },
-    "team2": {
-      "name": "",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-07",
-    "kickoff_time": "02:00",
-    "match_date": "2026-02-07",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=2",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Annecy-Grenoble",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Annecy",
-      "logo": "https://static.flashscore.com/res/image/data/vqudxvme-S8MHjQAJ.png"
-    },
-    "team2": {
-      "name": "Grenoble",
-      "logo": "https://static.flashscore.com/res/image/data/vmEDOI6k-Q3bg4qfQ.png"
-    },
-    "kickoff_date": "2026-02-07",
-    "kickoff_time": "02:00",
-    "match_date": "2026-02-07",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=6",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Boulogne-Rodez",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Boulogne",
-      "logo": "https://static.flashscore.com/res/image/data/bkQjzw7k-b9h6TfOO.png"
-    },
-    "team2": {
-      "name": "Rodez",
-      "logo": "https://static.flashscore.com/res/image/data/GAe6vS7k-lrqg4wyC.png"
-    },
-    "kickoff_date": "2026-02-07",
-    "kickoff_time": "02:00",
-    "match_date": "2026-02-07",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=8",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Dunkerque-Guingamp",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Dunkerque",
-      "logo": "https://static.flashscore.com/res/image/data/EZvaO4BN-O8yOVkI8.png"
-    },
-    "team2": {
-      "name": "Guingamp",
-      "logo": "https://static.flashscore.com/res/image/data/23voFsDN-nDL04Hmj.png"
-    },
-    "kickoff_date": "2026-02-07",
-    "kickoff_time": "02:00",
-    "match_date": "2026-02-07",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=4",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "RedStar-PauFC",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Red Star",
-      "logo": "https://static.flashscore.com/res/image/data/fT80UIA6-pEpm230o.png"
-    },
-    "team2": {
-      "name": "Pau FC",
-      "logo": "https://static.flashscore.com/res/image/data/hYhYK6jC-4hEPxFlP.png"
-    },
-    "kickoff_date": "2026-02-07",
-    "kickoff_time": "02:00",
-    "match_date": "2026-02-07",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=7",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Reims-Bastia",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Reims",
-      "logo": "https://static.flashscore.com/res/image/data/fgcfKf86-x6KhF69U.png"
-    },
-    "team2": {
-      "name": "Bastia",
-      "logo": "https://static.flashscore.com/res/image/data/joJrcijT-h6Qq9yDN.png"
-    },
-    "kickoff_date": "2026-02-07",
-    "kickoff_time": "02:00",
-    "match_date": "2026-02-07",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=5",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Olympiacos-VirtusBologna",
-    "league": "Europe - Euroleague",
-    "team1": {
-      "name": "Olympiacos Piraeus",
-      "logo": "https://static.flashscore.com/res/image/data/p6ftzEPq-rXhVDRnT.png"
-    },
-    "team2": {
-      "name": "Virtus Bologna",
-      "logo": "https://static.flashscore.com/res/image/data/z15VGp7k-8nbIunjj.png"
-    },
-    "kickoff_date": "2026-02-07",
-    "kickoff_time": "02:15",
-    "match_date": "2026-02-07",
-    "match_time": "02:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=66",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=150",
-        "label": "CH-GR"
       }
     ]
   },
@@ -7591,6 +7345,52 @@
       {
         "url": "https://multi.govoet.cc/?envivo=144",
         "label": "CH-PT"
+      }
+    ]
+  },
+  {
+    "id": "EstudiantesLP-DepRiestra",
+    "league": "Argentina - Primera LPF",
+    "team1": {
+      "name": "Estudiantes L.P.",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Dep. Riestra",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-10",
+    "kickoff_time": "05:15",
+    "match_date": "2026-02-10",
+    "match_time": "05:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=76",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Lanus-TalleresCordoba",
+    "league": "Argentina - Primera LPF",
+    "team1": {
+      "name": "Lanus",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Talleres Cordoba",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-10",
+    "kickoff_time": "05:15",
+    "match_date": "2026-02-10",
+    "match_time": "05:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=75",
+        "label": "CH-ES"
       }
     ]
   },
