@@ -1,51 +1,5 @@
 [
   {
-    "id": "DepRiestra-DeportivoMaipu",
-    "league": "Copa Argentina",
-    "team1": {
-      "name": "Dep. Riestra",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Deportivo Maipu",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-06",
-    "kickoff_time": "05:00",
-    "match_date": "2026-02-06",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=77",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Bahia-Fluminense",
-    "league": "Serie A Bresil",
-    "team1": {
-      "name": "Bahia",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Fluminense",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-06",
-    "kickoff_time": "05:00",
-    "match_date": "2026-02-06",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=108",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "DetroitPistons-WashingtonWizards",
     "league": "NBA",
     "team1": {
