@@ -163,14 +163,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-2"
       }
     ]
   },
@@ -602,24 +594,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=20",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd4",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv3",
-        "label": "CH-2"
       }
     ]
   },
@@ -906,16 +882,7 @@
     "match_date": "2026-02-08",
     "match_time": "00:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd3",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven3",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "FCKoln-RBLeipzig",
@@ -1033,24 +1000,7 @@
     "match_date": "2026-02-08",
     "match_time": "00:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv4",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br2",
-        "label": "CH-3"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Fiorentina-Torino",
@@ -1306,22 +1256,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven2",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br6",
-        "label": "CH-4"
       }
     ]
   },
@@ -1887,6 +1821,14 @@
       {
         "url": "https://multi.govoet.cc/?envivo=124",
         "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv3",
+        "label": "CH-2"
       }
     ]
   },
@@ -1930,6 +1872,14 @@
       {
         "url": "https://multi.govoet.cc/?envivo=149",
         "label": "CH-GR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv3",
+        "label": "CH-2"
       }
     ]
   },
@@ -2071,102 +2021,22 @@
       {
         "url": "https://multi.govoet.cc/?envivo=94",
         "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Kifisia-Atromitos",
-    "league": "Greece - Super League",
-    "team1": {
-      "name": "Kifisia",
-      "logo": "https://static.flashscore.com/res/image/data/bmuR4OkC-CCj2lJ5q.png"
-    },
-    "team2": {
-      "name": "Atromitos",
-      "logo": "https://static.flashscore.com/res/image/data/08K1YJle-2ahZzWpF.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "01:00",
-    "match_date": "2026-02-08",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=148",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "ADTarma-SportBoys",
-    "league": "Peru - Liga 1",
-    "team1": {
-      "name": "AD Tarma",
-      "logo": "https://static.flashscore.com/res/image/data/jgURPAUH-EXA8dtRS.png"
-    },
-    "team2": {
-      "name": "Sport Boys",
-      "logo": "https://static.flashscore.com/res/image/data/44OntTne-fFhdpXur.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "01:00",
-    "match_date": "2026-02-08",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Unicaja-MoraBancAndorra",
-    "league": "Liga Endesa",
-    "team1": {
-      "name": "Unicaja",
-      "logo": "https://static.flashscore.com/res/image/data/pWLmh8kC-QP5xKSl0.png"
-    },
-    "team2": {
-      "name": "MoraBanc Andorra",
-      "logo": "https://static.flashscore.com/res/image/data/ARDU0YmC-U1p4QlUe.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "01:00",
-    "match_date": "2026-02-08",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=156",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Estoril-Tondela",
-    "league": "Liga Portugal",
-    "team1": {
-      "name": "Estoril",
-      "logo": "https://static.flashscore.com/res/image/data/W6lzPAoe-8GL0cHSF.png"
-    },
-    "team2": {
-      "name": "Tondela",
-      "logo": "https://static.flashscore.com/res/image/data/foAPIsgT-tz55u9dQ.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "01:00",
-    "match_date": "2026-02-08",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=144",
-        "label": "CH-PT"
       },
       {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "url": "https://multi.govoet.cc/?ss=hd2",
         "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-4"
       }
     ]
   },
@@ -5067,6 +4937,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=151",
         "label": "CH-TR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-1"
       }
     ]
   },
@@ -5102,6 +4976,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=142",
         "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd4",
+        "label": "CH-1"
       }
     ]
   },
@@ -5149,6 +5027,18 @@
       {
         "url": "https://multi.govoet.cc/?envivo=98",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv2",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-3"
       }
     ]
   },
@@ -5218,6 +5108,14 @@
       {
         "url": "https://multi.govoet.cc/?envivo=53",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven2",
+        "label": "CH-2"
       }
     ]
   },
@@ -5311,6 +5209,14 @@
       {
         "url": "https://multi.govoet.cc/?envivo=99",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br3",
+        "label": "CH-2"
       }
     ]
   },
@@ -5365,6 +5271,14 @@
       {
         "url": "https://multi.govoet.cc/?envivo=144",
         "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br2",
+        "label": "CH-2"
       }
     ]
   },
@@ -5411,6 +5325,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=75",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd9",
+        "label": "CH-1"
       }
     ]
   },
@@ -5434,6 +5352,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=83",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-1"
       }
     ]
   },
@@ -5576,6 +5498,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=183",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-1"
       }
     ]
   },
@@ -5718,6 +5644,14 @@
       {
         "url": "https://multi.govoet.cc/?envivo=188",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-2"
       }
     ]
   },
