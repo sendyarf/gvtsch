@@ -383,12 +383,7 @@
     "match_date": "2026-02-08",
     "match_time": "03:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=142",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Utrecht-Feyenoord",
@@ -600,24 +595,7 @@
     "match_date": "2026-02-08",
     "match_time": "03:05",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=20",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Nice-Monaco",
@@ -1005,30 +983,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=70",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=90",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=98",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=149",
-        "label": "CH-GR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=hd7",
         "label": "CH-1"
       },
@@ -1256,26 +1210,6 @@
     "match_time": "03:00",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=94",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
-      },
       {
         "url": "https://multi.govoet.cc/?ss=hd6",
         "label": "CH-1"
@@ -2017,400 +1951,6 @@
       {
         "url": "https://multi.govoet.cc/?ss=br6",
         "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "Darmstadt-Kaiserslautern",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Darmstadt",
-      "logo": "https://static.flashscore.com/res/image/data/hbrmZHCN-hnEPJbbt.png"
-    },
-    "team2": {
-      "name": "Kaiserslautern",
-      "logo": "https://static.flashscore.com/res/image/data/O4FpbtT0-xW7EDdNP.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "02:30",
-    "match_date": "2026-02-08",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=7",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=112",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd3",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven3",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Gent-Leuven",
-    "league": "Pro League",
-    "team1": {
-      "name": "Gent",
-      "logo": "https://static.flashscore.com/res/image/data/hr2efhUH-ETUaLGDL.png"
-    },
-    "team2": {
-      "name": "Leuven",
-      "logo": "https://static.flashscore.com/res/image/data/Srik40jC-n1X34PhM.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "02:45",
-    "match_date": "2026-02-08",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=153",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "CadizCF-Almeria",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Cadiz CF",
-      "logo": "https://static.flashscore.com/res/image/data/rPA6TR86-EPWyZtpb.png"
-    },
-    "team2": {
-      "name": "Almeria",
-      "logo": "https://static.flashscore.com/res/image/data/Eeg4cBjC-nDyT2xMM.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "03:00",
-    "match_date": "2026-02-08",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=8",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Progreso-CentralEsp",
-    "league": "Liga Auf Uruguaya",
-    "team1": {
-      "name": "Progreso",
-      "logo": "https://static.flashscore.com/res/image/data/EFtuFZS0-txbJkCjs.png"
-    },
-    "team2": {
-      "name": "Central Esp.",
-      "logo": "https://static.flashscore.com/res/image/data/nXv2gXPq-txbJkCjs.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "03:00",
-    "match_date": "2026-02-08",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=109",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "BasketZaragoza-Bilbao",
-    "league": "Liga Endesa",
-    "team1": {
-      "name": "Basket Zaragoza",
-      "logo": "https://static.flashscore.com/res/image/data/p2EAmqDN-lOzorRoq.png"
-    },
-    "team2": {
-      "name": "Bilbao",
-      "logo": "https://static.flashscore.com/res/image/data/dImvc2lC-0hu4VHO8.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "03:00",
-    "match_date": "2026-02-08",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=155",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "BrooklynNets-WashingtonWizards",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Brooklyn Nets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png"
-    },
-    "team2": {
-      "name": "Washington Wizards",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "03:00",
-    "match_date": "2026-02-08",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=180",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY1LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Aldosivi-RosarioCentral",
-    "league": "Argentina - Primera LPF",
-    "team1": {
-      "name": "Aldosivi",
-      "logo": "https://static.flashscore.com/res/image/data/pbQeONmC-Eew7tmfb.png"
-    },
-    "team2": {
-      "name": "Rosario Central",
-      "logo": "https://static.flashscore.com/res/image/data/KSbaRoDN-vuxu02Jt.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "03:00",
-    "match_date": "2026-02-08",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=76",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd11",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br6",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "ParisFCW-PSGW",
-    "league": "France - Premiere Ligue Women",
-    "team1": {
-      "name": "Paris FC W",
-      "logo": "https://static.flashscore.com/res/image/data/z1TP1Lme-hEviRC6T.png"
-    },
-    "team2": {
-      "name": "PSG W",
-      "logo": "https://static.flashscore.com/res/image/data/d6rQbbU0-hjAZZSzd.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "03:05",
-    "match_date": "2026-02-08",
-    "match_time": "03:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=11",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Grau-SportHuancayo",
-    "league": "Peru - Liga 1",
-    "team1": {
-      "name": "Grau",
-      "logo": "https://static.flashscore.com/res/image/data/tbidOcjT-IaKc0OzC.png"
-    },
-    "team2": {
-      "name": "Sport Huancayo",
-      "logo": "https://static.flashscore.com/res/image/data/ptLGQoT0-6ayjGGhJ.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "03:15",
-    "match_date": "2026-02-08",
-    "match_time": "03:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Arouca-VitoriaGuimaraes",
-    "league": "Liga Portugal",
-    "team1": {
-      "name": "Arouca",
-      "logo": "https://static.flashscore.com/res/image/data/xSy6cS7k-UPMdbcD9.png"
-    },
-    "team2": {
-      "name": "Vitoria Guimaraes",
-      "logo": "https://static.flashscore.com/res/image/data/jsn3jm96-rDfht7Ta.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "03:30",
-    "match_date": "2026-02-08",
-    "match_time": "03:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=6",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=144",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "OklahomaCityThunder-HoustonRockets",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Oklahoma City Thunder",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
-    },
-    "team2": {
-      "name": "Houston Rockets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "03:30",
-    "match_date": "2026-02-08",
-    "match_time": "03:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=3",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=143",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=181",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv4",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "OHiggins-LaSerena",
-    "league": "Chile - Liga de Primera",
-    "team1": {
-      "name": "O'Higgins",
-      "logo": "https://static.flashscore.com/res/image/data/nZH8RAR0-zPh2QHcM.png"
-    },
-    "team2": {
-      "name": "La Serena",
-      "logo": "https://static.flashscore.com/res/image/data/ld8JGoQq-Mkzo6oBm.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "04:00",
-    "match_date": "2026-02-08",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "RacingClub-ArgentinosJrs",
-    "league": "Argentina - Primera LPF",
-    "team1": {
-      "name": "Racing Club",
-      "logo": "https://static.flashscore.com/res/image/data/Wp6MmpQq-OCiVKiPK.png"
-    },
-    "team2": {
-      "name": "Argentinos Jrs",
-      "logo": "https://static.flashscore.com/res/image/data/p0EKsd7k-ALgHCh57.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "04:00",
-    "match_date": "2026-02-08",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=75",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=145",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd8",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "DeportesTolima-Llaneros",
-    "league": "Colombia: Primera A",
-    "team1": {
-      "name": "Deportes Tolima",
-      "logo": "https://static.flashscore.com/res/image/data/Ecz8EXVH-bXlV9lJE.png"
-    },
-    "team2": {
-      "name": "Llaneros",
-      "logo": "https://static.flashscore.com/res/image/data/dtGebzCN-hjn5AE5Q.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "04:10",
-    "match_date": "2026-02-08",
-    "match_time": "04:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=81",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd10",
-        "label": "CH-1"
       }
     ]
   },
@@ -5567,6 +5107,52 @@
     ]
   },
   {
+    "id": "Finland-Czechia",
+    "league": "Hockey",
+    "team1": {
+      "name": "Finland",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png"
+    },
+    "team2": {
+      "name": "Czechia",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png"
+    },
+    "kickoff_date": "2026-02-09",
+    "kickoff_time": "03:10",
+    "match_date": "2026-02-09",
+    "match_time": "03:10",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE2LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Sweden-France",
+    "league": "Hockey",
+    "team1": {
+      "name": "Sweden",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+    },
+    "team2": {
+      "name": "France",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "22:40",
+    "match_date": "2026-02-08",
+    "match_time": "22:40",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE1LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
     "id": "UFCFightNightBautistavsOliveira",
     "league": "Fight Mma",
     "team1": {
@@ -5590,6 +5176,37 @@
     ]
   },
   {
+    "id": "HoustonRockets-OklahomaCityThunder",
+    "league": "Basketball",
+    "team1": {
+      "name": "Houston Rockets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png"
+    },
+    "team2": {
+      "name": "Oklahoma City Thunder",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "03:30",
+    "match_date": "2026-02-08",
+    "match_time": "03:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv4",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
     "id": "CanadaW-SwitzerlandW",
     "league": "Hockey",
     "team1": {
@@ -5608,6 +5225,29 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE4LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "WashingtonWizards-BrooklynNets",
+    "league": "Basketball",
+    "team1": {
+      "name": "Washington Wizards",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png"
+    },
+    "team2": {
+      "name": "Brooklyn Nets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png"
+    },
+    "kickoff_date": "2026-02-08",
+    "kickoff_time": "03:00",
+    "match_date": "2026-02-08",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY1LnBocA==",
         "label": "CH-EN"
       }
     ]
