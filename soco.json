@@ -3,27 +3,27 @@
     "id": "truc-tiep",
     "league": "Giải bóng đá VĐQG Indonesia",
     "team1": {
-      "name": "PSIM Yogyakarta"
+      "name": "Bhayangkara Presisi Indonesia FC"
     },
     "team2": {
-      "name": "Persis Solo FC"
+      "name": "Borneo FC"
     },
-    "kickoff_date": "2026-02-06",
+    "kickoff_date": "2026-02-07",
     "kickoff_time": "15:30",
-    "match_date": "2026-02-06",
+    "match_date": "2026-02-07",
     "match_time": "15:30",
     "duration": "3.0",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8yMzUyMzIubTN1OA==",
+        "label": "CH-VN"
+      },
       {
         "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80NTk0MDEubTN1OA==",
         "label": "CH-VN"
       },
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MDA3MjIubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8yOTEyNzcubTN1OA==",
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81NDg4NjAubTN1OA==",
         "label": "CH-VN"
       },
       {
@@ -36,39 +36,27 @@
     "id": "truc-tiep",
     "league": "Giải bóng đá VĐQG Indonesia",
     "team1": {
-      "name": "Persib Bandung"
+      "name": "Persik Kediri"
     },
     "team2": {
-      "name": "Malut United"
+      "name": "Dewa United FC"
     },
-    "kickoff_date": "2026-02-06",
-    "kickoff_time": "19:00",
-    "match_date": "2026-02-06",
-    "match_time": "19:00",
+    "kickoff_date": "2026-02-07",
+    "kickoff_time": "15:30",
+    "match_date": "2026-02-07",
+    "match_time": "15:30",
     "duration": "3.0",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMzIzNDMubTN1OA==",
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8yNTA4NzQubTN1OA==",
         "label": "CH-VN"
       },
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MTQzMTcubTN1OA==",
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80NDUyNjAubTN1OA==",
         "label": "CH-VN"
       },
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xNDc4MDEubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80OTQyMDEubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MzQ5ODIubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMjcxNTkubTN1OA==",
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81ODIzNDIubTN1OA==",
         "label": "CH-VN"
       }
     ]
