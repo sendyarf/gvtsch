@@ -161,30 +161,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=127",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=120",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
         "label": "CH-EN"
       },
@@ -384,12 +360,7 @@
     "match_date": "2026-02-08",
     "match_time": "00:45",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=143",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Twente-Heerenveen",
@@ -611,12 +582,7 @@
     "match_date": "2026-02-07",
     "match_time": "23:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Brest-Lorient",
@@ -941,30 +907,6 @@
     "match_time": "00:30",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=60",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=128",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=150",
-        "label": "CH-GR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=116",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.cc/?ss=hd3",
         "label": "CH-1"
@@ -1361,26 +1303,6 @@
     "match_time": "00:30",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=6",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=94",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
@@ -2149,56 +2071,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=94",
         "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Zaragoza-Eibar",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Zaragoza",
-      "logo": "https://static.flashscore.com/res/image/data/xr7nb0ne-EykfZB0Q.png"
-    },
-    "team2": {
-      "name": "Eibar",
-      "logo": "https://static.flashscore.com/res/image/data/drsSo7UH-4U3vjZKk.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "00:30",
-    "match_date": "2026-02-08",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Celtic-DundeeFC",
-    "league": "Scottish Cup",
-    "team1": {
-      "name": "Celtic",
-      "logo": "https://static.flashscore.com/res/image/data/boc068VH-Y1XXO0Va.png"
-    },
-    "team2": {
-      "name": "Dundee FC",
-      "logo": "https://static.flashscore.com/res/image/data/QP7A0aDN-tbyWw4LR.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "00:30",
-    "match_date": "2026-02-08",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=135",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd1",
-        "label": "CH-1"
       }
     ]
   },
