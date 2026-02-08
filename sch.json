@@ -177,24 +177,7 @@
     "match_date": "2026-02-08",
     "match_time": "21:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd8",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br2",
-        "label": "CH-4"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Liverpool-ManchesterCity",
@@ -369,16 +352,7 @@
     "match_date": "2026-02-08",
     "match_time": "18:15",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd10",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "AZAlkmaar-Ajax",
@@ -396,16 +370,7 @@
     "match_date": "2026-02-08",
     "match_time": "20:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd10",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br6",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "GAEagles-Telstar",
@@ -441,24 +406,7 @@
     "match_date": "2026-02-08",
     "match_time": "22:45",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=141",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=125",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=98",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd10",
-        "label": "CH-1"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Metz-Lille",
@@ -548,16 +496,7 @@
     "match_date": "2026-02-08",
     "match_time": "21:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd4",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv3",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Angers-Toulouse",
@@ -905,16 +844,7 @@
     "match_date": "2026-02-08",
     "match_time": "18:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Lecce-Udinese",
@@ -932,12 +862,7 @@
     "match_date": "2026-02-08",
     "match_time": "21:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-1"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "CeltaVigo-Osasuna",
@@ -1088,20 +1013,7 @@
     "match_date": "2026-02-08",
     "match_time": "20:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven2",
-        "label": "CH-3"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "AthBilbao-Levante",
@@ -1121,40 +1033,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=5",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven2",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br5",
-        "label": "CH-4"
       }
     ]
   },
@@ -1379,7 +1259,20 @@
     "match_date": "2026-02-11",
     "match_time": "02:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven2",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br2",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "Everton-Bournemouth",
@@ -1397,7 +1290,12 @@
     "match_date": "2026-02-11",
     "match_time": "02:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Tottenham-Newcastle",
@@ -1415,7 +1313,20 @@
     "match_date": "2026-02-11",
     "match_time": "02:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven3",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "WestHam-ManchesterUtd",
@@ -1433,7 +1344,24 @@
     "match_date": "2026-02-11",
     "match_time": "03:15",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd4",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br3",
+        "label": "CH-4"
+      }
+    ]
   },
   {
     "id": "PSG-Marseille",
@@ -1805,148 +1733,6 @@
       {
         "url": "https://multi.govoet.cc/?ss=br6",
         "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "OFICrete-Levadiakos",
-    "league": "Greece - Super League",
-    "team1": {
-      "name": "OFI Crete",
-      "logo": "https://static.flashscore.com/res/image/data/OW14akRq-hOZ2RkTP.png"
-    },
-    "team2": {
-      "name": "Levadiakos",
-      "logo": "https://static.flashscore.com/res/image/data/lAour7kC-p49RQDgb.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "22:00",
-    "match_date": "2026-02-08",
-    "match_time": "22:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=148",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "Huachipato-UDeChile",
-    "league": "Chile - Liga de Primera",
-    "team1": {
-      "name": "Huachipato",
-      "logo": "https://static.flashscore.com/res/image/data/nH93BOAN-xIMey4eD.png"
-    },
-    "team2": {
-      "name": "U. De Chile",
-      "logo": "https://static.flashscore.com/res/image/data/AwRGCvU0-fuSaShZI.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "22:00",
-    "match_date": "2026-02-08",
-    "match_time": "22:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "RoyaleUnionSG-RAALLaLouviere",
-    "league": "Pro League",
-    "team1": {
-      "name": "Royale Union SG",
-      "logo": "https://static.flashscore.com/res/image/data/fkZqVUUH-KrZtIamS.png"
-    },
-    "team2": {
-      "name": "RAAL La Louviere",
-      "logo": "https://static.flashscore.com/res/image/data/YoXc17iT-2LLiS83t.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "22:00",
-    "match_date": "2026-02-08",
-    "match_time": "22:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=154",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Ceuta-Cordoba",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Ceuta",
-      "logo": "https://static.flashscore.com/res/image/data/r1QAXB7k-xpqBFn5c.png"
-    },
-    "team2": {
-      "name": "Cordoba",
-      "logo": "https://static.flashscore.com/res/image/data/fTto7LkC-8GkSmkbF.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "22:15",
-    "match_date": "2026-02-08",
-    "match_time": "22:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=54",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "DepLaCoruna-Albacete",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Dep. La Coruna",
-      "logo": "https://static.flashscore.com/res/image/data/t4lB3X76-G2YIZIXN.png"
-    },
-    "team2": {
-      "name": "Albacete",
-      "logo": "https://static.flashscore.com/res/image/data/Iw3DqQoe-4297a0ys.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "22:15",
-    "match_date": "2026-02-08",
-    "match_time": "22:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Nacional-CasaPia",
-    "league": "Liga Portugal",
-    "team1": {
-      "name": "Nacional",
-      "logo": "https://static.flashscore.com/res/image/data/A7esGM6k-pUpRIC96.png"
-    },
-    "team2": {
-      "name": "Casa Pia",
-      "logo": "https://static.flashscore.com/res/image/data/K8bRTdBN-dImz4xEL.png"
-    },
-    "kickoff_date": "2026-02-08",
-    "kickoff_time": "22:30",
-    "match_date": "2026-02-08",
-    "match_time": "22:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=144",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-1"
       }
     ]
   },
@@ -2776,6 +2562,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=147",
         "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=btv",
+        "label": "CH-1"
       }
     ]
   },
