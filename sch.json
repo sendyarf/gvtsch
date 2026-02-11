@@ -1549,56 +1549,6 @@
     "servers": []
   },
   {
-    "id": "GangwonKor-ShanghaiPortChn",
-    "league": "AFC Champions League Elite",
-    "team1": {
-      "name": "Gangwon",
-      "logo": "https://static.flashscore.com/res/image/data/UFscAtXH-IR4625wC.png"
-    },
-    "team2": {
-      "name": "Shanghai Port (Chn)",
-      "logo": "https://static.flashscore.com/res/image/data/GOaievne-4Iubiv1h.png"
-    },
-    "kickoff_date": "2026-02-11",
-    "kickoff_time": "17:00",
-    "match_date": "2026-02-11",
-    "match_time": "17:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=162",
-        "label": "CH-QA"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd5",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "UlsanHDKor-MelbourneCityAus",
-    "league": "AFC Champions League Elite",
-    "team1": {
-      "name": "Ulsan HD (Kor)",
-      "logo": "https://static.flashscore.com/res/image/data/8nEvADCN-0hHJPkl1.png"
-    },
-    "team2": {
-      "name": "Melbourne City",
-      "logo": "https://static.flashscore.com/res/image/data/GYln0H86-rL2rkgzd.png"
-    },
-    "kickoff_date": "2026-02-11",
-    "kickoff_time": "17:00",
-    "match_date": "2026-02-11",
-    "match_time": "17:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=161",
-        "label": "CH-QA"
-      }
-    ]
-  },
-  {
     "id": "F1BahrainGrandprixTestingDay3",
     "league": "Motor Sport",
     "team1": {
