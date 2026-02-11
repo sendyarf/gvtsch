@@ -1,51 +1,5 @@
 [
   {
-    "id": "Bucaramanga-DeportesTolima",
-    "league": "Liga Betplay Dimayor",
-    "team1": {
-      "name": "Bucaramanga",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Deportes Tolima",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-11",
-    "kickoff_time": "08:30",
-    "match_date": "2026-02-11",
-    "match_time": "08:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=81",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "PhoenixSuns-DallasMavericks",
-    "league": "NBA",
-    "team1": {
-      "name": "Phoenix Suns",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Dallas Mavericks",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-11",
-    "kickoff_time": "09:00",
-    "match_date": "2026-02-11",
-    "match_time": "09:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=182",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
     "id": "TigresUANL-Forge",
     "league": "Concacaf Champions Cup",
     "team1": {
