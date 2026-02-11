@@ -1156,10 +1156,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
-        "label": "CH-EN"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=hd10",
         "label": "CH-1"
       },
@@ -1187,10 +1183,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUucGhw",
-        "label": "CH-EN"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=hd5",
         "label": "CH-1"
       }
@@ -1213,10 +1205,6 @@
     "match_time": "02:30",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQucGhw",
-        "label": "CH-EN"
-      },
       {
         "url": "https://multi.govoet.cc/?ss=hd2",
         "label": "CH-1"
@@ -1249,10 +1237,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIucGhw",
-        "label": "CH-EN"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=hd11",
         "label": "CH-1"
       }
@@ -1275,34 +1259,6 @@
     "match_time": "03:15",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=126",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=120",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=72",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
-        "label": "CH-EN"
-      },
       {
         "url": "https://multi.govoet.cc/?ss=hd1",
         "label": "CH-1"
@@ -1369,10 +1325,6 @@
     "match_time": "03:00",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=141",
-        "label": "CH-NL"
-      },
       {
         "url": "https://multi.govoet.cc/?ss=hd4",
         "label": "CH-1"
@@ -1756,158 +1708,6 @@
     "match_time": "19:00",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Bologna-Lazio",
-    "league": "Italy - Coppa Italia",
-    "team1": {
-      "name": "Bologna",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
-    },
-    "team2": {
-      "name": "Lazio",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
-    },
-    "kickoff_date": "2026-02-12",
-    "kickoff_time": "03:00",
-    "match_date": "2026-02-12",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=139",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=82",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=94",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=145",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "AthBilbao-RealSociedad",
-    "league": "Spain - Copa del Rey",
-    "team1": {
-      "name": "Ath Bilbao",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png"
-    },
-    "team2": {
-      "name": "Real Sociedad",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
-    },
-    "kickoff_date": "2026-02-12",
-    "kickoff_time": "03:00",
-    "match_date": "2026-02-12",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=82",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv4",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "ParisFCW-RealMadridW",
-    "league": "UEFA Champions League Women",
-    "team1": {
-      "name": "Paris FC W",
-      "logo": "https://static.flashscore.com/res/image/data/z1TP1Lme-hEviRC6T.png"
-    },
-    "team2": {
-      "name": "Real Madrid W",
-      "logo": "https://static.flashscore.com/res/image/data/IyIWdi8k-WpmKUEXD.png"
-    },
-    "kickoff_date": "2026-02-12",
-    "kickoff_time": "03:00",
-    "match_date": "2026-02-12",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=19",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=90",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Motherwell-Rangers",
-    "league": "Scotland - Premiership",
-    "team1": {
-      "name": "Motherwell",
-      "logo": "https://static.flashscore.com/res/image/data/nLYJxcCN-xGFNNID8.png"
-    },
-    "team2": {
-      "name": "Rangers",
-      "logo": "https://static.flashscore.com/res/image/data/fHwbE7oe-fFCBVa82.png"
-    },
-    "kickoff_date": "2026-02-12",
-    "kickoff_time": "03:00",
-    "match_date": "2026-02-12",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=127",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=125",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd8",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv5",
-        "label": "CH-2"
-      }
-    ]
   },
   {
     "id": "RosarioCentral-SportivoBelgrano",
@@ -2640,60 +2440,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQ5LnBocA==",
         "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Italy-Sweden",
-    "league": "Hockey",
-    "team1": {
-      "name": "Italy",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
-    },
-    "team2": {
-      "name": "Sweden",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
-    },
-    "kickoff_date": "2026-02-12",
-    "kickoff_time": "03:10",
-    "match_date": "2026-02-12",
-    "match_time": "03:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE2LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "RBLeipzig-BayernMunich",
-    "league": "Football",
-    "team1": {
-      "name": "RB Leipzig",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
-    },
-    "team2": {
-      "name": "Bayern Munich",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
-    },
-    "kickoff_date": "2026-02-12",
-    "kickoff_time": "02:45",
-    "match_date": "2026-02-12",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDgucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd9",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd3",
-        "label": "CH-2"
       }
     ]
   }
