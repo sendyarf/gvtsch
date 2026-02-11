@@ -1549,65 +1549,15 @@
     "servers": []
   },
   {
-    "id": "Bucaramanga-DeportesTolima",
-    "league": "Colombia: Primera A",
-    "team1": {
-      "name": "Bucaramanga",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Deportes Tolima",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-11",
-    "kickoff_time": "08:30",
-    "match_date": "2026-02-11",
-    "match_time": "08:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=81",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "PhoenixSuns-DallasMavericks",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Phoenix Suns",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png"
-    },
-    "team2": {
-      "name": "Dallas Mavericks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png"
-    },
-    "kickoff_date": "2026-02-11",
-    "kickoff_time": "09:00",
-    "match_date": "2026-02-11",
-    "match_time": "09:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=182",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "TigresUANL-Forge",
     "league": "Concacaf Champions Cup",
     "team1": {
       "name": "Tigres UANL",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/OUbkbhQq-IJnFXA9L.png"
     },
     "team2": {
       "name": "Forge",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/Ktn01ziC-EgMjWM13.png"
     },
     "kickoff_date": "2026-02-11",
     "kickoff_time": "10:00",
@@ -2200,47 +2150,24 @@
     ]
   },
   {
-    "id": "LAClippers-HoustonRockets",
+    "id": "DallasMavericks-PhoenixSuns",
     "league": "Basketball",
     "team1": {
-      "name": "LA Clippers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png"
+      "name": "Dallas Mavericks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png"
     },
     "team2": {
-      "name": "Houston Rockets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png"
+      "name": "Phoenix Suns",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png"
     },
     "kickoff_date": "2026-02-11",
-    "kickoff_time": "08:00",
+    "kickoff_time": "09:00",
     "match_date": "2026-02-11",
-    "match_time": "08:00",
+    "match_time": "09:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "IndianaPacers-NewYorkKnicks",
-    "league": "Basketball",
-    "team1": {
-      "name": "Indiana Pacers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png"
-    },
-    "team2": {
-      "name": "New York Knicks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
-    },
-    "kickoff_date": "2026-02-11",
-    "kickoff_time": "07:30",
-    "match_date": "2026-02-11",
-    "match_time": "07:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY1LnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
         "label": "CH-EN"
       }
     ]
