@@ -1333,10 +1333,6 @@
         "label": "CH-DE"
       },
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
-        "label": "CH-EN"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=hd5",
         "label": "CH-1"
       },
@@ -1553,22 +1549,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=159",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDgucGhw",
-        "label": "CH-EN"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=hd3",
         "label": "CH-1"
       },
@@ -1766,22 +1746,6 @@
     "match_time": "02:45",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=45",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=158",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
       {
         "url": "https://multi.govoet.cc/?ss=hd7",
         "label": "CH-1"
@@ -2036,10 +2000,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=88",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
       },
       {
         "url": "https://multi.govoet.cc/?ss=hd2",
@@ -2376,199 +2336,6 @@
     "match_time": "15:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Panathinaikos-Fenerbahce",
-    "league": "Europe - Euroleague",
-    "team1": {
-      "name": "Panathinaikos",
-      "logo": "https://static.flashscore.com/res/image/data/42RuzvU0-0vzI4JeD.png"
-    },
-    "team2": {
-      "name": "Fenerbahce",
-      "logo": "https://static.flashscore.com/res/image/data/4dx8d8kC-4O6TfMXl.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "02:15",
-    "match_date": "2026-02-14",
-    "match_time": "02:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=67",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=150",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "OlimpiaMilano-Dubai",
-    "league": "Europe - Euroleague",
-    "team1": {
-      "name": "Olimpia Milano",
-      "logo": "https://static.flashscore.com/res/image/data/djqBDIA6-xQ4mPAxG.png"
-    },
-    "team2": {
-      "name": "Dubai",
-      "logo": "https://static.flashscore.com/res/image/data/tQaiVdWH-8UKNAPGH.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "02:30",
-    "match_date": "2026-02-14",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=67",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "PartizanMozzartBet-RealMadrid",
-    "league": "Europe - Euroleague",
-    "team1": {
-      "name": "Partizan Mozzart Bet",
-      "logo": "https://static.flashscore.com/res/image/data/0vnTQnA6-boCH78dB.png"
-    },
-    "team2": {
-      "name": "Real Madrid",
-      "logo": "https://static.flashscore.com/res/image/data/2edKw8Pq-bXlcmj9T.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "02:30",
-    "match_date": "2026-02-14",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=62",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Almeria-Andorra",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Almeria",
-      "logo": "https://static.flashscore.com/res/image/data/Eeg4cBjC-nDyT2xMM.png"
-    },
-    "team2": {
-      "name": "Andorra",
-      "logo": "https://static.flashscore.com/res/image/data/SMiBGH8k-p6WBruc4.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "02:30",
-    "match_date": "2026-02-14",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Hull-Chelsea",
-    "league": "Fa Cup",
-    "team1": {
-      "name": "Hull",
-      "logo": "https://static.flashscore.com/res/image/data/WGeGdCSq-bJFnYpTt.png"
-    },
-    "team2": {
-      "name": "Chelsea",
-      "logo": "https://static.flashscore.com/res/image/data/lMxEQ8me-IROrZEJb.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "02:45",
-    "match_date": "2026-02-14",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=10",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=126",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Wrexham-Ipswich",
-    "league": "Fa Cup",
-    "team1": {
-      "name": "Wrexham",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/352.png"
-    },
-    "team2": {
-      "name": "Ipswich",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "02:45",
-    "match_date": "2026-02-14",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=129",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd11",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br6",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "KVMechelen-Genk",
-    "league": "Pro League",
-    "team1": {
-      "name": "KV Mechelen",
-      "logo": "https://static.flashscore.com/res/image/data/vPvl3wS0-zVJMgvaS.png"
-    },
-    "team2": {
-      "name": "Genk",
-      "logo": "https://static.flashscore.com/res/image/data/pxtsZIR0-YB0frRRP.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "02:45",
-    "match_date": "2026-02-14",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=153",
-        "label": "CH-FR"
-      }
-    ]
   },
   {
     "id": "Cajamarca-Cusco",
