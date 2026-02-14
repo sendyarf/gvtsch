@@ -1096,47 +1096,6 @@
     "servers": []
   },
   {
-    "id": "FCVolendam-PSV",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "FC Volendam",
-      "logo": "https://static.flashscore.com/res/image/data/8tDUPO86-WYtEUtB2.png"
-    },
-    "team2": {
-      "name": "PSV",
-      "logo": "https://static.flashscore.com/res/image/data/fefX7RQq-j5zA1baQ.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "02:00",
-    "match_date": "2026-02-14",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Heracles-NACBreda",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "Heracles",
-      "logo": "https://static.flashscore.com/res/image/data/MqiB1mme-vuxu3x67.png"
-    },
-    "team2": {
-      "name": "NAC Breda",
-      "logo": "https://static.flashscore.com/res/image/data/IVhDS6UH-voRxy8ml.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "22:30",
-    "match_date": "2026-02-14",
-    "match_time": "22:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=142",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
     "id": "Excelsior-AZAlkmaar",
     "league": "Netherlands - Eredivisie",
     "team1": {
@@ -1334,85 +1293,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=142",
         "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "Rennes-PSG",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Rennes",
-      "logo": "https://static.flashscore.com/res/image/data/pnrF2X76-Y5eozcI6.png"
-    },
-    "team2": {
-      "name": "PSG",
-      "logo": "https://static.flashscore.com/res/image/data/fJgGn26k-A7UDDuOO.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "01:00",
-    "match_date": "2026-02-14",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Monaco-Nantes",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Monaco",
-      "logo": "https://static.flashscore.com/res/image/data/n3jLkyne-0SFGJsPk.png"
-    },
-    "team2": {
-      "name": "Nantes",
-      "logo": "https://static.flashscore.com/res/image/data/vTVURLne-YBWLmubi.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "03:05",
-    "match_date": "2026-02-14",
-    "match_time": "03:05",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Marseille-Strasbourg",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Marseille",
-      "logo": "https://static.flashscore.com/res/image/data/t6Kb5X76-voNnDKJK.png"
-    },
-    "team2": {
-      "name": "Strasbourg",
-      "logo": "https://static.flashscore.com/res/image/data/2XOhzSQq-lAc5wKNp.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "23:00",
-    "match_date": "2026-02-14",
-    "match_time": "23:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=158",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd4",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv3",
-        "label": "CH-2"
       }
     ]
   },
@@ -1627,187 +1507,6 @@
     ]
   },
   {
-    "id": "Dortmund-Mainz",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "Dortmund",
-      "logo": "https://static.flashscore.com/res/image/data/xSfDCO76-WrjrBuU2.png"
-    },
-    "team2": {
-      "name": "Mainz",
-      "logo": "https://static.flashscore.com/res/image/data/tbR3gUTH-EoYxhN5r.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "02:30",
-    "match_date": "2026-02-14",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "BayerLeverkusen-StPauli",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "Bayer Leverkusen",
-      "logo": "https://static.flashscore.com/res/image/data/dWZYQIPq-WrjrBuU2.png"
-    },
-    "team2": {
-      "name": "St. Pauli",
-      "logo": "https://static.flashscore.com/res/image/data/QHdIUX96-lrmFNGea.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "21:30",
-    "match_date": "2026-02-14",
-    "match_time": "21:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=5",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=114",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=116",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd9",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven3",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "EintrachtFrankfurt-BMonchengladbach",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "Eintracht Frankfurt",
-      "logo": "https://static.flashscore.com/res/image/data/2aegVtQq-86lnAaq9.png"
-    },
-    "team2": {
-      "name": "B. Monchengladbach",
-      "logo": "https://static.flashscore.com/res/image/data/tjlAHwhT-ncmj9JbF.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "21:30",
-    "match_date": "2026-02-14",
-    "match_time": "21:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=6",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=112",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd8",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "HamburgerSV-UnionBerlin",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "Hamburger SV",
-      "logo": "https://static.flashscore.com/res/image/data/dWB5gKjC-86lnAaq9.png"
-    },
-    "team2": {
-      "name": "Union Berlin",
-      "logo": "https://static.flashscore.com/res/image/data/0OMJUule-ncmj9JbF.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "21:30",
-    "match_date": "2026-02-14",
-    "match_time": "21:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=113",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Hoffenheim-Freiburg",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "Hoffenheim",
-      "logo": "https://static.flashscore.com/res/image/data/IyZBMF7k-n7lWn9DL.png"
-    },
-    "team2": {
-      "name": "Freiburg",
-      "logo": "https://static.flashscore.com/res/image/data/0pdxCFiT-86lnAaq9.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "21:30",
-    "match_date": "2026-02-14",
-    "match_time": "21:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=7",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=115",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "WerderBremen-BayernMunich",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "Werder Bremen",
-      "logo": "https://static.flashscore.com/res/image/data/pIavfLS0-EVomMG4o.png"
-    },
-    "team2": {
-      "name": "Bayern Munich",
-      "logo": "https://static.flashscore.com/res/image/data/lWGBVoA6-SvLFaVNH.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "21:30",
-    "match_date": "2026-02-14",
-    "match_time": "21:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=4",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDgucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd3",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven2",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
     "id": "Stuttgart-FCKoln",
     "league": "Germany - Bundesliga",
     "team1": {
@@ -1929,106 +1628,6 @@
       {
         "url": "https://multi.govoet.cc/?ss=br1",
         "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "Pisa-ACMilan",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Pisa",
-      "logo": "https://static.flashscore.com/res/image/data/vPrevkT0-GMOw3SI3.png"
-    },
-    "team2": {
-      "name": "AC Milan",
-      "logo": "https://static.flashscore.com/res/image/data/WOOHTbSq-KtCfnbWp.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "02:45",
-    "match_date": "2026-02-14",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Como-Fiorentina",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Como",
-      "logo": "https://static.flashscore.com/res/image/data/4pxypIS0-hpmw8K1h.png"
-    },
-    "team2": {
-      "name": "Fiorentina",
-      "logo": "https://static.flashscore.com/res/image/data/fZhEFLjT-6XKdgOM6.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "21:00",
-    "match_date": "2026-02-14",
-    "match_time": "21:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=70",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=97",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv3",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Lazio-Atalanta",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Lazio",
-      "logo": "https://static.flashscore.com/res/image/data/4CLpo27k-EaFfQ9z6.png"
-    },
-    "team2": {
-      "name": "Atalanta",
-      "logo": "https://static.flashscore.com/res/image/data/z3aHqFBN-rg6usZns.png"
-    },
-    "kickoff_date": "2026-02-15",
-    "kickoff_time": "00:00",
-    "match_date": "2026-02-15",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=45",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=70",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-1"
       }
     ]
   },
@@ -2347,94 +1946,41 @@
     ]
   },
   {
-    "id": "Elche-Osasuna",
-    "league": "Spain - LaLiga",
+    "id": "Cagliari-Lecce",
+    "league": "Italy - Serie A",
     "team1": {
-      "name": "Elche",
-      "logo": "https://static.flashscore.com/res/image/data/EVxB82BN-YmCZKGcR.png"
+      "name": "Cagliari",
+      "logo": "https://static.flashscore.com/res/image/data/tSQII3hT-McvX4bye.png"
     },
     "team2": {
-      "name": "Osasuna",
-      "logo": "https://static.flashscore.com/res/image/data/UTfY3r86-Yu8w588N.png"
+      "name": "Lecce",
+      "logo": "https://static.flashscore.com/res/image/data/fPabg0DN-McvX4bye.png"
     },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "03:00",
-    "match_date": "2026-02-14",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Espanyol-CeltaVigo",
-    "league": "Spain - LaLiga",
-    "team1": {
-      "name": "Espanyol",
-      "logo": "https://static.flashscore.com/res/image/data/QeCoIpXH-Msjm1Bq4.png"
-    },
-    "team2": {
-      "name": "Celta Vigo",
-      "logo": "https://static.flashscore.com/res/image/data/INW8oRBN-SOY3p1Si.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "20:00",
-    "match_date": "2026-02-14",
-    "match_time": "20:00",
+    "kickoff_date": "2026-02-17",
+    "kickoff_time": "02:45",
+    "match_date": "2026-02-17",
+    "match_time": "02:45",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-1"
+        "url": "https://multi.govoet.cc/?envivo=137",
+        "label": "CH-IT"
       },
       {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br6",
-        "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "Getafe-Villarreal",
-    "league": "Spain - LaLiga",
-    "team1": {
-      "name": "Getafe",
-      "logo": "https://static.flashscore.com/res/image/data/hGMWMdT0-YmCZKGcR.png"
-    },
-    "team2": {
-      "name": "Villarreal",
-      "logo": "https://static.flashscore.com/res/image/data/EBxZSOjT-GSuwY3p9.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "22:15",
-    "match_date": "2026-02-14",
-    "match_time": "22:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=51",
+        "url": "https://multi.govoet.cc/?envivo=88",
         "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.cc/?envivo=94",
-        "label": "CH-ES"
+        "url": "https://multi.govoet.cc/?envivo=138",
+        "label": "CH-IT"
       },
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
+        "url": "https://multi.govoet.cc/?envivo=145",
+        "label": "CH-PT"
       },
       {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br6",
-        "label": "CH-2"
+        "url": "https://multi.govoet.cc/?envivo=149",
+        "label": "CH-GR"
       }
     ]
   },
@@ -2753,57 +2299,43 @@
     ]
   },
   {
-    "id": "PSMMakassar-DewaUnited",
-    "league": "Indonesia - Super League",
+    "id": "Girona-Barcelona",
+    "league": "Spain - LaLiga",
     "team1": {
-      "name": "PSM Makassar",
-      "logo": "https://static.flashscore.com/res/image/data/j7AOPb6k-jNkiROW3.png"
+      "name": "Girona",
+      "logo": "https://static.flashscore.com/res/image/data/6mZj79BN-vPm0hQMN.png"
     },
     "team2": {
-      "name": "Dewa United",
-      "logo": "https://static.flashscore.com/res/image/data/GO1FYtUH-fJYKj2Xi.png"
+      "name": "Barcelona",
+      "logo": "https://static.flashscore.com/res/image/data/jZ8dSYS0-fcDVLdrL.png"
     },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "15:30",
-    "match_date": "2026-02-14",
-    "match_time": "15:30",
+    "kickoff_date": "2026-02-17",
+    "kickoff_time": "03:00",
+    "match_date": "2026-02-17",
+    "match_time": "03:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMDkwNTMubTN1OA==",
-        "label": "CH-VN"
+        "url": "https://multi.govoet.cc/?envivo=2",
+        "label": "CH-FR"
       },
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMjI3NzQubTN1OA==",
-        "label": "CH-VN"
+        "url": "https://multi.govoet.cc/?envivo=51",
+        "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MzIwODEubTN1OA==",
-        "label": "CH-VN"
+        "url": "https://multi.govoet.cc/?envivo=71",
+        "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMzkzODQubTN1OA==",
-        "label": "CH-VN"
+        "url": "https://multi.govoet.cc/?envivo=150",
+        "label": "CH-GR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=94",
+        "label": "CH-ES"
       }
     ]
-  },
-  {
-    "id": "Persebaya-FCBhayangkara",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Persebaya",
-      "logo": "https://static.flashscore.com/res/image/data/0GTBRoiC-jaJfGoOS.png"
-    },
-    "team2": {
-      "name": "FC Bhayangkara",
-      "logo": "https://static.flashscore.com/res/image/data/0rQnZJmC-UBTLvuxH.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "19:00",
-    "match_date": "2026-02-14",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "servers": []
   },
   {
     "id": "AremaFC-SemenPadang",
@@ -2860,56 +2392,6 @@
     "servers": []
   },
   {
-    "id": "Alanyaspor-Konyaspor",
-    "league": "Super Lig",
-    "team1": {
-      "name": "Alanyaspor",
-      "logo": "https://static.flashscore.com/res/image/data/nNYL4FQq-p2zyVPdn.png"
-    },
-    "team2": {
-      "name": "Konyaspor",
-      "logo": "https://static.flashscore.com/res/image/data/Cp0bcARq-IB8hJkKa.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "21:00",
-    "match_date": "2026-02-14",
-    "match_time": "21:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=152",
-        "label": "CH-TR"
-      }
-    ]
-  },
-  {
-    "id": "Ireland-Italy",
-    "league": "Tournoi Des Six Nations",
-    "team1": {
-      "name": "Ireland",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Italy",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "21:10",
-    "match_date": "2026-02-14",
-    "match_time": "21:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=24",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=55",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "bundesligakonferenz",
     "league": "Germany - Bundesliga",
     "team1": {
@@ -2929,6 +2411,169 @@
       {
         "url": "https://multi.govoet.cc/?envivo=123",
         "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "BayerLeverkusen-StPauli",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Bayer Leverkusen",
+      "logo": "https://static.flashscore.com/res/image/data/dWZYQIPq-WrjrBuU2.png"
+    },
+    "team2": {
+      "name": "St. Pauli",
+      "logo": "https://static.flashscore.com/res/image/data/QHdIUX96-lrmFNGea.png"
+    },
+    "kickoff_date": "2026-02-14",
+    "kickoff_time": "21:30",
+    "match_date": "2026-02-14",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=5",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=114",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=116",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd9",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven3",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "EintrachtFrankfurt-BMonchengladbach",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Eintracht Frankfurt",
+      "logo": "https://static.flashscore.com/res/image/data/2aegVtQq-86lnAaq9.png"
+    },
+    "team2": {
+      "name": "B. Monchengladbach",
+      "logo": "https://static.flashscore.com/res/image/data/tjlAHwhT-ncmj9JbF.png"
+    },
+    "kickoff_date": "2026-02-14",
+    "kickoff_time": "21:30",
+    "match_date": "2026-02-14",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=6",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=112",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "HamburgerSV-UnionBerlin",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Hamburger SV",
+      "logo": "https://static.flashscore.com/res/image/data/dWB5gKjC-86lnAaq9.png"
+    },
+    "team2": {
+      "name": "Union Berlin",
+      "logo": "https://static.flashscore.com/res/image/data/0OMJUule-ncmj9JbF.png"
+    },
+    "kickoff_date": "2026-02-14",
+    "kickoff_time": "21:30",
+    "match_date": "2026-02-14",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=113",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Hoffenheim-Freiburg",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Hoffenheim",
+      "logo": "https://static.flashscore.com/res/image/data/IyZBMF7k-n7lWn9DL.png"
+    },
+    "team2": {
+      "name": "Freiburg",
+      "logo": "https://static.flashscore.com/res/image/data/0pdxCFiT-86lnAaq9.png"
+    },
+    "kickoff_date": "2026-02-14",
+    "kickoff_time": "21:30",
+    "match_date": "2026-02-14",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=7",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=115",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "WerderBremen-BayernMunich",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Werder Bremen",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png"
+    },
+    "team2": {
+      "name": "Bayern Munich",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+    },
+    "kickoff_date": "2026-02-14",
+    "kickoff_time": "21:30",
+    "match_date": "2026-02-14",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=4",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=111",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDgucGhw",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd3",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven2",
+        "label": "CH-2"
       }
     ]
   },
@@ -3253,6 +2898,49 @@
     ]
   },
   {
+    "id": "Getafe-Villarreal",
+    "league": "Spain - LaLiga",
+    "team1": {
+      "name": "Getafe",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
+    },
+    "team2": {
+      "name": "Villarreal",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
+    },
+    "kickoff_date": "2026-02-14",
+    "kickoff_time": "22:15",
+    "match_date": "2026-02-14",
+    "match_time": "22:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=2",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=51",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=94",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
     "id": "BurgosCF-CadizCF",
     "league": "Spain - LaLiga 2",
     "team1": {
@@ -3272,6 +2960,29 @@
       {
         "url": "https://multi.govoet.cc/?envivo=53",
         "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Heracles-NACBreda",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Heracles",
+      "logo": "https://static.flashscore.com/res/image/data/MqiB1mme-vuxu3x67.png"
+    },
+    "team2": {
+      "name": "NAC Breda",
+      "logo": "https://static.flashscore.com/res/image/data/IVhDS6UH-voRxy8ml.png"
+    },
+    "kickoff_date": "2026-02-14",
+    "kickoff_time": "22:30",
+    "match_date": "2026-02-14",
+    "match_time": "22:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=142",
+        "label": "CH-NL"
       }
     ]
   },
@@ -3441,6 +3152,49 @@
     ]
   },
   {
+    "id": "Marseille-Strasbourg",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Marseille",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
+    },
+    "team2": {
+      "name": "Strasbourg",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png"
+    },
+    "kickoff_date": "2026-02-14",
+    "kickoff_time": "23:00",
+    "match_date": "2026-02-14",
+    "match_time": "23:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=69",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=158",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd4",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv3",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
     "id": "Scotland-England",
     "league": "Tournoi Des Six Nations",
     "team1": {
@@ -3487,6 +3241,45 @@
       {
         "url": "https://multi.govoet.cc/?envivo=155",
         "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Lazio-Atalanta",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Lazio",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
+    },
+    "team2": {
+      "name": "Atalanta",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
+    },
+    "kickoff_date": "2026-02-15",
+    "kickoff_time": "00:00",
+    "match_date": "2026-02-15",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=45",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=137",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=70",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-1"
       }
     ]
   },
@@ -6509,45 +6302,6 @@
     ]
   },
   {
-    "id": "Cagliari-Lecce",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Cagliari",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Lecce",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-17",
-    "kickoff_time": "02:45",
-    "match_date": "2026-02-17",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=145",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=149",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
     "id": "Coventry-Middlesbrough",
     "league": "England - Championship",
     "team1": {
@@ -6583,45 +6337,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=120",
         "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Girona-Barcelona",
-    "league": "Spain - LaLiga",
-    "team1": {
-      "name": "Girona",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Barcelona",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-17",
-    "kickoff_time": "03:00",
-    "match_date": "2026-02-17",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=150",
-        "label": "CH-GR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=94",
-        "label": "CH-ES"
       }
     ]
   },
@@ -6806,6 +6521,37 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE5LnBocA==",
         "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Fiorentina-Como",
+    "league": "Football",
+    "team1": {
+      "name": "Fiorentina",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
+    },
+    "team2": {
+      "name": "Como",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
+    },
+    "kickoff_date": "2026-02-14",
+    "kickoff_time": "21:00",
+    "match_date": "2026-02-14",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv3",
+        "label": "CH-2"
       }
     ]
   }
