@@ -2561,11 +2561,11 @@
     "league": "Fa Cup",
     "team1": {
       "name": "Burnley",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png"
+      "logo": "https://static.flashscore.com/res/image/data/xO3nES96-6PhTI7J6.png"
     },
     "team2": {
       "name": "Mansfield",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/304.png"
+      "logo": "https://static.flashscore.com/res/image/data/be5DZHCN-tYqwR1Mb.png"
     },
     "kickoff_date": "2026-02-14",
     "kickoff_time": "22:00",
@@ -2576,10 +2576,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=190",
         "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
-        "label": "CH-EN"
       }
     ]
   },
@@ -2623,10 +2619,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=88",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIucGhw",
-        "label": "CH-EN"
       }
     ]
   },
@@ -2650,10 +2642,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=191",
         "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQucGhw",
-        "label": "CH-EN"
       }
     ]
   },
@@ -2662,11 +2650,11 @@
     "league": "Fa Cup",
     "team1": {
       "name": "Southampton",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png"
+      "logo": "https://static.flashscore.com/res/image/data/2VvVDtSq-raLYxovi.png"
     },
     "team2": {
       "name": "Leicester",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png"
+      "logo": "https://static.flashscore.com/res/image/data/CvL5rhhT-UNZg5BP0.png"
     },
     "kickoff_date": "2026-02-14",
     "kickoff_time": "22:00",
@@ -2681,10 +2669,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=161",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUucGhw",
-        "label": "CH-EN"
       }
     ]
   },
@@ -2716,11 +2700,11 @@
     "league": "Spain - LaLiga",
     "team1": {
       "name": "Getafe",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
+      "logo": "https://static.flashscore.com/res/image/data/hGMWMdT0-YmCZKGcR.png"
     },
     "team2": {
       "name": "Villarreal",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
+      "logo": "https://static.flashscore.com/res/image/data/EBxZSOjT-GSuwY3p9.png"
     },
     "kickoff_date": "2026-02-14",
     "kickoff_time": "22:15",
@@ -2739,18 +2723,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=94",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br6",
-        "label": "CH-2"
       }
     ]
   },
@@ -2820,10 +2792,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=144",
         "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-1"
       }
     ]
   },
@@ -2997,14 +2965,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd4",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv3",
-        "label": "CH-2"
       }
     ]
   },
@@ -6247,29 +6207,6 @@
     ]
   },
   {
-    "id": "Denmark-UnitedStates",
-    "league": "Hockey",
-    "team1": {
-      "name": "Denmark",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png"
-    },
-    "team2": {
-      "name": "United States",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png"
-    },
-    "kickoff_date": "2026-02-15",
-    "kickoff_time": "03:10",
-    "match_date": "2026-02-15",
-    "match_time": "03:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE4LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "Switzerland-Finland",
     "league": "Hockey",
     "team1": {
@@ -6293,24 +6230,24 @@
     ]
   },
   {
-    "id": "Italy-Finland",
+    "id": "Denmark-UnitedStates",
     "league": "Hockey",
     "team1": {
-      "name": "Italy",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
+      "name": "Denmark",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png"
     },
     "team2": {
-      "name": "Finland",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png"
+      "name": "United States",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png"
     },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "22:40",
-    "match_date": "2026-02-14",
-    "match_time": "22:40",
+    "kickoff_date": "2026-02-15",
+    "kickoff_time": "03:10",
+    "match_date": "2026-02-15",
+    "match_time": "03:10",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE3LnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE4LnBocA==",
         "label": "CH-EN"
       }
     ]
@@ -6339,64 +6276,25 @@
     ]
   },
   {
-    "id": "BayernMunich-WerderBremen",
-    "league": "Football",
+    "id": "Italy-Finland",
+    "league": "Hockey",
     "team1": {
-      "name": "Bayern Munich",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+      "name": "Italy",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png"
     },
     "team2": {
-      "name": "Werder Bremen",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png"
+      "name": "Finland",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png"
     },
     "kickoff_date": "2026-02-14",
-    "kickoff_time": "21:30",
+    "kickoff_time": "22:40",
     "match_date": "2026-02-14",
-    "match_time": "21:30",
+    "match_time": "22:40",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDgucGhw",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE3LnBocA==",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd3",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven2",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Fiorentina-Como",
-    "league": "Football",
-    "team1": {
-      "name": "Fiorentina",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
-    },
-    "team2": {
-      "name": "Como",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
-    },
-    "kickoff_date": "2026-02-14",
-    "kickoff_time": "21:00",
-    "match_date": "2026-02-14",
-    "match_time": "21:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv3",
-        "label": "CH-2"
       }
     ]
   }
