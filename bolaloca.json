@@ -23,6 +23,29 @@
     ]
   },
   {
+    "id": "bundesliga2konferenz",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "bundesliga 2 konferenz -",
+      "logo": ""
+    },
+    "team2": {
+      "name": "",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-14",
+    "kickoff_time": "19:00",
+    "match_date": "2026-02-14",
+    "match_time": "19:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=112",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
     "id": "Braunschweig-Darmstadt",
     "league": "Bundesliga 2",
     "team1": {
@@ -39,14 +62,6 @@
     "match_time": "19:00",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=112",
-        "label": "CH-DE"
-      },
       {
         "url": "https://multi.govoet.cc/?envivo=115",
         "label": "CH-DE"
@@ -79,14 +94,6 @@
         "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.cc/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=112",
-        "label": "CH-DE"
-      },
-      {
         "url": "https://multi.govoet.cc/?envivo=113",
         "label": "CH-DE"
       }
@@ -109,14 +116,6 @@
     "match_time": "19:00",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=112",
-        "label": "CH-DE"
-      },
       {
         "url": "https://multi.govoet.cc/?envivo=114",
         "label": "CH-DE"
@@ -398,6 +397,29 @@
     ]
   },
   {
+    "id": "bundesligakonferenz",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "bundesliga konferenz -",
+      "logo": ""
+    },
+    "team2": {
+      "name": "",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-14",
+    "kickoff_time": "21:30",
+    "match_date": "2026-02-14",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=123",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
     "id": "BayerLeverkusen-StPauli",
     "league": "Bundesliga",
     "team1": {
@@ -423,8 +445,8 @@
         "label": "CH-DE"
       },
       {
-        "url": "https://multi.govoet.cc/?envivo=115",
-        "label": "CH-DE"
+        "url": "https://multi.govoet.cc/?envivo=116",
+        "label": "CH-ES"
       }
     ]
   },
@@ -452,10 +474,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=112",
         "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=113",
-        "label": "CH-DE"
       }
     ]
   },
@@ -478,10 +496,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.cc/?envivo=113",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=114",
         "label": "CH-DE"
       }
     ]
@@ -506,10 +520,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=7",
         "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=112",
-        "label": "CH-DE"
       },
       {
         "url": "https://multi.govoet.cc/?envivo=115",
@@ -1313,8 +1323,8 @@
         "label": "CH-DE"
       },
       {
-        "url": "https://multi.govoet.cc/?envivo=128",
-        "label": "CH-GB"
+        "url": "https://multi.govoet.cc/?envivo=116",
+        "label": "CH-ES"
       }
     ]
   },
@@ -1732,10 +1742,6 @@
     "match_time": "02:30",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=87",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.cc/?envivo=112",
         "label": "CH-DE"
@@ -2733,6 +2739,29 @@
     ]
   },
   {
+    "id": "bundesliga2konferenz",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "bundesliga 2 konferenz -",
+      "logo": ""
+    },
+    "team2": {
+      "name": "",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-15",
+    "kickoff_time": "19:30",
+    "match_date": "2026-02-15",
+    "match_time": "19:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=111",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
     "id": "Bochum-Paderborn",
     "league": "Bundesliga 2",
     "team1": {
@@ -2749,14 +2778,6 @@
     "match_time": "19:30",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=111",
-        "label": "CH-DE"
-      },
       {
         "url": "https://multi.govoet.cc/?envivo=113",
         "label": "CH-DE"
@@ -2785,18 +2806,6 @@
         "label": "CH-FR"
       },
       {
-        "url": "https://multi.govoet.cc/?envivo=5",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
         "url": "https://multi.govoet.cc/?envivo=112",
         "label": "CH-DE"
       }
@@ -2819,14 +2828,6 @@
     "match_time": "19:30",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=111",
-        "label": "CH-DE"
-      },
       {
         "url": "https://multi.govoet.cc/?envivo=114",
         "label": "CH-DE"
@@ -3239,6 +3240,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=124",
         "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=116",
+        "label": "CH-ES"
       }
     ]
   },
@@ -3661,6 +3666,14 @@
       },
       {
         "url": "https://multi.govoet.cc/?envivo=91",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=116",
         "label": "CH-ES"
       }
     ]
