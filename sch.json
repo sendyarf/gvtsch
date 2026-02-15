@@ -1111,12 +1111,7 @@
     "match_date": "2026-02-15",
     "match_time": "00:45",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd10",
-        "label": "CH-1"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Ajax-Sittard",
@@ -1134,12 +1129,7 @@
     "match_date": "2026-02-15",
     "match_time": "02:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd9",
-        "label": "CH-1"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Groningen-Utrecht",
@@ -1287,16 +1277,7 @@
     "match_date": "2026-02-15",
     "match_time": "01:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd4",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv3",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ParisFC-Lens",
@@ -1314,16 +1295,7 @@
     "match_date": "2026-02-15",
     "match_time": "03:05",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd4",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv3",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "LeHavre-Toulouse",
@@ -1577,24 +1549,7 @@
     "match_date": "2026-02-15",
     "match_time": "02:45",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv4",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br6",
-        "label": "CH-4"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Udinese-Sassuolo",
@@ -1910,20 +1865,7 @@
     "match_date": "2026-02-15",
     "match_time": "00:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br6",
-        "label": "CH-3"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "RealMadrid-RealSociedad",
@@ -1941,24 +1883,7 @@
     "match_date": "2026-02-15",
     "match_time": "03:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br3",
-        "label": "CH-4"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Oviedo-AthBilbao",
@@ -2260,175 +2185,6 @@
     "match_time": "15:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Limache-OHiggins",
-    "league": "Chile - Liga de Primera",
-    "team1": {
-      "name": "Limache",
-      "logo": "https://static.flashscore.com/res/image/data/Gf0ZHyB6-EawjMZXB.png"
-    },
-    "team2": {
-      "name": "O'Higgins",
-      "logo": "https://static.flashscore.com/res/image/data/nZH8RAR0-zPh2QHcM.png"
-    },
-    "kickoff_date": "2026-02-15",
-    "kickoff_time": "04:00",
-    "match_date": "2026-02-15",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Millonarios-Llaneros",
-    "league": "Colombia: Primera A",
-    "team1": {
-      "name": "Millonarios",
-      "logo": "https://static.flashscore.com/res/image/data/I7bqaK6k-6kduDy6P.png"
-    },
-    "team2": {
-      "name": "Llaneros",
-      "logo": "https://static.flashscore.com/res/image/data/dtGebzCN-hjn5AE5Q.png"
-    },
-    "kickoff_date": "2026-02-15",
-    "kickoff_time": "04:30",
-    "match_date": "2026-02-15",
-    "match_time": "04:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=81",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd10",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "SportBoys-Grau",
-    "league": "Peru - Liga 1",
-    "team1": {
-      "name": "Sport Boys",
-      "logo": "https://static.flashscore.com/res/image/data/44OntTne-fFhdpXur.png"
-    },
-    "team2": {
-      "name": "Grau",
-      "logo": "https://static.flashscore.com/res/image/data/tbidOcjT-IaKc0OzC.png"
-    },
-    "kickoff_date": "2026-02-15",
-    "kickoff_time": "05:30",
-    "match_date": "2026-02-15",
-    "match_time": "05:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Huracan-SarmientoJunin",
-    "league": "Argentina - Primera LPF",
-    "team1": {
-      "name": "Huracan",
-      "logo": "https://static.flashscore.com/res/image/data/2mxEfn7k-xxyFAG42.png"
-    },
-    "team2": {
-      "name": "Sarmiento Junin",
-      "logo": "https://static.flashscore.com/res/image/data/0jUeTMhT-jFNZQuRn.png"
-    },
-    "kickoff_date": "2026-02-15",
-    "kickoff_time": "05:45",
-    "match_date": "2026-02-15",
-    "match_time": "05:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=75",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "TalleresCordoba-GimnasiaMendoza",
-    "league": "Argentina - Primera LPF",
-    "team1": {
-      "name": "Talleres Cordoba",
-      "logo": "https://static.flashscore.com/res/image/data/SrL2ZPUH-hUOWZpWa.png"
-    },
-    "team2": {
-      "name": "Gimnasia Mendoza",
-      "logo": "https://static.flashscore.com/res/image/data/0t8y58VH-Uyu9KPIO.png"
-    },
-    "kickoff_date": "2026-02-15",
-    "kickoff_time": "05:45",
-    "match_date": "2026-02-15",
-    "match_time": "05:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=76",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd9",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "AtlSanLuis-Queretaro",
-    "league": "Mexico - Liga MX",
-    "team1": {
-      "name": "Atl. San Luis",
-      "logo": "https://static.flashscore.com/res/image/data/YD3Bg1Qq-dG08RUsN.png"
-    },
-    "team2": {
-      "name": "Queretaro",
-      "logo": "https://static.flashscore.com/res/image/data/n9R8QrCN-0rbG5js3.png"
-    },
-    "kickoff_date": "2026-02-15",
-    "kickoff_time": "06:00",
-    "match_date": "2026-02-15",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=97",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Pachuca-Atlas",
-    "league": "Mexico - Liga MX",
-    "team1": {
-      "name": "Pachuca",
-      "logo": "https://static.flashscore.com/res/image/data/UcvERb5k-zFZbB1JF.png"
-    },
-    "team2": {
-      "name": "Atlas",
-      "logo": "https://static.flashscore.com/res/image/data/CxOLsUWH-OtymR74A.png"
-    },
-    "kickoff_date": "2026-02-15",
-    "kickoff_time": "06:00",
-    "match_date": "2026-02-15",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=158",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "Cobresal-UCatolica",
@@ -4762,10 +4518,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY1LnBocA==",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-1"
       }
     ]
   },
