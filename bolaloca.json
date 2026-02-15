@@ -1,36 +1,5 @@
 [
   {
-    "id": "Augsburg-Heidenheim",
-    "league": "Bundesliga",
-    "team1": {
-      "name": "Augsburg",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Heidenheim",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-15",
-    "kickoff_time": "21:30",
-    "match_date": "2026-02-15",
-    "match_time": "21:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=7",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=116",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "UDeConcepcion-DConcepcion",
     "league": "Campeonato Itaú Chile",
     "team1": {
