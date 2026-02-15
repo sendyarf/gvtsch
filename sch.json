@@ -2148,7 +2148,32 @@
     "match_date": "2026-02-15",
     "match_time": "15:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMDkwNTMubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMjI3NzQubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMzIzNDMubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8yNTA4NzQubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MzQ5ODIubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MTMzOTQubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "BaliUnited-PersijaJakarta",
@@ -2185,33 +2210,6 @@
     "match_time": "15:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "GuadalajaraChivas-ClubAmerica",
-    "league": "Mexico - Liga MX",
-    "team1": {
-      "name": "Guadalajara Chivas",
-      "logo": "https://static.flashscore.com/res/image/data/4fFLAKlC-lEs0thDm.png"
-    },
-    "team2": {
-      "name": "Club America",
-      "logo": "https://static.flashscore.com/res/image/data/f3CzIwSq-OGkmEu0T.png"
-    },
-    "kickoff_date": "2026-02-15",
-    "kickoff_time": "10:07",
-    "match_date": "2026-02-15",
-    "match_time": "10:07",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=72",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=73",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "ForcaLleida-BasquetGirona",
