@@ -1111,12 +1111,7 @@
     "match_date": "2026-02-16",
     "match_time": "02:45",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Napoli-ASRoma",
@@ -1135,10 +1130,6 @@
     "match_time": "02:45",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
       {
         "url": "https://multi.govoet.cc/?ss=hd1",
         "label": "CH-1"
@@ -1247,28 +1238,7 @@
     "match_date": "2026-02-16",
     "match_time": "03:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=94",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Girona-Barcelona",
@@ -1398,133 +1368,6 @@
     "match_time": "03:00",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Castellon-DepLaCoruna",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Castellon",
-      "logo": "https://static.flashscore.com/res/image/data/AowBBF6k-zBFXR8iF.png"
-    },
-    "team2": {
-      "name": "Dep. La Coruna",
-      "logo": "https://static.flashscore.com/res/image/data/t4lB3X76-UZkpPVoT.png"
-    },
-    "kickoff_date": "2026-02-16",
-    "kickoff_time": "03:00",
-    "match_date": "2026-02-16",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=4",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Danubio-BostonRiver",
-    "league": "Liga Auf Uruguaya",
-    "team1": {
-      "name": "Danubio",
-      "logo": "https://static.flashscore.com/res/image/data/EmZBa3le-vaUkIxVj.png"
-    },
-    "team2": {
-      "name": "Boston River",
-      "logo": "https://static.flashscore.com/res/image/data/tCs8eX7k-fyGmYfBO.png"
-    },
-    "kickoff_date": "2026-02-16",
-    "kickoff_time": "03:00",
-    "match_date": "2026-02-16",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=109",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "GimnasiaLP-EstudiantesLP",
-    "league": "Argentina - Primera LPF",
-    "team1": {
-      "name": "Gimnasia L.P.",
-      "logo": "https://static.flashscore.com/res/image/data/8UYpvw86-OSVEHifC.png"
-    },
-    "team2": {
-      "name": "Estudiantes L.P.",
-      "logo": "https://static.flashscore.com/res/image/data/MgrzhmgT-2aA5n1nK.png"
-    },
-    "kickoff_date": "2026-02-16",
-    "kickoff_time": "03:00",
-    "match_date": "2026-02-16",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=75",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=61",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "StadeFrancaisParis-StadeToulousain",
-    "league": "Top 14",
-    "team1": {
-      "name": "Stade Francais Paris",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Stade Toulousain",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-16",
-    "kickoff_time": "03:05",
-    "match_date": "2026-02-16",
-    "match_time": "03:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=11",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=63",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "ComerciantesUnidos-LosChankas",
-    "league": "Peru - Liga 1",
-    "team1": {
-      "name": "Comerciantes Unidos",
-      "logo": "https://static.flashscore.com/res/image/data/WSY9mmjC-8dieWfgh.png"
-    },
-    "team2": {
-      "name": "Los Chankas",
-      "logo": "https://static.flashscore.com/res/image/data/hEpliNiT-v9LWknvd.png"
-    },
-    "kickoff_date": "2026-02-16",
-    "kickoff_time": "03:15",
-    "match_date": "2026-02-16",
-    "match_time": "03:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "SportingCP-Famalicao",
