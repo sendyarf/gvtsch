@@ -1522,29 +1522,6 @@
     "servers": []
   },
   {
-    "id": "Kasimpasa-Karagumruk",
-    "league": "Super Lig",
-    "team1": {
-      "name": "Kasimpasa",
-      "logo": "https://static.flashscore.com/res/image/data/QFcwe9oe-Mm1T8IIN.png"
-    },
-    "team2": {
-      "name": "Karagumruk",
-      "logo": "https://static.flashscore.com/res/image/data/236tUEA6-dhK4x4oH.png"
-    },
-    "kickoff_date": "2026-02-17",
-    "kickoff_time": "00:00",
-    "match_date": "2026-02-17",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=151",
-        "label": "CH-TR"
-      }
-    ]
-  },
-  {
     "id": "AlHilalSau-AlWahdaUae",
     "league": "AFC Champions League Elite",
     "team1": {
@@ -2026,29 +2003,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "WomenSweden-UnitedStates",
-    "league": "Hockey",
-    "team1": {
-      "name": "Women: Sweden",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
-    },
-    "team2": {
-      "name": "United States",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png"
-    },
-    "kickoff_date": "2026-02-16",
-    "kickoff_time": "22:40",
-    "match_date": "2026-02-16",
-    "match_time": "22:40",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE5LnBocA==",
         "label": "CH-EN"
       }
     ]
