@@ -1734,37 +1734,6 @@
     "servers": []
   },
   {
-    "id": "TestsdeprsaisonEssaisdumatin",
-    "league": "Formula 1",
-    "team1": {
-      "name": "Tests de pré-saison Essais du matin -",
-      "logo": ""
-    },
-    "team2": {
-      "name": "",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-19",
-    "kickoff_time": "16:10",
-    "match_date": "2026-02-19",
-    "match_time": "16:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=13",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=121",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=60",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "TestsdeprsaisonEssaisdelaprsmidi",
     "league": "Formula 1",
     "team1": {
