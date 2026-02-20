@@ -2497,83 +2497,6 @@
     "servers": []
   },
   {
-    "id": "Miguelito-LosAngelesGalaxy",
-    "league": "Concacaf Champions Cup",
-    "team1": {
-      "name": "Miguelito",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Los Angeles Galaxy",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-20",
-    "kickoff_time": "08:00",
-    "match_date": "2026-02-20",
-    "match_time": "08:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=68",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "ChicagoBulls-TorontoRaptors",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Chicago Bulls",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png"
-    },
-    "team2": {
-      "name": "Toronto Raptors",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
-    },
-    "kickoff_date": "2026-02-20",
-    "kickoff_time": "08:00",
-    "match_date": "2026-02-20",
-    "match_time": "08:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=175",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "SanAntonioSpurs-PhoenixSuns",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "San Antonio Spurs",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
-    },
-    "team2": {
-      "name": "Phoenix Suns",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png"
-    },
-    "kickoff_date": "2026-02-20",
-    "kickoff_time": "08:30",
-    "match_date": "2026-02-20",
-    "match_time": "08:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=176",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "GoldenStateWarriors-BostonCeltics",
     "league": "USA - NBA",
     "team1": {
@@ -2632,11 +2555,11 @@
     "league": "USA - NBA",
     "team1": {
       "name": "Los Angeles Clippers",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/jJgC6dAN-dhz9Qt1I.png"
     },
     "team2": {
       "name": "Denver Nuggets",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/rT4Lu9CN-vXFf6tnR.png"
     },
     "kickoff_date": "2026-02-20",
     "kickoff_time": "10:30",
@@ -2993,116 +2916,24 @@
     ]
   },
   {
-    "id": "DetroitPistons-NewYorkKnicks",
+    "id": "PhoenixSuns-SanAntonioSpurs",
     "league": "Basketball",
     "team1": {
-      "name": "Detroit Pistons",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"
+      "name": "Phoenix Suns",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png"
     },
     "team2": {
-      "name": "New York Knicks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
+      "name": "San Antonio Spurs",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
     },
     "kickoff_date": "2026-02-20",
-    "kickoff_time": "07:30",
+    "kickoff_time": "08:30",
     "match_date": "2026-02-20",
-    "match_time": "07:30",
+    "match_time": "08:30",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY5LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "HoustonRockets-CharlotteHornets",
-    "league": "Basketball",
-    "team1": {
-      "name": "Houston Rockets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png"
-    },
-    "team2": {
-      "name": "Charlotte Hornets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png"
-    },
-    "kickoff_date": "2026-02-20",
-    "kickoff_time": "07:00",
-    "match_date": "2026-02-20",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY1LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "BrooklynNets-ClevelandCavaliers",
-    "league": "Basketball",
-    "team1": {
-      "name": "Brooklyn Nets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png"
-    },
-    "team2": {
-      "name": "Cleveland Cavaliers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
-    },
-    "kickoff_date": "2026-02-20",
-    "kickoff_time": "07:00",
-    "match_date": "2026-02-20",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "AtlantaHawks-Philadelphia76ers",
-    "league": "Basketball",
-    "team1": {
-      "name": "Atlanta Hawks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png"
-    },
-    "team2": {
-      "name": "Philadelphia 76ers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
-    },
-    "kickoff_date": "2026-02-20",
-    "kickoff_time": "07:00",
-    "match_date": "2026-02-20",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "IndianaPacers-WashingtonWizards",
-    "league": "Basketball",
-    "team1": {
-      "name": "Indiana Pacers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png"
-    },
-    "team2": {
-      "name": "Washington Wizards",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png"
-    },
-    "kickoff_date": "2026-02-20",
-    "kickoff_time": "07:00",
-    "match_date": "2026-02-20",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY4LnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcxLnBocA==",
         "label": "CH-EN"
       }
     ]
