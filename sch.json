@@ -2595,22 +2595,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=8",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=94",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
       },
@@ -2650,7 +2634,7 @@
         "label": "CH-FR"
       },
       {
-        "url": "https://multi.govoet.cc/?envivo=51",
+        "url": "https://multi.govoet.cc/?envivo=52",
         "label": "CH-ES"
       },
       {
@@ -3038,329 +3022,6 @@
     "servers": []
   },
   {
-    "id": "bundesliga2konferenz",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "bundesliga 2 konferenz -",
-      "logo": ""
-    },
-    "team2": {
-      "name": "",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-21",
-    "kickoff_time": "19:00",
-    "match_date": "2026-02-21",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=112",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=123",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Darmstadt-Dusseldorf",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Darmstadt",
-      "logo": "https://static.flashscore.com/res/image/data/hbrmZHCN-hnEPJbbt.png"
-    },
-    "team2": {
-      "name": "Dusseldorf",
-      "logo": "https://static.flashscore.com/res/image/data/4dR7FIjT-Qmnf8wEL.png"
-    },
-    "kickoff_date": "2026-02-21",
-    "kickoff_time": "19:00",
-    "match_date": "2026-02-21",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=78",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=114",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd10",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven2",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Elversberg-Braunschweig",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Elversberg",
-      "logo": "https://static.flashscore.com/res/image/data/lbqNa1le-QsgNMFNg.png"
-    },
-    "team2": {
-      "name": "Braunschweig",
-      "logo": "https://static.flashscore.com/res/image/data/bZS1GF96-rBP4Wuhs.png"
-    },
-    "kickoff_date": "2026-02-21",
-    "kickoff_time": "19:00",
-    "match_date": "2026-02-21",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=115",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "KarlsruherSC-HolsteinKiel",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Karlsruher SC",
-      "logo": "https://static.flashscore.com/res/image/data/rahX5g7k-Qmnf8wEL.png"
-    },
-    "team2": {
-      "name": "Holstein Kiel",
-      "logo": "https://static.flashscore.com/res/image/data/8K98UZoe-EcK7yLm6.png"
-    },
-    "kickoff_date": "2026-02-21",
-    "kickoff_time": "19:00",
-    "match_date": "2026-02-21",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=113",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Hull-QPR",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Hull",
-      "logo": "https://static.flashscore.com/res/image/data/WGeGdCSq-bJFnYpTt.png"
-    },
-    "team2": {
-      "name": "QPR",
-      "logo": "https://static.flashscore.com/res/image/data/hdnBLqiC-z9YsXKZd.png"
-    },
-    "kickoff_date": "2026-02-21",
-    "kickoff_time": "19:30",
-    "match_date": "2026-02-21",
-    "match_time": "19:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=190",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Stoke-Leicester",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Stoke",
-      "logo": "https://static.flashscore.com/res/image/data/ObQhVYne-vLLQfvnm.png"
-    },
-    "team2": {
-      "name": "Leicester",
-      "logo": "https://static.flashscore.com/res/image/data/CvL5rhhT-UNZg5BP0.png"
-    },
-    "kickoff_date": "2026-02-21",
-    "kickoff_time": "19:30",
-    "match_date": "2026-02-21",
-    "match_time": "19:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=191",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Swansea-BristolCity",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Swansea",
-      "logo": "https://static.flashscore.com/res/image/data/GxgUhame-Ozj3JWKn.png"
-    },
-    "team2": {
-      "name": "Bristol City",
-      "logo": "https://static.flashscore.com/res/image/data/CGC2jhT0-OdaWmcNh.png"
-    },
-    "kickoff_date": "2026-02-21",
-    "kickoff_time": "19:30",
-    "match_date": "2026-02-21",
-    "match_time": "19:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=192",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "WestBrom-Coventry",
-    "league": "England - Championship",
-    "team1": {
-      "name": "West Brom",
-      "logo": "https://static.flashscore.com/res/image/data/QsGXnZjC-ImMEe0UF.png"
-    },
-    "team2": {
-      "name": "Coventry",
-      "logo": "https://static.flashscore.com/res/image/data/QHmiKlDN-UuasdTpt.png"
-    },
-    "kickoff_date": "2026-02-21",
-    "kickoff_time": "19:30",
-    "match_date": "2026-02-21",
-    "match_time": "19:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=9",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=127",
-        "label": "CH-GB"
-      }
-    ]
-  },
-  {
-    "id": "RacingMontevideo-Danubio",
-    "league": "Liga Auf Uruguaya",
-    "team1": {
-      "name": "Racing Montevideo",
-      "logo": "https://static.flashscore.com/res/image/data/CYYXXpkC-YRdHXM28.png"
-    },
-    "team2": {
-      "name": "Danubio",
-      "logo": "https://static.flashscore.com/res/image/data/EmZBa3le-vaUkIxVj.png"
-    },
-    "kickoff_date": "2026-02-21",
-    "kickoff_time": "19:45",
-    "match_date": "2026-02-21",
-    "match_time": "19:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=109",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Leganes-CulturalLeonesa",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Leganes",
-      "logo": "https://static.flashscore.com/res/image/data/C4WkaSlC-Q3zX1dyT.png"
-    },
-    "team2": {
-      "name": "Cultural Leonesa",
-      "logo": "https://static.flashscore.com/res/image/data/nqcf2egT-WAOkzK99.png"
-    },
-    "kickoff_date": "2026-02-21",
-    "kickoff_time": "20:00",
-    "match_date": "2026-02-21",
-    "match_time": "20:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Reims-Amiens",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Reims",
-      "logo": "https://static.flashscore.com/res/image/data/fgcfKf86-x6KhF69U.png"
-    },
-    "team2": {
-      "name": "Amiens",
-      "logo": "https://static.flashscore.com/res/image/data/SYoFLN86-lriTEOfc.png"
-    },
-    "kickoff_date": "2026-02-21",
-    "kickoff_time": "20:00",
-    "match_date": "2026-02-21",
-    "match_time": "20:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=4",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Troyes-PauFC",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Troyes",
-      "logo": "https://static.flashscore.com/res/image/data/nySLfpiC-McvX4bye.png"
-    },
-    "team2": {
-      "name": "Pau FC",
-      "logo": "https://static.flashscore.com/res/image/data/hYhYK6jC-4hEPxFlP.png"
-    },
-    "kickoff_date": "2026-02-21",
-    "kickoff_time": "20:00",
-    "match_date": "2026-02-21",
-    "match_time": "20:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=1",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Alanyaspor-Basaksehir",
-    "league": "Super Lig",
-    "team1": {
-      "name": "Alanyaspor",
-      "logo": "https://static.flashscore.com/res/image/data/nNYL4FQq-p2zyVPdn.png"
-    },
-    "team2": {
-      "name": "Basaksehir",
-      "logo": "https://static.flashscore.com/res/image/data/8tyHVlRq-W6dgKOQi.png"
-    },
-    "kickoff_date": "2026-02-21",
-    "kickoff_time": "20:00",
-    "match_date": "2026-02-21",
-    "match_time": "20:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=151",
-        "label": "CH-TR"
-      }
-    ]
-  },
-  {
     "id": "England-Ireland",
     "league": "Tournoi Des Six Nations",
     "team1": {
@@ -3384,6 +3045,29 @@
       {
         "url": "https://multi.govoet.cc/?envivo=55",
         "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "bundesligakonferenz",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "bundesliga konferenz -",
+      "logo": ""
+    },
+    "team2": {
+      "name": "",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-21",
+    "kickoff_time": "21:30",
+    "match_date": "2026-02-21",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=123",
+        "label": "CH-DE"
       }
     ]
   },
