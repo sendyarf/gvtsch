@@ -1436,12 +1436,7 @@
     "match_date": "2026-02-22",
     "match_time": "18:15",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=142",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "GAEagles-Heracles",
@@ -2517,29 +2512,6 @@
     "match_time": "20:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Kayserispor-Antalyaspor",
-    "league": "Super Lig",
-    "team1": {
-      "name": "Kayserispor",
-      "logo": "https://static.flashscore.com/res/image/data/UVNRzET0-Y99esCPN.png"
-    },
-    "team2": {
-      "name": "Antalyaspor",
-      "logo": "https://static.flashscore.com/res/image/data/S6yZui5k-ptkIYGIF.png"
-    },
-    "kickoff_date": "2026-02-22",
-    "kickoff_time": "17:30",
-    "match_date": "2026-02-22",
-    "match_time": "17:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=152",
-        "label": "CH-TR"
-      }
-    ]
   },
   {
     "id": "SheffieldUtd-SheffieldWed",
