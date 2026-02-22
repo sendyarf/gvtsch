@@ -1,36 +1,5 @@
 [
   {
-    "id": "CruzAzul-GuadalajaraChivas",
-    "league": "Liga Mx",
-    "team1": {
-      "name": "Cruz Azul",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Guadalajara Chivas",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-22",
-    "kickoff_time": "10:05",
-    "match_date": "2026-02-22",
-    "match_time": "10:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=68",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=106",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=107",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "PortlandTimbers-ColumbusCrew",
     "league": "MLS",
     "team1": {
