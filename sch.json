@@ -1113,6 +1113,30 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.cc/?envivo=12",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=127",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=56",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=120",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=72",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
         "label": "CH-EN"
       },
@@ -1146,12 +1170,7 @@
     "match_date": "2026-02-23",
     "match_time": "02:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd11",
-        "label": "CH-1"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Strasbourg-Lyon",
@@ -1187,16 +1206,7 @@
     "match_date": "2026-02-23",
     "match_time": "01:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd3",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven3",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ASRoma-Cremonese",
@@ -1214,16 +1224,7 @@
     "match_date": "2026-02-23",
     "match_time": "02:45",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br2",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Fiorentina-Pisa",
@@ -1242,6 +1243,26 @@
     "match_time": "00:30",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=137",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=145",
+        "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=148",
+        "label": "CH-GR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=70",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=88",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
         "label": "CH-EN"
@@ -1273,6 +1294,22 @@
     "match_time": "02:45",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=138",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=145",
+        "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=149",
+        "label": "CH-GR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=98",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
         "label": "CH-EN"
@@ -1321,20 +1358,7 @@
     "match_date": "2026-02-23",
     "match_time": "03:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-3"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Alaves-Girona",
@@ -1353,6 +1377,22 @@
     "match_time": "03:00",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=4",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=49",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=71",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=88",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
@@ -1596,464 +1636,6 @@
     ]
   },
   {
-    "id": "AItaliano-Everton",
-    "league": "Chile - Liga de Primera",
-    "team1": {
-      "name": "A. Italiano",
-      "logo": "https://static.flashscore.com/res/image/data/I9BmV0jC-6kEqxN0C.png"
-    },
-    "team2": {
-      "name": "Everton",
-      "logo": "https://static.flashscore.com/res/image/data/CK0zQ5A6-futBA1p8.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "04:00",
-    "match_date": "2026-02-23",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "SantaFe-Junior",
-    "league": "Colombia: Primera A",
-    "team1": {
-      "name": "Santa Fe",
-      "logo": "https://static.flashscore.com/res/image/data/UacjBalC-AaS9a4Ho.png"
-    },
-    "team2": {
-      "name": "Junior",
-      "logo": "https://static.flashscore.com/res/image/data/StROSU5k-G2820wU0.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "04:00",
-    "match_date": "2026-02-23",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=81",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd11",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "Tapatio-Tlaxcala",
-    "league": "Liga De Expansion Mx",
-    "team1": {
-      "name": "Tapatio",
-      "logo": "https://static.flashscore.com/res/image/data/fDccjE76-UZH21AZ4.png"
-    },
-    "team2": {
-      "name": "Tlaxcala",
-      "logo": "https://static.flashscore.com/res/image/data/GnIBXEAN-IHByb3W8.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "05:00",
-    "match_date": "2026-02-23",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=98",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "IndianaPacers-DallasMavericks",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Indiana Pacers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png"
-    },
-    "team2": {
-      "name": "Dallas Mavericks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "05:00",
-    "match_date": "2026-02-23",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=184",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY5LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "VelezSarsfield-RiverPlate",
-    "league": "Argentina - Primera LPF",
-    "team1": {
-      "name": "Velez Sarsfield",
-      "logo": "https://static.flashscore.com/res/image/data/SzosWlSq-YF2zL4v9.png"
-    },
-    "team2": {
-      "name": "River Plate",
-      "logo": "https://static.flashscore.com/res/image/data/pAiUJ8hT-nqhLBCKD.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "05:15",
-    "match_date": "2026-02-23",
-    "match_time": "05:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=76",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=61",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=87",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "InddelValle-GuayaquilCity",
-    "league": "Ecuador - Liga Pro",
-    "team1": {
-      "name": "Ind. del Valle",
-      "logo": "https://static.flashscore.com/res/image/data/4rVUkugT-OnCKiY2r.png"
-    },
-    "team2": {
-      "name": "Guayaquil City",
-      "logo": "https://static.flashscore.com/res/image/data/rBjgDd86-xtXtvCe4.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "06:00",
-    "match_date": "2026-02-23",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=86",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "JaibaBrava-Correcaminos",
-    "league": "Liga De Expansion Mx",
-    "team1": {
-      "name": "Jaiba Brava",
-      "logo": "https://static.flashscore.com/res/image/data/ltGrpwkC-YkPc1kEl.png"
-    },
-    "team2": {
-      "name": "Correcaminos",
-      "logo": "https://static.flashscore.com/res/image/data/A1KdQ5le-EcnnWKX6.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "06:00",
-    "match_date": "2026-02-23",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=105",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "UNAMPumas-Monterrey",
-    "league": "Mexico - Liga MX",
-    "team1": {
-      "name": "UNAM Pumas",
-      "logo": "https://static.flashscore.com/res/image/data/A9NpRSR0-pEQGCKC1.png"
-    },
-    "team2": {
-      "name": "Monterrey",
-      "logo": "https://static.flashscore.com/res/image/data/Gnf7VRQq-MVPKYVvK.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "06:00",
-    "match_date": "2026-02-23",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=68",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=106",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=107",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "GuadalajaraChivasW-ClubAmericaW",
-    "league": "Liga Mx Women",
-    "team1": {
-      "name": "Guadalajara Chivas W",
-      "logo": "https://static.flashscore.com/res/image/data/pI62S586-jJ3ijTtC.png"
-    },
-    "team2": {
-      "name": "Club America W",
-      "logo": "https://static.flashscore.com/res/image/data/QXmRl6jT-xj4XM9r1.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "06:00",
-    "match_date": "2026-02-23",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=72",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "NecaxaW-QueretaroW",
-    "league": "Liga Mx Women",
-    "team1": {
-      "name": "Necaxa W",
-      "logo": "https://static.flashscore.com/res/image/data/MDUf7ojC-OnW4CdLn.png"
-    },
-    "team2": {
-      "name": "Queretaro W",
-      "logo": "https://static.flashscore.com/res/image/data/EyeytwU0-0rbG5js3.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "06:00",
-    "match_date": "2026-02-23",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=163",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "WashingtonWizards-CharlotteHornets",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Washington Wizards",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png"
-    },
-    "team2": {
-      "name": "Charlotte Hornets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "06:00",
-    "match_date": "2026-02-23",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=185",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Chico-Aguilas",
-    "league": "Colombia: Primera A",
-    "team1": {
-      "name": "Chico",
-      "logo": "https://static.flashscore.com/res/image/data/Cj1rt4me-faYW5YDs.png"
-    },
-    "team2": {
-      "name": "Aguilas",
-      "logo": "https://static.flashscore.com/res/image/data/zNqhWFQq-2eGA9cib.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "06:10",
-    "match_date": "2026-02-23",
-    "match_time": "06:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=81",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "UDeChile-Limache",
-    "league": "Chile - Liga de Primera",
-    "team1": {
-      "name": "U. De Chile",
-      "logo": "https://static.flashscore.com/res/image/data/AwRGCvU0-fuSaShZI.png"
-    },
-    "team2": {
-      "name": "Limache",
-      "logo": "https://static.flashscore.com/res/image/data/Gf0ZHyB6-EawjMZXB.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "06:30",
-    "match_date": "2026-02-23",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Cusco-ComerciantesUnidos",
-    "league": "Peru - Liga 1",
-    "team1": {
-      "name": "Cusco",
-      "logo": "https://static.flashscore.com/res/image/data/QB6SLoiT-06OeOzI0.png"
-    },
-    "team2": {
-      "name": "Comerciantes Unidos",
-      "logo": "https://static.flashscore.com/res/image/data/WSY9mmjC-8dieWfgh.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "06:30",
-    "match_date": "2026-02-23",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Penarol-Maldonado",
-    "league": "Liga Auf Uruguaya",
-    "team1": {
-      "name": "Penarol",
-      "logo": "https://static.flashscore.com/res/image/data/QysI8jT0-nqhLBCKD.png"
-    },
-    "team2": {
-      "name": "Maldonado",
-      "logo": "https://static.flashscore.com/res/image/data/Svo9ipA6-xvp8ggnJ.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "06:30",
-    "match_date": "2026-02-23",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=109",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LosAngelesLakers-BostonCeltics",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Los Angeles Lakers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
-    },
-    "team2": {
-      "name": "Boston Celtics",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "06:30",
-    "match_date": "2026-02-23",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=186",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=155",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "LosAngelesGalaxy-NewYorkCity",
-    "league": "USA - MLS",
-    "team1": {
-      "name": "Los Angeles Galaxy",
-      "logo": ""
-    },
-    "team2": {
-      "name": "New York City",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "07:00",
-    "match_date": "2026-02-23",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=160",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "MinnesotaTimberwolves-Philadelphia76ers",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Minnesota Timberwolves",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
-    },
-    "team2": {
-      "name": "Philadelphia 76ers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
-    },
-    "kickoff_date": "2026-02-23",
-    "kickoff_time": "07:00",
-    "match_date": "2026-02-23",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=187",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcyLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "UniondeSantaFe-Aldosivi",
     "league": "Argentina - Primera LPF",
     "team1": {
@@ -2266,6 +1848,449 @@
     ]
   },
   {
+    "id": "Fenerbahce-Kasimpasa",
+    "league": "Super Lig",
+    "team1": {
+      "name": "Fenerbahce",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Kasimpasa",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-24",
+    "kickoff_time": "00:00",
+    "match_date": "2026-02-24",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=4",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=144",
+        "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=151",
+        "label": "CH-TR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=69",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=79",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=91",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=98",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "AlQadsiah-AlEttifaq",
+    "league": "Saudi Pro League",
+    "team1": {
+      "name": "Al Qadsiah",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Al Ettifaq",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-24",
+    "kickoff_time": "02:00",
+    "match_date": "2026-02-24",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=192",
+        "label": "CH-SA"
+      }
+    ]
+  },
+  {
+    "id": "AlShabab-AlRiyadh",
+    "league": "Saudi Pro League",
+    "team1": {
+      "name": "Al Shabab",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Al Riyadh",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-24",
+    "kickoff_time": "02:00",
+    "match_date": "2026-02-24",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=193",
+        "label": "CH-SA"
+      }
+    ]
+  },
+  {
+    "id": "Damac-AlAhliSC",
+    "league": "Saudi Pro League",
+    "team1": {
+      "name": "Damac",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Al Ahli SC",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-24",
+    "kickoff_time": "02:00",
+    "match_date": "2026-02-24",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=191",
+        "label": "CH-SA"
+      }
+    ]
+  },
+  {
+    "id": "CadizCF-RealSociedadB",
+    "league": "Spain - LaLiga 2",
+    "team1": {
+      "name": "Cadiz CF",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Real Sociedad B",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-24",
+    "kickoff_time": "02:30",
+    "match_date": "2026-02-24",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=53",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LeMans-Guingamp",
+    "league": "Ligue 2",
+    "team1": {
+      "name": "Le Mans",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Guingamp",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-24",
+    "kickoff_time": "02:45",
+    "match_date": "2026-02-24",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=1",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Moquegua-DeportivoGarcilaso",
+    "league": "Peru - Liga 1",
+    "team1": {
+      "name": "Moquegua",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Deportivo Garcilaso",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-24",
+    "kickoff_time": "03:00",
+    "match_date": "2026-02-24",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=84",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Famalicao-CasaPia",
+    "league": "Liga Portugal",
+    "team1": {
+      "name": "Famalicao",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Casa Pia",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-24",
+    "kickoff_time": "03:15",
+    "match_date": "2026-02-24",
+    "match_time": "03:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=144",
+        "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Cucuta-DeportesTolima",
+    "league": "Colombia: Primera A",
+    "team1": {
+      "name": "Cucuta",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Deportes Tolima",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-24",
+    "kickoff_time": "04:00",
+    "match_date": "2026-02-24",
+    "match_time": "04:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=81",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "DetroitPistons-SanAntonioSpurs",
+    "league": "USA - NBA",
+    "team1": {
+      "name": "Detroit Pistons",
+      "logo": ""
+    },
+    "team2": {
+      "name": "San Antonio Spurs",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-24",
+    "kickoff_time": "07:00",
+    "match_date": "2026-02-24",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=170",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Libertad-Manta",
+    "league": "Ecuador - Liga Pro",
+    "team1": {
+      "name": "Libertad",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Manta",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-24",
+    "kickoff_time": "07:30",
+    "match_date": "2026-02-24",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=86",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MemphisGrizzlies-SacramentoKings",
+    "league": "USA - NBA",
+    "team1": {
+      "name": "Memphis Grizzlies",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Sacramento Kings",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-24",
+    "kickoff_time": "08:00",
+    "match_date": "2026-02-24",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=171",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "HoustonRockets-UtahJazz",
+    "league": "USA - NBA",
+    "team1": {
+      "name": "Houston Rockets",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Utah Jazz",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-24",
+    "kickoff_time": "09:30",
+    "match_date": "2026-02-24",
+    "match_time": "09:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=172",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Philadelphia76ers-MinnesotaTimberwolves",
+    "league": "Basketball",
+    "team1": {
+      "name": "Philadelphia 76ers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
+    },
+    "team2": {
+      "name": "Minnesota Timberwolves",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
+    },
+    "kickoff_date": "2026-02-23",
+    "kickoff_time": "07:00",
+    "match_date": "2026-02-23",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcyLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "BostonCeltics-LosAngelesLakers",
+    "league": "Basketball",
+    "team1": {
+      "name": "Boston Celtics",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
+    },
+    "team2": {
+      "name": "Los Angeles Lakers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
+    },
+    "kickoff_date": "2026-02-23",
+    "kickoff_time": "06:30",
+    "match_date": "2026-02-23",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcxLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "CharlotteHornets-WashingtonWizards",
+    "league": "Basketball",
+    "team1": {
+      "name": "Charlotte Hornets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png"
+    },
+    "team2": {
+      "name": "Washington Wizards",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png"
+    },
+    "kickoff_date": "2026-02-23",
+    "kickoff_time": "06:00",
+    "match_date": "2026-02-23",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcwLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "DallasMavericks-IndianaPacers",
+    "league": "Basketball",
+    "team1": {
+      "name": "Dallas Mavericks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png"
+    },
+    "team2": {
+      "name": "Indiana Pacers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png"
+    },
+    "kickoff_date": "2026-02-23",
+    "kickoff_time": "05:00",
+    "match_date": "2026-02-23",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY5LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
     "id": "BrooklynNets-AtlantaHawks",
     "league": "Basketball",
     "team1": {
@@ -2331,18 +2356,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY4LnBocA==",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br3",
-        "label": "CH-3"
       }
     ]
   },
