@@ -1111,7 +1111,20 @@
     "match_date": "2026-02-28",
     "match_time": "03:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br2",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "Bournemouth-Sunderland",
@@ -1201,7 +1214,12 @@
     "match_date": "2026-02-28",
     "match_time": "02:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Heerenveen-SpartaRotterdam",
@@ -1237,7 +1255,20 @@
     "match_date": "2026-02-28",
     "match_time": "02:45",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd4",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv4",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "Rennes-Toulouse",
@@ -1363,7 +1394,16 @@
     "match_date": "2026-02-28",
     "match_time": "02:45",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv3",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Como-Lecce",
@@ -1399,7 +1439,20 @@
     "match_date": "2026-02-28",
     "match_time": "03:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven2",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br5",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "RayoVallecano-AthBilbao",
@@ -1743,95 +1796,6 @@
     ]
   },
   {
-    "id": "AtlMadridU19-MaccabiHaifaU19",
-    "league": "Youth League",
-    "team1": {
-      "name": "Atl. Madrid U19",
-      "logo": "https://static.flashscore.com/res/image/data/OUV9N57k-t23AQ2z0.png"
-    },
-    "team2": {
-      "name": "Maccabi Haifa U19",
-      "logo": "https://static.flashscore.com/res/image/data/UcG1ueQq-MB7cTDoD.png"
-    },
-    "kickoff_date": "2026-02-25",
-    "kickoff_time": "22:00",
-    "match_date": "2026-02-25",
-    "match_time": "22:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=161",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "BenficaU19-AZAlkmaarU19",
-    "league": "Youth League",
-    "team1": {
-      "name": "Benfica U19",
-      "logo": "https://static.flashscore.com/res/image/data/Klqu72Rq-j3gy4cYe.png"
-    },
-    "team2": {
-      "name": "AZ Alkmaar U19",
-      "logo": "https://static.flashscore.com/res/image/data/CWrkP48k-pMIqEMYD.png"
-    },
-    "kickoff_date": "2026-02-25",
-    "kickoff_time": "22:00",
-    "match_date": "2026-02-25",
-    "match_time": "22:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=142",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=130",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=148",
-        "label": "CH-GR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=164",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=55",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "VillarrealU19-LegiaU19",
-    "league": "Youth League",
-    "team1": {
-      "name": "Villarreal U19",
-      "logo": "https://static.flashscore.com/res/image/data/v1Mw4LBN-CEoSyhpi.png"
-    },
-    "team2": {
-      "name": "Legia U19",
-      "logo": "https://static.flashscore.com/res/image/data/SWqAihWH-CMyvJ9rk.png"
-    },
-    "kickoff_date": "2026-02-25",
-    "kickoff_time": "22:00",
-    "match_date": "2026-02-25",
-    "match_time": "22:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=162",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "Fenerbahce-PartizanMozzartBet",
     "league": "Europe - Euroleague",
     "team1": {
@@ -1914,26 +1878,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd3",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-4"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br5",
-        "label": "CH-5"
       }
     ]
   },
