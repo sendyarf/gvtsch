@@ -1778,29 +1778,6 @@
     "servers": []
   },
   {
-    "id": "LosAngelesGalaxy-Miguelito",
-    "league": "Concacaf Champions Cup",
-    "team1": {
-      "name": "Los Angeles Galaxy",
-      "logo": "https://static.flashscore.com/res/image/data/AV3qcsDN-nqhLBCKD.png"
-    },
-    "team2": {
-      "name": "Miguelito",
-      "logo": "https://static.flashscore.com/res/image/data/GviQey8k-xlqSvAq8.png"
-    },
-    "kickoff_date": "2026-02-26",
-    "kickoff_time": "11:30",
-    "match_date": "2026-02-26",
-    "match_time": "11:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=159",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "Dubai-LyonVilleurbanne",
     "league": "Europe - Euroleague",
     "team1": {
@@ -4111,98 +4088,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "EdmontonOilers-AnaheimDucks",
-    "league": "Hockey",
-    "team1": {
-      "name": "Edmonton Oilers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png"
-    },
-    "team2": {
-      "name": "Anaheim Ducks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png"
-    },
-    "kickoff_date": "2026-02-26",
-    "kickoff_time": "10:30",
-    "match_date": "2026-02-26",
-    "match_time": "10:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU3LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "BostonCeltics-DenverNuggets",
-    "league": "Basketball",
-    "team1": {
-      "name": "Boston Celtics",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
-    },
-    "team2": {
-      "name": "Denver Nuggets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png"
-    },
-    "kickoff_date": "2026-02-26",
-    "kickoff_time": "10:00",
-    "match_date": "2026-02-26",
-    "match_time": "10:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "WinnipegJets-VancouverCanucks",
-    "league": "Hockey",
-    "team1": {
-      "name": "Winnipeg Jets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wpg.png"
-    },
-    "team2": {
-      "name": "Vancouver Canucks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/van.png"
-    },
-    "kickoff_date": "2026-02-26",
-    "kickoff_time": "10:00",
-    "match_date": "2026-02-26",
-    "match_time": "10:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU1LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "VegasGoldenKnights-LosAngelesKings",
-    "league": "Hockey",
-    "team1": {
-      "name": "Vegas Golden Knights",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/vgk.png"
-    },
-    "team2": {
-      "name": "Los Angeles Kings",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png"
-    },
-    "kickoff_date": "2026-02-26",
-    "kickoff_time": "10:00",
-    "match_date": "2026-02-26",
-    "match_time": "10:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU2LnBocA==",
         "label": "CH-EN"
       }
     ]
