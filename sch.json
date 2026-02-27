@@ -1631,6 +1631,24 @@
     ]
   },
   {
+    "id": "Excelsior-GAEagles",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Excelsior",
+      "logo": "https://static.flashscore.com/res/image/data/82r5rXU0-GOuuvzfL.png"
+    },
+    "team2": {
+      "name": "G.A. Eagles",
+      "logo": "https://static.flashscore.com/res/image/data/4IPDw4ne-CYLEXeh5.png"
+    },
+    "kickoff_date": "2026-03-02",
+    "kickoff_time": "02:00",
+    "match_date": "2026-03-02",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Strasbourg-Lens",
     "league": "France - Ligue 1",
     "team1": {
@@ -1879,6 +1897,29 @@
     ]
   },
   {
+    "id": "Marseille-Lyon",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Marseille",
+      "logo": "https://static.flashscore.com/res/image/data/t6Kb5X76-voNnDKJK.png"
+    },
+    "team2": {
+      "name": "Lyon",
+      "logo": "https://static.flashscore.com/res/image/data/bkuX6RS0-GU4hlIMk.png"
+    },
+    "kickoff_date": "2026-03-02",
+    "kickoff_time": "02:45",
+    "match_date": "2026-03-02",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
     "id": "Augsburg-FCKoln",
     "league": "Germany - Bundesliga",
     "team1": {
@@ -2081,6 +2122,29 @@
     "kickoff_time": "23:30",
     "match_date": "2026-03-01",
     "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd3",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "HamburgerSV-RBLeipzig",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Hamburger SV",
+      "logo": "https://static.flashscore.com/res/image/data/dWB5gKjC-86lnAaq9.png"
+    },
+    "team2": {
+      "name": "RB Leipzig",
+      "logo": "https://static.flashscore.com/res/image/data/fNS5fTmC-WvvSE8Dm.png"
+    },
+    "kickoff_date": "2026-03-02",
+    "kickoff_time": "01:30",
+    "match_date": "2026-03-02",
+    "match_time": "01:30",
     "duration": "3.5",
     "servers": [
       {
@@ -2304,6 +2368,76 @@
       {
         "url": "https://multi.govoet.cc/?ss=br6",
         "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "Torino-Lazio",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Torino",
+      "logo": "https://static.flashscore.com/res/image/data/dhGobOA6-0lwy4Ij1.png"
+    },
+    "team2": {
+      "name": "Lazio",
+      "logo": "https://static.flashscore.com/res/image/data/4CLpo27k-EaFfQ9z6.png"
+    },
+    "kickoff_date": "2026-03-02",
+    "kickoff_time": "00:00",
+    "match_date": "2026-03-02",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv2",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "ASRoma-Juventus",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "AS Roma",
+      "logo": "https://static.flashscore.com/res/image/data/j31Z1pne-GtNb9h2q.png"
+    },
+    "team2": {
+      "name": "Juventus",
+      "logo": "https://static.flashscore.com/res/image/data/AufWJrhT-0nz5yHcE.png"
+    },
+    "kickoff_date": "2026-03-02",
+    "kickoff_time": "02:45",
+    "match_date": "2026-03-02",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv2",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br2",
+        "label": "CH-4"
       }
     ]
   },
@@ -2545,45 +2679,56 @@
     ]
   },
   {
-    "id": "PSBSBiakNumfor-PSIMYogyakarta",
-    "league": "Indonesia - Super League",
+    "id": "Betis-Sevilla",
+    "league": "Spain - LaLiga",
     "team1": {
-      "name": "PSBS Biak Numfor",
-      "logo": "https://static.flashscore.com/res/image/data/4dlWiJoe-phR6Gnck.png"
+      "name": "Betis",
+      "logo": "https://static.flashscore.com/res/image/data/YV7lpDU0-zkU5wiAr.png"
     },
     "team2": {
-      "name": "PSIM Yogyakarta",
-      "logo": "https://static.flashscore.com/res/image/data/lCS3WI5k-IFY6Af8o.png"
+      "name": "Sevilla",
+      "logo": "https://static.flashscore.com/res/image/data/EcTGi086-tIT0KyhE.png"
     },
-    "kickoff_date": "2026-02-27",
-    "kickoff_time": "20:30",
-    "match_date": "2026-02-27",
-    "match_time": "20:30",
+    "kickoff_date": "2026-03-02",
+    "kickoff_time": "00:30",
+    "match_date": "2026-03-02",
+    "match_time": "00:30",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MzQ5ODIubTN1OA==",
-        "label": "CH-VN"
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Girona-CeltaVigo",
+    "league": "Spain - LaLiga",
+    "team1": {
+      "name": "Girona",
+      "logo": "https://static.flashscore.com/res/image/data/6mZj79BN-vPm0hQMN.png"
+    },
+    "team2": {
+      "name": "Celta Vigo",
+      "logo": "https://static.flashscore.com/res/image/data/INW8oRBN-SOY3p1Si.png"
+    },
+    "kickoff_date": "2026-03-02",
+    "kickoff_time": "03:00",
+    "match_date": "2026-03-02",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
+        "label": "CH-EN"
       },
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xODc1NzkubTN1OA==",
-        "label": "CH-VN"
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-1"
       },
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MzQyMTkubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMTM5MDYubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81NTI4MzIubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zNTE1MzAubTN1OA==",
-        "label": "CH-VN"
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-2"
       }
     ]
   },
@@ -2637,6 +2782,42 @@
     "kickoff_date": "2026-03-01",
     "kickoff_time": "20:30",
     "match_date": "2026-03-01",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Persebaya-PersibBandung",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "Persebaya",
+      "logo": "https://static.flashscore.com/res/image/data/0GTBRoiC-jaJfGoOS.png"
+    },
+    "team2": {
+      "name": "Persib Bandung",
+      "logo": "https://static.flashscore.com/res/image/data/K0fBknlC-fXN2TGqm.png"
+    },
+    "kickoff_date": "2026-03-02",
+    "kickoff_time": "20:30",
+    "match_date": "2026-03-02",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PSMMakassar-Persita",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "PSM Makassar",
+      "logo": "https://static.flashscore.com/res/image/data/j7AOPb6k-jNkiROW3.png"
+    },
+    "team2": {
+      "name": "Persita",
+      "logo": "https://static.flashscore.com/res/image/data/zZLAaUT0-Mw6HAN8i.png"
+    },
+    "kickoff_date": "2026-03-02",
+    "kickoff_time": "20:30",
+    "match_date": "2026-03-02",
     "match_time": "20:30",
     "duration": "3.5",
     "servers": []
@@ -4228,99 +4409,6 @@
     ]
   },
   {
-    "id": "CeltaVigo-Girona",
-    "league": "Football",
-    "team1": {
-      "name": "Celta Vigo",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
-    },
-    "team2": {
-      "name": "Girona",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9812.png"
-    },
-    "kickoff_date": "2026-03-02",
-    "kickoff_time": "03:00",
-    "match_date": "2026-03-02",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Juventus-ASRoma",
-    "league": "Football",
-    "team1": {
-      "name": "Juventus",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
-    },
-    "team2": {
-      "name": "AS Roma",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
-    },
-    "kickoff_date": "2026-03-02",
-    "kickoff_time": "02:45",
-    "match_date": "2026-03-02",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br2",
-        "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "Lyon-Marseille",
-    "league": "Football",
-    "team1": {
-      "name": "Lyon",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
-    },
-    "team2": {
-      "name": "Marseille",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
-    },
-    "kickoff_date": "2026-03-02",
-    "kickoff_time": "02:45",
-    "match_date": "2026-03-02",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "SanAntonioSpurs-NewYorkKnicks",
     "league": "Basketball",
     "team1": {
@@ -4363,68 +4451,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUwLnBocA==",
         "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Sevilla-RealBetis",
-    "league": "Football",
-    "team1": {
-      "name": "Sevilla",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
-    },
-    "team2": {
-      "name": "Real Betis",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
-    },
-    "kickoff_date": "2026-03-02",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-02",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://www2.sprtsonline.click/channels/pt/eleven2.ph",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Lazio-Torino",
-    "league": "Football",
-    "team1": {
-      "name": "Lazio",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
-    },
-    "team2": {
-      "name": "Torino",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
-    },
-    "kickoff_date": "2026-03-02",
-    "kickoff_time": "00:00",
-    "match_date": "2026-03-02",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd8",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-2"
       }
     ]
   },
