@@ -1115,18 +1115,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br2",
-        "label": "CH-3"
       }
     ]
   },
@@ -1286,12 +1274,7 @@
     "match_date": "2026-03-01",
     "match_time": "00:45",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd10",
-        "label": "CH-1"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Nijmegen-Sittard",
@@ -1437,18 +1420,6 @@
     "match_time": "01:00",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=20",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=91",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
         "label": "CH-EN"
@@ -1653,26 +1624,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDgucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd3",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven2",
-        "label": "CH-4"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br3",
-        "label": "CH-5"
       }
     ]
   },
@@ -2004,10 +1955,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven3",
-        "label": "CH-1"
       }
     ]
   },
@@ -2303,114 +2250,6 @@
     "match_time": "20:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Kifisia-Levadiakos",
-    "league": "Greece - Super League",
-    "team1": {
-      "name": "Kifisia",
-      "logo": "https://static.flashscore.com/res/image/data/bmuR4OkC-CCj2lJ5q.png"
-    },
-    "team2": {
-      "name": "Levadiakos",
-      "logo": "https://static.flashscore.com/res/image/data/lAour7kC-p49RQDgb.png"
-    },
-    "kickoff_date": "2026-03-01",
-    "kickoff_time": "01:00",
-    "match_date": "2026-03-01",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=148",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "Nacional-Braga",
-    "league": "Liga Portugal",
-    "team1": {
-      "name": "Nacional",
-      "logo": "https://static.flashscore.com/res/image/data/A7esGM6k-pUpRIC96.png"
-    },
-    "team2": {
-      "name": "Braga",
-      "logo": "https://static.flashscore.com/res/image/data/j3CGCQTH-6JDIcK05.png"
-    },
-    "kickoff_date": "2026-03-01",
-    "kickoff_time": "01:00",
-    "match_date": "2026-03-01",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=5",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=144",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=149",
-        "label": "CH-GR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "CharlotteHornets-PortlandTrailBlazers",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Charlotte Hornets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png"
-    },
-    "team2": {
-      "name": "Portland Trail Blazers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png"
-    },
-    "kickoff_date": "2026-03-01",
-    "kickoff_time": "01:00",
-    "match_date": "2026-03-01",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=180",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY1LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Cajamarca-AlianzaLima",
-    "league": "Peru - Liga 1",
-    "team1": {
-      "name": "Cajamarca",
-      "logo": "https://static.flashscore.com/res/image/data/4d62phPq-hj2AsRp7.png"
-    },
-    "team2": {
-      "name": "Alianza Lima",
-      "logo": "https://static.flashscore.com/res/image/data/6yTs5bjT-tE1csI3A.png"
-    },
-    "kickoff_date": "2026-03-01",
-    "kickoff_time": "01:15",
-    "match_date": "2026-03-01",
-    "match_time": "01:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "LeonesdelNorte-Libertad",
@@ -4770,6 +4609,29 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE5LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "PortlandTrailBlazers-CharlotteHornets",
+    "league": "Basketball",
+    "team1": {
+      "name": "Portland Trail Blazers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png"
+    },
+    "team2": {
+      "name": "Charlotte Hornets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png"
+    },
+    "kickoff_date": "2026-03-01",
+    "kickoff_time": "01:00",
+    "match_date": "2026-03-01",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY1LnBocA==",
         "label": "CH-EN"
       }
     ]
