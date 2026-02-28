@@ -1113,30 +1113,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=127",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=120",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=73",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIucGhw",
         "label": "CH-EN"
       },
@@ -1687,26 +1663,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=128",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDgucGhw",
         "label": "CH-EN"
       },
@@ -2058,22 +2014,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=9",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=94",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
       },
@@ -2375,250 +2315,6 @@
     "match_time": "20:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Verona-Napoli",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Verona",
-      "logo": "https://static.flashscore.com/res/image/data/YDLnjflC-Kxh373f3.png"
-    },
-    "team2": {
-      "name": "Napoli",
-      "logo": "https://static.flashscore.com/res/image/data/tSuMfRjT-Stb48WaO.png"
-    },
-    "kickoff_date": "2026-03-01",
-    "kickoff_time": "00:00",
-    "match_date": "2026-03-01",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=61",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=97",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=90",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=145",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Galatasaray-Alanyaspor",
-    "league": "Super Lig",
-    "team1": {
-      "name": "Galatasaray",
-      "logo": "https://static.flashscore.com/res/image/data/SpvcRk96-dEXkR0Wq.png"
-    },
-    "team2": {
-      "name": "Alanyaspor",
-      "logo": "https://static.flashscore.com/res/image/data/nNYL4FQq-p2zyVPdn.png"
-    },
-    "kickoff_date": "2026-03-01",
-    "kickoff_time": "00:00",
-    "match_date": "2026-03-01",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=7",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=151",
-        "label": "CH-TR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd11",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv5",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Goztepe-Eyupspor",
-    "league": "Super Lig",
-    "team1": {
-      "name": "Goztepe",
-      "logo": "https://static.flashscore.com/res/image/data/OSgwwNjT-OGqQfjL1.png"
-    },
-    "team2": {
-      "name": "Eyupspor",
-      "logo": "https://static.flashscore.com/res/image/data/tf3flE86-UgM2rvwC.png"
-    },
-    "kickoff_date": "2026-03-01",
-    "kickoff_time": "00:00",
-    "match_date": "2026-03-01",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=152",
-        "label": "CH-TR"
-      }
-    ]
-  },
-  {
-    "id": "Antwerp-StTruiden",
-    "league": "Pro League",
-    "team1": {
-      "name": "Antwerp",
-      "logo": "https://static.flashscore.com/res/image/data/IDBrkYTH-vuxu3x67.png"
-    },
-    "team2": {
-      "name": "St. Truiden",
-      "logo": "https://static.flashscore.com/res/image/data/bi6P6vkC-OCiVKiPK.png"
-    },
-    "kickoff_date": "2026-03-01",
-    "kickoff_time": "00:15",
-    "match_date": "2026-03-01",
-    "match_time": "00:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=154",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Atromitos-Panetolikos",
-    "league": "Greece - Super League",
-    "team1": {
-      "name": "Atromitos",
-      "logo": "https://static.flashscore.com/res/image/data/08K1YJle-2ahZzWpF.png"
-    },
-    "team2": {
-      "name": "Panetolikos",
-      "logo": "https://static.flashscore.com/res/image/data/tITXQckC-pOwxStgq.png"
-    },
-    "kickoff_date": "2026-03-01",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-01",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=150",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "GranadaCF-Malaga",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Granada CF",
-      "logo": "https://static.flashscore.com/res/image/data/QmKG7dT0-pEzOUfJL.png"
-    },
-    "team2": {
-      "name": "Malaga",
-      "logo": "https://static.flashscore.com/res/image/data/4jmiYe8k-MTxwaw7C.png"
-    },
-    "kickoff_date": "2026-03-01",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-01",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Valladolid-Huesca",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Valladolid",
-      "logo": "https://static.flashscore.com/res/image/data/GvWsl3Sq-htRvrFH6.png"
-    },
-    "team2": {
-      "name": "Huesca",
-      "logo": "https://static.flashscore.com/res/image/data/pMpCvJkC-EkA5g8Rs.png"
-    },
-    "kickoff_date": "2026-03-01",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-01",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=54",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "NewYorkRangers-PittsburghPenguins",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "New York Rangers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png"
-    },
-    "team2": {
-      "name": "Pittsburgh Penguins",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png"
-    },
-    "kickoff_date": "2026-03-01",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-01",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=8",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=185",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=62",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=99",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=89",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
   },
   {
     "id": "Kifisia-Levadiakos",
@@ -5091,6 +4787,52 @@
     ]
   },
   {
+    "id": "PittsburghPenguins-NewYorkRangers",
+    "league": "Hockey",
+    "team1": {
+      "name": "Pittsburgh Penguins",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png"
+    },
+    "team2": {
+      "name": "New York Rangers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png"
+    },
+    "kickoff_date": "2026-03-01",
+    "kickoff_time": "00:30",
+    "match_date": "2026-03-01",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUwLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Napoli-HellasVerona",
+    "league": "Football",
+    "team1": {
+      "name": "Napoli",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
+    },
+    "team2": {
+      "name": "Hellas Verona",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png"
+    },
+    "kickoff_date": "2026-03-01",
+    "kickoff_time": "00:00",
+    "match_date": "2026-03-01",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
     "id": "Toulouse-StadeRennais",
     "league": "Football",
     "team1": {
@@ -5132,29 +4874,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQ1LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Villarreal-Barcelona",
-    "league": "Football",
-    "team1": {
-      "name": "Villarreal",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
-    },
-    "team2": {
-      "name": "Barcelona",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
-    },
-    "kickoff_date": "2026-02-28",
-    "kickoff_time": "22:15",
-    "match_date": "2026-02-28",
-    "match_time": "22:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
       }
     ]
