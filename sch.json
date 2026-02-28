@@ -3015,33 +3015,6 @@
     "servers": []
   },
   {
-    "id": "GrandPrixdeThalandeLacoursedesMoto2",
-    "league": "Moto2",
-    "team1": {
-      "name": "Grand Prix de Thaïlande\tLa course des Moto 2 -",
-      "logo": ""
-    },
-    "team2": {
-      "name": "",
-      "logo": ""
-    },
-    "kickoff_date": "2026-02-28",
-    "kickoff_time": "13:15",
-    "match_date": "2026-02-28",
-    "match_time": "13:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=14",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=60",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "GrandPrixdeThalandeEssaisqualificatifs1et2desMoto2",
     "league": "Moto3",
     "team1": {
@@ -3056,6 +3029,33 @@
     "kickoff_time": "13:40",
     "match_date": "2026-02-28",
     "match_time": "13:40",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?envivo=60",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "GrandPrixdeThalandeLacourseSprintdesMotoGP",
+    "league": "Moto2",
+    "team1": {
+      "name": "Grand Prix de Thaïlande\tLa course Sprint des Moto GP -",
+      "logo": ""
+    },
+    "team2": {
+      "name": "",
+      "logo": ""
+    },
+    "kickoff_date": "2026-02-28",
+    "kickoff_time": "15:00",
+    "match_date": "2026-02-28",
+    "match_time": "15:00",
     "duration": "3.5",
     "servers": [
       {
