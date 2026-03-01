@@ -1543,52 +1543,6 @@
     "servers": []
   },
   {
-    "id": "ColoColo-UDeChile",
-    "league": "Chile - Liga de Primera",
-    "team1": {
-      "name": "Colo Colo",
-      "logo": "https://static.flashscore.com/res/image/data/j53f7UkC-tnwDCzLD.png"
-    },
-    "team2": {
-      "name": "U. De Chile",
-      "logo": "https://static.flashscore.com/res/image/data/AwRGCvU0-fuSaShZI.png"
-    },
-    "kickoff_date": "2026-03-02",
-    "kickoff_time": "04:00",
-    "match_date": "2026-03-02",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Aguilas-InterBogot",
-    "league": "Colombia: Primera A",
-    "team1": {
-      "name": "Aguilas",
-      "logo": "https://static.flashscore.com/res/image/data/zNqhWFQq-2eGA9cib.png"
-    },
-    "team2": {
-      "name": "Inter Bogotá",
-      "logo": "https://static.flashscore.com/res/image/data/WWZlhzXH-nouesssi.png"
-    },
-    "kickoff_date": "2026-03-02",
-    "kickoff_time": "04:00",
-    "match_date": "2026-03-02",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=81",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "SanJoseSharks-WinnipegJets",
     "league": "USA - NHL",
     "team1": {
