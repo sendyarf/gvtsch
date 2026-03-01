@@ -1,59 +1,5 @@
 [
   {
-    "id": "FCVolendam-Groningen",
-    "league": "Eredivisie",
-    "team1": {
-      "name": "FC Volendam",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Groningen",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-01",
-    "kickoff_time": "20:30",
-    "match_date": "2026-03-01",
-    "match_time": "20:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=142",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "Twente-Feyenoord",
-    "league": "Eredivisie",
-    "team1": {
-      "name": "Twente",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Feyenoord",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-01",
-    "kickoff_time": "20:30",
-    "match_date": "2026-03-01",
-    "match_time": "20:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=141",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=98",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=125",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
     "id": "Panserraikos-OlympiacosPiraeus",
     "league": "Betfred Super League",
     "team1": {
