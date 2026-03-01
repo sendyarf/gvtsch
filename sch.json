@@ -2491,10 +2491,10 @@
     "servers": []
   },
   {
-    "id": "GrandPrixdeThalandeLacoursedesMoto2",
-    "league": "Moto2",
+    "id": "GrandPrixdeThalandeLacoursedesMotoGP",
+    "league": "Motogp",
     "team1": {
-      "name": "Grand Prix de Thaïlande La course des Moto 2 -",
+      "name": "Grand Prix de Thaïlande La course des Moto GP -",
       "logo": ""
     },
     "team2": {
@@ -2502,22 +2502,18 @@
       "logo": ""
     },
     "kickoff_date": "2026-03-01",
-    "kickoff_time": "13:15",
+    "kickoff_time": "15:00",
     "match_date": "2026-03-01",
-    "match_time": "13:15",
+    "match_time": "15:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=14",
+        "url": "https://multi.govoet.cc/?envivo=11",
         "label": "CH-FR"
       },
       {
         "url": "https://multi.govoet.cc/?envivo=60",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=11",
-        "label": "CH-FR"
       }
     ]
   },
