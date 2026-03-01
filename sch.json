@@ -1396,22 +1396,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=94",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
       },
@@ -1557,222 +1541,6 @@
     "match_time": "21:00",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Eibar-CadizCF",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Eibar",
-      "logo": "https://static.flashscore.com/res/image/data/drsSo7UH-4U3vjZKk.png"
-    },
-    "team2": {
-      "name": "Cadiz CF",
-      "logo": "https://static.flashscore.com/res/image/data/rPA6TR86-EPWyZtpb.png"
-    },
-    "kickoff_date": "2026-03-02",
-    "kickoff_time": "03:00",
-    "match_date": "2026-03-02",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "NewellsOldBoys-RosarioCentral",
-    "league": "Argentina - Primera LPF",
-    "team1": {
-      "name": "Newells Old Boys",
-      "logo": "https://static.flashscore.com/res/image/data/jJNOQj7k-vLBOqDG6.png"
-    },
-    "team2": {
-      "name": "Rosario Central",
-      "logo": "https://static.flashscore.com/res/image/data/KSbaRoDN-vuxu02Jt.png"
-    },
-    "kickoff_date": "2026-03-02",
-    "kickoff_time": "03:00",
-    "match_date": "2026-03-02",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=55",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=61",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=76",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd8",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "SectionPaloise-BordeauxBegles",
-    "league": "Top 14",
-    "team1": {
-      "name": "Section Paloise",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Bordeaux Begles",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-02",
-    "kickoff_time": "03:05",
-    "match_date": "2026-03-02",
-    "match_time": "03:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=11",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "JuanPabloII-Cusco",
-    "league": "Peru - Liga 1",
-    "team1": {
-      "name": "Juan Pablo II",
-      "logo": "https://static.flashscore.com/res/image/data/QLT6GJS0-CrkK62Mu.png"
-    },
-    "team2": {
-      "name": "Cusco",
-      "logo": "https://static.flashscore.com/res/image/data/QB6SLoiT-06OeOzI0.png"
-    },
-    "kickoff_date": "2026-03-02",
-    "kickoff_time": "03:30",
-    "match_date": "2026-03-02",
-    "match_time": "03:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "RioAve-Famalicao",
-    "league": "Liga Portugal",
-    "team1": {
-      "name": "Rio Ave",
-      "logo": "https://static.flashscore.com/res/image/data/06rYX486-pjxqSmk4.png"
-    },
-    "team2": {
-      "name": "Famalicao",
-      "logo": "https://static.flashscore.com/res/image/data/CpC7C67k-SpWn3AxL.png"
-    },
-    "kickoff_date": "2026-03-02",
-    "kickoff_time": "03:30",
-    "match_date": "2026-03-02",
-    "match_time": "03:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=144",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "BrooklynNets-ClevelandCavaliers",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Brooklyn Nets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png"
-    },
-    "team2": {
-      "name": "Cleveland Cavaliers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
-    },
-    "kickoff_date": "2026-03-02",
-    "kickoff_time": "03:30",
-    "match_date": "2026-03-02",
-    "match_time": "03:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=181",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ChicagoBulls-MilwaukeeBucks",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Chicago Bulls",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png"
-    },
-    "team2": {
-      "name": "Milwaukee Bucks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png"
-    },
-    "kickoff_date": "2026-03-02",
-    "kickoff_time": "03:30",
-    "match_date": "2026-03-02",
-    "match_time": "03:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=182",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "DenverNuggets-MinnesotaTimberwolves",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Denver Nuggets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png"
-    },
-    "team2": {
-      "name": "Minnesota Timberwolves",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
-    },
-    "kickoff_date": "2026-03-02",
-    "kickoff_time": "03:30",
-    "match_date": "2026-03-02",
-    "match_time": "03:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=89",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=183",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY4LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
   },
   {
     "id": "ColoColo-UDeChile",
@@ -2499,6 +2267,75 @@
       {
         "url": "https://multi.govoet.cc/?ss=hd5",
         "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "ClevelandCavaliers-BrooklynNets",
+    "league": "Basketball",
+    "team1": {
+      "name": "Cleveland Cavaliers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
+    },
+    "team2": {
+      "name": "Brooklyn Nets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png"
+    },
+    "kickoff_date": "2026-03-02",
+    "kickoff_time": "03:30",
+    "match_date": "2026-03-02",
+    "match_time": "03:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "MilwaukeeBucks-ChicagoBulls",
+    "league": "Basketball",
+    "team1": {
+      "name": "Milwaukee Bucks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png"
+    },
+    "team2": {
+      "name": "Chicago Bulls",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png"
+    },
+    "kickoff_date": "2026-03-02",
+    "kickoff_time": "03:30",
+    "match_date": "2026-03-02",
+    "match_time": "03:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "MinnesotaTimberwolves-DenverNuggets",
+    "league": "Basketball",
+    "team1": {
+      "name": "Minnesota Timberwolves",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
+    },
+    "team2": {
+      "name": "Denver Nuggets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png"
+    },
+    "kickoff_date": "2026-03-02",
+    "kickoff_time": "03:30",
+    "match_date": "2026-03-02",
+    "match_time": "03:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY4LnBocA==",
+        "label": "CH-EN"
       }
     ]
   },
