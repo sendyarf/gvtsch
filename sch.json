@@ -1681,37 +1681,6 @@
     "servers": []
   },
   {
-    "id": "MelbourneCityAus-BuriramTha",
-    "league": "AFC Champions League Elite",
-    "team1": {
-      "name": "Melbourne City",
-      "logo": "https://static.flashscore.com/res/image/data/GYln0H86-rL2rkgzd.png"
-    },
-    "team2": {
-      "name": "Buriram",
-      "logo": "https://static.flashscore.com/res/image/data/Q9V0grlC-AHLMjQO5.png"
-    },
-    "kickoff_date": "2026-03-03",
-    "kickoff_time": "14:45",
-    "match_date": "2026-03-03",
-    "match_time": "14:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=160",
-        "label": "CH-QA"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=161",
-        "label": "CH-LT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd8",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
     "id": "GangwonKor-MachidaJpn",
     "league": "AFC Champions League Elite",
     "team1": {
