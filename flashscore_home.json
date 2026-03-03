@@ -1,5 +1,33 @@
 [
     {
+        "id": "North Korea W-Uzbekistan W",
+        "league": "ASIA - Asian Cup Women",
+        "sport": "soccer",
+        "team1": {
+            "name": "North Korea W",
+            "logo": "https://static.flashscore.com/res/image/data/8MkHmtRq-xpPmazWa.png"
+        },
+        "team2": {
+            "name": "Uzbekistan W",
+            "logo": "https://static.flashscore.com/res/image/data/h6i3ZL96-zme0ZSUQ.png"
+        },
+        "kickoff_time": "Finished"
+    },
+    {
+        "id": "China W-Bangladesh W",
+        "league": "ASIA - Asian Cup Women",
+        "sport": "soccer",
+        "team1": {
+            "name": "China W",
+            "logo": "https://static.flashscore.com/res/image/data/dYBFA1me-nNtI3CTL.png"
+        },
+        "team2": {
+            "name": "Bangladesh W",
+            "logo": "https://static.flashscore.com/res/image/data/KjlhGTT0-0EYShBaD.png"
+        },
+        "kickoff_time": "Finished"
+    },
+    {
         "id": "Bournemouth-Brentford",
         "league": "ENGLAND - Premier League",
         "sport": "soccer",
@@ -165,7 +193,7 @@
             "name": "Buriram (Tha)",
             "logo": "https://static.flashscore.com/res/image/data/Q9V0grlC-AHLMjQO5.png"
         },
-        "kickoff_time": "07:45"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Gangwon (Kor)-Machida (Jpn)",
@@ -179,7 +207,7 @@
             "name": "Machida (Jpn)",
             "logo": "https://static.flashscore.com/res/image/data/IJNqPkBN-6uZPCvr9.png"
         },
-        "kickoff_time": "10:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Al Wahda (Uae)-Al Ittihad (Sau)",
@@ -235,7 +263,7 @@
             "name": "Al Rayyan (Qat)",
             "logo": "https://static.flashscore.com/res/image/data/W0eNPrlC-2Rnzhxb3.png"
         },
-        "kickoff_time": "16:00"
+        "kickoff_time": "Postp"
     },
     {
         "id": "Al Shabab (Sau)-Zakho (Irq)",
@@ -249,35 +277,7 @@
             "name": "Zakho (Irq)",
             "logo": "https://static.flashscore.com/res/image/data/CSbc7fkC-tWncHhCl.png"
         },
-        "kickoff_time": "16:00"
-    },
-    {
-        "id": "North Korea W-Uzbekistan W",
-        "league": "ASIA - Asian Cup Women",
-        "sport": "soccer",
-        "team1": {
-            "name": "North Korea W",
-            "logo": "https://static.flashscore.com/res/image/data/8MkHmtRq-xpPmazWa.png"
-        },
-        "team2": {
-            "name": "Uzbekistan W",
-            "logo": "https://static.flashscore.com/res/image/data/h6i3ZL96-zme0ZSUQ.png"
-        },
-        "kickoff_time": "Finished"
-    },
-    {
-        "id": "China W-Bangladesh W",
-        "league": "ASIA - Asian Cup Women",
-        "sport": "soccer",
-        "team1": {
-            "name": "China W",
-            "logo": "https://static.flashscore.com/res/image/data/dYBFA1me-nNtI3CTL.png"
-        },
-        "team2": {
-            "name": "Bangladesh W",
-            "logo": "https://static.flashscore.com/res/image/data/KjlhGTT0-0EYShBaD.png"
-        },
-        "kickoff_time": "08:00"
+        "kickoff_time": "Postp"
     },
     {
         "id": "Tahiti United-PNG Hekari",
@@ -291,7 +291,7 @@
             "name": "PNG Hekari",
             "logo": "https://static.flashscore.com/res/image/data/hb6yaj5k-KIgPT6MF.png"
         },
-        "kickoff_time": "87"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Bula-South Island United",
@@ -305,7 +305,7 @@
             "name": "South Island United",
             "logo": "https://static.flashscore.com/res/image/data/begfR5Pq-Q1gqJDV3.png"
         },
-        "kickoff_time": "08:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "SK Rapid II-A. Salzburg",
@@ -459,7 +459,7 @@
             "name": "Montana",
             "logo": "https://static.flashscore.com/res/image/data/QLieRNR0-COvJNbKS.png"
         },
-        "kickoff_time": "11:30"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Beroe-Slavia Sofia",
@@ -473,7 +473,7 @@
             "name": "Slavia Sofia",
             "logo": "https://static.flashscore.com/res/image/data/IgY8NX7k-l0QA6ZpG.png"
         },
-        "kickoff_time": "14:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Botev Plovdiv-Septemvri Sofia",
@@ -487,7 +487,7 @@
             "name": "Septemvri Sofia",
             "logo": "https://static.flashscore.com/res/image/data/G8c1lpgT-Oj0MPYxU.png"
         },
-        "kickoff_time": "16:30"
+        "kickoff_time": "57"
     },
     {
         "id": "Emat-USM",
@@ -543,7 +543,7 @@
             "name": "Slavia Prague",
             "logo": "https://static.flashscore.com/res/image/data/nsu4mohT-8nl9JmVC.png"
         },
-        "kickoff_time": "16:00"
+        "kickoff_time": "89"
     },
     {
         "id": "Mlada Boleslav-Sparta Prague",
@@ -571,7 +571,7 @@
             "name": "Manika",
             "logo": "https://static.flashscore.com/res/image/data/vLcJohWH-nyhnaVel.png"
         },
-        "kickoff_time": "11:00"
+        "kickoff_time": "Postp"
     },
     {
         "id": "Don Bosco-Saint-Luc",
@@ -585,7 +585,7 @@
             "name": "Saint-Luc",
             "logo": "https://static.flashscore.com/res/image/data/h0azPXRq-G4XzwJkn.png"
         },
-        "kickoff_time": "13:00"
+        "kickoff_time": "Postp"
     },
     {
         "id": "Malole-Sanga Balende",
@@ -599,7 +599,7 @@
             "name": "Sanga Balende",
             "logo": "https://static.flashscore.com/res/image/data/Sj24tkle-APXGA0zm.png"
         },
-        "kickoff_time": "13:00"
+        "kickoff_time": "Postp"
     },
     {
         "id": "Mazembe-US Panda",
@@ -613,7 +613,7 @@
             "name": "US Panda",
             "logo": "https://static.flashscore.com/res/image/data/OYEpSIAN-jkS08Ggo.png"
         },
-        "kickoff_time": "13:00"
+        "kickoff_time": "Postp"
     },
     {
         "id": "Tshinkunku-Simba",
@@ -809,7 +809,7 @@
             "name": "Mechal",
             "logo": "https://static.flashscore.com/res/image/data/6ZAyiX9N-WC3abqwP.png"
         },
-        "kickoff_time": "12:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "St. George-Negele Arsi Ketema",
@@ -823,7 +823,7 @@
             "name": "Negele Arsi Ketema",
             "logo": "https://static.flashscore.com/res/image/data/YkwpmgBN-GnttaMUh.png"
         },
-        "kickoff_time": "12:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Sheger Ketema-Ethiopian Insurance",
@@ -837,7 +837,7 @@
             "name": "Ethiopian Insurance",
             "logo": "https://static.flashscore.com/res/image/data/d4J8Uy96-UqisNSFP.png"
         },
-        "kickoff_time": "15:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Welwalo Adigrat-Shire Endaselassie",
@@ -851,7 +851,7 @@
             "name": "Shire Endaselassie",
             "logo": "https://static.flashscore.com/res/image/data/MNyezl86-rLEyJ2g9.png"
         },
-        "kickoff_time": "15:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "North Macedonia U17 W-Luxembourg U17 W",
@@ -865,7 +865,7 @@
             "name": "Luxembourg U17 W",
             "logo": "https://static.flashscore.com/res/image/data/6o4ey7Rq-zBZluHT6.png"
         },
-        "kickoff_time": "12:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Northern Ireland U17 W-Georgia U17 W",
@@ -879,7 +879,7 @@
             "name": "Georgia U17 W",
             "logo": "https://static.flashscore.com/res/image/data/0rCCqhlC-ITysswaf.png"
         },
-        "kickoff_time": "12:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Germany W-Slovenia W",
@@ -893,7 +893,7 @@
             "name": "Slovenia W",
             "logo": "https://static.flashscore.com/res/image/data/f9NuO35k-dWxvhZJm.png"
         },
-        "kickoff_time": "16:45"
+        "kickoff_time": "46"
     },
     {
         "id": "Austria W-Norway W",
@@ -907,7 +907,7 @@
             "name": "Norway W",
             "logo": "https://static.flashscore.com/res/image/data/robOUTAN-YDDmn15H.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "45+1"
     },
     {
         "id": "Denmark W-Serbia W",
@@ -921,7 +921,7 @@
             "name": "Serbia W",
             "logo": "https://static.flashscore.com/res/image/data/jq1lTlPq-h6SRz2xL.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "HT"
     },
     {
         "id": "Poland W-Netherlands W",
@@ -935,7 +935,7 @@
             "name": "Netherlands W",
             "logo": "https://static.flashscore.com/res/image/data/bq9ryD6k-SrXKwAi9.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "HT"
     },
     {
         "id": "Ukraine W-England W",
@@ -949,7 +949,7 @@
             "name": "England W",
             "logo": "https://static.flashscore.com/res/image/data/2smbj6VH-j1Ih2sWe.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "HT"
     },
     {
         "id": "Italy W-Sweden W",
@@ -963,7 +963,7 @@
             "name": "Sweden W",
             "logo": "https://static.flashscore.com/res/image/data/lKv49OmC-xj87XIpQ.png"
         },
-        "kickoff_time": "17:15"
+        "kickoff_time": "32"
     },
     {
         "id": "Spain W-Iceland W",
@@ -1005,7 +1005,7 @@
             "name": "Albania W",
             "logo": "https://static.flashscore.com/res/image/data/zJe0nDWH-2m4j4fr0.png"
         },
-        "kickoff_time": "13:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Turkey W-Malta W",
@@ -1019,7 +1019,7 @@
             "name": "Malta W",
             "logo": "https://static.flashscore.com/res/image/data/hxNYDG86-tv3f3Ec6.png"
         },
-        "kickoff_time": "14:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Slovakia W-Latvia W",
@@ -1033,7 +1033,7 @@
             "name": "Latvia W",
             "logo": "https://static.flashscore.com/res/image/data/Yer6VCme-6DGuWIk0.png"
         },
-        "kickoff_time": "15:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Czech Republic W-Wales W",
@@ -1047,7 +1047,7 @@
             "name": "Wales W",
             "logo": "https://static.flashscore.com/res/image/data/Eg2DRMhT-v9awiKRP.png"
         },
-        "kickoff_time": "17:30"
+        "kickoff_time": "18"
     },
     {
         "id": "Switzerland W-Northern Ireland W",
@@ -1117,7 +1117,7 @@
             "name": "Croatia W",
             "logo": "https://static.flashscore.com/res/image/data/UaBgSxB6-YFjRc4j9.png"
         },
-        "kickoff_time": "10:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Azerbaijan W-North Macedonia W",
@@ -1131,7 +1131,7 @@
             "name": "North Macedonia W",
             "logo": "https://static.flashscore.com/res/image/data/0AdA0jPq-MD60eZIB.png"
         },
-        "kickoff_time": "11:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Bosnia & Herzegovina W-Estonia W",
@@ -1145,7 +1145,7 @@
             "name": "Estonia W",
             "logo": "https://static.flashscore.com/res/image/data/UqR7sAkC-CrPl0Jrc.png"
         },
-        "kickoff_time": "12:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Kazakhstan W-Armenia W",
@@ -1159,7 +1159,7 @@
             "name": "Armenia W",
             "logo": "https://static.flashscore.com/res/image/data/AFj0EYiT-p4FqVx56.png"
         },
-        "kickoff_time": "15:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Kosovo W-Gibraltar W",
@@ -1173,7 +1173,7 @@
             "name": "Gibraltar W",
             "logo": "https://static.flashscore.com/res/image/data/KfSaOrQq-KpCxAVNq.png"
         },
-        "kickoff_time": "16:00"
+        "kickoff_time": "90+1"
     },
     {
         "id": "Romania W-Moldova W",
@@ -1187,7 +1187,7 @@
             "name": "Moldova W",
             "logo": "https://static.flashscore.com/res/image/data/tzekCfA6-Kr7uRW73.png"
         },
-        "kickoff_time": "16:00"
+        "kickoff_time": "90+2"
     },
     {
         "id": "Greece W-Georgia W",
@@ -1201,7 +1201,7 @@
             "name": "Georgia W",
             "logo": "https://static.flashscore.com/res/image/data/QHqbIXA6-ITysswaf.png"
         },
-        "kickoff_time": "16:30"
+        "kickoff_time": "58"
     },
     {
         "id": "Andorra W-Hungary W",
@@ -1344,16 +1344,16 @@
         "kickoff_time": "19:00"
     },
     {
-        "id": "Hafnarfjordur-Leiknir",
+        "id": "Leiknir-Hafnarfjordur",
         "league": "ICELAND - League Cup",
         "sport": "soccer",
         "team1": {
-            "name": "Hafnarfjordur",
-            "logo": "https://static.flashscore.com/res/image/data/E1fFcbQq-Qi0YyGMJ.png"
-        },
-        "team2": {
             "name": "Leiknir",
             "logo": "https://static.flashscore.com/res/image/data/vJGQM8kC-GvStD1NM.png"
+        },
+        "team2": {
+            "name": "Hafnarfjordur",
+            "logo": "https://static.flashscore.com/res/image/data/E1fFcbQq-Qi0YyGMJ.png"
         },
         "kickoff_time": "18:30"
     },
@@ -1383,7 +1383,7 @@
             "name": "Malut United",
             "logo": "https://static.flashscore.com/res/image/data/4UwHHmne-IijC3nOP.png"
         },
-        "kickoff_time": "13:30"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Persija Jakarta-Borneo",
@@ -1397,7 +1397,7 @@
             "name": "Borneo",
             "logo": "https://static.flashscore.com/res/image/data/xvzHySR0-SKnIGW8l.png"
         },
-        "kickoff_time": "13:30"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Padova-Spezia",
@@ -1481,7 +1481,7 @@
             "name": "Giana Erminio",
             "logo": "https://static.flashscore.com/res/image/data/bXy6R096-MJw8SsU0.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "HT"
     },
     {
         "id": "Lumezzane-Arzignano",
@@ -1495,7 +1495,7 @@
             "name": "Arzignano",
             "logo": "https://static.flashscore.com/res/image/data/zNCymWmC-MiZyhUzt.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "45+4"
     },
     {
         "id": "Ospitaletto-Pro Patria",
@@ -1509,7 +1509,7 @@
             "name": "Pro Patria",
             "logo": "https://static.flashscore.com/res/image/data/Gpj5SYR0-xflVFLdE.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "44"
     },
     {
         "id": "Pergolettese-Pro Vercelli",
@@ -1523,7 +1523,7 @@
             "name": "Pro Vercelli",
             "logo": "https://static.flashscore.com/res/image/data/j1qsBwjC-AyUdrJUN.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "45+2"
     },
     {
         "id": "AlbinoLeffe-Brescia",
@@ -1635,7 +1635,7 @@
             "name": "Napoli U20",
             "logo": "https://static.flashscore.com/res/image/data/fkP2T3oe-Aog9yVTA.png"
         },
-        "kickoff_time": "11:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Genoa U20-Verona U20",
@@ -1649,7 +1649,7 @@
             "name": "Verona U20",
             "logo": "https://static.flashscore.com/res/image/data/EHUlRj96-6uyXbx77.png"
         },
-        "kickoff_time": "13:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Sassuolo U20-Juventus U20",
@@ -1663,7 +1663,7 @@
             "name": "Juventus U20",
             "logo": "https://static.flashscore.com/res/image/data/IPsLYHU0-GtNb9h2q.png"
         },
-        "kickoff_time": "15:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Waterhouse-Spanish Town Police",
@@ -1719,7 +1719,7 @@
             "name": "Talant",
             "logo": "https://static.flashscore.com/res/image/data/YLPdRF5k-SnFyMfpr.png"
         },
-        "kickoff_time": "10:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Bishkek City-Bars",
@@ -1733,7 +1733,7 @@
             "name": "Bars",
             "logo": "https://static.flashscore.com/res/image/data/hzrh5glC-AJAm5f9S.png"
         },
-        "kickoff_time": "14:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Darnes-Al-Suqoor",
@@ -1803,7 +1803,7 @@
             "name": "Penang",
             "logo": "https://static.flashscore.com/res/image/data/SIuNpyU0-hxFcDpEF.png"
         },
-        "kickoff_time": "14:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Gzira-Mosta",
@@ -1831,7 +1831,7 @@
             "name": "Mahar United",
             "logo": "https://static.flashscore.com/res/image/data/b16tCu8k-riL1ZJ4f.png"
         },
-        "kickoff_time": "09:30"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Cambuur-Almere City",
@@ -1901,7 +1901,7 @@
             "name": "Saint Lucia U20",
             "logo": "https://static.flashscore.com/res/image/data/zsVVyT5k-trB6Do87.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "HT"
     },
     {
         "id": "Cayman Islands U20-Bonaire U20",
@@ -2027,7 +2027,7 @@
             "name": "Struga",
             "logo": "https://static.flashscore.com/res/image/data/8KggZL5k-b7VCRENs.png"
         },
-        "kickoff_time": "13:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Shkupi-Bashkimi",
@@ -2041,7 +2041,7 @@
             "name": "Bashkimi",
             "logo": "https://static.flashscore.com/res/image/data/CdripeWH-8ISTYn2F.png"
         },
-        "kickoff_time": "13:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Glentoran-Carrick Rangers",
@@ -2181,7 +2181,7 @@
             "name": "FC Hermannstadt",
             "logo": "https://static.flashscore.com/res/image/data/Qo64eflC-zobyTLZj.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "45"
     },
     {
         "id": "Baltika-Zenit",
@@ -2195,7 +2195,7 @@
             "name": "Zenit",
             "logo": "https://static.flashscore.com/res/image/data/EyVBaZlC-QPqvtC2B.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "45+1"
     },
     {
         "id": "Al-Hilal Omdurman-Gicumbi",
@@ -2335,7 +2335,7 @@
             "name": "Trnava",
             "logo": "https://static.flashscore.com/res/image/data/8xkIg95k-M5OsNcYB.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "HT"
     },
     {
         "id": "Richards Bay-Kaizer Chiefs",
@@ -2349,7 +2349,7 @@
             "name": "Kaizer Chiefs",
             "logo": "https://static.flashscore.com/res/image/data/6wU1xTiT-MeBJ238q.png"
         },
-        "kickoff_time": "17:30"
+        "kickoff_time": "19"
     },
     {
         "id": "Siwelele-Stellenbosch",
@@ -2363,7 +2363,7 @@
             "name": "Stellenbosch",
             "logo": "https://static.flashscore.com/res/image/data/IVw0l5Rq-rZaAc4E6.png"
         },
-        "kickoff_time": "17:30"
+        "kickoff_time": "18"
     },
     {
         "id": "TS Galaxy-Orbit College",
@@ -2377,7 +2377,7 @@
             "name": "Orbit College",
             "logo": "https://static.flashscore.com/res/image/data/hScsAegT-lbsafVBT.png"
         },
-        "kickoff_time": "17:30"
+        "kickoff_time": "19"
     },
     {
         "id": "Independiente (Bol)-Guabira (Bol)",
@@ -2447,7 +2447,7 @@
             "name": "Fountain Gate",
             "logo": "https://static.flashscore.com/res/image/data/hGNBDc5k-f91acHAB.png"
         },
-        "kickoff_time": "13:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Fethiyespor-Karagumruk",
@@ -2461,7 +2461,7 @@
             "name": "Karagumruk",
             "logo": "https://static.flashscore.com/res/image/data/236tUEA6-dhK4x4oH.png"
         },
-        "kickoff_time": "10:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Istanbulspor AS-Boluspor",
@@ -2475,7 +2475,7 @@
             "name": "Boluspor",
             "logo": "https://static.flashscore.com/res/image/data/zLrSTcS0-p22qiPbD.png"
         },
-        "kickoff_time": "12:30"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Alanyaspor-Galatasaray",
@@ -2489,7 +2489,7 @@
             "name": "Galatasaray",
             "logo": "https://static.flashscore.com/res/image/data/SpvcRk96-dEXkR0Wq.png"
         },
-        "kickoff_time": "17:30"
+        "kickoff_time": "19"
     },
     {
         "id": "Basaksehir-Trabzonspor",
@@ -2503,7 +2503,7 @@
             "name": "Trabzonspor",
             "logo": "https://static.flashscore.com/res/image/data/2sVavKoe-MobtE80i.png"
         },
-        "kickoff_time": "17:30"
+        "kickoff_time": "19"
     },
     {
         "id": "Kitara-Entebbe UPPC",
@@ -2517,7 +2517,7 @@
             "name": "Entebbe UPPC",
             "logo": "https://static.flashscore.com/res/image/data/vF4QhSA6-nRfpo4N8.png"
         },
-        "kickoff_time": "13:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Police-BUL",
@@ -2531,7 +2531,7 @@
             "name": "BUL",
             "logo": "https://static.flashscore.com/res/image/data/IJ38EFS0-OGu3TpGo.png"
         },
-        "kickoff_time": "13:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "NEC FC-UPDF",
@@ -2545,7 +2545,7 @@
             "name": "UPDF",
             "logo": "https://static.flashscore.com/res/image/data/jZm4RtiT-bucqktvi.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "HT"
     },
     {
         "id": "Vipers-Lugazi",
@@ -2559,7 +2559,7 @@
             "name": "Lugazi",
             "logo": "https://static.flashscore.com/res/image/data/UqyTKkle-6PYnZIcB.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "45+3"
     },
     {
         "id": "Dyn. Kyiv-Inhulets",
@@ -2573,7 +2573,7 @@
             "name": "Inhulets",
             "logo": "https://static.flashscore.com/res/image/data/Q1BjvHPq-SxCfwmHs.png"
         },
-        "kickoff_time": "16:00"
+        "kickoff_time": "86"
     },
     {
         "id": "Barry-Penybont",
@@ -2646,6 +2646,20 @@
         "kickoff_time": "20:00"
     },
     {
+        "id": "UCSA (Ukr)-Kudrivka (Ukr)",
+        "league": "WORLD - Club Friendly",
+        "sport": "soccer",
+        "team1": {
+            "name": "UCSA (Ukr)",
+            "logo": "https://static.flashscore.com/res/image/data/E5WogUA6-dbPPhz1C.png"
+        },
+        "team2": {
+            "name": "Kudrivka (Ukr)",
+            "logo": "https://static.flashscore.com/res/image/data/CUoqynU0-pUOna96L.png"
+        },
+        "kickoff_time": "Finished"
+    },
+    {
         "id": "Sotra (Nor)-Sandviken (Nor)",
         "league": "WORLD - Club Friendly",
         "sport": "soccer",
@@ -2671,7 +2685,7 @@
             "name": "Falkenberg (Swe)",
             "logo": "https://static.flashscore.com/res/image/data/tAcXpMQq-8CTmUesg.png"
         },
-        "kickoff_time": "14:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Lunds (Swe)-IFK Trelleborg (Swe)",
@@ -2699,7 +2713,7 @@
             "name": "Scotland U19 W",
             "logo": "https://static.flashscore.com/res/image/data/pUCYBlRq-EDznjDl0.png"
         },
-        "kickoff_time": "10:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Spain U20 W-Mexico U20 W",
@@ -2713,7 +2727,7 @@
             "name": "Mexico U20 W",
             "logo": "https://static.flashscore.com/res/image/data/SI1zxMR0-GbxMCzln.png"
         },
-        "kickoff_time": "11:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Denmark U19 W-Norway U19 W",
@@ -2727,7 +2741,7 @@
             "name": "Norway U19 W",
             "logo": "https://static.flashscore.com/res/image/data/zN9lsNjC-C4CioLKN.png"
         },
-        "kickoff_time": "12:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Ghana W-Russia W",
@@ -2741,7 +2755,7 @@
             "name": "Russia W",
             "logo": "https://static.flashscore.com/res/image/data/0KyT05jC-ryLPi5yt.png"
         },
-        "kickoff_time": "12:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "Turkey U19 W-Uzbekistan U20 W",
@@ -2756,20 +2770,6 @@
             "logo": "https://static.flashscore.com/res/image/data/xUr4wTle-naIDQRg5.png"
         },
         "kickoff_time": "12:00"
-    },
-    {
-        "id": "Cameroon W-Nigeria W",
-        "league": "WORLD - Friendly International Women",
-        "sport": "soccer",
-        "team1": {
-            "name": "Cameroon W",
-            "logo": "https://static.flashscore.com/res/image/data/ltKNenAN-h2Qb924D.png"
-        },
-        "team2": {
-            "name": "Nigeria W",
-            "logo": "https://static.flashscore.com/res/image/data/YockE7iT-8ICaYfyc.png"
-        },
-        "kickoff_time": "13:00"
     },
     {
         "id": "Morocco U20 W-Thailand U20 W",
@@ -2797,7 +2797,7 @@
             "name": "England U20 W",
             "logo": "https://static.flashscore.com/res/image/data/nVnTo5gT-j1Ih2sWe.png"
         },
-        "kickoff_time": "14:00"
+        "kickoff_time": "Finished"
     },
     {
         "id": "France U19 W-Italy U19 W",
@@ -2811,7 +2811,21 @@
             "name": "Italy U19 W",
             "logo": "https://static.flashscore.com/res/image/data/hbSZTqlC-My5qjuKd.png"
         },
-        "kickoff_time": "14:30"
+        "kickoff_time": "Finished"
+    },
+    {
+        "id": "Cameroon W-Nigeria W",
+        "league": "WORLD - Friendly International Women",
+        "sport": "soccer",
+        "team1": {
+            "name": "Cameroon W",
+            "logo": "https://static.flashscore.com/res/image/data/ltKNenAN-h2Qb924D.png"
+        },
+        "team2": {
+            "name": "Nigeria W",
+            "logo": "https://static.flashscore.com/res/image/data/YockE7iT-8ICaYfyc.png"
+        },
+        "kickoff_time": "Finished"
     },
     {
         "id": "USA U18 W-Sweden U18 W",
@@ -2839,7 +2853,7 @@
             "name": "Sweden U19 W",
             "logo": "https://static.flashscore.com/res/image/data/fZl2Pt6k-vafZSxgs.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "45+"
     },
     {
         "id": "Hong Kong W-Tanzania W",
@@ -2853,7 +2867,7 @@
             "name": "Tanzania W",
             "logo": "https://static.flashscore.com/res/image/data/YL8BhpjT-KlKhSYan.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": "Canc"
     },
     {
         "id": "Jordan U20 W-Russia U19 W",
@@ -2884,6 +2898,20 @@
         "kickoff_time": "22:00"
     },
     {
+        "id": "FC Copenhagen W (Den)-Trelleborg W (Swe)",
+        "league": "WORLD - Club Friendly Women",
+        "sport": "soccer",
+        "team1": {
+            "name": "FC Copenhagen W (Den)",
+            "logo": "https://static.flashscore.com/res/image/data/b16HSDne-jewPFrON.png"
+        },
+        "team2": {
+            "name": "Trelleborg W (Swe)",
+            "logo": "https://static.flashscore.com/res/image/data/ppP8bESq-GbrS9mWJ.png"
+        },
+        "kickoff_time": "18:15"
+    },
+    {
         "id": "Cuba-Uruguay",
         "league": "AMERICA - World Cup - Qualification - First round",
         "sport": "basketball",
@@ -2909,7 +2937,7 @@
             "name": "Paris",
             "logo": "https://static.flashscore.com/res/image/data/ANWtRwA6-QNf9AhkE.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": ""
     },
     {
         "id": "Washington Wizards-Houston Rockets",
@@ -3371,7 +3399,7 @@
             "name": "Minsk",
             "logo": "https://static.flashscore.com/res/image/data/nNtLQVhT-0r28ZqlG.png"
         },
-        "kickoff_time": "14:30"
+        "kickoff_time": ""
     },
     {
         "id": "Split-Perspektiva Ilirija",
@@ -3399,7 +3427,7 @@
             "name": "Helios Domzale",
             "logo": "https://static.flashscore.com/res/image/data/hIvjOET0-OfnnAA49.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": ""
     },
     {
         "id": "Student Igokea-Primorje",
@@ -3427,7 +3455,7 @@
             "name": "BC Kalev/Cramo",
             "logo": "https://static.flashscore.com/res/image/data/l4lsFOne-bPj3ckcJ.png"
         },
-        "kickoff_time": "17:30"
+        "kickoff_time": ""
     },
     {
         "id": "Galatasaray W-Landes W",
@@ -3441,7 +3469,7 @@
             "name": "Landes W",
             "logo": "https://static.flashscore.com/res/image/data/ILCa2QPq-WSwbWM7B.png"
         },
-        "kickoff_time": "17:30"
+        "kickoff_time": ""
     },
     {
         "id": "Venezia W-Schio W",
@@ -3469,7 +3497,7 @@
             "name": "Flamurtari W",
             "logo": "https://static.flashscore.com/res/image/data/Qy8V6JlC-rBunPBO2.png"
         },
-        "kickoff_time": "17:30"
+        "kickoff_time": ""
     },
     {
         "id": "Peja W-Tirana W",
@@ -3497,7 +3525,7 @@
             "name": "Rilski Sportist W",
             "logo": "https://static.flashscore.com/res/image/data/dAXz1WBN-WA88mfVe.png"
         },
-        "kickoff_time": "16:00"
+        "kickoff_time": ""
     },
     {
         "id": "Kaspiy Aktau-Astana",
@@ -3511,7 +3539,7 @@
             "name": "Astana",
             "logo": "https://static.flashscore.com/res/image/data/ENGCW0jC-GbjNHdkc.png"
         },
-        "kickoff_time": "14:00"
+        "kickoff_time": ""
     },
     {
         "id": "ChelSU Kostanay-BC Almaty 2",
@@ -3525,7 +3553,7 @@
             "name": "BC Almaty 2",
             "logo": "https://static.flashscore.com/res/image/data/GfbXC37k-xtVc3n8N.png"
         },
-        "kickoff_time": "08:00"
+        "kickoff_time": ""
     },
     {
         "id": "Tobol Kostanay 2-CHAMP1ON",
@@ -3539,7 +3567,7 @@
             "name": "CHAMP1ON",
             "logo": "https://static.flashscore.com/res/image/data/0IYQpYjC-0KZcUrUk.png"
         },
-        "kickoff_time": "10:30"
+        "kickoff_time": ""
     },
     {
         "id": "Zhetysu W-Aktau W",
@@ -3553,7 +3581,7 @@
             "name": "Aktau W",
             "logo": "https://static.flashscore.com/res/image/data/8xipvdle-EHlariII.png"
         },
-        "kickoff_time": "08:00"
+        "kickoff_time": ""
     },
     {
         "id": "Tadamon Hrajel-Antranik Beirut",
@@ -3581,7 +3609,7 @@
             "name": "Jurbarkas",
             "logo": "https://static.flashscore.com/res/image/data/YeMCiGjT-YybpyGZT.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": ""
     },
     {
         "id": "Astros-Ostioneros de Guaymas",
@@ -3637,7 +3665,7 @@
             "name": "Ufa",
             "logo": "https://static.flashscore.com/res/image/data/AkRerMiT-SGf4x3OR.png"
         },
-        "kickoff_time": "09:15"
+        "kickoff_time": ""
     },
     {
         "id": "Piestanske Cajky W-Slavia Banska Bystrica W",
@@ -3651,7 +3679,7 @@
             "name": "Slavia Banska Bystrica W",
             "logo": "https://static.flashscore.com/res/image/data/WroxVlkC-bVFWzku1.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": ""
     },
     {
         "id": "Samorin W-MBK Ruzomberok W",
@@ -3665,7 +3693,7 @@
             "name": "MBK Ruzomberok W",
             "logo": "https://static.flashscore.com/res/image/data/6FxdBmVH-n5qH9B5E.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": ""
     },
     {
         "id": "Young Angels Kosice W-Slovan Bratislava W",
@@ -3707,7 +3735,7 @@
             "name": "Fenerbahce W",
             "logo": "https://static.flashscore.com/res/image/data/KANMnP96-YwZI8qgS.png"
         },
-        "kickoff_time": "10:00"
+        "kickoff_time": ""
     },
     {
         "id": "Valley Suns-Salt Lake City Stars",
@@ -3749,7 +3777,7 @@
             "name": "Santa Cruz Warriors",
             "logo": "https://static.flashscore.com/res/image/data/dWy7zEoe-vJlNPcFm.png"
         },
-        "kickoff_time": "03:30"
+        "kickoff_time": ""
     },
     {
         "id": "Cleveland Charge-Windy City Bulls",
