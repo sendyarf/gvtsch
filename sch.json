@@ -1681,56 +1681,6 @@
     "servers": []
   },
   {
-    "id": "GangwonKor-MachidaJpn",
-    "league": "AFC Champions League Elite",
-    "team1": {
-      "name": "Gangwon",
-      "logo": "https://static.flashscore.com/res/image/data/UFscAtXH-IR4625wC.png"
-    },
-    "team2": {
-      "name": "Machida",
-      "logo": "https://static.flashscore.com/res/image/data/IJNqPkBN-6uZPCvr9.png"
-    },
-    "kickoff_date": "2026-03-03",
-    "kickoff_time": "17:00",
-    "match_date": "2026-03-03",
-    "match_time": "17:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=160",
-        "label": "CH-QA"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=161",
-        "label": "CH-LT"
-      }
-    ]
-  },
-  {
-    "id": "Fethiyespor-Karagumruk",
-    "league": "Turkey - Turkish Cup",
-    "team1": {
-      "name": "Fethiyespor",
-      "logo": "https://static.flashscore.com/res/image/data/b1l3xfQq-zw0lLOtc.png"
-    },
-    "team2": {
-      "name": "Karagumruk",
-      "logo": "https://static.flashscore.com/res/image/data/236tUEA6-dhK4x4oH.png"
-    },
-    "kickoff_date": "2026-03-03",
-    "kickoff_time": "17:00",
-    "match_date": "2026-03-03",
-    "match_time": "17:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=151",
-        "label": "CH-TR"
-      }
-    ]
-  },
-  {
     "id": "IstanbulsporAS-Boluspor",
     "league": "Turkey - Turkish Cup",
     "team1": {
