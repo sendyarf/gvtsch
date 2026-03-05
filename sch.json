@@ -1111,16 +1111,7 @@
     "match_date": "2026-03-05",
     "match_time": "02:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd11",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br2",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Brighton-Arsenal",
@@ -1138,20 +1129,7 @@
     "match_date": "2026-03-05",
     "match_time": "02:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven3",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br4",
-        "label": "CH-3"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Fulham-WestHam",
@@ -1169,12 +1147,7 @@
     "match_date": "2026-03-05",
     "match_time": "02:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd9",
-        "label": "CH-1"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ManchesterCity-Nottingham",
@@ -1192,20 +1165,7 @@
     "match_date": "2026-03-05",
     "match_time": "02:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven2",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br3",
-        "label": "CH-3"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Newcastle-ManchesterUtd",
@@ -1223,20 +1183,7 @@
     "match_date": "2026-03-05",
     "match_time": "03:15",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br6",
-        "label": "CH-3"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Tottenham-CrystalPalace",
@@ -1312,7 +1259,12 @@
     "match_date": "2026-03-07",
     "match_time": "22:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "PSG-Monaco",
@@ -1379,16 +1331,7 @@
     "match_date": "2026-03-05",
     "match_time": "02:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd3",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br1",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "BayernMunich-BMonchengladbach",
@@ -1437,7 +1380,20 @@
     "match_date": "2026-03-07",
     "match_time": "21:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd3",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven2",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br4",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "Heidenheim-Hoffenheim",
@@ -1473,7 +1429,12 @@
     "match_date": "2026-03-07",
     "match_time": "21:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd9",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "RBLeipzig-Augsburg",
@@ -1491,7 +1452,12 @@
     "match_date": "2026-03-07",
     "match_time": "21:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Wolfsburg-HamburgerSV",
@@ -1509,7 +1475,12 @@
     "match_date": "2026-03-07",
     "match_time": "21:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Napoli-Torino",
@@ -1554,7 +1525,16 @@
     "match_date": "2026-03-07",
     "match_time": "21:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "RayoVallecano-Oviedo",
@@ -1572,16 +1552,7 @@
     "match_date": "2026-03-05",
     "match_time": "01:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "CeltaVigo-RealMadrid",
@@ -1634,7 +1605,16 @@
     "match_date": "2026-03-07",
     "match_time": "20:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Levante-Girona",
@@ -1652,7 +1632,16 @@
     "match_date": "2026-03-07",
     "match_time": "22:15",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "PersijapJepara-PersisSolo",
@@ -1761,87 +1750,6 @@
     "match_time": "20:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "CaraboboVen-SportingCristalPer",
-    "league": "Copa Libertadores",
-    "team1": {
-      "name": "Carabobo (Ven)",
-      "logo": "https://static.flashscore.com/res/image/data/fa2gFpUH-CtnfXRKE.png"
-    },
-    "team2": {
-      "name": "Sporting Cristal (Per)",
-      "logo": "https://static.flashscore.com/res/image/data/xMxIWf86-Em9Gxj8O.png"
-    },
-    "kickoff_date": "2026-03-05",
-    "kickoff_time": "05:00",
-    "match_date": "2026-03-05",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=98",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=78",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "BloomingBol-SABuloBuloBol",
-    "league": "Copa Sudamericana",
-    "team1": {
-      "name": "Blooming (Bol)",
-      "logo": "https://static.flashscore.com/res/image/data/tplAvBme-tA3m0WA0.png"
-    },
-    "team2": {
-      "name": "SA Bulo Bulo (Bol)",
-      "logo": "https://static.flashscore.com/res/image/data/EZ3mVFhT-Ia2MTPPi.png"
-    },
-    "kickoff_date": "2026-03-05",
-    "kickoff_time": "05:00",
-    "match_date": "2026-03-05",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=91",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "CaracasVen-MetropolitanosVen",
-    "league": "Copa Sudamericana",
-    "team1": {
-      "name": "Caracas (Ven)",
-      "logo": "https://static.flashscore.com/res/image/data/2LChHsT0-0nhENufQ.png"
-    },
-    "team2": {
-      "name": "Metropolitanos (Ven)",
-      "logo": "https://static.flashscore.com/res/image/data/hGGDJ2lC-tAwcOibj.png"
-    },
-    "kickoff_date": "2026-03-05",
-    "kickoff_time": "05:00",
-    "match_date": "2026-03-05",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=95",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "NewYorkKnicks-OklahomaCityThunder",
@@ -2661,52 +2569,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE5LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ChicagoCubs-MilwaukeeBrewers",
-    "league": "Baseball",
-    "team1": {
-      "name": "Chicago Cubs",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
-    },
-    "team2": {
-      "name": "Milwaukee Brewers",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
-    },
-    "kickoff_date": "2026-03-05",
-    "kickoff_time": "03:10",
-    "match_date": "2026-03-05",
-    "match_time": "03:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE4LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ArizonaDiamondbacks-Athletics",
-    "league": "Baseball",
-    "team1": {
-      "name": "Arizona Diamondbacks",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
-    },
-    "team2": {
-      "name": "Athletics",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
-    },
-    "kickoff_date": "2026-03-05",
-    "kickoff_time": "03:05",
-    "match_date": "2026-03-05",
-    "match_time": "03:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE3LnBocA==",
         "label": "CH-EN"
       }
     ]
