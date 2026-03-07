@@ -1111,16 +1111,7 @@
     "match_date": "2026-03-08",
     "match_time": "02:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=141",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=125",
-        "label": "CH-DE"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Excelsior-Heerenveen",
@@ -2006,98 +1997,6 @@
     "match_time": "20:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "MoraBancAndorra-BasketZaragoza",
-    "league": "Liga Endesa",
-    "team1": {
-      "name": "MoraBanc Andorra",
-      "logo": "https://static.flashscore.com/res/image/data/ARDU0YmC-U1p4QlUe.png"
-    },
-    "team2": {
-      "name": "Basket Zaragoza",
-      "logo": "https://static.flashscore.com/res/image/data/p2EAmqDN-lOzorRoq.png"
-    },
-    "kickoff_date": "2026-03-08",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-08",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=156",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "StEtienne-RedStar",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "St Etienne",
-      "logo": "https://static.flashscore.com/res/image/data/SvNL7CBN-8Ca53MKO.png"
-    },
-    "team2": {
-      "name": "Red Star",
-      "logo": "https://static.flashscore.com/res/image/data/fT80UIA6-pEpm230o.png"
-    },
-    "kickoff_date": "2026-03-08",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-08",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=1",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "AlKholood-AlQadsiah",
-    "league": "Saudi Pro League",
-    "team1": {
-      "name": "Al Kholood",
-      "logo": "https://static.flashscore.com/res/image/data/WM6Wtcme-WO9RbMlH.png"
-    },
-    "team2": {
-      "name": "Al Qadsiah",
-      "logo": "https://static.flashscore.com/res/image/data/fm8umblC-OvCAgTwF.png"
-    },
-    "kickoff_date": "2026-03-08",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-08",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=61",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "AlNassr-NeomSC",
-    "league": "Saudi Pro League",
-    "team1": {
-      "name": "Al Nassr",
-      "logo": "https://static.flashscore.com/res/image/data/ny6quoU0-dr3R7wGl.png"
-    },
-    "team2": {
-      "name": "Neom SC",
-      "logo": "https://static.flashscore.com/res/image/data/Ols4HzkC-hjWUhSZq.png"
-    },
-    "kickoff_date": "2026-03-08",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-08",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=70",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "Bochum-Kaiserslautern",
