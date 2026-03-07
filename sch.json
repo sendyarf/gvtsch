@@ -1895,14 +1895,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-2"
       }
     ]
   },
@@ -2197,14 +2189,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-2"
       }
     ]
   },
@@ -2560,161 +2544,6 @@
     "servers": []
   },
   {
-    "id": "bundesliga2konferenz",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "bundesliga 2 konferenz -",
-      "logo": ""
-    },
-    "team2": {
-      "name": "",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-07",
-    "kickoff_time": "19:00",
-    "match_date": "2026-03-07",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=112",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=123",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Darmstadt-HolsteinKiel",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Darmstadt",
-      "logo": "https://static.flashscore.com/res/image/data/hbrmZHCN-hnEPJbbt.png"
-    },
-    "team2": {
-      "name": "Holstein Kiel",
-      "logo": "https://static.flashscore.com/res/image/data/8K98UZoe-EcK7yLm6.png"
-    },
-    "kickoff_date": "2026-03-07",
-    "kickoff_time": "19:00",
-    "match_date": "2026-03-07",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=4",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=113",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd10",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven2",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Nurnberg-Dusseldorf",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Nurnberg",
-      "logo": "https://static.flashscore.com/res/image/data/YiDhmqT0-ncmj9JbF.png"
-    },
-    "team2": {
-      "name": "Dusseldorf",
-      "logo": "https://static.flashscore.com/res/image/data/4dR7FIjT-Qmnf8wEL.png"
-    },
-    "kickoff_date": "2026-03-07",
-    "kickoff_time": "19:00",
-    "match_date": "2026-03-07",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=115",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Paderborn-Braunschweig",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Paderborn",
-      "logo": "https://static.flashscore.com/res/image/data/6ufhxjSq-Qmnf8wEL.png"
-    },
-    "team2": {
-      "name": "Braunschweig",
-      "logo": "https://static.flashscore.com/res/image/data/bZS1GF96-rBP4Wuhs.png"
-    },
-    "kickoff_date": "2026-03-07",
-    "kickoff_time": "19:00",
-    "match_date": "2026-03-07",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=114",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Mansfield-Arsenal",
-    "league": "Fa Cup",
-    "team1": {
-      "name": "Mansfield",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/304.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
-    },
-    "kickoff_date": "2026-03-07",
-    "kickoff_time": "19:15",
-    "match_date": "2026-03-07",
-    "match_time": "19:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=3",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=126",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=145",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "Blackburn-Portsmouth",
     "league": "England - Championship",
     "team1": {
@@ -2857,6 +2686,29 @@
       {
         "url": "https://multi.govoet.cc/?envivo=55",
         "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "bundesligakonferenz",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "bundesliga konferenz -",
+      "logo": ""
+    },
+    "team2": {
+      "name": "",
+      "logo": ""
+    },
+    "kickoff_date": "2026-03-07",
+    "kickoff_time": "21:30",
+    "match_date": "2026-03-07",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=123",
+        "label": "CH-DE"
       }
     ]
   },
@@ -5213,6 +5065,29 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQ4LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Arsenal-MansfieldTown",
+    "league": "Football",
+    "team1": {
+      "name": "Arsenal",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+    },
+    "team2": {
+      "name": "Mansfield Town",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/304.png"
+    },
+    "kickoff_date": "2026-03-07",
+    "kickoff_time": "19:15",
+    "match_date": "2026-03-07",
+    "match_time": "19:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
         "label": "CH-EN"
       }
     ]
