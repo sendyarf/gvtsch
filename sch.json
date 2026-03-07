@@ -1260,12 +1260,7 @@
     "match_date": "2026-03-08",
     "match_time": "01:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Toulouse-Marseille",
@@ -1453,12 +1448,7 @@
     "match_date": "2026-03-08",
     "match_time": "00:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDgucGhw",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "StPauli-EintrachtFrankfurt",
@@ -1759,12 +1749,7 @@
     "match_date": "2026-03-08",
     "match_time": "00:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "AthBilbao-Barcelona",
@@ -2597,24 +2582,6 @@
     ]
   },
   {
-    "id": "Atlante-AtlMorelia",
-    "league": "Liga De Expansion Mx",
-    "team1": {
-      "name": "Atlante",
-      "logo": "https://static.flashscore.com/res/image/data/Gb0hzrle-GfzblQr0.png"
-    },
-    "team2": {
-      "name": "Atl. Morelia",
-      "logo": "https://static.flashscore.com/res/image/data/MaTMD3jT-vupRtYdp.png"
-    },
-    "kickoff_date": "2026-03-08",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-08",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
     "id": "CruzAzul-AtlSanLuis",
     "league": "Mexico - Liga MX",
     "team1": {
@@ -2631,10 +2598,6 @@
     "match_time": "06:00",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=68",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.cc/?envivo=106",
         "label": "CH-ES"
@@ -4050,75 +4013,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Chelsea-Wrexham",
-    "league": "Football",
-    "team1": {
-      "name": "Chelsea",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
-    },
-    "team2": {
-      "name": "Wrexham",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/352.png"
-    },
-    "kickoff_date": "2026-03-08",
-    "kickoff_time": "00:45",
-    "match_date": "2026-03-08",
-    "match_time": "00:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "WashingtonCapitals-BostonBruins",
-    "league": "Hockey",
-    "team1": {
-      "name": "Washington Capitals",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png"
-    },
-    "team2": {
-      "name": "Boston Bruins",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png"
-    },
-    "kickoff_date": "2026-03-08",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-08",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "MiamiMarlins-HoustonAstros",
-    "league": "Baseball",
-    "team1": {
-      "name": "Miami Marlins",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"
-    },
-    "team2": {
-      "name": "Houston Astros",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
-    },
-    "kickoff_date": "2026-03-08",
-    "kickoff_time": "00:05",
-    "match_date": "2026-03-08",
-    "match_time": "00:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE1LnBocA==",
         "label": "CH-EN"
       }
     ]
