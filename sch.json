@@ -1600,26 +1600,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=149",
-        "label": "CH-GR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=89",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=97",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
         "label": "CH-EN"
       },
@@ -2180,29 +2160,6 @@
     "match_time": "20:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "JoventutBadalona-Granada",
-    "league": "Liga Endesa",
-    "team1": {
-      "name": "Joventut Badalona",
-      "logo": "https://static.flashscore.com/res/image/data/GfheZine-4QFp2rHo.png"
-    },
-    "team2": {
-      "name": "Granada",
-      "logo": "https://static.flashscore.com/res/image/data/rXE2jtBN-CIm09OR2.png"
-    },
-    "kickoff_date": "2026-03-08",
-    "kickoff_time": "18:30",
-    "match_date": "2026-03-08",
-    "match_time": "18:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=157",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "Fulham-Southampton",
