@@ -1147,12 +1147,7 @@
     "match_date": "2026-03-08",
     "match_time": "18:15",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=142",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "GAEagles-Twente",
@@ -2185,98 +2180,6 @@
     "match_time": "20:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Gaziantep-Karagumruk",
-    "league": "Super Lig",
-    "team1": {
-      "name": "Gaziantep",
-      "logo": "https://static.flashscore.com/res/image/data/UH4szVne-nwcq2Drl.png"
-    },
-    "team2": {
-      "name": "Karagumruk",
-      "logo": "https://static.flashscore.com/res/image/data/236tUEA6-dhK4x4oH.png"
-    },
-    "kickoff_date": "2026-03-08",
-    "kickoff_time": "17:30",
-    "match_date": "2026-03-08",
-    "match_time": "17:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=152",
-        "label": "CH-TR"
-      }
-    ]
-  },
-  {
-    "id": "Rizespor-Antalyaspor",
-    "league": "Super Lig",
-    "team1": {
-      "name": "Rizespor",
-      "logo": "https://static.flashscore.com/res/image/data/W4mOfm86-rZkRF8yE.png"
-    },
-    "team2": {
-      "name": "Antalyaspor",
-      "logo": "https://static.flashscore.com/res/image/data/S6yZui5k-ptkIYGIF.png"
-    },
-    "kickoff_date": "2026-03-08",
-    "kickoff_time": "17:30",
-    "match_date": "2026-03-08",
-    "match_time": "17:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=151",
-        "label": "CH-TR"
-      }
-    ]
-  },
-  {
-    "id": "BasquetGirona-Unicaja",
-    "league": "Liga Endesa",
-    "team1": {
-      "name": "Basquet Girona",
-      "logo": "https://static.flashscore.com/res/image/data/b1j2quSq-j9n48rs9.png"
-    },
-    "team2": {
-      "name": "Unicaja",
-      "logo": "https://static.flashscore.com/res/image/data/pWLmh8kC-QP5xKSl0.png"
-    },
-    "kickoff_date": "2026-03-08",
-    "kickoff_time": "18:00",
-    "match_date": "2026-03-08",
-    "match_time": "18:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=155",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Breogan-Barcelona",
-    "league": "Liga Endesa",
-    "team1": {
-      "name": "Breogan",
-      "logo": "https://static.flashscore.com/res/image/data/8v0F1BjC-UNsdztR4.png"
-    },
-    "team2": {
-      "name": "Barcelona",
-      "logo": "https://static.flashscore.com/res/image/data/4E1IJGS0-AZCWGI9F.png"
-    },
-    "kickoff_date": "2026-03-08",
-    "kickoff_time": "18:15",
-    "match_date": "2026-03-08",
-    "match_time": "18:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=156",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "JoventutBadalona-Granada",
