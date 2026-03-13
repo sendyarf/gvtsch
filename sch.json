@@ -2222,37 +2222,6 @@
     "servers": []
   },
   {
-    "id": "GPdeChineQualificationsSprint",
-    "league": "Formula 1",
-    "team1": {
-      "name": "GP de Chine Qualifications Sprint -",
-      "logo": ""
-    },
-    "team2": {
-      "name": "",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-13",
-    "kickoff_time": "14:15",
-    "match_date": "2026-03-13",
-    "match_time": "14:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=13",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=60",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=78",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "Antalyaspor-Gaziantep",
     "league": "Super Lig",
     "team1": {
@@ -5602,29 +5571,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE3LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "F1ChineseGPSprint",
-    "league": "Motor Sport",
-    "team1": {
-      "name": "F1 Chinese GP Sprint",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png"
-    },
-    "team2": {
-      "name": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png"
-    },
-    "kickoff_date": "2026-03-13",
-    "kickoff_time": "14:30",
-    "match_date": "2026-03-13",
-    "match_time": "14:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQ5LnBocA==",
         "label": "CH-EN"
       }
     ]
