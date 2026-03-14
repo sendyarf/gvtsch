@@ -1113,10 +1113,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
-        "label": "CH-EN"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=hd1",
         "label": "CH-1"
       },
@@ -1147,10 +1143,6 @@
     "match_time": "00:30",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
-        "label": "CH-EN"
-      },
       {
         "url": "https://multi.govoet.cc/?ss=hd5",
         "label": "CH-1"
@@ -1518,12 +1510,7 @@
     "match_date": "2026-03-15",
     "match_time": "02:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=141",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Ajax-SpartaRotterdam",
@@ -1680,12 +1667,7 @@
     "match_date": "2026-03-15",
     "match_time": "01:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Monaco-Brest",
@@ -2372,10 +2354,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=hd6",
         "label": "CH-1"
       },
@@ -2730,283 +2708,6 @@
     "match_time": "20:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "InddelValle-Aucas",
-    "league": "Ecuador - Liga Pro",
-    "team1": {
-      "name": "Ind. del Valle",
-      "logo": "https://static.flashscore.com/res/image/data/4rVUkugT-OnCKiY2r.png"
-    },
-    "team2": {
-      "name": "Aucas",
-      "logo": "https://static.flashscore.com/res/image/data/fusCQNWH-Wz8yaA21.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-15",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=86",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "InterBogot-Bucaramanga",
-    "league": "Colombia: Primera A",
-    "team1": {
-      "name": "Inter Bogotá",
-      "logo": "https://static.flashscore.com/res/image/data/WWZlhzXH-nouesssi.png"
-    },
-    "team2": {
-      "name": "Bucaramanga",
-      "logo": "https://static.flashscore.com/res/image/data/pEjyC27k-0xyt4W2g.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-15",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=81",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Tenerife-Valencia",
-    "league": "Liga Endesa",
-    "team1": {
-      "name": "Tenerife",
-      "logo": "https://static.flashscore.com/res/image/data/fX6sJejT-jkCvWF0A.png"
-    },
-    "team2": {
-      "name": "Valencia",
-      "logo": "https://static.flashscore.com/res/image/data/juNjUlle-0xo9H7fm.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-15",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=157",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Grenoble-StEtienne",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Grenoble",
-      "logo": "https://static.flashscore.com/res/image/data/vmEDOI6k-Q3bg4qfQ.png"
-    },
-    "team2": {
-      "name": "St Etienne",
-      "logo": "https://static.flashscore.com/res/image/data/SvNL7CBN-8Ca53MKO.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-15",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=1",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "AtlantaHawks-MilwaukeeBucks",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Atlanta Hawks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png"
-    },
-    "team2": {
-      "name": "Milwaukee Bucks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-15",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=182",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "WashingtonCapitals-BostonBruins",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Washington Capitals",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png"
-    },
-    "team2": {
-      "name": "Boston Bruins",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-15",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=183",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "AlFateh-AlHilal",
-    "league": "Saudi Pro League",
-    "team1": {
-      "name": "Al Fateh",
-      "logo": "https://static.flashscore.com/res/image/data/t6XzCy7k-ll4pyUYI.png"
-    },
-    "team2": {
-      "name": "Al Hilal",
-      "logo": "https://static.flashscore.com/res/image/data/EVoO06R0-joUWHZ1t.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-15",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=52",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "AlKhaleej-AlNassr",
-    "league": "Saudi Pro League",
-    "team1": {
-      "name": "Al Khaleej",
-      "logo": "https://static.flashscore.com/res/image/data/Yqqphp96-W6U2Bfuk.png"
-    },
-    "team2": {
-      "name": "Al Nassr",
-      "logo": "https://static.flashscore.com/res/image/data/ny6quoU0-dr3R7wGl.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-15",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=50",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv5",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "AtlantaUtd-PhiladelphiaUnion",
-    "league": "USA - MLS",
-    "team1": {
-      "name": "Atlanta Utd",
-      "logo": "https://static.flashscore.com/res/image/data/bZSq12Pq-MeFN3n19.png"
-    },
-    "team2": {
-      "name": "Philadelphia Union",
-      "logo": "https://static.flashscore.com/res/image/data/0UCoIkgT-juuH5vx4.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "02:15",
-    "match_date": "2026-03-15",
-    "match_time": "02:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=162",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "HerthaBerlin-Bochum",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Hertha Berlin",
-      "logo": "https://static.flashscore.com/res/image/data/j1FIuRAN-M145xF2s.png"
-    },
-    "team2": {
-      "name": "Bochum",
-      "logo": "https://static.flashscore.com/res/image/data/IRiimykC-86lnAaq9.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "02:30",
-    "match_date": "2026-03-15",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=6",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=112",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=79",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "SanAntonioSpurs-CharlotteHornets",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "San Antonio Spurs",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
-    },
-    "team2": {
-      "name": "Charlotte Hornets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "02:30",
-    "match_date": "2026-03-15",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=184",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
   },
   {
     "id": "Westerlo-ClubBruggeKV",
@@ -8069,6 +7770,75 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDI1LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "CharlotteHornets-SanAntonioSpurs",
+    "league": "Basketball",
+    "team1": {
+      "name": "Charlotte Hornets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png"
+    },
+    "team2": {
+      "name": "San Antonio Spurs",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
+    },
+    "kickoff_date": "2026-03-15",
+    "kickoff_time": "02:30",
+    "match_date": "2026-03-15",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "MilwaukeeBucks-AtlantaHawks",
+    "league": "Basketball",
+    "team1": {
+      "name": "Milwaukee Bucks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png"
+    },
+    "team2": {
+      "name": "Atlanta Hawks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png"
+    },
+    "kickoff_date": "2026-03-15",
+    "kickoff_time": "02:00",
+    "match_date": "2026-03-15",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "BostonBruins-WashingtonCapitals",
+    "league": "Hockey",
+    "team1": {
+      "name": "Boston Bruins",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png"
+    },
+    "team2": {
+      "name": "Washington Capitals",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png"
+    },
+    "kickoff_date": "2026-03-15",
+    "kickoff_time": "02:00",
+    "match_date": "2026-03-15",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUxLnBocA==",
         "label": "CH-EN"
       }
     ]
