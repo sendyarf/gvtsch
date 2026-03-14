@@ -2885,14 +2885,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-2"
       }
     ]
   },
@@ -3290,106 +3282,6 @@
     "servers": []
   },
   {
-    "id": "bundesliga2konferenz",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "bundesliga 2 konferenz -",
-      "logo": ""
-    },
-    "team2": {
-      "name": "",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-14",
-    "kickoff_time": "19:00",
-    "match_date": "2026-03-14",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=112",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=123",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "ArminiaBielefeld-Paderborn",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Arminia Bielefeld",
-      "logo": "https://static.flashscore.com/res/image/data/tbqzXYS0-GOBDm2OL.png"
-    },
-    "team2": {
-      "name": "Paderborn",
-      "logo": "https://static.flashscore.com/res/image/data/6ufhxjSq-Qmnf8wEL.png"
-    },
-    "kickoff_date": "2026-03-14",
-    "kickoff_time": "19:00",
-    "match_date": "2026-03-14",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=115",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Braunschweig-Dusseldorf",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Braunschweig",
-      "logo": "https://static.flashscore.com/res/image/data/bZS1GF96-rBP4Wuhs.png"
-    },
-    "team2": {
-      "name": "Dusseldorf",
-      "logo": "https://static.flashscore.com/res/image/data/4dR7FIjT-Qmnf8wEL.png"
-    },
-    "kickoff_date": "2026-03-14",
-    "kickoff_time": "19:00",
-    "match_date": "2026-03-14",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=113",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "HolsteinKiel-Nurnberg",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Holstein Kiel",
-      "logo": "https://static.flashscore.com/res/image/data/8K98UZoe-EcK7yLm6.png"
-    },
-    "team2": {
-      "name": "Nurnberg",
-      "logo": "https://static.flashscore.com/res/image/data/YiDhmqT0-ncmj9JbF.png"
-    },
-    "kickoff_date": "2026-03-14",
-    "kickoff_time": "19:00",
-    "match_date": "2026-03-14",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=114",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd10",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
     "id": "ParisNice7etapeNice-Auron1387km",
     "league": "Cyclisme",
     "team1": {
@@ -3456,14 +3348,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=93",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv3",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br2",
-        "label": "CH-2"
       }
     ]
   },
@@ -3583,10 +3467,6 @@
       {
         "url": "https://multi.govoet.cc/?envivo=152",
         "label": "CH-TR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd4",
-        "label": "CH-1"
       }
     ]
   },
@@ -3614,6 +3494,29 @@
       {
         "url": "https://multi.govoet.cc/?envivo=55",
         "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "bundesligakonferenz",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "bundesliga konferenz -",
+      "logo": ""
+    },
+    "team2": {
+      "name": "",
+      "logo": ""
+    },
+    "kickoff_date": "2026-03-14",
+    "kickoff_time": "21:30",
+    "match_date": "2026-03-14",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=123",
+        "label": "CH-DE"
       }
     ]
   },
@@ -8393,6 +8296,14 @@
       {
         "url": "https://multi.govoet.cc/?envivo=53",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven3",
+        "label": "CH-2"
       }
     ]
   },
@@ -8416,6 +8327,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=1",
         "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd4",
+        "label": "CH-1"
       }
     ]
   },
@@ -8455,6 +8370,14 @@
       {
         "url": "https://multi.govoet.cc/?envivo=70",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv2",
+        "label": "CH-2"
       }
     ]
   },
@@ -8525,6 +8448,22 @@
       {
         "url": "https://multi.govoet.cc/?envivo=123",
         "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven2",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br5",
+        "label": "CH-4"
       }
     ]
   },
@@ -8587,6 +8526,18 @@
       {
         "url": "https://multi.govoet.cc/?envivo=87",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br2",
+        "label": "CH-3"
       }
     ]
   },
@@ -8610,6 +8561,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=83",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd9",
+        "label": "CH-1"
       }
     ]
   },
@@ -8633,6 +8588,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=75",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-1"
       }
     ]
   },
@@ -8794,6 +8753,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=117",
         "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br1",
+        "label": "CH-1"
       }
     ]
   },
@@ -8840,6 +8803,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=83",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd9",
+        "label": "CH-1"
       }
     ]
   },
@@ -8863,6 +8830,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=186",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-1"
       }
     ]
   },
@@ -9001,6 +8972,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=75",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-1"
       }
     ]
   },
@@ -9024,6 +8999,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=191",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
       }
     ]
   },
