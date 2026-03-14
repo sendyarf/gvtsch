@@ -2093,6 +2093,10 @@
         "label": "CH-ES"
       },
       {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQucGhw",
+        "label": "CH-EN"
+      },
+      {
         "url": "https://multi.govoet.cc/?ss=hd3",
         "label": "CH-1"
       },
@@ -2130,6 +2134,10 @@
       {
         "url": "https://multi.govoet.cc/?envivo=112",
         "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUucGhw",
+        "label": "CH-EN"
       },
       {
         "url": "https://multi.govoet.cc/?ss=hd9",
@@ -3160,64 +3168,6 @@
     "match_time": "20:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "LosAngelesClippers-ChicagoBulls",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Los Angeles Clippers",
-      "logo": "https://static.flashscore.com/res/image/data/jJgC6dAN-dhz9Qt1I.png"
-    },
-    "team2": {
-      "name": "Chicago Bulls",
-      "logo": "https://static.flashscore.com/res/image/data/0KeIPFPq-pbWMuxZT.png"
-    },
-    "kickoff_date": "2026-03-14",
-    "kickoff_time": "09:30",
-    "match_date": "2026-03-14",
-    "match_time": "09:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=189",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcyLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "GPdeChineLacourseSprint",
-    "league": "Formula 1",
-    "team1": {
-      "name": "GP de Chine La course Sprint -",
-      "logo": ""
-    },
-    "team2": {
-      "name": "",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-14",
-    "kickoff_time": "09:50",
-    "match_date": "2026-03-14",
-    "match_time": "09:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=13",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=60",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=78",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "Juarez-Monterrey",
@@ -9860,139 +9810,24 @@
     ]
   },
   {
-    "id": "F1ChineseGPSprintRace",
-    "league": "Motor Sport",
-    "team1": {
-      "name": "F1 Chinese GP Sprint Race",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png"
-    },
-    "team2": {
-      "name": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png"
-    },
-    "kickoff_date": "2026-03-14",
-    "kickoff_time": "10:00",
-    "match_date": "2026-03-14",
-    "match_time": "10:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQ5LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "MinnesotaTimberwolves-GoldenStateWarriors",
+    "id": "ChicagoBulls-LAClippers",
     "league": "Basketball",
     "team1": {
-      "name": "Minnesota Timberwolves",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
+      "name": "Chicago Bulls",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png"
     },
     "team2": {
-      "name": "Golden State Warriors",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png"
+      "name": "LA Clippers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png"
     },
     "kickoff_date": "2026-03-14",
-    "kickoff_time": "09:00",
+    "kickoff_time": "09:30",
     "match_date": "2026-03-14",
-    "match_time": "09:00",
+    "match_time": "09:30",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "UtahJazz-PortlandTrailBlazers",
-    "league": "Basketball",
-    "team1": {
-      "name": "Utah Jazz",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png"
-    },
-    "team2": {
-      "name": "Portland Trail Blazers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png"
-    },
-    "kickoff_date": "2026-03-14",
-    "kickoff_time": "09:00",
-    "match_date": "2026-03-14",
-    "match_time": "09:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "LosAngelesDodgers-SeattleMariners",
-    "league": "Baseball",
-    "team1": {
-      "name": "Los Angeles Dodgers",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
-    },
-    "team2": {
-      "name": "Seattle Mariners",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
-    },
-    "kickoff_date": "2026-03-14",
-    "kickoff_time": "08:10",
-    "match_date": "2026-03-14",
-    "match_time": "08:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "SanFranciscoGiants-CincinnatiReds",
-    "league": "Baseball",
-    "team1": {
-      "name": "San Francisco Giants",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
-    },
-    "team2": {
-      "name": "Cincinnati Reds",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
-    },
-    "kickoff_date": "2026-03-14",
-    "kickoff_time": "08:05",
-    "match_date": "2026-03-14",
-    "match_time": "08:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDI5LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ArizonaDiamondbacks-KansasCityRoyals",
-    "league": "Baseball",
-    "team1": {
-      "name": "Arizona Diamondbacks",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
-    },
-    "team2": {
-      "name": "Kansas City Royals",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
-    },
-    "kickoff_date": "2026-03-14",
-    "kickoff_time": "08:05",
-    "match_date": "2026-03-14",
-    "match_time": "08:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMwLnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcyLnBocA==",
         "label": "CH-EN"
       }
     ]
