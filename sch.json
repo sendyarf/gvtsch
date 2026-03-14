@@ -9116,6 +9116,75 @@
     ]
   },
   {
+    "id": "ColoColo-Huachipato",
+    "league": "Chile - Liga de Primera",
+    "team1": {
+      "name": "Colo Colo",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Huachipato",
+      "logo": ""
+    },
+    "kickoff_date": "2026-03-17",
+    "kickoff_time": "06:30",
+    "match_date": "2026-03-17",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=83",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "BostonCeltics-PhoenixSuns",
+    "league": "USA - NBA",
+    "team1": {
+      "name": "Boston Celtics",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Phoenix Suns",
+      "logo": ""
+    },
+    "kickoff_date": "2026-03-17",
+    "kickoff_time": "06:30",
+    "match_date": "2026-03-17",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=186",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "BrooklynNets-PortlandTrailBlazers",
+    "league": "USA - NBA",
+    "team1": {
+      "name": "Brooklyn Nets",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Portland Trail Blazers",
+      "logo": ""
+    },
+    "kickoff_date": "2026-03-17",
+    "kickoff_time": "06:30",
+    "match_date": "2026-03-17",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?envivo=187",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
     "id": "NewYorkYankees-BaltimoreOrioles",
     "league": "Baseball",
     "team1": {
