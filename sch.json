@@ -1175,10 +1175,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
-        "label": "CH-EN"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=hd1",
         "label": "CH-1"
       },
@@ -1651,10 +1647,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
-        "label": "CH-EN"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=hd4",
         "label": "CH-1"
       }
@@ -1972,10 +1964,6 @@
     "match_time": "02:45",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
       {
         "url": "https://multi.govoet.cc/?ss=hd7",
         "label": "CH-1"
@@ -2325,10 +2313,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=hd2",
         "label": "CH-1"
       },
@@ -2632,784 +2616,6 @@
     "match_time": "20:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Coquimbo-UDeChile",
-    "league": "Chile - Liga de Primera",
-    "team1": {
-      "name": "Coquimbo",
-      "logo": "https://static.flashscore.com/res/image/data/4rIyOG5k-hMng3olL.png"
-    },
-    "team2": {
-      "name": "U. De Chile",
-      "logo": "https://static.flashscore.com/res/image/data/AwRGCvU0-fuSaShZI.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "04:00",
-    "match_date": "2026-03-15",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Cucuta-DepCali",
-    "league": "Colombia: Primera A",
-    "team1": {
-      "name": "Cucuta",
-      "logo": "https://static.flashscore.com/res/image/data/CIXgiT86-hCmseTFa.png"
-    },
-    "team2": {
-      "name": "Dep. Cali",
-      "logo": "https://static.flashscore.com/res/image/data/pCVI6bU0-IHPA1GDt.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "04:10",
-    "match_date": "2026-03-15",
-    "match_time": "04:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=81",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Delfin-Manta",
-    "league": "Ecuador - Liga Pro",
-    "team1": {
-      "name": "Delfin",
-      "logo": "https://static.flashscore.com/res/image/data/0UceOYQq-AZbnrnmj.png"
-    },
-    "team2": {
-      "name": "Manta",
-      "logo": "https://static.flashscore.com/res/image/data/riqDyZBN-YqMYOJSQ.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "04:30",
-    "match_date": "2026-03-15",
-    "match_time": "04:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=86",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Vitoria-AtleticoMG",
-    "league": "Brazil - Serie A Betano",
-    "team1": {
-      "name": "Vitoria",
-      "logo": "https://static.flashscore.com/res/image/data/dhfeJlkC-QwRlGht5.png"
-    },
-    "team2": {
-      "name": "Atletico-MG",
-      "logo": "https://static.flashscore.com/res/image/data/h8ZzOL5k-UHhQ6Y1N.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "04:30",
-    "match_date": "2026-03-15",
-    "match_time": "04:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=117",
-        "label": "CH-PT"
-      }
-    ]
-  },
-  {
-    "id": "Berkane-AlHilalOmdurman",
-    "league": "Caf Ligue Des Champions",
-    "team1": {
-      "name": "Berkane",
-      "logo": "https://static.flashscore.com/res/image/data/0zS1aRRq-xExOnmQQ.png"
-    },
-    "team2": {
-      "name": "Al-Hilal Omdurman",
-      "logo": "https://static.flashscore.com/res/image/data/UgGILwne-CzVCsJdI.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "05:00",
-    "match_date": "2026-03-15",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=69",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "BostonCeltics-WashingtonWizards",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Boston Celtics",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
-    },
-    "team2": {
-      "name": "Washington Wizards",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "05:00",
-    "match_date": "2026-03-15",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=156",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=186",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY4LnBocA==",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "MinnesotaWild-NewYorkRangers",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Minnesota Wild",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png"
-    },
-    "team2": {
-      "name": "New York Rangers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "05:00",
-    "match_date": "2026-03-15",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=187",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUzLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Platense-VelezSarsfield",
-    "league": "Argentina - Primera LPF",
-    "team1": {
-      "name": "Platense",
-      "logo": "https://static.flashscore.com/res/image/data/pl4O86U0-pAQm6KvU.png"
-    },
-    "team2": {
-      "name": "Velez Sarsfield",
-      "logo": "https://static.flashscore.com/res/image/data/SzosWlSq-YF2zL4v9.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "05:00",
-    "match_date": "2026-03-15",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=76",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd9",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "ColumbusCrew-NashvilleSC",
-    "league": "USA - MLS",
-    "team1": {
-      "name": "Columbus Crew",
-      "logo": "https://static.flashscore.com/res/image/data/UiThDkme-EgOLyoyn.png"
-    },
-    "team2": {
-      "name": "Nashville SC",
-      "logo": "https://static.flashscore.com/res/image/data/viMd0CQq-6JqXhTSA.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "05:15",
-    "match_date": "2026-03-15",
-    "match_time": "05:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=70",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=163",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "CAlcaraz-DMedvedev",
-    "league": "Masters Indian Wells",
-    "team1": {
-      "name": "C. Alcaraz",
-      "logo": ""
-    },
-    "team2": {
-      "name": "D. Medvedev",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "05:30",
-    "match_date": "2026-03-15",
-    "match_time": "05:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=15",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=63",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "DeportivoGarcilaso-AlianzaLima",
-    "league": "Peru - Liga 1",
-    "team1": {
-      "name": "Deportivo Garcilaso",
-      "logo": "https://static.flashscore.com/res/image/data/O6CaeXT0-rV5EZZh1.png"
-    },
-    "team2": {
-      "name": "Alianza Lima",
-      "logo": "https://static.flashscore.com/res/image/data/6yTs5bjT-tE1csI3A.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-15",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "AtlSanLuis-Pachuca",
-    "league": "Mexico - Liga MX",
-    "team1": {
-      "name": "Atl. San Luis",
-      "logo": "https://static.flashscore.com/res/image/data/YD3Bg1Qq-dG08RUsN.png"
-    },
-    "team2": {
-      "name": "Pachuca",
-      "logo": "https://static.flashscore.com/res/image/data/UcvERb5k-zFZbB1JF.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-15",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=97",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "BuffaloSabres-TorontoMapleLeafs",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Buffalo Sabres",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png"
-    },
-    "team2": {
-      "name": "Toronto Maple Leafs",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-15",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=188",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU0LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "MontrealCanadiens-SanJoseSharks",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Montreal Canadiens",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png"
-    },
-    "team2": {
-      "name": "San Jose Sharks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sj.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-15",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=189",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU1LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NewJerseyDevils-LosAngelesKings",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "New Jersey Devils",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nj.png"
-    },
-    "team2": {
-      "name": "Los Angeles Kings",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-15",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=190",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU3LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NewYorkIslanders-CalgaryFlames",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "New York Islanders",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyi.png"
-    },
-    "team2": {
-      "name": "Calgary Flames",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-15",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=191",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU4LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "TampaBayLightning-CarolinaHurricanes",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Tampa Bay Lightning",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png"
-    },
-    "team2": {
-      "name": "Carolina Hurricanes",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-15",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=192",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU2LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "GuadalajaraChivas-SantosLaguna",
-    "league": "Mexico - Liga MX",
-    "team1": {
-      "name": "Guadalajara Chivas",
-      "logo": "https://static.flashscore.com/res/image/data/4fFLAKlC-lEs0thDm.png"
-    },
-    "team2": {
-      "name": "Santos Laguna",
-      "logo": "https://static.flashscore.com/res/image/data/bZZNKGWH-bmPslben.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:07",
-    "match_date": "2026-03-15",
-    "match_time": "06:07",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=73",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Chico-Millonarios",
-    "league": "Colombia: Primera A",
-    "team1": {
-      "name": "Chico",
-      "logo": "https://static.flashscore.com/res/image/data/Cj1rt4me-faYW5YDs.png"
-    },
-    "team2": {
-      "name": "Millonarios",
-      "logo": "https://static.flashscore.com/res/image/data/I7bqaK6k-6kduDy6P.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:20",
-    "match_date": "2026-03-15",
-    "match_time": "06:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=81",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "UCatolica-Everton",
-    "league": "Chile - Liga de Primera",
-    "team1": {
-      "name": "U. Catolica",
-      "logo": "https://static.flashscore.com/res/image/data/WUZXi2le-nRWWeW7h.png"
-    },
-    "team2": {
-      "name": "Everton",
-      "logo": "https://static.flashscore.com/res/image/data/CK0zQ5A6-futBA1p8.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:30",
-    "match_date": "2026-03-15",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Albion-Penarol",
-    "league": "Liga Auf Uruguaya",
-    "team1": {
-      "name": "Albion",
-      "logo": "https://static.flashscore.com/res/image/data/QNvshi5k-xAzQVWsQ.png"
-    },
-    "team2": {
-      "name": "Penarol",
-      "logo": "https://static.flashscore.com/res/image/data/QysI8jT0-nqhLBCKD.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:30",
-    "match_date": "2026-03-15",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=109",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Charlotte-InterMiami",
-    "league": "USA - MLS",
-    "team1": {
-      "name": "Charlotte",
-      "logo": "https://static.flashscore.com/res/image/data/rwIBORWH-bePDAcBO.png"
-    },
-    "team2": {
-      "name": "Inter Miami",
-      "logo": "https://static.flashscore.com/res/image/data/z94JGZTH-UwKTVGeG.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:30",
-    "match_date": "2026-03-15",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=160",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=164",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "NewYorkCity-ColoradoRapids",
-    "league": "USA - MLS",
-    "team1": {
-      "name": "New York City",
-      "logo": "https://static.flashscore.com/res/image/data/0GgDTRle-GxTXAzv3.png"
-    },
-    "team2": {
-      "name": "Colorado Rapids",
-      "logo": "https://static.flashscore.com/res/image/data/MwKFeQ86-fyzFgPy8.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:30",
-    "match_date": "2026-03-15",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=165",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "OrlandoCity-CFMontreal",
-    "league": "USA - MLS",
-    "team1": {
-      "name": "Orlando City",
-      "logo": "https://static.flashscore.com/res/image/data/hQpmY0Qq-AFpqya1j.png"
-    },
-    "team2": {
-      "name": "CF Montreal",
-      "logo": "https://static.flashscore.com/res/image/data/CEqcFQlC-APghxIAJ.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:30",
-    "match_date": "2026-03-15",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=166",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "PhiladelphiaFlyers-ColumbusBlueJackets",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Philadelphia Flyers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png"
-    },
-    "team2": {
-      "name": "Columbus Blue Jackets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:30",
-    "match_date": "2026-03-15",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=193",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU5LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "BotafogoRJ-FlamengoRJ",
-    "league": "Brazil - Serie A Betano",
-    "team1": {
-      "name": "Botafogo RJ",
-      "logo": "https://static.flashscore.com/res/image/data/YyEcuJVH-rJBthgZj.png"
-    },
-    "team2": {
-      "name": "Flamengo RJ",
-      "logo": "https://static.flashscore.com/res/image/data/8URbBane-2R2JjDQC.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "06:30",
-    "match_date": "2026-03-15",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=55",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=125",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=146",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br1",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "LDUQuito-UCatolica",
-    "league": "Ecuador - Liga Pro",
-    "team1": {
-      "name": "LDU Quito",
-      "logo": ""
-    },
-    "team2": {
-      "name": "U. Catolica",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "07:00",
-    "match_date": "2026-03-15",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=86",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "MiamiHeat-OrlandoMagic",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Miami Heat",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png"
-    },
-    "team2": {
-      "name": "Orlando Magic",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "07:00",
-    "match_date": "2026-03-15",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=194",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY5LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "DallasStars-DetroitRedWings",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Dallas Stars",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png"
-    },
-    "team2": {
-      "name": "Detroit Red Wings",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "07:00",
-    "match_date": "2026-03-15",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=195",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "RosarioCentral-Banfield",
-    "league": "Argentina - Primera LPF",
-    "team1": {
-      "name": "Rosario Central",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Banfield",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "07:00",
-    "match_date": "2026-03-15",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=75",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd9",
-        "label": "CH-1"
-      }
-    ]
   },
   {
     "id": "ChicagoFire-DCUnited",
@@ -7134,6 +6340,190 @@
     ]
   },
   {
+    "id": "OrlandoMagic-MiamiHeat",
+    "league": "Basketball",
+    "team1": {
+      "name": "Orlando Magic",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png"
+    },
+    "team2": {
+      "name": "Miami Heat",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png"
+    },
+    "kickoff_date": "2026-03-15",
+    "kickoff_time": "07:00",
+    "match_date": "2026-03-15",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY5LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "DetroitRedWings-DallasStars",
+    "league": "Hockey",
+    "team1": {
+      "name": "Detroit Red Wings",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png"
+    },
+    "team2": {
+      "name": "Dallas Stars",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png"
+    },
+    "kickoff_date": "2026-03-15",
+    "kickoff_time": "07:00",
+    "match_date": "2026-03-15",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYwLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "ColumbusBlueJackets-PhiladelphiaFlyers",
+    "league": "Hockey",
+    "team1": {
+      "name": "Columbus Blue Jackets",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png"
+    },
+    "team2": {
+      "name": "Philadelphia Flyers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png"
+    },
+    "kickoff_date": "2026-03-15",
+    "kickoff_time": "06:30",
+    "match_date": "2026-03-15",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU5LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "TorontoMapleLeafs-BuffaloSabres",
+    "league": "Hockey",
+    "team1": {
+      "name": "Toronto Maple Leafs",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png"
+    },
+    "team2": {
+      "name": "Buffalo Sabres",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png"
+    },
+    "kickoff_date": "2026-03-15",
+    "kickoff_time": "06:00",
+    "match_date": "2026-03-15",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU0LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "SanJoseSharks-MontrealCanadiens",
+    "league": "Hockey",
+    "team1": {
+      "name": "San Jose Sharks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sj.png"
+    },
+    "team2": {
+      "name": "Montreal Canadiens",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png"
+    },
+    "kickoff_date": "2026-03-15",
+    "kickoff_time": "06:00",
+    "match_date": "2026-03-15",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU1LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "CarolinaHurricanes-TampaBayLightning",
+    "league": "Hockey",
+    "team1": {
+      "name": "Carolina Hurricanes",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png"
+    },
+    "team2": {
+      "name": "Tampa Bay Lightning",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png"
+    },
+    "kickoff_date": "2026-03-15",
+    "kickoff_time": "06:00",
+    "match_date": "2026-03-15",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU2LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "LosAngelesKings-NewJerseyDevils",
+    "league": "Hockey",
+    "team1": {
+      "name": "Los Angeles Kings",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png"
+    },
+    "team2": {
+      "name": "New Jersey Devils",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nj.png"
+    },
+    "kickoff_date": "2026-03-15",
+    "kickoff_time": "06:00",
+    "match_date": "2026-03-15",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU3LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "CalgaryFlames-NewYorkIslanders",
+    "league": "Hockey",
+    "team1": {
+      "name": "Calgary Flames",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png"
+    },
+    "team2": {
+      "name": "New York Islanders",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyi.png"
+    },
+    "kickoff_date": "2026-03-15",
+    "kickoff_time": "06:00",
+    "match_date": "2026-03-15",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU4LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
     "id": "BostonRedSox-AtlantaBraves",
     "league": "Baseball",
     "team1": {
@@ -7180,6 +6570,56 @@
     ]
   },
   {
+    "id": "NewYorkRangers-MinnesotaWild",
+    "league": "Hockey",
+    "team1": {
+      "name": "New York Rangers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png"
+    },
+    "team2": {
+      "name": "Minnesota Wild",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png"
+    },
+    "kickoff_date": "2026-03-15",
+    "kickoff_time": "05:00",
+    "match_date": "2026-03-15",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUzLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "WashingtonWizards-BostonCeltics",
+    "league": "Basketball",
+    "team1": {
+      "name": "Washington Wizards",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png"
+    },
+    "team2": {
+      "name": "Boston Celtics",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
+    },
+    "kickoff_date": "2026-03-15",
+    "kickoff_time": "05:00",
+    "match_date": "2026-03-15",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY4LnBocA==",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv2",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
     "id": "UFCFightNightEmmett-Vallejos",
     "league": "Fight Mma",
     "team1": {
@@ -7198,259 +6638,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQ4LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ChicagoCubs-ColoradoRockies",
-    "league": "Baseball",
-    "team1": {
-      "name": "Chicago Cubs",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
-    },
-    "team2": {
-      "name": "Colorado Rockies",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "03:10",
-    "match_date": "2026-03-15",
-    "match_time": "03:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDI2LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "SeattleMariners-LosAngelesAngels",
-    "league": "Baseball",
-    "team1": {
-      "name": "Seattle Mariners",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
-    },
-    "team2": {
-      "name": "Los Angeles Angels",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "03:10",
-    "match_date": "2026-03-15",
-    "match_time": "03:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDI3LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ColoradoRockies-MilwaukeeBrewers",
-    "league": "Baseball",
-    "team1": {
-      "name": "Colorado Rockies",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"
-    },
-    "team2": {
-      "name": "Milwaukee Brewers",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "03:10",
-    "match_date": "2026-03-15",
-    "match_time": "03:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDI4LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ClevelandGuardians-SanDiegoPadres",
-    "league": "Baseball",
-    "team1": {
-      "name": "Cleveland Guardians",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png"
-    },
-    "team2": {
-      "name": "San Diego Padres",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "03:10",
-    "match_date": "2026-03-15",
-    "match_time": "03:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDI5LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "KansasCityRoyals-Athletics",
-    "league": "Baseball",
-    "team1": {
-      "name": "Kansas City Royals",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
-    },
-    "team2": {
-      "name": "Athletics",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "03:05",
-    "match_date": "2026-03-15",
-    "match_time": "03:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "LosAngelesDodgers-ChicagoWhiteSox",
-    "league": "Baseball",
-    "team1": {
-      "name": "Los Angeles Dodgers",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
-    },
-    "team2": {
-      "name": "Chicago White Sox",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "03:05",
-    "match_date": "2026-03-15",
-    "match_time": "03:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIyLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "TexasRangers-CincinnatiReds",
-    "league": "Baseball",
-    "team1": {
-      "name": "Texas Rangers",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
-    },
-    "team2": {
-      "name": "Cincinnati Reds",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "03:05",
-    "match_date": "2026-03-15",
-    "match_time": "03:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIzLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ArizonaDiamondbacks-SanFranciscoGiants",
-    "league": "Baseball",
-    "team1": {
-      "name": "Arizona Diamondbacks",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
-    },
-    "team2": {
-      "name": "San Francisco Giants",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "03:05",
-    "match_date": "2026-03-15",
-    "match_time": "03:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDI0LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "SanDiegoPadres-TexasRangers",
-    "league": "Baseball",
-    "team1": {
-      "name": "San Diego Padres",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
-    },
-    "team2": {
-      "name": "Texas Rangers",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "03:05",
-    "match_date": "2026-03-15",
-    "match_time": "03:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDI1LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ColoradoAvalanche-WinnipegJets",
-    "league": "Hockey",
-    "team1": {
-      "name": "Colorado Avalanche",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png"
-    },
-    "team2": {
-      "name": "Winnipeg Jets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wpg.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "03:00",
-    "match_date": "2026-03-15",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUyLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "CharlotteHornets-SanAntonioSpurs",
-    "league": "Basketball",
-    "team1": {
-      "name": "Charlotte Hornets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png"
-    },
-    "team2": {
-      "name": "San Antonio Spurs",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "02:30",
-    "match_date": "2026-03-15",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
         "label": "CH-EN"
       }
     ]
