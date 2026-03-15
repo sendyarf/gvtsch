@@ -2521,114 +2521,6 @@
     "servers": []
   },
   {
-    "id": "LosAngelesFC-StLouisCity",
-    "league": "USA - MLS",
-    "team1": {
-      "name": "Los Angeles FC",
-      "logo": ""
-    },
-    "team2": {
-      "name": "St. Louis City",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "09:30",
-    "match_date": "2026-03-15",
-    "match_time": "09:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=172",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "LosAngelesClippers-SacramentoKings",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Los Angeles Clippers",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Sacramento Kings",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "09:30",
-    "match_date": "2026-03-15",
-    "match_time": "09:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=200",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "DoradosdeSinaloa-LeonesNegros",
-    "league": "Liga De Expansion Mx",
-    "team1": {
-      "name": "Dorados de Sinaloa",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Leones Negros",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "10:00",
-    "match_date": "2026-03-15",
-    "match_time": "10:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=100",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=74",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "UNAMPumas-CruzAzul",
-    "league": "Mexico - Liga MX",
-    "team1": {
-      "name": "UNAM Pumas",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Cruz Azul",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-15",
-    "kickoff_time": "10:10",
-    "match_date": "2026-03-15",
-    "match_time": "10:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=68",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=106",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=107",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "Formule1GPdeChine",
     "league": "Formula 1",
     "team1": {
@@ -2664,11 +2556,11 @@
     "league": "Liga Endesa",
     "team1": {
       "name": "Basquet Girona",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/b1j2quSq-j9n48rs9.png"
     },
     "team2": {
       "name": "MoraBanc Andorra",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/ARDU0YmC-U1p4QlUe.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "18:00",
@@ -2687,11 +2579,11 @@
     "league": "Liga Endesa",
     "team1": {
       "name": "San Pablo Burgos",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/fm0ltqU0-YebVHhbt.png"
     },
     "team2": {
       "name": "Baskonia",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/xGQhkdAN-hhuZJcqF.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "18:30",
@@ -2710,11 +2602,11 @@
     "league": "Scotland - Premiership",
     "team1": {
       "name": "St. Mirren",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/KbDNdAU0-tOCheaQB.png"
     },
     "team2": {
       "name": "Rangers",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/fHwbE7oe-fFCBVa82.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "19:00",
@@ -2776,11 +2668,11 @@
     "league": "Bundesliga 2",
     "team1": {
       "name": "Kaiserslautern",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/O4FpbtT0-xW7EDdNP.png"
     },
     "team2": {
       "name": "Karlsruher SC",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/rahX5g7k-Qmnf8wEL.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "19:30",
@@ -2799,11 +2691,11 @@
     "league": "Bundesliga 2",
     "team1": {
       "name": "SG Dynamo Dresden",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/MZhxRG76-YZbcHL5C.png"
     },
     "team2": {
       "name": "Preussen Munster",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/CrTJM3Sq-l0tw4N82.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "19:30",
@@ -2822,11 +2714,11 @@
     "league": "Bundesliga 2",
     "team1": {
       "name": "Schalke",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/jy0u6bgT-I7p2Damb.png"
     },
     "team2": {
       "name": "Hannover",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/b9LkrIA6-n7lWn9DL.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "19:30",
@@ -2857,11 +2749,11 @@
     "league": "Pro League",
     "team1": {
       "name": "Genk",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/pxtsZIR0-YB0frRRP.png"
     },
     "team2": {
       "name": "St. Truiden",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/bi6P6vkC-OCiVKiPK.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "19:30",
@@ -2880,11 +2772,11 @@
     "league": "Spain - LaLiga 2",
     "team1": {
       "name": "Cordoba",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/fTto7LkC-4YF9PAyB.png"
     },
     "team2": {
       "name": "Real Sociedad B",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/MwK5O35k-U144u08h.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "20:00",
@@ -2903,11 +2795,11 @@
     "league": "Liga Auf Uruguaya",
     "team1": {
       "name": "Central Esp.",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/nXv2gXPq-txbJkCjs.png"
     },
     "team2": {
       "name": "Cerro Largo",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/M3yQoPkC-2c38J1pB.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "20:00",
@@ -2926,11 +2818,11 @@
     "league": "Super Lig",
     "team1": {
       "name": "Kasimpasa",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/QFcwe9oe-Mm1T8IIN.png"
     },
     "team2": {
       "name": "Eyupspor",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/tf3flE86-UgM2rvwC.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "20:00",
@@ -2949,11 +2841,11 @@
     "league": "Greece - Super League",
     "team1": {
       "name": "Kifisia",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/bmuR4OkC-CCj2lJ5q.png"
     },
     "team2": {
       "name": "Volos",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/fTZ6y0BN-0OmT6UWt.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "21:00",
@@ -2999,11 +2891,11 @@
     "league": "Chile - Liga de Primera",
     "team1": {
       "name": "U. De Concepcion",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/SEJkKf6k-Eq74Jcjl.png"
     },
     "team2": {
       "name": "Palestino",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/WKcicC96-Mofbp184.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "22:00",
@@ -3022,11 +2914,11 @@
     "league": "Pro League",
     "team1": {
       "name": "Antwerp",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/IDBrkYTH-vuxu3x67.png"
     },
     "team2": {
       "name": "St. Liege",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/zBWoLXjT-tjZYJCwg.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "22:00",
@@ -3045,11 +2937,11 @@
     "league": "Spain - LaLiga 2",
     "team1": {
       "name": "Granada CF",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/QmKG7dT0-pEzOUfJL.png"
     },
     "team2": {
       "name": "Andorra",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/SMiBGH8k-p6WBruc4.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "22:15",
@@ -3068,11 +2960,11 @@
     "league": "Liga Portugal",
     "team1": {
       "name": "AFS",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/nV4DFA7k-0STJGQ2k.png"
     },
     "team2": {
       "name": "Santa Clara",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/nN0lc3gT-MFVHqOh7.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "22:30",
@@ -3091,11 +2983,11 @@
     "league": "Liga Portugal",
     "team1": {
       "name": "Nacional",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/A7esGM6k-pUpRIC96.png"
     },
     "team2": {
       "name": "Estoril",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/W6lzPAoe-8GL0cHSF.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "22:30",
@@ -3118,11 +3010,11 @@
     "league": "Greece - Super League",
     "team1": {
       "name": "PAOK",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/StctWES0-pvWT1yik.png"
     },
     "team2": {
       "name": "Levadiakos",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/lAour7kC-p49RQDgb.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "23:00",
@@ -3145,11 +3037,11 @@
     "league": "Peru - Liga 1",
     "team1": {
       "name": "Sporting Cristal",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/xMxIWf86-Em9Gxj8O.png"
     },
     "team2": {
       "name": "Sport Boys",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/44OntTne-fFhdpXur.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "23:00",
@@ -3168,11 +3060,11 @@
     "league": "Liga Endesa",
     "team1": {
       "name": "Real Madrid",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/2edKw8Pq-bXlcmj9T.png"
     },
     "team2": {
       "name": "Forca Lleida",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/r5OjhelC-zRykV8ZA.png"
     },
     "kickoff_date": "2026-03-15",
     "kickoff_time": "23:00",
@@ -3214,11 +3106,11 @@
     "league": "Liga Mx Women",
     "team1": {
       "name": "Guadalajara Chivas W",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/pI62S586-jJ3ijTtC.png"
     },
     "team2": {
       "name": "Pachuca W",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/8YnG2eQq-K2yCsQaB.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "00:00",
@@ -3268,11 +3160,11 @@
     "league": "Super Lig",
     "team1": {
       "name": "Genclerbirligi",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/MyPx2g86-jwnC0KLI.png"
     },
     "team2": {
       "name": "Besiktas",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/vPefzDlC-UcWWlFia.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "00:00",
@@ -3299,11 +3191,11 @@
     "league": "Super Lig",
     "team1": {
       "name": "Samsunspor",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/65PgANkC-StKLPBm2.png"
     },
     "team2": {
       "name": "Kayserispor",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/UVNRzET0-Y99esCPN.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "00:00",
@@ -3322,11 +3214,11 @@
     "league": "Greece - Super League",
     "team1": {
       "name": "Atromitos",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/08K1YJle-2ahZzWpF.png"
     },
     "team2": {
       "name": "AEK Athens",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/ph8YRKne-6iRkbdOB.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "00:30",
@@ -3345,11 +3237,11 @@
     "league": "Spain - LaLiga 2",
     "team1": {
       "name": "Eibar",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/drsSo7UH-4U3vjZKk.png"
     },
     "team2": {
       "name": "Burgos CF",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/8G2Evj86-0ME49KyM.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "00:30",
@@ -3368,11 +3260,11 @@
     "league": "Spain - LaLiga 2",
     "team1": {
       "name": "Malaga",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/4jmiYe8k-MTxwaw7C.png"
     },
     "team2": {
       "name": "Huesca",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/pMpCvJkC-EkA5g8Rs.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "00:30",
@@ -3391,11 +3283,11 @@
     "league": "Liga Endesa",
     "team1": {
       "name": "Granada",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/rXE2jtBN-CIm09OR2.png"
     },
     "team2": {
       "name": "Manresa",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/MJ0LRoXH-dpGSYHGi.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "00:30",
@@ -3414,11 +3306,11 @@
     "league": "Pro League",
     "team1": {
       "name": "KV Mechelen",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/vPvl3wS0-zVJMgvaS.png"
     },
     "team2": {
       "name": "Anderlecht",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/WSwUoTWH-YVlGNJGc.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "00:30",
@@ -3437,11 +3329,11 @@
     "league": "Ecuador - Liga Pro",
     "team1": {
       "name": "Mushuc Runa",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/bRdi82jT-CI3jiS2E.png"
     },
     "team2": {
       "name": "Macara",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/b1brVQjT-0C12xtlP.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "01:00",
@@ -3460,11 +3352,11 @@
     "league": "Liga Endesa",
     "team1": {
       "name": "Joventut Badalona",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/GfheZine-4QFp2rHo.png"
     },
     "team2": {
       "name": "Barcelona",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/4E1IJGS0-AZCWGI9F.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "01:00",
@@ -3483,11 +3375,11 @@
     "league": "Liga Portugal",
     "team1": {
       "name": "Rio Ave",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/06rYX486-pjxqSmk4.png"
     },
     "team2": {
       "name": "Estrela",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/MDdmzPjC-OtN6V8lD.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "01:00",
@@ -3510,11 +3402,11 @@
     "league": "Peru - Liga 1",
     "team1": {
       "name": "FBC Melgar",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/nsatlDU0-dl2Dbcr1.png"
     },
     "team2": {
       "name": "Grau",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/tbidOcjT-IaKc0OzC.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "01:15",
@@ -3533,11 +3425,11 @@
     "league": "Pro League",
     "team1": {
       "name": "Cercle Brugge KSV",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/QPuMVUPq-CS6nbsqF.png"
     },
     "team2": {
       "name": "RAAL La Louviere",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/YoXc17iT-2LLiS83t.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "01:15",
@@ -3556,11 +3448,11 @@
     "league": "Argentina - Primera LPF",
     "team1": {
       "name": "Gimnasia L.P.",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/8UYpvw86-OSVEHifC.png"
     },
     "team2": {
       "name": "Ind. Rivadavia",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/EqRag6Qq-dMZHs4g0.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "01:15",
@@ -3579,11 +3471,11 @@
     "league": "USA - MLS",
     "team1": {
       "name": "New England Revolution",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/dUopT5UH-KI53uaQC.png"
     },
     "team2": {
       "name": "FC Cincinnati",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/vwHVLET0-hfMSf4LN.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "01:30",
@@ -3602,11 +3494,11 @@
     "league": "Greece - Super League",
     "team1": {
       "name": "Panathinaikos",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/jTnDg1CN-GM4Cu0wi.png"
     },
     "team2": {
       "name": "Panetolikos",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/tITXQckC-pOwxStgq.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "02:00",
@@ -3664,11 +3556,11 @@
     "league": "Brazil - Serie A Betano",
     "team1": {
       "name": "Fluminense",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/SII56zA6-WUfDDYk1.png"
     },
     "team2": {
       "name": "Athletico-PR",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/INluPVA6-QaMaOfUh.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "02:00",
@@ -3691,11 +3583,11 @@
     "league": "Brazil - Serie A Betano",
     "team1": {
       "name": "Internacional",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/p2TzSgBN-ALgHCh57.png"
     },
     "team2": {
       "name": "Bahia",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/IL73beA6-dKUmd286.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "02:00",
@@ -3718,11 +3610,11 @@
     "league": "Liga Mx Women",
     "team1": {
       "name": "Puebla W",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/E960djT0-CzastIwb.png"
     },
     "team2": {
       "name": "Juarez W",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/Uc4dM7ne-YyW8DNGd.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "02:10",
@@ -3830,11 +3722,11 @@
     "league": "Spain - LaLiga 2",
     "team1": {
       "name": "Gijon",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/ziVpaDjC-IDZgZhUt.png"
     },
     "team2": {
       "name": "Castellon",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/AowBBF6k-zBFXR8iF.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "03:00",
@@ -3857,11 +3749,11 @@
     "league": "Liga Auf Uruguaya",
     "team1": {
       "name": "Maldonado",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/Svo9ipA6-xvp8ggnJ.png"
     },
     "team2": {
       "name": "Defensor Sp.",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/jJgLCylC-vZdejfYC.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "03:00",
@@ -3880,11 +3772,11 @@
     "league": "Ecuador - Liga Pro",
     "team1": {
       "name": "Emelec",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/2HLNNQWH-ru7B2xn1.png"
     },
     "team2": {
       "name": "Orense",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/rHCAt0ne-4zwgEgF1.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "03:30",
@@ -3903,11 +3795,11 @@
     "league": "Peru - Liga 1",
     "team1": {
       "name": "Alianza Atl.",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/x22fu5ne-z942qmGf.png"
     },
     "team2": {
       "name": "Moquegua",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/vyjY5qRq-zXduG1dl.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "03:30",
@@ -3926,11 +3818,11 @@
     "league": "Colombia: Primera A",
     "team1": {
       "name": "Pereira",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/vTF4Iv6k-rysGeGXN.png"
     },
     "team2": {
       "name": "Aguilas",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/zNqhWFQq-2eGA9cib.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "03:30",
@@ -3949,11 +3841,11 @@
     "league": "Liga Portugal",
     "team1": {
       "name": "FC Porto",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/A5i3omUH-Kth3Rz1C.png"
     },
     "team2": {
       "name": "Moreirense",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/4rouTHVH-xjC3FA5b.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "03:30",
@@ -3984,11 +3876,11 @@
     "league": "USA - MLS",
     "team1": {
       "name": "Vancouver Whitecaps",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/KbDi358k-nJrkMuTE.png"
     },
     "team2": {
       "name": "Minnesota United",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/zP5RaY76-Y5BuxdGt.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "03:30",
@@ -4007,11 +3899,11 @@
     "league": "Argentina - Primera LPF",
     "team1": {
       "name": "Belgrano",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/htqgPrT0-jXvNrLYt.png"
     },
     "team2": {
       "name": "Talleres Cordoba",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/SrL2ZPUH-hUOWZpWa.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "03:30",
@@ -4034,11 +3926,11 @@
     "league": "Caf Ligue Des Champions",
     "team1": {
       "name": "Esperance Tunis",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/MwJ5a4AN-QwBpoY8M.png"
     },
     "team2": {
       "name": "Al Ahly",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/jPMoEDoe-CWnyifXm.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "04:00",
@@ -4061,11 +3953,11 @@
     "league": "Chile - Liga de Primera",
     "team1": {
       "name": "Cobresal",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/dWv840lC-p8NClxtb.png"
     },
     "team2": {
       "name": "Limache",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/Gf0ZHyB6-EawjMZXB.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "04:00",
@@ -4111,11 +4003,11 @@
     "league": "Colombia: Primera A",
     "team1": {
       "name": "America De Cali",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/OCsMaKUH-hSZHTo4B.png"
     },
     "team2": {
       "name": "Deportes Tolima",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/Ecz8EXVH-bXlV9lJE.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "04:10",
@@ -4134,11 +4026,11 @@
     "league": "Brazil - Serie A Betano",
     "team1": {
       "name": "Coritiba",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/zZF6CogT-bwYqIWsq.png"
     },
     "team2": {
       "name": "Remo",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/GEFVWo96-vsDPUWUH.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "04:30",
@@ -4161,11 +4053,11 @@
     "league": "Brazil - Serie A Betano",
     "team1": {
       "name": "Palmeiras",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/6yCLyXU0-ALgHCh57.png"
     },
     "team2": {
       "name": "Mirassol",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/d632vpUH-fVnYQB8j.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "04:30",
@@ -4188,11 +4080,11 @@
     "league": "Caf Coupes Des Confederations",
     "team1": {
       "name": "Olympique de Safi",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/U31EG1Qq-AVtM8kuO.png"
     },
     "team2": {
       "name": "Wydad AC",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/Y7MV6X5k-GSoKqW7o.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "05:00",
@@ -4238,11 +4130,11 @@
     "league": "Argentina - Primera LPF",
     "team1": {
       "name": "River Plate",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/pAiUJ8hT-nqhLBCKD.png"
     },
     "team2": {
       "name": "Sarmiento Junin",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/0jUeTMhT-jFNZQuRn.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "05:45",
@@ -4273,11 +4165,11 @@
     "league": "Peru - Liga 1",
     "team1": {
       "name": "Cusco",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/QB6SLoiT-06OeOzI0.png"
     },
     "team2": {
       "name": "Cienciano",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/jwrU07kC-Mu345fFj.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "06:00",
@@ -4296,11 +4188,11 @@
     "league": "Mexico - Liga MX",
     "team1": {
       "name": "Tigres UANL",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/OUbkbhQq-IJnFXA9L.png"
     },
     "team2": {
       "name": "Queretaro",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/n9R8QrCN-0rbG5js3.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "06:00",
@@ -4327,11 +4219,11 @@
     "league": "USA - MLS",
     "team1": {
       "name": "San Jose Earthquakes",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/4zKyyJBN-GpqxHjf5.png"
     },
     "team2": {
       "name": "Seattle Sounders",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/zZNaLM86-Q7Ql2Qbi.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "06:00",
@@ -4377,11 +4269,11 @@
     "league": "Ecuador - Liga Pro",
     "team1": {
       "name": "Guayaquil City",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/rBjgDd86-xtXtvCe4.png"
     },
     "team2": {
       "name": "Barcelona SC",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/4U7abDU0-WErjuywa.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "06:15",
@@ -4400,11 +4292,11 @@
     "league": "Colombia: Primera A",
     "team1": {
       "name": "Jaguares de Cordoba",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/l4lKktDN-K401txJG.png"
     },
     "team2": {
       "name": "Ind. Medellin",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/CxEu5jjC-plopiAtN.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "06:20",
@@ -4423,11 +4315,11 @@
     "league": "Chile - Liga de Primera",
     "team1": {
       "name": "Nublense",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/pMdHCz86-KM9757Oh.png"
     },
     "team2": {
       "name": "La Serena",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/ld8JGoQq-Mkzo6oBm.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "06:30",
@@ -4477,11 +4369,11 @@
     "league": "Brazil - Serie A Betano",
     "team1": {
       "name": "Bragantino",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/fXZwgsRq-UkMF8Udb.png"
     },
     "team2": {
       "name": "Sao Paulo",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/jBU0jVPq-AkTesf41.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "06:30",
@@ -4504,11 +4396,11 @@
     "league": "Brazil - Serie A Betano",
     "team1": {
       "name": "Cruzeiro",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/dzBBasiT-SjJmyx86.png"
     },
     "team2": {
       "name": "Vasco",
-      "logo": ""
+      "logo": "https://static.flashscore.com/res/image/data/Qw7CsWAN-bam8o1Nj.png"
     },
     "kickoff_date": "2026-03-16",
     "kickoff_time": "06:30",
@@ -5841,6 +5733,29 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQ5LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "SacramentoKings-LAClippers",
+    "league": "Basketball",
+    "team1": {
+      "name": "Sacramento Kings",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png"
+    },
+    "team2": {
+      "name": "LA Clippers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png"
+    },
+    "kickoff_date": "2026-03-15",
+    "kickoff_time": "09:30",
+    "match_date": "2026-03-15",
+    "match_time": "09:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcxLnBocA==",
         "label": "CH-EN"
       }
     ]
