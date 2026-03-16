@@ -1151,60 +1151,6 @@
     ]
   },
   {
-    "id": "Rennes-Lille",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Rennes",
-      "logo": "https://static.flashscore.com/res/image/data/pnrF2X76-Y5eozcI6.png"
-    },
-    "team2": {
-      "name": "Lille",
-      "logo": "https://static.flashscore.com/res/image/data/Q34pXImC-UDticXKP.png"
-    },
-    "kickoff_date": "2026-03-16",
-    "kickoff_time": "02:45",
-    "match_date": "2026-03-16",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Stuttgart-RBLeipzig",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "Stuttgart",
-      "logo": "https://static.flashscore.com/res/image/data/fgQWGn86-f1Z3XxZa.png"
-    },
-    "team2": {
-      "name": "RB Leipzig",
-      "logo": "https://static.flashscore.com/res/image/data/fNS5fTmC-WvvSE8Dm.png"
-    },
-    "kickoff_date": "2026-03-16",
-    "kickoff_time": "01:30",
-    "match_date": "2026-03-16",
-    "match_time": "01:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Lazio-ACMilan",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Lazio",
-      "logo": "https://static.flashscore.com/res/image/data/4CLpo27k-EaFfQ9z6.png"
-    },
-    "team2": {
-      "name": "AC Milan",
-      "logo": "https://static.flashscore.com/res/image/data/WOOHTbSq-KtCfnbWp.png"
-    },
-    "kickoff_date": "2026-03-16",
-    "kickoff_time": "02:45",
-    "match_date": "2026-03-16",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
     "id": "Cremonese-Fiorentina",
     "league": "Italy - Serie A",
     "team1": {
@@ -1254,42 +1200,6 @@
         "label": "CH-2"
       }
     ]
-  },
-  {
-    "id": "Betis-CeltaVigo",
-    "league": "Spain - LaLiga",
-    "team1": {
-      "name": "Betis",
-      "logo": "https://static.flashscore.com/res/image/data/YV7lpDU0-zkU5wiAr.png"
-    },
-    "team2": {
-      "name": "Celta Vigo",
-      "logo": "https://static.flashscore.com/res/image/data/INW8oRBN-SOY3p1Si.png"
-    },
-    "kickoff_date": "2026-03-16",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-16",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "RealSociedad-Osasuna",
-    "league": "Spain - LaLiga",
-    "team1": {
-      "name": "Real Sociedad",
-      "logo": "https://static.flashscore.com/res/image/data/rcAkl5le-vJb36ZBF.png"
-    },
-    "team2": {
-      "name": "Osasuna",
-      "logo": "https://static.flashscore.com/res/image/data/UTfY3r86-Yu8w588N.png"
-    },
-    "kickoff_date": "2026-03-16",
-    "kickoff_time": "03:00",
-    "match_date": "2026-03-16",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": []
   },
   {
     "id": "RayoVallecano-Levante",
@@ -1505,6 +1415,78 @@
         "label": "CH-6"
       }
     ]
+  },
+  {
+    "id": "Barcelona-Newcastle",
+    "league": "Uefa Champions League",
+    "team1": {
+      "name": "Barcelona",
+      "logo": "https://static.flashscore.com/res/image/data/jZ8dSYS0-fcDVLdrL.png"
+    },
+    "team2": {
+      "name": "Newcastle",
+      "logo": "https://static.flashscore.com/res/image/data/UXo7VXPq-ImMEe0UF.png"
+    },
+    "kickoff_date": "2026-03-19",
+    "kickoff_time": "00:45",
+    "match_date": "2026-03-19",
+    "match_time": "00:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "BayernMunich-Atalanta",
+    "league": "Uefa Champions League",
+    "team1": {
+      "name": "Bayern Munich",
+      "logo": "https://static.flashscore.com/res/image/data/lWGBVoA6-SvLFaVNH.png"
+    },
+    "team2": {
+      "name": "Atalanta",
+      "logo": "https://static.flashscore.com/res/image/data/z3aHqFBN-rg6usZns.png"
+    },
+    "kickoff_date": "2026-03-19",
+    "kickoff_time": "03:00",
+    "match_date": "2026-03-19",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Liverpool-Galatasaray",
+    "league": "Uefa Champions League",
+    "team1": {
+      "name": "Liverpool",
+      "logo": "https://static.flashscore.com/res/image/data/nBClzyne-KCp4zq5F.png"
+    },
+    "team2": {
+      "name": "Galatasaray",
+      "logo": "https://static.flashscore.com/res/image/data/SpvcRk96-dEXkR0Wq.png"
+    },
+    "kickoff_date": "2026-03-19",
+    "kickoff_time": "03:00",
+    "match_date": "2026-03-19",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Tottenham-AtlMadrid",
+    "league": "Uefa Champions League",
+    "team1": {
+      "name": "Tottenham",
+      "logo": "https://static.flashscore.com/res/image/data/v3SzDxVH-Ig5FKJZ5.png"
+    },
+    "team2": {
+      "name": "Atl. Madrid",
+      "logo": "https://static.flashscore.com/res/image/data/Kv2QSkhT-GhHiNvXF.png"
+    },
+    "kickoff_date": "2026-03-19",
+    "kickoff_time": "03:00",
+    "match_date": "2026-03-19",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": []
   },
   {
     "id": "Aldosivi-Huracan",
