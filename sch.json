@@ -1168,26 +1168,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=145",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=149",
-        "label": "CH-GR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=70",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
         "label": "CH-EN"
       },
@@ -1487,64 +1467,6 @@
     "match_time": "03:00",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Albacete-LasPalmas",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Albacete",
-      "logo": "https://static.flashscore.com/res/image/data/Iw3DqQoe-4297a0ys.png"
-    },
-    "team2": {
-      "name": "Las Palmas",
-      "logo": "https://static.flashscore.com/res/image/data/n3rngiU0-d6gaf9ua.png"
-    },
-    "kickoff_date": "2026-03-17",
-    "kickoff_time": "02:30",
-    "match_date": "2026-03-17",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=53",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd11",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven3",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Annecy-Troyes",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Annecy",
-      "logo": "https://static.flashscore.com/res/image/data/vqudxvme-S8MHjQAJ.png"
-    },
-    "team2": {
-      "name": "Troyes",
-      "logo": "https://static.flashscore.com/res/image/data/nySLfpiC-McvX4bye.png"
-    },
-    "kickoff_date": "2026-03-17",
-    "kickoff_time": "02:45",
-    "match_date": "2026-03-17",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd4",
-        "label": "CH-1"
-      }
-    ]
   },
   {
     "id": "Portsmouth-Derby",
