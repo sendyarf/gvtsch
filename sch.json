@@ -1497,45 +1497,6 @@
     ]
   },
   {
-    "id": "Fenerbahce-Gaziantep",
-    "league": "Super Lig",
-    "team1": {
-      "name": "Fenerbahce",
-      "logo": "https://static.flashscore.com/res/image/data/drRgiLlC-llnQ8REs.png"
-    },
-    "team2": {
-      "name": "Gaziantep",
-      "logo": "https://static.flashscore.com/res/image/data/UH4szVne-nwcq2Drl.png"
-    },
-    "kickoff_date": "2026-03-18",
-    "kickoff_time": "00:00",
-    "match_date": "2026-03-18",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=151",
-        "label": "CH-TR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=100",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
     "id": "SportingCP-BodoGlimt",
     "league": "UEFA Champions League",
     "team1": {
