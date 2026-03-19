@@ -1,51 +1,5 @@
 [
   {
-    "id": "DepPasto-Chico",
-    "league": "Liga Betplay Dimayor",
-    "team1": {
-      "name": "Dep. Pasto",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Chico",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-19",
-    "kickoff_time": "04:10",
-    "match_date": "2026-03-19",
-    "match_time": "04:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=81",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Manta-GuayaquilCity",
-    "league": "Ecuador Ligapro",
-    "team1": {
-      "name": "Manta",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Guayaquil City",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-19",
-    "kickoff_time": "04:30",
-    "match_date": "2026-03-19",
-    "match_time": "04:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=86",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "Bahia-Bragantino",
     "league": "Serie A Bresil",
     "team1": {
