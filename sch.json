@@ -1148,22 +1148,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=127",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=120",
-        "label": "CH-DE"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
         "label": "CH-EN"
       },
@@ -1317,12 +1301,7 @@
     "match_date": "2026-03-22",
     "match_time": "03:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=141",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Nijmegen-Heerenveen",
@@ -1464,14 +1443,6 @@
     "match_time": "03:05",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=20",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=69",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
         "label": "CH-EN"
@@ -1739,30 +1710,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=97",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=145",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=148",
-        "label": "CH-GR"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
         "label": "CH-EN"
       },
@@ -2003,22 +1950,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=94",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
       },
@@ -2165,252 +2096,6 @@
       {
         "url": "https://multi.govoet.cc/?ss=br5",
         "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "Fleury91W-LyonW",
-    "league": "France - Premiere Ligue Women",
-    "team1": {
-      "name": "Fleury 91 W",
-      "logo": "https://static.flashscore.com/res/image/data/lWrdv05k-Q1BcQwtS.png"
-    },
-    "team2": {
-      "name": "Lyon W",
-      "logo": "https://static.flashscore.com/res/image/data/nZMq2VjC-lQ79UTyq.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "03:00",
-    "match_date": "2026-03-22",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=14",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "DepLaCoruna-Zaragoza",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Dep. La Coruna",
-      "logo": "https://static.flashscore.com/res/image/data/t4lB3X76-UZkpPVoT.png"
-    },
-    "team2": {
-      "name": "Zaragoza",
-      "logo": "https://static.flashscore.com/res/image/data/xr7nb0ne-EykfZB0Q.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "03:00",
-    "match_date": "2026-03-22",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=8",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "BasketZaragoza-SanPabloBurgos",
-    "league": "Liga Endesa",
-    "team1": {
-      "name": "Basket Zaragoza",
-      "logo": "https://static.flashscore.com/res/image/data/p2EAmqDN-lOzorRoq.png"
-    },
-    "team2": {
-      "name": "San Pablo Burgos",
-      "logo": "https://static.flashscore.com/res/image/data/fm0ltqU0-YebVHhbt.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "03:00",
-    "match_date": "2026-03-22",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=155",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LosAngelesKings-BuffaloSabres",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Los Angeles Kings",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png"
-    },
-    "team2": {
-      "name": "Buffalo Sabres",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "03:00",
-    "match_date": "2026-03-22",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=182",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUzLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "MinnesotaWild-DallasStars",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Minnesota Wild",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png"
-    },
-    "team2": {
-      "name": "Dallas Stars",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "03:00",
-    "match_date": "2026-03-22",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=183",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUyLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "SanJoseSharks-PhiladelphiaFlyers",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "San Jose Sharks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sj.png"
-    },
-    "team2": {
-      "name": "Philadelphia Flyers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "03:00",
-    "match_date": "2026-03-22",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=184",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU0LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "StadeRochelais-SectionPaloise",
-    "league": "Top 14",
-    "team1": {
-      "name": "Stade Rochelais",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Section Paloise",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "03:00",
-    "match_date": "2026-03-22",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=11",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "LosChankas-SportingCristal",
-    "league": "Peru - Liga 1",
-    "team1": {
-      "name": "Los Chankas",
-      "logo": "https://static.flashscore.com/res/image/data/hEpliNiT-v9LWknvd.png"
-    },
-    "team2": {
-      "name": "Sporting Cristal",
-      "logo": "https://static.flashscore.com/res/image/data/xMxIWf86-Em9Gxj8O.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "03:30",
-    "match_date": "2026-03-22",
-    "match_time": "03:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Tondela-AFS",
-    "league": "Liga Portugal",
-    "team1": {
-      "name": "Tondela",
-      "logo": "https://static.flashscore.com/res/image/data/foAPIsgT-tz55u9dQ.png"
-    },
-    "team2": {
-      "name": "AFS",
-      "logo": "https://static.flashscore.com/res/image/data/nV4DFA7k-0STJGQ2k.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "03:30",
-    "match_date": "2026-03-22",
-    "match_time": "03:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=144",
-        "label": "CH-PT"
-      }
-    ]
-  },
-  {
-    "id": "PhiladelphiaUnion-ChicagoFire",
-    "league": "USA - MLS",
-    "team1": {
-      "name": "Philadelphia Union",
-      "logo": "https://static.flashscore.com/res/image/data/0UCoIkgT-juuH5vx4.png"
-    },
-    "team2": {
-      "name": "Chicago Fire",
-      "logo": "https://static.flashscore.com/res/image/data/YHLXh45k-0lw00xPr.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "03:30",
-    "match_date": "2026-03-22",
-    "match_time": "03:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=161",
-        "label": "CH-US"
       }
     ]
   },
@@ -3709,6 +3394,75 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDI3LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "DallasStars-MinnesotaWild",
+    "league": "Hockey",
+    "team1": {
+      "name": "Dallas Stars",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png"
+    },
+    "team2": {
+      "name": "Minnesota Wild",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png"
+    },
+    "kickoff_date": "2026-03-22",
+    "kickoff_time": "03:00",
+    "match_date": "2026-03-22",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUyLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "BuffaloSabres-LosAngelesKings",
+    "league": "Hockey",
+    "team1": {
+      "name": "Buffalo Sabres",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png"
+    },
+    "team2": {
+      "name": "Los Angeles Kings",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png"
+    },
+    "kickoff_date": "2026-03-22",
+    "kickoff_time": "03:00",
+    "match_date": "2026-03-22",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUzLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "PhiladelphiaFlyers-SanJoseSharks",
+    "league": "Hockey",
+    "team1": {
+      "name": "Philadelphia Flyers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png"
+    },
+    "team2": {
+      "name": "San Jose Sharks",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sj.png"
+    },
+    "kickoff_date": "2026-03-22",
+    "kickoff_time": "03:00",
+    "match_date": "2026-03-22",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDU0LnBocA==",
         "label": "CH-EN"
       }
     ]
