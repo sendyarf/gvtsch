@@ -1113,10 +1113,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
-        "label": "CH-EN"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=hd1",
         "label": "CH-1"
       },
@@ -1446,10 +1442,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
-        "label": "CH-EN"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=hd4",
         "label": "CH-1"
       }
@@ -1642,10 +1634,6 @@
     "match_time": "00:30",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDgucGhw",
-        "label": "CH-EN"
-      },
       {
         "url": "https://multi.govoet.cc/?ss=hd3",
         "label": "CH-1"
@@ -1965,10 +1953,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUucGhw",
-        "label": "CH-EN"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=hd10",
         "label": "CH-1"
       },
@@ -1995,10 +1979,6 @@
     "match_time": "00:30",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
-      },
       {
         "url": "https://multi.govoet.cc/?ss=hd6",
         "label": "CH-1"
@@ -2185,148 +2165,6 @@
       {
         "url": "https://multi.govoet.cc/?ss=br5",
         "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "AlAhly-EsperanceTunis",
-    "league": "Caf Ligue Des Champions",
-    "team1": {
-      "name": "Al Ahly",
-      "logo": "https://static.flashscore.com/res/image/data/jPMoEDoe-CWnyifXm.png"
-    },
-    "team2": {
-      "name": "Esperance Tunis",
-      "logo": "https://static.flashscore.com/res/image/data/MwJ5a4AN-QwBpoY8M.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-22",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=10",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Delfin-Libertad",
-    "league": "Ecuador - Liga Pro",
-    "team1": {
-      "name": "Delfin",
-      "logo": "https://static.flashscore.com/res/image/data/0UceOYQq-AZbnrnmj.png"
-    },
-    "team2": {
-      "name": "Libertad",
-      "logo": "https://static.flashscore.com/res/image/data/faMhEniT-ERBXCrln.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-22",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=86",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Wanderers-Danubio",
-    "league": "Liga Auf Uruguaya",
-    "team1": {
-      "name": "Wanderers",
-      "logo": "https://static.flashscore.com/res/image/data/GxuaZV9N-zFwegNb8.png"
-    },
-    "team2": {
-      "name": "Danubio",
-      "logo": "https://static.flashscore.com/res/image/data/EmZBa3le-vaUkIxVj.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-22",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=109",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Unicaja-Tenerife",
-    "league": "Liga Endesa",
-    "team1": {
-      "name": "Unicaja",
-      "logo": "https://static.flashscore.com/res/image/data/pWLmh8kC-QP5xKSl0.png"
-    },
-    "team2": {
-      "name": "Tenerife",
-      "logo": "https://static.flashscore.com/res/image/data/fX6sJejT-jkCvWF0A.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-22",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=157",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "StEtienne-Annecy",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "St Etienne",
-      "logo": "https://static.flashscore.com/res/image/data/SvNL7CBN-8Ca53MKO.png"
-    },
-    "team2": {
-      "name": "Annecy",
-      "logo": "https://static.flashscore.com/res/image/data/vqudxvme-S8MHjQAJ.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-22",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=1",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Bragantino-BotafogoRJ",
-    "league": "Brazil - Serie A Betano",
-    "team1": {
-      "name": "Bragantino",
-      "logo": "https://static.flashscore.com/res/image/data/fXZwgsRq-UkMF8Udb.png"
-    },
-    "team2": {
-      "name": "Botafogo RJ",
-      "logo": "https://static.flashscore.com/res/image/data/YyEcuJVH-rJBthgZj.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "02:00",
-    "match_date": "2026-03-22",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=117",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br3",
-        "label": "CH-1"
       }
     ]
   },
@@ -3975,29 +3813,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIzLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "VegasGoldenKnights-NashvillePredators",
-    "league": "Hockey",
-    "team1": {
-      "name": "Vegas Golden Knights",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/vgk.png"
-    },
-    "team2": {
-      "name": "Nashville Predators",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nsh.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "01:00",
-    "match_date": "2026-03-22",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUxLnBocA==",
         "label": "CH-EN"
       }
     ]
