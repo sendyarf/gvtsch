@@ -1147,12 +1147,7 @@
     "match_date": "2026-03-22",
     "match_time": "19:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "AstonVilla-WestHam",
@@ -1310,20 +1305,7 @@
     "match_date": "2026-03-22",
     "match_time": "20:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=142",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=125",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=99",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Utrecht-GAEagles",
@@ -1341,12 +1323,7 @@
     "match_date": "2026-03-22",
     "match_time": "20:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=141",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Groningen-AZAlkmaar",
@@ -1456,18 +1433,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=45",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
         "label": "CH-EN"
       }
@@ -1561,7 +1526,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=21",
+        "url": "https://multi.govoet.cc/?envivo=22",
         "label": "CH-FR"
       },
       {
@@ -1786,12 +1751,7 @@
     "match_date": "2026-03-22",
     "match_time": "18:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Atalanta-Verona",
@@ -1810,14 +1770,6 @@
     "match_time": "21:00",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=145",
-        "label": "CH-PT"
-      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
         "label": "CH-EN"
@@ -1841,18 +1793,6 @@
     "match_time": "21:00",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=140",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=70",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=97",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEwLnBocA==",
         "label": "CH-EN"
@@ -2013,26 +1953,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=4",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=94",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
       }
@@ -2184,52 +2104,6 @@
       {
         "url": "https://multi.govoet.cc/?ss=br5",
         "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "BurgosCF-Cordoba",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Burgos CF",
-      "logo": "https://static.flashscore.com/res/image/data/8G2Evj86-0ME49KyM.png"
-    },
-    "team2": {
-      "name": "Cordoba",
-      "logo": "https://static.flashscore.com/res/image/data/fTto7LkC-4YF9PAyB.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "20:00",
-    "match_date": "2026-03-22",
-    "match_time": "20:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Juventud-Albion",
-    "league": "Liga Auf Uruguaya",
-    "team1": {
-      "name": "Juventud",
-      "logo": "https://static.flashscore.com/res/image/data/Ewu5CRlC-WIGOXbOL.png"
-    },
-    "team2": {
-      "name": "Albion",
-      "logo": "https://static.flashscore.com/res/image/data/QNvshi5k-xAzQVWsQ.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "20:00",
-    "match_date": "2026-03-22",
-    "match_time": "20:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=109",
-        "label": "CH-ES"
       }
     ]
   },
