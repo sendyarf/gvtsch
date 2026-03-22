@@ -1246,22 +1246,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=94",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
       }
@@ -1323,549 +1307,6 @@
       {
         "url": "https://multi.govoet.cc/?ss=br5",
         "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "StPauli-Freiburg",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "St. Pauli",
-      "logo": "https://static.flashscore.com/res/image/data/QHdIUX96-lrmFNGea.png"
-    },
-    "team2": {
-      "name": "Freiburg",
-      "logo": "https://static.flashscore.com/res/image/data/0pdxCFiT-86lnAaq9.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "23:30",
-    "match_date": "2026-03-22",
-    "match_time": "23:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=7",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=91",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=116",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "MontpellierW-PSGW",
-    "league": "France - Premiere Ligue Women",
-    "team1": {
-      "name": "Montpellier W",
-      "logo": "https://static.flashscore.com/res/image/data/WbmcmDlC-YDsfVBU1.png"
-    },
-    "team2": {
-      "name": "PSG W",
-      "logo": "https://static.flashscore.com/res/image/data/d6rQbbU0-hjAZZSzd.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "23:30",
-    "match_date": "2026-03-22",
-    "match_time": "23:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=12",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Arsenal-ManchesterCity",
-    "league": "England - EFL Cup",
-    "team1": {
-      "name": "Arsenal",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
-    },
-    "team2": {
-      "name": "Manchester City",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "23:30",
-    "match_date": "2026-03-22",
-    "match_time": "23:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=127",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=120",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=97",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "WashingtonCapitals-ColoradoAvalanche",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Washington Capitals",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png"
-    },
-    "team2": {
-      "name": "Colorado Avalanche",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "23:30",
-    "match_date": "2026-03-22",
-    "match_time": "23:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=8",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=181",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "AEKAthens-Kifisia",
-    "league": "Greece - Super League",
-    "team1": {
-      "name": "AEK Athens",
-      "logo": "https://static.flashscore.com/res/image/data/ph8YRKne-6iRkbdOB.png"
-    },
-    "team2": {
-      "name": "Kifisia",
-      "logo": "https://static.flashscore.com/res/image/data/bmuR4OkC-CCj2lJ5q.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:00",
-    "match_date": "2026-03-23",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=148",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "Aris-OFICrete",
-    "league": "Greece - Super League",
-    "team1": {
-      "name": "Aris",
-      "logo": "https://static.flashscore.com/res/image/data/WCmA1PA6-0E6BYcd0.png"
-    },
-    "team2": {
-      "name": "OFI Crete",
-      "logo": "https://static.flashscore.com/res/image/data/OW14akRq-hOZ2RkTP.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:00",
-    "match_date": "2026-03-23",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=149",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "AsterasTripolis-Panathinaikos",
-    "league": "Greece - Super League",
-    "team1": {
-      "name": "Asteras Tripolis",
-      "logo": "https://static.flashscore.com/res/image/data/YXe9mTT0-SKrEYwI8.png"
-    },
-    "team2": {
-      "name": "Panathinaikos",
-      "logo": "https://static.flashscore.com/res/image/data/jTnDg1CN-GM4Cu0wi.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:00",
-    "match_date": "2026-03-23",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=150",
-        "label": "CH-GR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=163",
-        "label": "CH-GR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=165",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "OlympiacosPiraeus-AELLarissa",
-    "league": "Greece - Super League",
-    "team1": {
-      "name": "Olympiacos Piraeus",
-      "logo": "https://static.flashscore.com/res/image/data/Ik1Usole-lzmp9FUJ.png"
-    },
-    "team2": {
-      "name": "AEL Larissa",
-      "logo": "https://static.flashscore.com/res/image/data/xCwStFUH-bspvajO9.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:00",
-    "match_date": "2026-03-23",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=164",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "Volos-PAOK",
-    "league": "Greece - Super League",
-    "team1": {
-      "name": "Volos",
-      "logo": "https://static.flashscore.com/res/image/data/fTZ6y0BN-0OmT6UWt.png"
-    },
-    "team2": {
-      "name": "PAOK",
-      "logo": "https://static.flashscore.com/res/image/data/StctWES0-pvWT1yik.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:00",
-    "match_date": "2026-03-23",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=166",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "FCCincinnati-CFMontreal",
-    "league": "USA - MLS",
-    "team1": {
-      "name": "FC Cincinnati",
-      "logo": "https://static.flashscore.com/res/image/data/vwHVLET0-hfMSf4LN.png"
-    },
-    "team2": {
-      "name": "CF Montreal",
-      "logo": "https://static.flashscore.com/res/image/data/CEqcFQlC-APghxIAJ.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:00",
-    "match_date": "2026-03-23",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=161",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "NewYorkCity-InterMiami",
-    "league": "USA - MLS",
-    "team1": {
-      "name": "New York City",
-      "logo": "https://static.flashscore.com/res/image/data/0GgDTRle-GxTXAzv3.png"
-    },
-    "team2": {
-      "name": "Inter Miami",
-      "logo": "https://static.flashscore.com/res/image/data/z94JGZTH-UwKTVGeG.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:00",
-    "match_date": "2026-03-23",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=162",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=160",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "ASRoma-Lecce",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "AS Roma",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
-    },
-    "team2": {
-      "name": "Lecce",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:00",
-    "match_date": "2026-03-23",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "LasPalmas-Gijon",
-    "league": "Spain - LaLiga 2",
-    "team1": {
-      "name": "Las Palmas",
-      "logo": "https://static.flashscore.com/res/image/data/n3rngiU0-d6gaf9ua.png"
-    },
-    "team2": {
-      "name": "Gijon",
-      "logo": "https://static.flashscore.com/res/image/data/ziVpaDjC-IDZgZhUt.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-23",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Anderlecht-CercleBruggeKSV",
-    "league": "Pro League",
-    "team1": {
-      "name": "Anderlecht",
-      "logo": "https://static.flashscore.com/res/image/data/WSwUoTWH-YVlGNJGc.png"
-    },
-    "team2": {
-      "name": "Cercle Brugge KSV",
-      "logo": "https://static.flashscore.com/res/image/data/QPuMVUPq-CS6nbsqF.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-23",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=151",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "ClubBruggeKV-KVMechelen",
-    "league": "Pro League",
-    "team1": {
-      "name": "Club Brugge KV",
-      "logo": "https://static.flashscore.com/res/image/data/I31uMN7k-44lq3LsP.png"
-    },
-    "team2": {
-      "name": "KV Mechelen",
-      "logo": "https://static.flashscore.com/res/image/data/vPvl3wS0-zVJMgvaS.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-23",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=152",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "Dender-Gent",
-    "league": "Pro League",
-    "team1": {
-      "name": "Dender",
-      "logo": "https://static.flashscore.com/res/image/data/42PvNMAN-xCPMRLr8.png"
-    },
-    "team2": {
-      "name": "Gent",
-      "logo": "https://static.flashscore.com/res/image/data/hr2efhUH-ETUaLGDL.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-23",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=168",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "Leuven-Antwerp",
-    "league": "Pro League",
-    "team1": {
-      "name": "Leuven",
-      "logo": "https://static.flashscore.com/res/image/data/Srik40jC-n1X34PhM.png"
-    },
-    "team2": {
-      "name": "Antwerp",
-      "logo": "https://static.flashscore.com/res/image/data/IDBrkYTH-vuxu3x67.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-23",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=170",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "RAALLaLouviere-Genk",
-    "league": "Pro League",
-    "team1": {
-      "name": "RAAL La Louviere",
-      "logo": "https://static.flashscore.com/res/image/data/YoXc17iT-2LLiS83t.png"
-    },
-    "team2": {
-      "name": "Genk",
-      "logo": "https://static.flashscore.com/res/image/data/pxtsZIR0-YB0frRRP.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-23",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=169",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "StLiege-Westerlo",
-    "league": "Pro League",
-    "team1": {
-      "name": "St. Liege",
-      "logo": "https://static.flashscore.com/res/image/data/zBWoLXjT-tjZYJCwg.png"
-    },
-    "team2": {
-      "name": "Westerlo",
-      "logo": "https://static.flashscore.com/res/image/data/vaQpHW86-ht99hStl.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-23",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=153",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "StTruiden-RoyaleUnionSG",
-    "league": "Pro League",
-    "team1": {
-      "name": "St. Truiden",
-      "logo": "https://static.flashscore.com/res/image/data/bi6P6vkC-OCiVKiPK.png"
-    },
-    "team2": {
-      "name": "Royale Union SG",
-      "logo": "https://static.flashscore.com/res/image/data/fkZqVUUH-KrZtIamS.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-23",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=167",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "Waregem-Charleroi",
-    "league": "Pro League",
-    "team1": {
-      "name": "Waregem",
-      "logo": "https://static.flashscore.com/res/image/data/6JNt5MlC-fc7DY1B9.png"
-    },
-    "team2": {
-      "name": "Charleroi",
-      "logo": "https://static.flashscore.com/res/image/data/xEx7HqSq-xCPMRLr8.png"
-    },
-    "kickoff_date": "2026-03-23",
-    "kickoff_time": "00:30",
-    "match_date": "2026-03-23",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=154",
-        "label": "CH-NL"
       }
     ]
   },
@@ -3789,6 +3230,75 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE4LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Lecce-ASRoma",
+    "league": "Football",
+    "team1": {
+      "name": "Lecce",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
+    },
+    "team2": {
+      "name": "AS Roma",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
+    },
+    "kickoff_date": "2026-03-23",
+    "kickoff_time": "00:00",
+    "match_date": "2026-03-23",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "ColoradoAvalanche-WashingtonCapitals",
+    "league": "Hockey",
+    "team1": {
+      "name": "Colorado Avalanche",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png"
+    },
+    "team2": {
+      "name": "Washington Capitals",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png"
+    },
+    "kickoff_date": "2026-03-22",
+    "kickoff_time": "23:30",
+    "match_date": "2026-03-22",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUxLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "ManchesterCity-Arsenal",
+    "league": "Football",
+    "team1": {
+      "name": "Manchester City",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+    },
+    "team2": {
+      "name": "Arsenal",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+    },
+    "kickoff_date": "2026-03-22",
+    "kickoff_time": "23:30",
+    "match_date": "2026-03-22",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
         "label": "CH-EN"
       }
     ]
