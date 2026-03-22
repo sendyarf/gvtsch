@@ -1352,16 +1352,7 @@
     "match_date": "2026-03-22",
     "match_time": "18:15",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=143",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=125",
-        "label": "CH-DE"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Feyenoord-Ajax",
@@ -2325,29 +2316,6 @@
       {
         "url": "https://multi.govoet.cc/?ss=br5",
         "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "ForcaLleida-JoventutBadalona",
-    "league": "Liga Endesa",
-    "team1": {
-      "name": "Forca Lleida",
-      "logo": "https://static.flashscore.com/res/image/data/r5OjhelC-zRykV8ZA.png"
-    },
-    "team2": {
-      "name": "Joventut Badalona",
-      "logo": "https://static.flashscore.com/res/image/data/GfheZine-4QFp2rHo.png"
-    },
-    "kickoff_date": "2026-03-22",
-    "kickoff_time": "18:00",
-    "match_date": "2026-03-22",
-    "match_time": "18:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=155",
-        "label": "CH-ES"
       }
     ]
   },
