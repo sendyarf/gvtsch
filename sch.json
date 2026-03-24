@@ -1111,16 +1111,7 @@
     "match_date": "2026-03-24",
     "match_time": "06:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=194",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY1LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "MiamiHeat-SanAntonioSpurs",
@@ -1138,20 +1129,7 @@
     "match_date": "2026-03-24",
     "match_time": "06:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=3",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.cc/?envivo=195",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY4LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "OrlandoMagic-IndianaPacers",
@@ -1169,16 +1147,7 @@
     "match_date": "2026-03-24",
     "match_time": "06:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=196",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Philadelphia76ers-OklahomaCityThunder",
@@ -1196,16 +1165,7 @@
     "match_date": "2026-03-24",
     "match_time": "06:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=197",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "AtlantaHawks-MemphisGrizzlies",
@@ -1223,16 +1183,7 @@
     "match_date": "2026-03-24",
     "match_time": "06:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=198",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY5LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChicagoBulls-HoustonRockets",
@@ -1251,10 +1202,6 @@
     "match_time": "07:00",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=200",
-        "label": "CH-US"
-      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcwLnBocA==",
         "label": "CH-EN"
@@ -1729,16 +1676,7 @@
     "match_date": "2026-03-24",
     "match_time": "06:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=199",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "BostonBruins-TorontoMapleLeafs",
@@ -2120,75 +2058,6 @@
     "match_time": "06:30",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "JaguaresdeCordoba-Aguilas",
-    "league": "Colombia: Primera A",
-    "team1": {
-      "name": "Jaguares de Cordoba",
-      "logo": "https://static.flashscore.com/res/image/data/l4lKktDN-K401txJG.png"
-    },
-    "team2": {
-      "name": "Aguilas",
-      "logo": "https://static.flashscore.com/res/image/data/zNqhWFQq-2eGA9cib.png"
-    },
-    "kickoff_date": "2026-03-24",
-    "kickoff_time": "06:20",
-    "match_date": "2026-03-24",
-    "match_time": "06:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=81",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Aucas-Orense",
-    "league": "Ecuador - Liga Pro",
-    "team1": {
-      "name": "Aucas",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Orense",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-24",
-    "kickoff_time": "07:00",
-    "match_date": "2026-03-24",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=86",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Huracan-BarracasCentral",
-    "league": "Argentina - Primera LPF",
-    "team1": {
-      "name": "Huracan",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Barracas Central",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-24",
-    "kickoff_time": "07:15",
-    "match_date": "2026-03-24",
-    "match_time": "07:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?envivo=75",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "LosAngelesAngels-LosAngelesDodgers",
