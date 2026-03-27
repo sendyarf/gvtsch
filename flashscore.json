@@ -1,59 +1,5 @@
 [
   {
-    "id": "CharlotteHornets-NewYorkKnicks",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Charlotte Hornets",
-      "logo": "https://static.flashscore.com/res/image/data/ny5unNlC-ve2sWlEq.png"
-    },
-    "team2": {
-      "name": "New York Knicks",
-      "logo": "https://static.flashscore.com/res/image/data/IXahYvle-I30Q0K9l.png"
-    },
-    "kickoff_date": "2026-03-27",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-27",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "DetroitPistons-NewOrleansPelicans",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Detroit Pistons",
-      "logo": "https://static.flashscore.com/res/image/data/G6CnZjgT-xrW85HXg.png"
-    },
-    "team2": {
-      "name": "New Orleans Pelicans",
-      "logo": "https://static.flashscore.com/res/image/data/Gb6wqNkC-StvCsRZ7.png"
-    },
-    "kickoff_date": "2026-03-27",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-27",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "OrlandoMagic-SacramentoKings",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Orlando Magic",
-      "logo": "https://static.flashscore.com/res/image/data/lMTx9oXH-l0jb3WKi.png"
-    },
-    "team2": {
-      "name": "Sacramento Kings",
-      "logo": "https://static.flashscore.com/res/image/data/6DnmN986-UPll9Lyj.png"
-    },
-    "kickoff_date": "2026-03-27",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-27",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
     "id": "IndianaPacers-LosAngelesClippers",
     "league": "USA - NBA",
     "team1": {
@@ -342,235 +288,163 @@
     "servers": []
   },
   {
-    "id": "FloridaPanthers-MinnesotaWild",
-    "league": "USA - NHL",
+    "id": "MilwaukeeBucks-LosAngelesClippers",
+    "league": "USA - NBA",
     "team1": {
-      "name": "Florida Panthers",
-      "logo": "https://static.flashscore.com/res/image/data/K4AQlVTH-4U1I4vlB.png"
+      "name": "Milwaukee Bucks",
+      "logo": "https://static.flashscore.com/res/image/data/CdWsGdU0-xrW85HXg.png"
     },
     "team2": {
-      "name": "Minnesota Wild",
-      "logo": "https://static.flashscore.com/res/image/data/xl5EMJAN-bekdedre.png"
+      "name": "Los Angeles Clippers",
+      "logo": "https://static.flashscore.com/res/image/data/jJgC6dAN-dhz9Qt1I.png"
     },
-    "kickoff_date": "2026-03-27",
+    "kickoff_date": "2026-03-30",
+    "kickoff_time": "02:30",
+    "match_date": "2026-03-30",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "IndianaPacers-MiamiHeat",
+    "league": "USA - NBA",
+    "team1": {
+      "name": "Indiana Pacers",
+      "logo": "https://static.flashscore.com/res/image/data/fRvvRwQq-OGagz1v1.png"
+    },
+    "team2": {
+      "name": "Miami Heat",
+      "logo": "https://static.flashscore.com/res/image/data/CKMk7ijT-hrxbSkzm.png"
+    },
+    "kickoff_date": "2026-03-30",
+    "kickoff_time": "04:00",
+    "match_date": "2026-03-30",
+    "match_time": "04:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "BrooklynNets-SacramentoKings",
+    "league": "USA - NBA",
+    "team1": {
+      "name": "Brooklyn Nets",
+      "logo": "https://static.flashscore.com/res/image/data/4boTeFiT-foHVOfAt.png"
+    },
+    "team2": {
+      "name": "Sacramento Kings",
+      "logo": "https://static.flashscore.com/res/image/data/6DnmN986-UPll9Lyj.png"
+    },
+    "kickoff_date": "2026-03-30",
+    "kickoff_time": "05:00",
+    "match_date": "2026-03-30",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "CharlotteHornets-BostonCeltics",
+    "league": "USA - NBA",
+    "team1": {
+      "name": "Charlotte Hornets",
+      "logo": "https://static.flashscore.com/res/image/data/ny5unNlC-ve2sWlEq.png"
+    },
+    "team2": {
+      "name": "Boston Celtics",
+      "logo": "https://static.flashscore.com/res/image/data/jaRhGsXH-0tHj7MWK.png"
+    },
+    "kickoff_date": "2026-03-30",
+    "kickoff_time": "05:00",
+    "match_date": "2026-03-30",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PortlandTrailBlazers-WashingtonWizards",
+    "league": "USA - NBA",
+    "team1": {
+      "name": "Portland Trail Blazers",
+      "logo": "https://static.flashscore.com/res/image/data/Y1757FjT-Sz1MOtvA.png"
+    },
+    "team2": {
+      "name": "Washington Wizards",
+      "logo": "https://static.flashscore.com/res/image/data/SjpSqG7k-zNBiPbd0.png"
+    },
+    "kickoff_date": "2026-03-30",
+    "kickoff_time": "05:00",
+    "match_date": "2026-03-30",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "TorontoRaptors-OrlandoMagic",
+    "league": "USA - NBA",
+    "team1": {
+      "name": "Toronto Raptors",
+      "logo": "https://static.flashscore.com/res/image/data/8tgmH0hT-dfaUavPf.png"
+    },
+    "team2": {
+      "name": "Orlando Magic",
+      "logo": "https://static.flashscore.com/res/image/data/lMTx9oXH-l0jb3WKi.png"
+    },
+    "kickoff_date": "2026-03-30",
+    "kickoff_time": "05:00",
+    "match_date": "2026-03-30",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "NewOrleansPelicans-HoustonRockets",
+    "league": "USA - NBA",
+    "team1": {
+      "name": "New Orleans Pelicans",
+      "logo": "https://static.flashscore.com/res/image/data/Gb6wqNkC-StvCsRZ7.png"
+    },
+    "team2": {
+      "name": "Houston Rockets",
+      "logo": "https://static.flashscore.com/res/image/data/MBTfOVoe-Q9iB8bcq.png"
+    },
+    "kickoff_date": "2026-03-30",
     "kickoff_time": "06:00",
-    "match_date": "2026-03-27",
+    "match_date": "2026-03-30",
     "match_time": "06:00",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "MontrealCanadiens-ColumbusBlueJackets",
-    "league": "USA - NHL",
+    "id": "OklahomaCityThunder-NewYorkKnicks",
+    "league": "USA - NBA",
     "team1": {
-      "name": "Montreal Canadiens",
-      "logo": "https://static.flashscore.com/res/image/data/rmLcPRlC-IBjau0c1.png"
+      "name": "Oklahoma City Thunder",
+      "logo": "https://static.flashscore.com/res/image/data/KvT52V5k-4zc22IQb.png"
     },
     "team2": {
-      "name": "Columbus Blue Jackets",
-      "logo": "https://static.flashscore.com/res/image/data/xSgLK2CN-r7B7vgcl.png"
+      "name": "New York Knicks",
+      "logo": "https://static.flashscore.com/res/image/data/IXahYvle-I30Q0K9l.png"
     },
-    "kickoff_date": "2026-03-27",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-27",
-    "match_time": "06:00",
+    "kickoff_date": "2026-03-30",
+    "kickoff_time": "06:30",
+    "match_date": "2026-03-30",
+    "match_time": "06:30",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "NewYorkIslanders-DallasStars",
-    "league": "USA - NHL",
+    "id": "DenverNuggets-GoldenStateWarriors",
+    "league": "USA - NBA",
     "team1": {
-      "name": "New York Islanders",
-      "logo": "https://static.flashscore.com/res/image/data/x4kw0O96-2gNm09oB.png"
+      "name": "Denver Nuggets",
+      "logo": "https://static.flashscore.com/res/image/data/rT4Lu9CN-vXFf6tnR.png"
     },
     "team2": {
-      "name": "Dallas Stars",
-      "logo": "https://static.flashscore.com/res/image/data/4fuGFdVH-hQU6HNTr.png"
+      "name": "Golden State Warriors",
+      "logo": "https://static.flashscore.com/res/image/data/jLhKbSne-pfzjG61O.png"
     },
-    "kickoff_date": "2026-03-27",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-27",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "OttawaSenators-PittsburghPenguins",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Ottawa Senators",
-      "logo": "https://static.flashscore.com/res/image/data/SG4zwC8k-U3Fg3Bur.png"
-    },
-    "team2": {
-      "name": "Pittsburgh Penguins",
-      "logo": "https://static.flashscore.com/res/image/data/nJ0Qys8k-bRgkdyvd.png"
-    },
-    "kickoff_date": "2026-03-27",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-27",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PhiladelphiaFlyers-ChicagoBlackhawks",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Philadelphia Flyers",
-      "logo": "https://static.flashscore.com/res/image/data/rF1uZCjC-zRkGfUnJ.png"
-    },
-    "team2": {
-      "name": "Chicago Blackhawks",
-      "logo": "https://static.flashscore.com/res/image/data/tAaNa096-rFH1svz2.png"
-    },
-    "kickoff_date": "2026-03-27",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-27",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "TampaBayLightning-SeattleKraken",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Tampa Bay Lightning",
-      "logo": "https://static.flashscore.com/res/image/data/dE1G4mne-rRZyiiOu.png"
-    },
-    "team2": {
-      "name": "Seattle Kraken",
-      "logo": "https://static.flashscore.com/res/image/data/zJBqlslC-MwlAwpun.png"
-    },
-    "kickoff_date": "2026-03-27",
-    "kickoff_time": "06:00",
-    "match_date": "2026-03-27",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "NashvillePredators-NewJerseyDevils",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Nashville Predators",
-      "logo": "https://static.flashscore.com/res/image/data/fyttuM6k-ITwf9voH.png"
-    },
-    "team2": {
-      "name": "New Jersey Devils",
-      "logo": "https://static.flashscore.com/res/image/data/UyZgcGVH-S4A5n02E.png"
-    },
-    "kickoff_date": "2026-03-27",
-    "kickoff_time": "07:00",
-    "match_date": "2026-03-27",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "StLouisBlues-SanJoseSharks",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "St. Louis Blues",
-      "logo": "https://static.flashscore.com/res/image/data/jFoX1u86-WtL9K36g.png"
-    },
-    "team2": {
-      "name": "San Jose Sharks",
-      "logo": "https://static.flashscore.com/res/image/data/8bIgWd96-pbMiEVKA.png"
-    },
-    "kickoff_date": "2026-03-27",
-    "kickoff_time": "07:00",
-    "match_date": "2026-03-27",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "WinnipegJets-ColoradoAvalanche",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Winnipeg Jets",
-      "logo": "https://static.flashscore.com/res/image/data/nXNv31oe-z5O1vR6B.png"
-    },
-    "team2": {
-      "name": "Colorado Avalanche",
-      "logo": "https://static.flashscore.com/res/image/data/vTuaEfRq-UkrSKu1K.png"
-    },
-    "kickoff_date": "2026-03-27",
-    "kickoff_time": "07:00",
-    "match_date": "2026-03-27",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "CalgaryFlames-AnaheimDucks",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Calgary Flames",
-      "logo": "https://static.flashscore.com/res/image/data/0UdKwb6k-zBmwri9p.png"
-    },
-    "team2": {
-      "name": "Anaheim Ducks",
-      "logo": "https://static.flashscore.com/res/image/data/tthpeyXH-QFG0DyKS.png"
-    },
-    "kickoff_date": "2026-03-27",
-    "kickoff_time": "08:00",
-    "match_date": "2026-03-27",
-    "match_time": "08:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "UtahMammoth-WashingtonCapitals",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Utah Mammoth",
-      "logo": "https://static.flashscore.com/res/image/data/dCKj51UH-OvWpZvXb.png"
-    },
-    "team2": {
-      "name": "Washington Capitals",
-      "logo": "https://static.flashscore.com/res/image/data/dIknNK96-CrRgOfUf.png"
-    },
-    "kickoff_date": "2026-03-27",
-    "kickoff_time": "08:00",
-    "match_date": "2026-03-27",
-    "match_time": "08:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "VegasGoldenKnights-EdmontonOilers",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Vegas Golden Knights",
-      "logo": "https://static.flashscore.com/res/image/data/lKulpF6k-MucFHXDq.png"
-    },
-    "team2": {
-      "name": "Edmonton Oilers",
-      "logo": "https://static.flashscore.com/res/image/data/UmLMgigT-8tsWJaGQ.png"
-    },
-    "kickoff_date": "2026-03-27",
-    "kickoff_time": "08:30",
-    "match_date": "2026-03-27",
-    "match_time": "08:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "VancouverCanucks-LosAngelesKings",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Vancouver Canucks",
-      "logo": "https://static.flashscore.com/res/image/data/r3FCxxT0-lKtjafx1.png"
-    },
-    "team2": {
-      "name": "Los Angeles Kings",
-      "logo": "https://static.flashscore.com/res/image/data/rRDf3Poe-Iih2qL9f.png"
-    },
-    "kickoff_date": "2026-03-27",
+    "kickoff_date": "2026-03-30",
     "kickoff_time": "09:00",
-    "match_date": "2026-03-27",
+    "match_date": "2026-03-30",
     "match_time": "09:00",
     "duration": "3.5",
     "servers": []
@@ -878,6 +752,114 @@
     "kickoff_time": "09:30",
     "match_date": "2026-03-29",
     "match_time": "09:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "NewYorkRangers-FloridaPanthers",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "New York Rangers",
+      "logo": "https://static.flashscore.com/res/image/data/phNFbvWH-nDR1Ewvl.png"
+    },
+    "team2": {
+      "name": "Florida Panthers",
+      "logo": "https://static.flashscore.com/res/image/data/K4AQlVTH-4U1I4vlB.png"
+    },
+    "kickoff_date": "2026-03-30",
+    "kickoff_time": "00:00",
+    "match_date": "2026-03-30",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "CarolinaHurricanes-MontrealCanadiens",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Carolina Hurricanes",
+      "logo": "https://static.flashscore.com/res/image/data/rBPup6iT-Ea3nasx0.png"
+    },
+    "team2": {
+      "name": "Montreal Canadiens",
+      "logo": "https://static.flashscore.com/res/image/data/rmLcPRlC-IBjau0c1.png"
+    },
+    "kickoff_date": "2026-03-30",
+    "kickoff_time": "04:00",
+    "match_date": "2026-03-30",
+    "match_time": "04:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ColumbusBlueJackets-BostonBruins",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Columbus Blue Jackets",
+      "logo": "https://static.flashscore.com/res/image/data/xSgLK2CN-r7B7vgcl.png"
+    },
+    "team2": {
+      "name": "Boston Bruins",
+      "logo": "https://static.flashscore.com/res/image/data/UeHV59Pq-bP6XFTSM.png"
+    },
+    "kickoff_date": "2026-03-30",
+    "kickoff_time": "04:00",
+    "match_date": "2026-03-30",
+    "match_time": "04:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "TampaBayLightning-NashvillePredators",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Tampa Bay Lightning",
+      "logo": "https://static.flashscore.com/res/image/data/dE1G4mne-rRZyiiOu.png"
+    },
+    "team2": {
+      "name": "Nashville Predators",
+      "logo": "https://static.flashscore.com/res/image/data/fyttuM6k-ITwf9voH.png"
+    },
+    "kickoff_date": "2026-03-30",
+    "kickoff_time": "04:00",
+    "match_date": "2026-03-30",
+    "match_time": "04:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "NewJerseyDevils-ChicagoBlackhawks",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "New Jersey Devils",
+      "logo": "https://static.flashscore.com/res/image/data/UyZgcGVH-S4A5n02E.png"
+    },
+    "team2": {
+      "name": "Chicago Blackhawks",
+      "logo": "https://static.flashscore.com/res/image/data/tAaNa096-rFH1svz2.png"
+    },
+    "kickoff_date": "2026-03-30",
+    "kickoff_time": "06:00",
+    "match_date": "2026-03-30",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PhiladelphiaFlyers-DallasStars",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Philadelphia Flyers",
+      "logo": "https://static.flashscore.com/res/image/data/rF1uZCjC-zRkGfUnJ.png"
+    },
+    "team2": {
+      "name": "Dallas Stars",
+      "logo": "https://static.flashscore.com/res/image/data/4fuGFdVH-hQU6HNTr.png"
+    },
+    "kickoff_date": "2026-03-30",
+    "kickoff_time": "06:00",
+    "match_date": "2026-03-30",
+    "match_time": "06:00",
     "duration": "3.5",
     "servers": []
   }
