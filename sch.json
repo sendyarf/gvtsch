@@ -1605,7 +1605,16 @@
     "match_date": "2026-03-30",
     "match_time": "09:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "BuffaloSabres-DetroitRedWings",
@@ -2652,14 +2661,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd3",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-2"
       }
     ]
   }
