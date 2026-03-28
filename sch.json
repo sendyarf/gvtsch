@@ -1138,10 +1138,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-1"
       }
     ]
   },
@@ -1165,10 +1161,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
       }
     ]
   },
@@ -1307,10 +1299,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDczLnBocA==",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
       }
     ]
   },
@@ -2179,29 +2167,6 @@
     ]
   },
   {
-    "id": "MichiganStateSpartans-UConnHuskies",
-    "league": "Ncaab",
-    "team1": {
-      "name": "Michigan State Spartans",
-      "logo": ""
-    },
-    "team2": {
-      "name": "UConn Huskies",
-      "logo": ""
-    },
-    "kickoff_date": "2026-03-28",
-    "kickoff_time": "08:40",
-    "match_date": "2026-03-28",
-    "match_time": "08:40",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDc2LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "ClevelandGuardians-SeattleMariners",
     "league": "Baseball",
     "team1": {
@@ -2243,6 +2208,29 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIxLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "MichiganStateSpartans-UConnHuskies",
+    "league": "Ncaab",
+    "team1": {
+      "name": "Michigan State Spartans",
+      "logo": ""
+    },
+    "team2": {
+      "name": "UConn Huskies",
+      "logo": ""
+    },
+    "kickoff_date": "2026-03-28",
+    "kickoff_time": "08:40",
+    "match_date": "2026-03-28",
+    "match_time": "08:40",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDc2LnBocA==",
         "label": "CH-EN"
       }
     ]
@@ -2313,14 +2301,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd10",
-        "label": "CH-2"
       }
     ]
   },
@@ -2417,29 +2397,6 @@
     ]
   },
   {
-    "id": "NewYorkYankees-SanFranciscoGiants",
-    "league": "Baseball",
-    "team1": {
-      "name": "New York Yankees",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
-    },
-    "team2": {
-      "name": "San Francisco Giants",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
-    },
-    "kickoff_date": "2026-03-28",
-    "kickoff_time": "03:35",
-    "match_date": "2026-03-28",
-    "match_time": "03:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE1LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "MotogpUSA",
     "league": "Motor Sport",
     "team1": {
@@ -2459,154 +2416,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQ3LnBocA==",
         "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Serbia-Spain",
-    "league": "Football",
-    "team1": {
-      "name": "Serbia",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sba.png"
-    },
-    "team2": {
-      "name": "Spain",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png"
-    },
-    "kickoff_date": "2026-03-28",
-    "kickoff_time": "03:00",
-    "match_date": "2026-03-28",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv3",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br5",
-        "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "Norway-Netherlands",
-    "league": "Football",
-    "team1": {
-      "name": "Norway",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
-    },
-    "team2": {
-      "name": "Netherlands",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
-    },
-    "kickoff_date": "2026-03-28",
-    "kickoff_time": "02:45",
-    "match_date": "2026-03-28",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd4",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv5",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br3",
-        "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "Germany-Switzerland",
-    "league": "Football",
-    "team1": {
-      "name": "Germany",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
-    },
-    "team2": {
-      "name": "Switzerland",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png"
-    },
-    "kickoff_date": "2026-03-28",
-    "kickoff_time": "02:45",
-    "match_date": "2026-03-28",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd3",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br1",
-        "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "Uruguay-England",
-    "league": "Football",
-    "team1": {
-      "name": "Uruguay",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png"
-    },
-    "team2": {
-      "name": "England",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
-    },
-    "kickoff_date": "2026-03-28",
-    "kickoff_time": "02:45",
-    "match_date": "2026-03-28",
-    "match_time": "02:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd9",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br2",
-        "label": "CH-4"
       }
     ]
   }
