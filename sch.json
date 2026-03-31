@@ -1422,7 +1422,16 @@
     "match_date": "2026-04-02",
     "match_time": "06:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "ChicagoBulls-IndianaPacers",
@@ -1530,7 +1539,12 @@
     "match_date": "2026-04-02",
     "match_time": "09:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "NewYorkIslanders-PittsburghPenguins",
