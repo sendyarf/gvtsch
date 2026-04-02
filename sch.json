@@ -1248,7 +1248,16 @@
     "match_date": "2026-04-05",
     "match_time": "19:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://w2.sportzsonline.click/channels/hd/hd9.php | ESPN 3 NL",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven3",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Heerenveen-Heracles",
@@ -1446,7 +1455,16 @@
     "match_date": "2026-04-05",
     "match_time": "22:15",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://w2.sportzsonline.click/channels/hd/hd5.php | BEIN SPORTS US",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv3",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Metz-Nantes",
@@ -1464,7 +1482,12 @@
     "match_date": "2026-04-05",
     "match_time": "22:15",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://w2.sportzsonline.click/channels/hd/hd4.php | LIGUE 1+ FR",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "BayerLeverkusen-Wolfsburg",
@@ -1659,7 +1682,16 @@
     "match_date": "2026-04-05",
     "match_time": "20:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://w2.sportzsonline.click/channels/hd/hd3.php | DAZN 2 DE",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven2",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "EintrachtFrankfurt-FCKoln",
@@ -1776,7 +1808,16 @@
     "match_date": "2026-04-05",
     "match_time": "20:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://w2.sportzsonline.click/channels/hd/hd7.php | DAZN ZONA IT",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv2",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Pisa-Torino",
@@ -1794,7 +1835,12 @@
     "match_date": "2026-04-05",
     "match_time": "23:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://w2.sportzsonline.click/channels/hd/hd7.php | SS CALCIO IT",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "RayoVallecano-Elche",
@@ -1970,7 +2016,24 @@
     "match_date": "2026-04-05",
     "match_time": "19:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://w2.sportzsonline.click/channels/hd/hd2.php | PREMIER SPORTS 2 UK",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://w2.sportzsonline.click/channels/hd/hd6.php | ESPN DEPORTES US",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://w2.sportzsonline.click/channels/bra/br2.php | ESPN BR",
+        "label": "CH-4"
+      }
+    ]
   },
   {
     "id": "Valencia-CeltaVigo",
@@ -1988,7 +2051,24 @@
     "match_date": "2026-04-05",
     "match_time": "21:15",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://w2.sportzsonline.click/channels/hd/hd2.php | PREMIER SPORTS 2 UK",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://w2.sportzsonline.click/channels/hd/hd6.php | ESPN DEPORTES US",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://w2.sportzsonline.click/channels/bra/br6.php | ESPN4 BR",
+        "label": "CH-4"
+      }
+    ]
   },
   {
     "id": "Oviedo-Sevilla",
@@ -2006,7 +2086,24 @@
     "match_date": "2026-04-05",
     "match_time": "23:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://w2.sportzsonline.click/channels/hd/hd2.php | PREMIER SPORTS 2 UK",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://w2.sportzsonline.click/channels/hd/hd6.php | ESPN DEPORTES US",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://w2.sportzsonline.click/channels/bra/br3.php | ESPN3 BR",
+        "label": "CH-4"
+      }
+    ]
   },
   {
     "id": "AremaFC-MalutUnited",
