@@ -1,243 +1,5 @@
 [
   {
-    "id": "UniversidadChile-LaSerena",
-    "league": "",
-    "team1": {
-      "name": "Universidad Chile",
-      "logo": ""
-    },
-    "team2": {
-      "name": "La Serena",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "05:00",
-    "match_date": "",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd8",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd11",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Pacific-Cavalry",
-    "league": "",
-    "team1": {
-      "name": "Pacific",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Cavalry",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "05:00",
-    "match_date": "",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd11",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "CcutaDeportivo-AmricadeCali",
-    "league": "",
-    "team1": {
-      "name": "Cúcuta Deportivo",
-      "logo": ""
-    },
-    "team2": {
-      "name": "América de Cali",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "05:00",
-    "match_date": "",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd9",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "Corinthians-Internacional",
-    "league": "",
-    "team1": {
-      "name": "Corinthians",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Internacional",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "05:30",
-    "match_date": "",
-    "match_time": "05:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=br4",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "Bahia-Palmeiras",
-    "league": "",
-    "team1": {
-      "name": "Bahia",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Palmeiras",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "05:30",
-    "match_date": "",
-    "match_time": "05:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=br3",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "Mirassol-RBBragantino",
-    "league": "",
-    "team1": {
-      "name": "Mirassol",
-      "logo": ""
-    },
-    "team2": {
-      "name": "RB Bragantino",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "06:00",
-    "match_date": "",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=br1",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "Grmio-Remo",
-    "league": "",
-    "team1": {
-      "name": "Grêmio",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Remo",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "06:30",
-    "match_date": "",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=br5",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "CentralCrdobaSdE-NewellsOldBoys",
-    "league": "",
-    "team1": {
-      "name": "Central Córdoba SdE",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Newell's Old Boys",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "06:30",
-    "match_date": "",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "BotafogoSP-SoBernardo",
-    "league": "",
-    "team1": {
-      "name": "Botafogo SP",
-      "logo": ""
-    },
-    "team2": {
-      "name": "São Bernardo",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "06:30",
-    "match_date": "",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=br2",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "LosAngelesLakers-DallasMaveirkcs",
-    "league": "NBA",
-    "team1": {
-      "name": "Los Angeles Lakers",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Dallas Maveirkcs",
-      "logo": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "06:30",
-    "match_date": "",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
     "id": "HoustonRockets-GoldenStateWarriors",
     "league": "NBA",
     "team1": {
@@ -307,6 +69,10 @@
       {
         "url": "https://multi.govoet.cc/?ss=sporttv3",
         "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv2",
+        "label": "CH-2"
       }
     ]
   },
@@ -854,6 +620,29 @@
     ]
   },
   {
+    "id": "UniversidadChile-LaSerena",
+    "league": "",
+    "team1": {
+      "name": "Universidad Chile",
+      "logo": ""
+    },
+    "team2": {
+      "name": "La Serena",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "05:00",
+    "match_date": "",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
     "id": "AtlticoCali-Envigado",
     "league": "",
     "team1": {
@@ -1015,6 +804,1152 @@
       {
         "url": "https://multi.govoet.cc/?ss=hd9",
         "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "MelbourneCity-CentralCoastMariners",
+    "league": "",
+    "team1": {
+      "name": "Melbourne City",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Central Coast Mariners",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "16:00",
+    "match_date": "",
+    "match_time": "16:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Bandrmaspor-Saryer",
+    "league": "",
+    "team1": {
+      "name": "Bandırmaspor",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Sarıyer",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "18:30",
+    "match_date": "",
+    "match_time": "18:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Thailand-China",
+    "league": "",
+    "team1": {
+      "name": "Thailand",
+      "logo": ""
+    },
+    "team2": {
+      "name": "China",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "19:50",
+    "match_date": "",
+    "match_time": "19:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "ManisaBBSK-Pendikspor",
+    "league": "",
+    "team1": {
+      "name": "Manisa BBSK",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Pendikspor",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "21:00",
+    "match_date": "",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Vizela-BenficaB",
+    "league": "",
+    "team1": {
+      "name": "Vizela",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Benfica B",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "00:00",
+    "match_date": "",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "orumBelediyespor-Bodrumspor",
+    "league": "",
+    "team1": {
+      "name": "Çorum Belediyespor",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Bodrumspor",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "00:00",
+    "match_date": "",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Barcelona-Panathinaikos",
+    "league": "Basketball - Euroleague",
+    "team1": {
+      "name": "Barcelona",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Panathinaikos",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "01:30",
+    "match_date": "",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv3",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "SportingCP-Arsenal",
+    "league": "",
+    "team1": {
+      "name": "Sporting CP",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Arsenal",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "02:00",
+    "match_date": "",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd9",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv5",
+        "label": "CH-5"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br4",
+        "label": "CH-6"
+      }
+    ]
+  },
+  {
+    "id": "RealMadrid-BayernMnchen",
+    "league": "",
+    "team1": {
+      "name": "Real Madrid",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Bayern München",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "02:00",
+    "match_date": "",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd3",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd4",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-5"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-6"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-7"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br3",
+        "label": "CH-8"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br1",
+        "label": "CH-9"
+      }
+    ]
+  },
+  {
+    "id": "Rionegroguilas-AtlticoBucaramanga",
+    "league": "",
+    "team1": {
+      "name": "Rionegro Águilas",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Atlético Bucaramanga",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "04:00",
+    "match_date": "",
+    "match_time": "04:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd9",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "BarracasCentral-VascodaGama",
+    "league": "",
+    "team1": {
+      "name": "Barracas Central",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Vasco da Gama",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "05:00",
+    "match_date": "",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br3",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "IndependientePetrolero-RacingClub",
+    "league": "",
+    "team1": {
+      "name": "Independiente Petrolero",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Racing Club",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "05:00",
+    "match_date": "",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br2",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "IndependienteRivadavia-Bolvar",
+    "league": "",
+    "team1": {
+      "name": "Independiente Rivadavia",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Bolívar",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "05:00",
+    "match_date": "",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "DeportivoLaGuaira-Fluminense",
+    "league": "",
+    "team1": {
+      "name": "Deportivo La Guaira",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Fluminense",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "05:00",
+    "match_date": "",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=br4",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "NashvilleSC-Amrica",
+    "league": "",
+    "team1": {
+      "name": "Nashville SC",
+      "logo": ""
+    },
+    "team2": {
+      "name": "América",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "07:00",
+    "match_date": "",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "CharlotteHornets-BostonCeltics",
+    "league": "NBA",
+    "team1": {
+      "name": "Charlotte Hornets",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Boston Celtics",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "07:00",
+    "match_date": "",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "OHiggins-Millonarios",
+    "league": "",
+    "team1": {
+      "name": "O'Higgins",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Millonarios",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "07:00",
+    "match_date": "",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Barcelona-Cruzeiro",
+    "league": "",
+    "team1": {
+      "name": "Barcelona",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Cruzeiro",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "07:00",
+    "match_date": "",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=br2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br5",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "AlwaysReady-LDUQuito",
+    "league": "",
+    "team1": {
+      "name": "Always Ready",
+      "logo": ""
+    },
+    "team2": {
+      "name": "LDU Quito",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "07:00",
+    "match_date": "",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Barranquilla-RealSantander",
+    "league": "",
+    "team1": {
+      "name": "Barranquilla",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Real Santander",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "07:30",
+    "match_date": "",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd9",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "UniversidadCatlica-BocaJuniors",
+    "league": "",
+    "team1": {
+      "name": "Universidad Católica",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Boca Juniors",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "07:30",
+    "match_date": "",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv3",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "BostonRiver-SoPaulo",
+    "league": "",
+    "team1": {
+      "name": "Boston River",
+      "logo": ""
+    },
+    "team2": {
+      "name": "São Paulo",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "07:30",
+    "match_date": "",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=br1",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "DeportesTolima-Universitario",
+    "league": "",
+    "team1": {
+      "name": "Deportes Tolima",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Universitario",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "09:00",
+    "match_date": "",
+    "match_time": "09:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "LosAngelesFC-CruzAzul",
+    "league": "",
+    "team1": {
+      "name": "Los Angeles FC",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Cruz Azul",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "09:00",
+    "match_date": "",
+    "match_time": "09:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "AlianzaAtltico-Tigre",
+    "league": "",
+    "team1": {
+      "name": "Alianza Atlético",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Tigre",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "09:00",
+    "match_date": "",
+    "match_time": "09:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "DallasMavericks-LAClippers",
+    "league": "NBA",
+    "team1": {
+      "name": "Dallas Mavericks",
+      "logo": ""
+    },
+    "team2": {
+      "name": "LA Clippers",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "09:30",
+    "match_date": "",
+    "match_time": "09:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "GambaOsaka-BangkokUnited",
+    "league": "",
+    "team1": {
+      "name": "Gamba Osaka",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Bangkok United",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "17:00",
+    "match_date": "",
+    "match_time": "17:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "SportingBraga-RealBetis",
+    "league": "",
+    "team1": {
+      "name": "Sporting Braga",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Real Betis",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "23:45",
+    "match_date": "",
+    "match_time": "23:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd9",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "Gztepe-Galatasaray",
+    "league": "",
+    "team1": {
+      "name": "Göztepe",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Galatasaray",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "00:00",
+    "match_date": "",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "PSG-Liverpool",
+    "league": "",
+    "team1": {
+      "name": "PSG",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Liverpool",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "02:00",
+    "match_date": "",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd4",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd9",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-5"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv5",
+        "label": "CH-6"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br4",
+        "label": "CH-7"
+      }
+    ]
+  },
+  {
+    "id": "Barcelona-AtlticoMadrid",
+    "league": "",
+    "team1": {
+      "name": "Barcelona",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Atlético Madrid",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "02:00",
+    "match_date": "",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd3",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd5",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-5"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-6"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-7"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br3",
+        "label": "CH-8"
+      }
+    ]
+  },
+  {
+    "id": "DeportivoCuenca-Santos",
+    "league": "",
+    "team1": {
+      "name": "Deportivo Cuenca",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Santos",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "05:00",
+    "match_date": "",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br2",
+        "label": "CH-4"
+      }
+    ]
+  },
+  {
+    "id": "Mirassol-Lans",
+    "league": "",
+    "team1": {
+      "name": "Mirassol",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Lanús",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "05:00",
+    "match_date": "",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=br4",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "DeportivoRecoleta-SanLorenzo",
+    "league": "",
+    "team1": {
+      "name": "Deportivo Recoleta",
+      "logo": ""
+    },
+    "team2": {
+      "name": "San Lorenzo",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "05:00",
+    "match_date": "",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Blooming-RiverPlate",
+    "league": "",
+    "team1": {
+      "name": "Blooming",
+      "logo": ""
+    },
+    "team2": {
+      "name": "River Plate",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "07:30",
+    "match_date": "",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "Junior-Palmeiras",
+    "league": "",
+    "team1": {
+      "name": "Junior",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Palmeiras",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "07:30",
+    "match_date": "",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br2",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "Torque-Grmio",
+    "league": "",
+    "team1": {
+      "name": "Torque",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Grêmio",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "07:30",
+    "match_date": "",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=br5",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Cusco-Flamengo",
+    "league": "",
+    "team1": {
+      "name": "Cusco",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Flamengo",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "07:30",
+    "match_date": "",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=br3",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "TigresUANL-SeattleSoundersFC",
+    "league": "",
+    "team1": {
+      "name": "Tigres UANL",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Seattle Sounders FC",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "08:00",
+    "match_date": "",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd5",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "SportingCristal-CerroPorteo",
+    "league": "",
+    "team1": {
+      "name": "Sporting Cristal",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Cerro Porteño",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "09:00",
+    "match_date": "",
+    "match_time": "09:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "AcademiaPuertoCabello-AtlticoMineiro",
+    "league": "",
+    "team1": {
+      "name": "Academia Puerto Cabello",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Atlético Mineiro",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "09:00",
+    "match_date": "",
+    "match_time": "09:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Toluca-LAGalaxy",
+    "league": "",
+    "team1": {
+      "name": "Toluca",
+      "logo": ""
+    },
+    "team2": {
+      "name": "LA Galaxy",
+      "logo": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "10:00",
+    "match_date": "",
+    "match_time": "10:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-2"
       }
     ]
   }
