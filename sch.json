@@ -1096,135 +1096,6 @@
     "servers": []
   },
   {
-    "id": "Monaco-Marseille",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Monaco",
-      "logo": "https://static.flashscore.com/res/image/data/n3jLkyne-0SFGJsPk.png"
-    },
-    "team2": {
-      "name": "Marseille",
-      "logo": "https://static.flashscore.com/res/image/data/t6Kb5X76-voNnDKJK.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "01:45",
-    "match_date": "2026-04-06",
-    "match_time": "01:45",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Inter-ASRoma",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Inter",
-      "logo": "https://static.flashscore.com/res/image/data/fLNbBiQq-O8c8nWOb.png"
-    },
-    "team2": {
-      "name": "AS Roma",
-      "logo": "https://static.flashscore.com/res/image/data/j31Z1pne-GtNb9h2q.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "01:45",
-    "match_date": "2026-04-06",
-    "match_time": "01:45",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Udinese-Como",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Udinese",
-      "logo": "https://static.flashscore.com/res/image/data/277EtfPq-SYw7EcY6.png"
-    },
-    "team2": {
-      "name": "Como",
-      "logo": "https://static.flashscore.com/res/image/data/4pxypIS0-hpmw8K1h.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "17:30",
-    "match_date": "2026-04-06",
-    "match_time": "17:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Lecce-Atalanta",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Lecce",
-      "logo": "https://static.flashscore.com/res/image/data/fPabg0DN-McvX4bye.png"
-    },
-    "team2": {
-      "name": "Atalanta",
-      "logo": "https://static.flashscore.com/res/image/data/z3aHqFBN-rg6usZns.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "20:00",
-    "match_date": "2026-04-06",
-    "match_time": "20:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Juventus-Genoa",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Juventus",
-      "logo": "https://static.flashscore.com/res/image/data/AufWJrhT-0nz5yHcE.png"
-    },
-    "team2": {
-      "name": "Genoa",
-      "logo": "https://static.flashscore.com/res/image/data/S48z3Poe-hCD6m1R3.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "23:00",
-    "match_date": "2026-04-06",
-    "match_time": "23:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd8",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br6",
-        "label": "CH-3"
-      }
-    ]
-  },
-  {
     "id": "Napoli-ACMilan",
     "league": "Italy - Serie A",
     "team1": {
@@ -1258,24 +1129,6 @@
         "label": "CH-3"
       }
     ]
-  },
-  {
-    "id": "Alaves-Osasuna",
-    "league": "Spain - LaLiga",
-    "team1": {
-      "name": "Alaves",
-      "logo": "https://static.flashscore.com/res/image/data/4rBxR4R0-4U3vjZKk.png"
-    },
-    "team2": {
-      "name": "Osasuna",
-      "logo": "https://static.flashscore.com/res/image/data/UTfY3r86-Yu8w588N.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "02:00",
-    "match_date": "2026-04-06",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
   },
   {
     "id": "Girona-Villarreal",
@@ -1313,72 +1166,6 @@
       {
         "url": "https://multi.govoet.cc/?ss=br2",
         "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "PersikKediri-PersijapJepara",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Persik Kediri",
-      "logo": "https://static.flashscore.com/res/image/data/pbvGiliT-fudV7NWp.png"
-    },
-    "team2": {
-      "name": "Persijap Jepara",
-      "logo": "https://static.flashscore.com/res/image/data/MsJcYbRq-ngTEm5d7.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "15:30",
-    "match_date": "2026-04-06",
-    "match_time": "15:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMjcxNTkubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81NDg4NjAubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMTM5MDYubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xNDc4MDEubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MzQ5ODIubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xNjg3NDAubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
-  },
-  {
-    "id": "BaliUnited-PSBSBiakNumfor",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Bali United",
-      "logo": "https://static.flashscore.com/res/image/data/Me4JWEme-pdceGY5b.png"
-    },
-    "team2": {
-      "name": "PSBS Biak Numfor",
-      "logo": "https://static.flashscore.com/res/image/data/4dlWiJoe-phR6Gnck.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "19:00",
-    "match_date": "2026-04-06",
-    "match_time": "19:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80ODU3MzkubTN1OA==",
-        "label": "CH-VN"
       }
     ]
   },
@@ -1481,202 +1268,102 @@
     ]
   },
   {
-    "id": "BostonCeltics-TorontoRaptors",
-    "league": "Usa - Nba",
+    "id": "Barcelona-AtlMadrid",
+    "league": "Uefa Champions League",
     "team1": {
-      "name": "Boston Celtics",
-      "logo": "https://static.flashscore.com/res/image/data/jaRhGsXH-0tHj7MWK.png"
+      "name": "Barcelona",
+      "logo": "https://static.flashscore.com/res/image/data/jZ8dSYS0-fcDVLdrL.png"
     },
     "team2": {
-      "name": "Toronto Raptors",
-      "logo": "https://static.flashscore.com/res/image/data/8tgmH0hT-dfaUavPf.png"
+      "name": "Atl. Madrid",
+      "logo": "https://static.flashscore.com/res/image/data/Kv2QSkhT-GhHiNvXF.png"
     },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "02:30",
-    "match_date": "2026-04-06",
-    "match_time": "02:30",
+    "kickoff_date": "2026-04-09",
+    "kickoff_time": "02:00",
+    "match_date": "2026-04-09",
+    "match_time": "02:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd3",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd5",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd8",
+        "label": "CH-5"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-6"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-7"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br3",
+        "label": "CH-8"
+      }
+    ]
   },
   {
-    "id": "BrooklynNets-WashingtonWizards",
-    "league": "Usa - Nba",
+    "id": "PSG-Liverpool",
+    "league": "Uefa Champions League",
     "team1": {
-      "name": "Brooklyn Nets",
-      "logo": "https://static.flashscore.com/res/image/data/4boTeFiT-foHVOfAt.png"
+      "name": "PSG",
+      "logo": "https://static.flashscore.com/res/image/data/fJgGn26k-A7UDDuOO.png"
     },
     "team2": {
-      "name": "Washington Wizards",
-      "logo": "https://static.flashscore.com/res/image/data/SjpSqG7k-zNBiPbd0.png"
+      "name": "Liverpool",
+      "logo": "https://static.flashscore.com/res/image/data/nBClzyne-KCp4zq5F.png"
     },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "02:30",
-    "match_date": "2026-04-06",
-    "match_time": "02:30",
+    "kickoff_date": "2026-04-09",
+    "kickoff_time": "02:00",
+    "match_date": "2026-04-09",
+    "match_time": "02:00",
     "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChicagoBulls-PhoenixSuns",
-    "league": "Usa - Nba",
-    "team1": {
-      "name": "Chicago Bulls",
-      "logo": "https://static.flashscore.com/res/image/data/0KeIPFPq-pbWMuxZT.png"
-    },
-    "team2": {
-      "name": "Phoenix Suns",
-      "logo": "https://static.flashscore.com/res/image/data/hOv8stDN-fgP08kAm.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "02:30",
-    "match_date": "2026-04-06",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "MilwaukeeBucks-MemphisGrizzlies",
-    "league": "Usa - Nba",
-    "team1": {
-      "name": "Milwaukee Bucks",
-      "logo": "https://static.flashscore.com/res/image/data/CdWsGdU0-xrW85HXg.png"
-    },
-    "team2": {
-      "name": "Memphis Grizzlies",
-      "logo": "https://static.flashscore.com/res/image/data/423TzPRq-OGDApLpE.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "02:30",
-    "match_date": "2026-04-06",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ClevelandCavaliers-IndianaPacers",
-    "league": "Usa - Nba",
-    "team1": {
-      "name": "Cleveland Cavaliers",
-      "logo": "https://static.flashscore.com/res/image/data/xjtpSnU0-6ZJgih6O.png"
-    },
-    "team2": {
-      "name": "Indiana Pacers",
-      "logo": "https://static.flashscore.com/res/image/data/fRvvRwQq-OGagz1v1.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "05:00",
-    "match_date": "2026-04-06",
-    "match_time": "05:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "MinnesotaTimberwolves-CharlotteHornets",
-    "league": "Usa - Nba",
-    "team1": {
-      "name": "Minnesota Timberwolves",
-      "logo": "https://static.flashscore.com/res/image/data/bNkuOd86-KbXk58wB.png"
-    },
-    "team2": {
-      "name": "Charlotte Hornets",
-      "logo": "https://static.flashscore.com/res/image/data/ny5unNlC-ve2sWlEq.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "06:00",
-    "match_date": "2026-04-06",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "NewOrleansPelicans-OrlandoMagic",
-    "league": "Usa - Nba",
-    "team1": {
-      "name": "New Orleans Pelicans",
-      "logo": "https://static.flashscore.com/res/image/data/Gb6wqNkC-StvCsRZ7.png"
-    },
-    "team2": {
-      "name": "Orlando Magic",
-      "logo": "https://static.flashscore.com/res/image/data/lMTx9oXH-l0jb3WKi.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "06:00",
-    "match_date": "2026-04-06",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "OklahomaCityThunder-UtahJazz",
-    "league": "Usa - Nba",
-    "team1": {
-      "name": "Oklahoma City Thunder",
-      "logo": "https://static.flashscore.com/res/image/data/KvT52V5k-4zc22IQb.png"
-    },
-    "team2": {
-      "name": "Utah Jazz",
-      "logo": "https://static.flashscore.com/res/image/data/vkL2HmT0-faSzOozC.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "06:00",
-    "match_date": "2026-04-06",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "DallasMavericks-LosAngelesLakers",
-    "league": "Usa - Nba",
-    "team1": {
-      "name": "Dallas Mavericks",
-      "logo": "https://static.flashscore.com/res/image/data/21HHJ696-CG2H5Lcq.png"
-    },
-    "team2": {
-      "name": "Los Angeles Lakers",
-      "logo": "https://static.flashscore.com/res/image/data/dfovLU96-6y7aqqwb.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "06:30",
-    "match_date": "2026-04-06",
-    "match_time": "06:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "SacramentoKings-LosAngelesClippers",
-    "league": "Usa - Nba",
-    "team1": {
-      "name": "Sacramento Kings",
-      "logo": "https://static.flashscore.com/res/image/data/6DnmN986-UPll9Lyj.png"
-    },
-    "team2": {
-      "name": "Los Angeles Clippers",
-      "logo": "https://static.flashscore.com/res/image/data/jJgC6dAN-dhz9Qt1I.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "08:00",
-    "match_date": "2026-04-06",
-    "match_time": "08:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "GoldenStateWarriors-HoustonRockets",
-    "league": "Usa - Nba",
-    "team1": {
-      "name": "Golden State Warriors",
-      "logo": "https://static.flashscore.com/res/image/data/jLhKbSne-pfzjG61O.png"
-    },
-    "team2": {
-      "name": "Houston Rockets",
-      "logo": "https://static.flashscore.com/res/image/data/MBTfOVoe-Q9iB8bcq.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "09:00",
-    "match_date": "2026-04-06",
-    "match_time": "09:00",
-    "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd4",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd9",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-5"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv5",
+        "label": "CH-6"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br4",
+        "label": "CH-7"
+      }
+    ]
   },
   {
     "id": "AtlantaHawks-NewYorkKnicks",
@@ -1987,110 +1674,128 @@
     "servers": []
   },
   {
-    "id": "PittsburghPenguins-FloridaPanthers",
-    "league": "Usa - Nhl",
+    "id": "ClevelandCavaliers-AtlantaHawks",
+    "league": "Usa - Nba",
     "team1": {
-      "name": "Pittsburgh Penguins",
-      "logo": "https://static.flashscore.com/res/image/data/nJ0Qys8k-bRgkdyvd.png"
+      "name": "Cleveland Cavaliers",
+      "logo": "https://static.flashscore.com/res/image/data/xjtpSnU0-6ZJgih6O.png"
     },
     "team2": {
-      "name": "Florida Panthers",
-      "logo": "https://static.flashscore.com/res/image/data/K4AQlVTH-4U1I4vlB.png"
+      "name": "Atlanta Hawks",
+      "logo": "https://static.flashscore.com/res/image/data/Glb3yYRq-4bqaxRtQ.png"
     },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "02:00",
-    "match_date": "2026-04-06",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PhiladelphiaFlyers-BostonBruins",
-    "league": "Usa - Nhl",
-    "team1": {
-      "name": "Philadelphia Flyers",
-      "logo": "https://static.flashscore.com/res/image/data/rF1uZCjC-zRkGfUnJ.png"
-    },
-    "team2": {
-      "name": "Boston Bruins",
-      "logo": "https://static.flashscore.com/res/image/data/UeHV59Pq-bP6XFTSM.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "02:30",
-    "match_date": "2026-04-06",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "OttawaSenators-CarolinaHurricanes",
-    "league": "Usa - Nhl",
-    "team1": {
-      "name": "Ottawa Senators",
-      "logo": "https://static.flashscore.com/res/image/data/SG4zwC8k-U3Fg3Bur.png"
-    },
-    "team2": {
-      "name": "Carolina Hurricanes",
-      "logo": "https://static.flashscore.com/res/image/data/rBPup6iT-Ea3nasx0.png"
-    },
-    "kickoff_date": "2026-04-06",
-    "kickoff_time": "04:00",
-    "match_date": "2026-04-06",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "MontrealCanadiens-NewJerseyDevils",
-    "league": "Usa - Nhl",
-    "team1": {
-      "name": "Montreal Canadiens",
-      "logo": "https://static.flashscore.com/res/image/data/rmLcPRlC-IBjau0c1.png"
-    },
-    "team2": {
-      "name": "New Jersey Devils",
-      "logo": "https://static.flashscore.com/res/image/data/UyZgcGVH-S4A5n02E.png"
-    },
-    "kickoff_date": "2026-04-06",
+    "kickoff_date": "2026-04-09",
     "kickoff_time": "06:00",
-    "match_date": "2026-04-06",
+    "match_date": "2026-04-09",
     "match_time": "06:00",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "NewYorkRangers-WashingtonCapitals",
-    "league": "Usa - Nhl",
+    "id": "DetroitPistons-MilwaukeeBucks",
+    "league": "Usa - Nba",
     "team1": {
-      "name": "New York Rangers",
-      "logo": "https://static.flashscore.com/res/image/data/phNFbvWH-nDR1Ewvl.png"
+      "name": "Detroit Pistons",
+      "logo": "https://static.flashscore.com/res/image/data/G6CnZjgT-xrW85HXg.png"
     },
     "team2": {
-      "name": "Washington Capitals",
-      "logo": "https://static.flashscore.com/res/image/data/dIknNK96-CrRgOfUf.png"
+      "name": "Milwaukee Bucks",
+      "logo": "https://static.flashscore.com/res/image/data/CdWsGdU0-xrW85HXg.png"
     },
-    "kickoff_date": "2026-04-06",
+    "kickoff_date": "2026-04-09",
     "kickoff_time": "06:00",
-    "match_date": "2026-04-06",
+    "match_date": "2026-04-09",
     "match_time": "06:00",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "ColoradoAvalanche-StLouisBlues",
-    "league": "Usa - Nhl",
+    "id": "OrlandoMagic-MinnesotaTimberwolves",
+    "league": "Usa - Nba",
     "team1": {
-      "name": "Colorado Avalanche",
-      "logo": "https://static.flashscore.com/res/image/data/vTuaEfRq-UkrSKu1K.png"
+      "name": "Orlando Magic",
+      "logo": "https://static.flashscore.com/res/image/data/lMTx9oXH-l0jb3WKi.png"
     },
     "team2": {
-      "name": "St. Louis Blues",
-      "logo": "https://static.flashscore.com/res/image/data/jFoX1u86-WtL9K36g.png"
+      "name": "Minnesota Timberwolves",
+      "logo": "https://static.flashscore.com/res/image/data/bNkuOd86-KbXk58wB.png"
     },
-    "kickoff_date": "2026-04-06",
+    "kickoff_date": "2026-04-09",
+    "kickoff_time": "06:00",
+    "match_date": "2026-04-09",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "DenverNuggets-MemphisGrizzlies",
+    "league": "Usa - Nba",
+    "team1": {
+      "name": "Denver Nuggets",
+      "logo": "https://static.flashscore.com/res/image/data/rT4Lu9CN-vXFf6tnR.png"
+    },
+    "team2": {
+      "name": "Memphis Grizzlies",
+      "logo": "https://static.flashscore.com/res/image/data/423TzPRq-OGDApLpE.png"
+    },
+    "kickoff_date": "2026-04-09",
+    "kickoff_time": "08:00",
+    "match_date": "2026-04-09",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SanAntonioSpurs-PortlandTrailBlazers",
+    "league": "Usa - Nba",
+    "team1": {
+      "name": "San Antonio Spurs",
+      "logo": "https://static.flashscore.com/res/image/data/0l5OxLS0-SrHHDGUm.png"
+    },
+    "team2": {
+      "name": "Portland Trail Blazers",
+      "logo": "https://static.flashscore.com/res/image/data/Y1757FjT-Sz1MOtvA.png"
+    },
+    "kickoff_date": "2026-04-09",
     "kickoff_time": "08:30",
-    "match_date": "2026-04-06",
+    "match_date": "2026-04-09",
     "match_time": "08:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LosAngelesClippers-OklahomaCityThunder",
+    "league": "Usa - Nba",
+    "team1": {
+      "name": "Los Angeles Clippers",
+      "logo": "https://static.flashscore.com/res/image/data/jJgC6dAN-dhz9Qt1I.png"
+    },
+    "team2": {
+      "name": "Oklahoma City Thunder",
+      "logo": "https://static.flashscore.com/res/image/data/KvT52V5k-4zc22IQb.png"
+    },
+    "kickoff_date": "2026-04-09",
+    "kickoff_time": "09:00",
+    "match_date": "2026-04-09",
+    "match_time": "09:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PhoenixSuns-DallasMavericks",
+    "league": "Usa - Nba",
+    "team1": {
+      "name": "Phoenix Suns",
+      "logo": "https://static.flashscore.com/res/image/data/hOv8stDN-fgP08kAm.png"
+    },
+    "team2": {
+      "name": "Dallas Mavericks",
+      "logo": "https://static.flashscore.com/res/image/data/21HHJ696-CG2H5Lcq.png"
+    },
+    "kickoff_date": "2026-04-09",
+    "kickoff_time": "09:00",
+    "match_date": "2026-04-09",
+    "match_time": "09:00",
     "duration": "3.5",
     "servers": []
   },
@@ -2384,6 +2089,60 @@
     "kickoff_date": "2026-04-08",
     "kickoff_time": "09:00",
     "match_date": "2026-04-08",
+    "match_time": "09:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "NewYorkRangers-BuffaloSabres",
+    "league": "Usa - Nhl",
+    "team1": {
+      "name": "New York Rangers",
+      "logo": "https://static.flashscore.com/res/image/data/phNFbvWH-nDR1Ewvl.png"
+    },
+    "team2": {
+      "name": "Buffalo Sabres",
+      "logo": "https://static.flashscore.com/res/image/data/UaXyO3lC-UkrSKu1K.png"
+    },
+    "kickoff_date": "2026-04-09",
+    "kickoff_time": "06:00",
+    "match_date": "2026-04-09",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "TorontoMapleLeafs-WashingtonCapitals",
+    "league": "Usa - Nhl",
+    "team1": {
+      "name": "Toronto Maple Leafs",
+      "logo": "https://static.flashscore.com/res/image/data/WflzOsBN-xC30mm91.png"
+    },
+    "team2": {
+      "name": "Washington Capitals",
+      "logo": "https://static.flashscore.com/res/image/data/dIknNK96-CrRgOfUf.png"
+    },
+    "kickoff_date": "2026-04-09",
+    "kickoff_time": "06:30",
+    "match_date": "2026-04-09",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SanJoseSharks-EdmontonOilers",
+    "league": "Usa - Nhl",
+    "team1": {
+      "name": "San Jose Sharks",
+      "logo": "https://static.flashscore.com/res/image/data/8bIgWd96-pbMiEVKA.png"
+    },
+    "team2": {
+      "name": "Edmonton Oilers",
+      "logo": "https://static.flashscore.com/res/image/data/UmLMgigT-8tsWJaGQ.png"
+    },
+    "kickoff_date": "2026-04-09",
+    "kickoff_time": "09:00",
+    "match_date": "2026-04-09",
     "match_time": "09:00",
     "duration": "3.5",
     "servers": []
@@ -2752,6 +2511,29 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Genoa-Juventus",
+    "league": "Football",
+    "team1": {
+      "name": "Genoa",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
+    },
+    "team2": {
+      "name": "Juventus",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+    },
+    "kickoff_date": "2026-04-06",
+    "kickoff_time": "22:00",
+    "match_date": "2026-04-06",
+    "match_time": "22:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
         "label": "CH-EN"
       }
     ]
