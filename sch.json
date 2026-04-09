@@ -1795,12 +1795,7 @@
     "match_date": "2026-04-09",
     "match_time": "09:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcxLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "TorontoRaptors-MiamiHeat",
@@ -2262,12 +2257,7 @@
     "match_date": "2026-04-09",
     "match_time": "09:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUyLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "NewYorkIslanders-TorontoMapleLeafs",
@@ -2835,75 +2825,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE1LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "LAGalaxy-Toluca",
-    "league": "Football",
-    "team1": {
-      "name": "LA Galaxy",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png"
-    },
-    "team2": {
-      "name": "Toluca",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png"
-    },
-    "kickoff_date": "2026-04-09",
-    "kickoff_time": "09:00",
-    "match_date": "2026-04-09",
-    "match_time": "09:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "OklahomaCityThunder-LAClippers",
-    "league": "Basketball",
-    "team1": {
-      "name": "Oklahoma City Thunder",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
-    },
-    "team2": {
-      "name": "LA Clippers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png"
-    },
-    "kickoff_date": "2026-04-09",
-    "kickoff_time": "08:00",
-    "match_date": "2026-04-09",
-    "match_time": "08:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "CerroPorteo-SportingCristal",
-    "league": "Football",
-    "team1": {
-      "name": "Cerro Porteño",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2671.png"
-    },
-    "team2": {
-      "name": "Sporting Cristal",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2673.png"
-    },
-    "kickoff_date": "2026-04-09",
-    "kickoff_time": "08:00",
-    "match_date": "2026-04-09",
-    "match_time": "08:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE0LnBocA==",
         "label": "CH-EN"
       }
     ]
