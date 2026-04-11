@@ -1133,22 +1133,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd11",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br2",
-        "label": "CH-4"
       }
     ]
   },
@@ -1265,7 +1249,12 @@
     "match_date": "2026-04-12",
     "match_time": "20:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd5",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Nottingham-AstonVilla",
@@ -1283,7 +1272,16 @@
     "match_date": "2026-04-12",
     "match_time": "20:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Sunderland-Tottenham",
@@ -1301,7 +1299,20 @@
     "match_date": "2026-04-12",
     "match_time": "20:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd9",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br2",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "Chelsea-ManchesterCity",
@@ -1319,7 +1330,28 @@
     "match_date": "2026-04-12",
     "match_time": "22:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd9",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br2",
+        "label": "CH-5"
+      }
+    ]
   },
   {
     "id": "Twente-FCVolendam",
@@ -1441,7 +1473,12 @@
     "match_date": "2026-04-12",
     "match_time": "17:15",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Nijmegen-Feyenoord",
@@ -1459,7 +1496,12 @@
     "match_date": "2026-04-12",
     "match_time": "19:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Zwolle-Excelsior",
@@ -1495,7 +1537,12 @@
     "match_date": "2026-04-12",
     "match_time": "21:45",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Marseille-Metz",
@@ -1594,7 +1641,16 @@
     "match_date": "2026-04-12",
     "match_time": "22:15",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd4",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Lyon-Lorient",
@@ -1809,7 +1865,16 @@
     "match_date": "2026-04-12",
     "match_time": "22:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd3",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven3",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Mainz-Freiburg",
@@ -1827,7 +1892,16 @@
     "match_date": "2026-04-13",
     "match_time": "00:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd3",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven3",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "ASRoma-Pisa",
@@ -1867,10 +1941,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd8",
-        "label": "CH-1"
       }
     ]
   },
@@ -1890,16 +1960,7 @@
     "match_date": "2026-04-11",
     "match_time": "20:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ACMilan-Udinese",
@@ -1987,7 +2048,16 @@
     "match_date": "2026-04-12",
     "match_time": "17:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv2",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Parma-Napoli",
@@ -2005,7 +2075,16 @@
     "match_date": "2026-04-12",
     "match_time": "20:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Bologna-Lecce",
@@ -2023,7 +2102,12 @@
     "match_date": "2026-04-12",
     "match_time": "23:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Como-Inter",
@@ -2041,7 +2125,20 @@
     "match_date": "2026-04-13",
     "match_time": "01:45",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br2",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "RealMadrid-Girona",
@@ -2081,18 +2178,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDYucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven2",
-        "label": "CH-3"
       }
     ]
   },
@@ -2239,7 +2324,16 @@
     "match_date": "2026-04-12",
     "match_time": "21:15",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven2",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "CeltaVigo-Oviedo",
@@ -2257,7 +2351,16 @@
     "match_date": "2026-04-12",
     "match_time": "23:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven2",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "AthBilbao-Villarreal",
@@ -2275,7 +2378,20 @@
     "match_date": "2026-04-13",
     "match_time": "02:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br3",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "Borneo-PSBSBiakNumfor",
