@@ -2590,51 +2590,5 @@
         "label": "CH-EN"
       }
     ]
-  },
-  {
-    "id": "Lille-Toulouse",
-    "league": "Football",
-    "team1": {
-      "name": "Lille",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
-    },
-    "team2": {
-      "name": "Toulouse",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
-    },
-    "kickoff_date": "2026-04-12",
-    "kickoff_time": "21:15",
-    "match_date": "2026-04-12",
-    "match_time": "21:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "LeHavreAC-Nice",
-    "league": "Football",
-    "team1": {
-      "name": "Le Havre AC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png"
-    },
-    "team2": {
-      "name": "Nice",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png"
-    },
-    "kickoff_date": "2026-04-12",
-    "kickoff_time": "21:15",
-    "match_date": "2026-04-12",
-    "match_time": "21:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUucGhw",
-        "label": "CH-EN"
-      }
-    ]
   }
 ]
