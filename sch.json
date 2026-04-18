@@ -2840,29 +2840,6 @@
     ]
   },
   {
-    "id": "LeHavreAC-Angers",
-    "league": "Football",
-    "team1": {
-      "name": "Le Havre AC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png"
-    },
-    "team2": {
-      "name": "Angers",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
-    },
-    "kickoff_date": "2026-04-18",
-    "kickoff_time": "23:00",
-    "match_date": "2026-04-18",
-    "match_time": "23:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "TorontoRaptors-ClevelandCavaliers",
     "league": "Basketball",
     "team1": {
@@ -2886,24 +2863,24 @@
     ]
   },
   {
-    "id": "BKFC88ChrisCamozzi-EstebanRodriguez",
-    "league": "Boxing",
+    "id": "LeHavreAC-Angers",
+    "league": "Football",
     "team1": {
-      "name": "BKFC 88 Chris Camozzi",
-      "logo": ""
+      "name": "Le Havre AC",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png"
     },
     "team2": {
-      "name": "Esteban Rodriguez",
-      "logo": ""
+      "name": "Angers",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
     },
     "kickoff_date": "2026-04-18",
-    "kickoff_time": "06:00",
+    "kickoff_time": "23:00",
     "match_date": "2026-04-18",
-    "match_time": "06:00",
+    "match_time": "23:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQ1LnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcucGhw",
         "label": "CH-EN"
       }
     ]
