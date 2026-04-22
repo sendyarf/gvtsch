@@ -1096,24 +1096,6 @@
     "servers": []
   },
   {
-    "id": "Brighton-Chelsea",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Brighton",
-      "logo": "https://static.flashscore.com/res/image/data/G0q9xjRq-b92lfEJC.png"
-    },
-    "team2": {
-      "name": "Chelsea",
-      "logo": "https://static.flashscore.com/res/image/data/lMxEQ8me-IROrZEJb.png"
-    },
-    "kickoff_date": "2026-04-22",
-    "kickoff_time": "02:00",
-    "match_date": "2026-04-22",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
     "id": "Bournemouth-Leeds",
     "league": "England - Premier League",
     "team1": {
@@ -1176,6 +1158,114 @@
     ]
   },
   {
+    "id": "Sunderland-Nottingham",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Sunderland",
+      "logo": "https://static.flashscore.com/res/image/data/rPPdotBN-0d34NJCO.png"
+    },
+    "team2": {
+      "name": "Nottingham",
+      "logo": "https://static.flashscore.com/res/image/data/86ODdyle-ImKwLTtA.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "02:00",
+    "match_date": "2026-04-25",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Fulham-AstonVilla",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Fulham",
+      "logo": "https://static.flashscore.com/res/image/data/fkbYUWme-ImMEe0UF.png"
+    },
+    "team2": {
+      "name": "Aston Villa",
+      "logo": "https://static.flashscore.com/res/image/data/UHchCEVH-jwz95gs0.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "18:30",
+    "match_date": "2026-04-25",
+    "match_time": "18:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Liverpool-CrystalPalace",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Liverpool",
+      "logo": "https://static.flashscore.com/res/image/data/nBClzyne-KCp4zq5F.png"
+    },
+    "team2": {
+      "name": "Crystal Palace",
+      "logo": "https://static.flashscore.com/res/image/data/GfkvlLmC-drybTCiH.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "21:00",
+    "match_date": "2026-04-25",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "WestHam-Everton",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "West Ham",
+      "logo": "https://static.flashscore.com/res/image/data/YeSfKGlC-Q9DJHs4l.png"
+    },
+    "team2": {
+      "name": "Everton",
+      "logo": "https://static.flashscore.com/res/image/data/EBfZuwme-bRmKmISE.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "21:00",
+    "match_date": "2026-04-25",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Wolves-Tottenham",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Wolves",
+      "logo": "https://static.flashscore.com/res/image/data/MV7MiUmC-ABWS7fBq.png"
+    },
+    "team2": {
+      "name": "Tottenham",
+      "logo": "https://static.flashscore.com/res/image/data/v3SzDxVH-Ig5FKJZ5.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "21:00",
+    "match_date": "2026-04-25",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Arsenal-Newcastle",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Arsenal",
+      "logo": "https://static.flashscore.com/res/image/data/0n1ffK6k-vcNAdtF9.png"
+    },
+    "team2": {
+      "name": "Newcastle",
+      "logo": "https://static.flashscore.com/res/image/data/UXo7VXPq-2Vnc5VQf.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "23:30",
+    "match_date": "2026-04-25",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Telstar-SpartaRotterdam",
     "league": "Netherlands - Eredivisie",
     "team1": {
@@ -1235,129 +1325,256 @@
     "servers": []
   },
   {
-    "id": "PSG-Nantes",
+    "id": "Feyenoord-Groningen",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Feyenoord",
+      "logo": "https://static.flashscore.com/res/image/data/Ag6J0jT0-Wz6bfhxO.png"
+    },
+    "team2": {
+      "name": "Groningen",
+      "logo": "https://static.flashscore.com/res/image/data/AJOIh8jT-Mm3KkBrA.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "21:30",
+    "match_date": "2026-04-25",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Heerenveen-Sittard",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Heerenveen",
+      "logo": "https://static.flashscore.com/res/image/data/lIIfTBWH-4vob7cTR.png"
+    },
+    "team2": {
+      "name": "Sittard",
+      "logo": "https://static.flashscore.com/res/image/data/2Z2jcUT0-EFoqxv3t.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "23:45",
+    "match_date": "2026-04-25",
+    "match_time": "23:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Brest-Lens",
     "league": "France - Ligue 1",
     "team1": {
-      "name": "PSG",
-      "logo": "https://static.flashscore.com/res/image/data/fJgGn26k-A7UDDuOO.png"
+      "name": "Brest",
+      "logo": "https://static.flashscore.com/res/image/data/lWu2w4ne-prdkpc50.png"
     },
     "team2": {
-      "name": "Nantes",
-      "logo": "https://static.flashscore.com/res/image/data/vTVURLne-YBWLmubi.png"
+      "name": "Lens",
+      "logo": "https://static.flashscore.com/res/image/data/tAec9KQq-rTEFAmVL.png"
     },
-    "kickoff_date": "2026-04-23",
-    "kickoff_time": "00:00",
-    "match_date": "2026-04-23",
-    "match_time": "00:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd8",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd4",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv4",
-        "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "Girona-Betis",
-    "league": "Spain - LaLiga",
-    "team1": {
-      "name": "Girona",
-      "logo": "https://static.flashscore.com/res/image/data/6mZj79BN-vPm0hQMN.png"
-    },
-    "team2": {
-      "name": "Betis",
-      "logo": "https://static.flashscore.com/res/image/data/YV7lpDU0-zkU5wiAr.png"
-    },
-    "kickoff_date": "2026-04-22",
-    "kickoff_time": "02:30",
-    "match_date": "2026-04-22",
-    "match_time": "02:30",
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "01:45",
+    "match_date": "2026-04-25",
+    "match_time": "01:45",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "RealMadrid-Alaves",
-    "league": "Spain - LaLiga",
+    "id": "Lyon-Auxerre",
+    "league": "France - Ligue 1",
     "team1": {
-      "name": "Real Madrid",
-      "logo": "https://static.flashscore.com/res/image/data/CGPhnpne-ttfpEDUq.png"
+      "name": "Lyon",
+      "logo": "https://static.flashscore.com/res/image/data/bkuX6RS0-GU4hlIMk.png"
     },
     "team2": {
-      "name": "Alaves",
-      "logo": "https://static.flashscore.com/res/image/data/4rBxR4R0-4U3vjZKk.png"
+      "name": "Auxerre",
+      "logo": "https://static.flashscore.com/res/image/data/4tdLdYlC-StfGPPS1.png"
     },
-    "kickoff_date": "2026-04-22",
-    "kickoff_time": "02:30",
-    "match_date": "2026-04-22",
-    "match_time": "02:30",
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "20:00",
+    "match_date": "2026-04-25",
+    "match_time": "20:00",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "Elche-AtlMadrid",
-    "league": "Spain - LaLiga",
+    "id": "RBLeipzig-UnionBerlin",
+    "league": "Germany - Bundesliga",
     "team1": {
-      "name": "Elche",
-      "logo": "https://static.flashscore.com/res/image/data/EVxB82BN-YmCZKGcR.png"
+      "name": "RB Leipzig",
+      "logo": "https://static.flashscore.com/res/image/data/fNS5fTmC-WvvSE8Dm.png"
     },
     "team2": {
-      "name": "Atl. Madrid",
-      "logo": "https://static.flashscore.com/res/image/data/Kv2QSkhT-GhHiNvXF.png"
+      "name": "Union Berlin",
+      "logo": "https://static.flashscore.com/res/image/data/0OMJUule-ncmj9JbF.png"
     },
-    "kickoff_date": "2026-04-23",
-    "kickoff_time": "00:00",
-    "match_date": "2026-04-23",
-    "match_time": "00:00",
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "01:30",
+    "match_date": "2026-04-25",
+    "match_time": "01:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=eleven1",
-        "label": "CH-3"
-      }
-    ]
+    "servers": []
   },
   {
-    "id": "RealSociedad-Getafe",
-    "league": "Spain - LaLiga",
+    "id": "Augsburg-EintrachtFrankfurt",
+    "league": "Germany - Bundesliga",
     "team1": {
-      "name": "Real Sociedad",
-      "logo": "https://static.flashscore.com/res/image/data/rcAkl5le-vJb36ZBF.png"
+      "name": "Augsburg",
+      "logo": "https://static.flashscore.com/res/image/data/Qgbz4piC-Qmnf8wEL.png"
     },
     "team2": {
-      "name": "Getafe",
-      "logo": "https://static.flashscore.com/res/image/data/hGMWMdT0-YmCZKGcR.png"
+      "name": "Eintracht Frankfurt",
+      "logo": "https://static.flashscore.com/res/image/data/2aegVtQq-86lnAaq9.png"
     },
-    "kickoff_date": "2026-04-23",
-    "kickoff_time": "01:00",
-    "match_date": "2026-04-23",
-    "match_time": "01:00",
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "20:30",
+    "match_date": "2026-04-25",
+    "match_time": "20:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd9",
-        "label": "CH-1"
-      }
-    ]
+    "servers": []
+  },
+  {
+    "id": "FCKoln-BayerLeverkusen",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "FC Koln",
+      "logo": "https://static.flashscore.com/res/image/data/KMphsCCN-86lnAaq9.png"
+    },
+    "team2": {
+      "name": "Bayer Leverkusen",
+      "logo": "https://static.flashscore.com/res/image/data/dWZYQIPq-WrjrBuU2.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "20:30",
+    "match_date": "2026-04-25",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Heidenheim-StPauli",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Heidenheim",
+      "logo": "https://static.flashscore.com/res/image/data/UH4XQKBN-bNiAN2lt.png"
+    },
+    "team2": {
+      "name": "St. Pauli",
+      "logo": "https://static.flashscore.com/res/image/data/QHdIUX96-lrmFNGea.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "20:30",
+    "match_date": "2026-04-25",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Mainz-BayernMunich",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Mainz",
+      "logo": "https://static.flashscore.com/res/image/data/tbR3gUTH-EoYxhN5r.png"
+    },
+    "team2": {
+      "name": "Bayern Munich",
+      "logo": "https://static.flashscore.com/res/image/data/lWGBVoA6-SvLFaVNH.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "20:30",
+    "match_date": "2026-04-25",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Wolfsburg-BMonchengladbach",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Wolfsburg",
+      "logo": "https://static.flashscore.com/res/image/data/2cDrWAS0-KjF1j4v3.png"
+    },
+    "team2": {
+      "name": "B. Monchengladbach",
+      "logo": "https://static.flashscore.com/res/image/data/tjlAHwhT-84sATBUR.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "20:30",
+    "match_date": "2026-04-25",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "HamburgerSV-Hoffenheim",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Hamburger SV",
+      "logo": "https://static.flashscore.com/res/image/data/dWB5gKjC-86lnAaq9.png"
+    },
+    "team2": {
+      "name": "Hoffenheim",
+      "logo": "https://static.flashscore.com/res/image/data/IyZBMF7k-n7lWn9DL.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "23:30",
+    "match_date": "2026-04-25",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Napoli-Cremonese",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Napoli",
+      "logo": "https://static.flashscore.com/res/image/data/tSuMfRjT-Stb48WaO.png"
+    },
+    "team2": {
+      "name": "Cremonese",
+      "logo": "https://static.flashscore.com/res/image/data/bwCjhwB6-8b0QRXR3.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "01:45",
+    "match_date": "2026-04-25",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Parma-Pisa",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Parma",
+      "logo": "https://static.flashscore.com/res/image/data/WI9nVggT-fydXzLY6.png"
+    },
+    "team2": {
+      "name": "Pisa",
+      "logo": "https://static.flashscore.com/res/image/data/vPrevkT0-GMOw3SI3.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "20:00",
+    "match_date": "2026-04-25",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bologna-ASRoma",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Bologna",
+      "logo": "https://static.flashscore.com/res/image/data/6ovaa9T0-McvX4bye.png"
+    },
+    "team2": {
+      "name": "AS Roma",
+      "logo": "https://static.flashscore.com/res/image/data/j31Z1pne-GtNb9h2q.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "23:00",
+    "match_date": "2026-04-25",
+    "match_time": "23:00",
+    "duration": "3.5",
+    "servers": []
   },
   {
     "id": "Barcelona-CeltaVigo",
@@ -1500,90 +1717,76 @@
     ]
   },
   {
-    "id": "PersisSolo-FCBhayangkara",
-    "league": "Indonesia - Super League",
+    "id": "Betis-RealMadrid",
+    "league": "Spain - LaLiga",
     "team1": {
-      "name": "Persis Solo",
-      "logo": "https://static.flashscore.com/res/image/data/drGWzvQq-UHp0ZgHn.png"
+      "name": "Betis",
+      "logo": "https://static.flashscore.com/res/image/data/YV7lpDU0-zkU5wiAr.png"
     },
     "team2": {
-      "name": "FC Bhayangkara",
-      "logo": "https://static.flashscore.com/res/image/data/0rQnZJmC-UBTLvuxH.png"
+      "name": "Real Madrid",
+      "logo": "https://static.flashscore.com/res/image/data/CGPhnpne-ttfpEDUq.png"
     },
-    "kickoff_date": "2026-04-22",
-    "kickoff_time": "15:30",
-    "match_date": "2026-04-22",
-    "match_time": "15:30",
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "02:00",
+    "match_date": "2026-04-25",
+    "match_time": "02:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMTgyMDYubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMjcxNTkubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zNzI3NDYubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zODc2OTQubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MTQzMTcubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MzQ5ODIubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
+    "servers": []
   },
   {
-    "id": "PSIMYogyakarta-PersijaJakarta",
-    "league": "Indonesia - Super League",
+    "id": "Alaves-Mallorca",
+    "league": "Spain - LaLiga",
     "team1": {
-      "name": "PSIM Yogyakarta",
-      "logo": "https://static.flashscore.com/res/image/data/lCS3WI5k-IFY6Af8o.png"
+      "name": "Alaves",
+      "logo": "https://static.flashscore.com/res/image/data/4rBxR4R0-4U3vjZKk.png"
     },
     "team2": {
-      "name": "Persija Jakarta",
-      "logo": "https://static.flashscore.com/res/image/data/804UVjme-65biHEjh.png"
+      "name": "Mallorca",
+      "logo": "https://static.flashscore.com/res/image/data/WKsw8cne-rmDEjevK.png"
     },
-    "kickoff_date": "2026-04-22",
-    "kickoff_time": "15:30",
-    "match_date": "2026-04-22",
-    "match_time": "15:30",
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "19:00",
+    "match_date": "2026-04-25",
+    "match_time": "19:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMjMyMjYubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xNDc4MDEubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zNTE1MzAubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zNjA2NjMubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81OTgxMTkubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MTEzNjcubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
+    "servers": []
+  },
+  {
+    "id": "Getafe-Barcelona",
+    "league": "Spain - LaLiga",
+    "team1": {
+      "name": "Getafe",
+      "logo": "https://static.flashscore.com/res/image/data/hGMWMdT0-YmCZKGcR.png"
+    },
+    "team2": {
+      "name": "Barcelona",
+      "logo": "https://static.flashscore.com/res/image/data/jZ8dSYS0-fcDVLdrL.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "21:15",
+    "match_date": "2026-04-25",
+    "match_time": "21:15",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Valencia-Girona",
+    "league": "Spain - LaLiga",
+    "team1": {
+      "name": "Valencia",
+      "logo": "https://static.flashscore.com/res/image/data/8Cqphq8k-MHrRLNUo.png"
+    },
+    "team2": {
+      "name": "Girona",
+      "logo": "https://static.flashscore.com/res/image/data/6mZj79BN-vPm0hQMN.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "23:30",
+    "match_date": "2026-04-25",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": []
   },
   {
     "id": "Persita-BaliUnited",
@@ -1676,72 +1879,40 @@
     "servers": []
   },
   {
-    "id": "BostonCeltics-Philadelphia76ers",
-    "league": "Usa - Nba",
+    "id": "MaduraUnited-DewaUnited",
+    "league": "Indonesia - Super League",
     "team1": {
-      "name": "Boston Celtics",
-      "logo": "https://static.flashscore.com/res/image/data/jaRhGsXH-0tHj7MWK.png"
+      "name": "Madura United",
+      "logo": "https://static.flashscore.com/res/image/data/lzhPY7Sq-llzIXtHf.png"
     },
     "team2": {
-      "name": "Philadelphia 76ers",
-      "logo": "https://static.flashscore.com/res/image/data/jTXULwA6-4bqaxRtQ.png"
+      "name": "Dewa United",
+      "logo": "https://static.flashscore.com/res/image/data/GO1FYtUH-fJYKj2Xi.png"
     },
-    "kickoff_date": "2026-04-22",
-    "kickoff_time": "06:00",
-    "match_date": "2026-04-22",
-    "match_time": "06:00",
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "15:30",
+    "match_date": "2026-04-25",
+    "match_time": "15:30",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "SanAntonioSpurs-PortlandTrailBlazers",
-    "league": "Usa - Nba",
+    "id": "Borneo-SemenPadang",
+    "league": "Indonesia - Super League",
     "team1": {
-      "name": "San Antonio Spurs",
-      "logo": "https://static.flashscore.com/res/image/data/0l5OxLS0-SrHHDGUm.png"
+      "name": "Borneo",
+      "logo": "https://static.flashscore.com/res/image/data/xvzHySR0-SKnIGW8l.png"
     },
     "team2": {
-      "name": "Portland Trail Blazers",
-      "logo": "https://static.flashscore.com/res/image/data/Y1757FjT-Sz1MOtvA.png"
+      "name": "Semen Padang",
+      "logo": "https://static.flashscore.com/res/image/data/bHF9RRA6-K4Cn0tro.png"
     },
-    "kickoff_date": "2026-04-22",
-    "kickoff_time": "07:00",
-    "match_date": "2026-04-22",
-    "match_time": "07:00",
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "19:00",
+    "match_date": "2026-04-25",
+    "match_time": "19:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "LosAngelesLakers-HoustonRockets",
-    "league": "Usa - Nba",
-    "team1": {
-      "name": "Los Angeles Lakers",
-      "logo": "https://static.flashscore.com/res/image/data/dfovLU96-6y7aqqwb.png"
-    },
-    "team2": {
-      "name": "Houston Rockets",
-      "logo": "https://static.flashscore.com/res/image/data/MBTfOVoe-Q9iB8bcq.png"
-    },
-    "kickoff_date": "2026-04-22",
-    "kickoff_time": "09:30",
-    "match_date": "2026-04-22",
-    "match_time": "09:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "DetroitPistons-OrlandoMagic",
@@ -1852,74 +2023,56 @@
     "servers": []
   },
   {
-    "id": "TampaBayLightning-MontrealCanadiens",
-    "league": "Usa - Nhl",
+    "id": "Philadelphia76ers-BostonCeltics",
+    "league": "Usa - Nba",
     "team1": {
-      "name": "Tampa Bay Lightning",
-      "logo": "https://static.flashscore.com/res/image/data/dE1G4mne-rRZyiiOu.png"
+      "name": "Philadelphia 76ers",
+      "logo": "https://static.flashscore.com/res/image/data/jTXULwA6-4bqaxRtQ.png"
     },
     "team2": {
-      "name": "Montreal Canadiens",
-      "logo": "https://static.flashscore.com/res/image/data/rmLcPRlC-IBjau0c1.png"
+      "name": "Boston Celtics",
+      "logo": "https://static.flashscore.com/res/image/data/jaRhGsXH-0tHj7MWK.png"
     },
-    "kickoff_date": "2026-04-22",
+    "kickoff_date": "2026-04-25",
     "kickoff_time": "06:00",
-    "match_date": "2026-04-22",
+    "match_date": "2026-04-25",
     "match_time": "06:00",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "BuffaloSabres-BostonBruins",
-    "league": "Usa - Nhl",
+    "id": "HoustonRockets-LosAngelesLakers",
+    "league": "Usa - Nba",
     "team1": {
-      "name": "Buffalo Sabres",
-      "logo": "https://static.flashscore.com/res/image/data/UaXyO3lC-UkrSKu1K.png"
+      "name": "Houston Rockets",
+      "logo": "https://static.flashscore.com/res/image/data/MBTfOVoe-Q9iB8bcq.png"
     },
     "team2": {
-      "name": "Boston Bruins",
-      "logo": "https://static.flashscore.com/res/image/data/UeHV59Pq-bP6XFTSM.png"
+      "name": "Los Angeles Lakers",
+      "logo": "https://static.flashscore.com/res/image/data/dfovLU96-6y7aqqwb.png"
     },
-    "kickoff_date": "2026-04-22",
-    "kickoff_time": "06:30",
-    "match_date": "2026-04-22",
-    "match_time": "06:30",
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "07:00",
+    "match_date": "2026-04-25",
+    "match_time": "07:00",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "VegasGoldenKnights-UtahMammoth",
-    "league": "Usa - Nhl",
+    "id": "PortlandTrailBlazers-SanAntonioSpurs",
+    "league": "Usa - Nba",
     "team1": {
-      "name": "Vegas Golden Knights",
-      "logo": "https://static.flashscore.com/res/image/data/lKulpF6k-MucFHXDq.png"
+      "name": "Portland Trail Blazers",
+      "logo": "https://static.flashscore.com/res/image/data/Y1757FjT-Sz1MOtvA.png"
     },
     "team2": {
-      "name": "Utah Mammoth",
-      "logo": "https://static.flashscore.com/res/image/data/dCKj51UH-OvWpZvXb.png"
+      "name": "San Antonio Spurs",
+      "logo": "https://static.flashscore.com/res/image/data/0l5OxLS0-SrHHDGUm.png"
     },
-    "kickoff_date": "2026-04-22",
-    "kickoff_time": "08:30",
-    "match_date": "2026-04-22",
-    "match_time": "08:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ColoradoAvalanche-LosAngelesKings",
-    "league": "Usa - Nhl",
-    "team1": {
-      "name": "Colorado Avalanche",
-      "logo": "https://static.flashscore.com/res/image/data/vTuaEfRq-UkrSKu1K.png"
-    },
-    "team2": {
-      "name": "Los Angeles Kings",
-      "logo": "https://static.flashscore.com/res/image/data/rRDf3Poe-Iih2qL9f.png"
-    },
-    "kickoff_date": "2026-04-22",
-    "kickoff_time": "09:00",
-    "match_date": "2026-04-22",
-    "match_time": "09:00",
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "09:30",
+    "match_date": "2026-04-25",
+    "match_time": "09:30",
     "duration": "3.5",
     "servers": []
   },
@@ -2042,6 +2195,60 @@
     "kickoff_date": "2026-04-24",
     "kickoff_time": "09:00",
     "match_date": "2026-04-24",
+    "match_time": "09:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "MontrealCanadiens-TampaBayLightning",
+    "league": "Usa - Nhl",
+    "team1": {
+      "name": "Montreal Canadiens",
+      "logo": "https://static.flashscore.com/res/image/data/rmLcPRlC-IBjau0c1.png"
+    },
+    "team2": {
+      "name": "Tampa Bay Lightning",
+      "logo": "https://static.flashscore.com/res/image/data/dE1G4mne-rRZyiiOu.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "06:00",
+    "match_date": "2026-04-25",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "UtahMammoth-VegasGoldenKnights",
+    "league": "Usa - Nhl",
+    "team1": {
+      "name": "Utah Mammoth",
+      "logo": "https://static.flashscore.com/res/image/data/dCKj51UH-OvWpZvXb.png"
+    },
+    "team2": {
+      "name": "Vegas Golden Knights",
+      "logo": "https://static.flashscore.com/res/image/data/lKulpF6k-MucFHXDq.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "08:30",
+    "match_date": "2026-04-25",
+    "match_time": "08:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "AnaheimDucks-EdmontonOilers",
+    "league": "Usa - Nhl",
+    "team1": {
+      "name": "Anaheim Ducks",
+      "logo": "https://static.flashscore.com/res/image/data/tthpeyXH-QFG0DyKS.png"
+    },
+    "team2": {
+      "name": "Edmonton Oilers",
+      "logo": "https://static.flashscore.com/res/image/data/UmLMgigT-8tsWJaGQ.png"
+    },
+    "kickoff_date": "2026-04-25",
+    "kickoff_time": "09:00",
+    "match_date": "2026-04-25",
     "match_time": "09:00",
     "duration": "3.5",
     "servers": []
@@ -2387,6 +2594,29 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE4LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Getafe-RealSociedad",
+    "league": "Football",
+    "team1": {
+      "name": "Getafe",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
+    },
+    "team2": {
+      "name": "Real Sociedad",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
+    },
+    "kickoff_date": "2026-04-23",
+    "kickoff_time": "00:00",
+    "match_date": "2026-04-23",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
         "label": "CH-EN"
       }
     ]
