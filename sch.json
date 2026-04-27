@@ -1503,12 +1503,7 @@
     "match_date": "2026-04-27",
     "match_time": "06:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "HoustonRockets-LosAngelesLakers",
@@ -1551,6 +1546,10 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY1LnBocA==",
+        "label": "CH-EN"
+      },
+      {
         "url": "https://multi.govoet.cc/?ss=hd2",
         "label": "CH-1"
       },
@@ -1576,7 +1575,12 @@
     "match_date": "2026-04-28",
     "match_time": "08:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY2LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
   },
   {
     "id": "DenverNuggets-MinnesotaTimberwolves",
@@ -1595,6 +1599,10 @@
     "match_time": "09:30",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY3LnBocA==",
+        "label": "CH-EN"
+      },
       {
         "url": "https://multi.govoet.cc/?ss=hd2",
         "label": "CH-1"
@@ -1715,12 +1723,7 @@
     "match_date": "2026-04-27",
     "match_time": "06:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUyLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "AnaheimDucks-EdmontonOilers",
@@ -1761,7 +1764,12 @@
     "match_date": "2026-04-28",
     "match_time": "06:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUwLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
   },
   {
     "id": "UtahMammoth-VegasGoldenKnights",
@@ -1779,7 +1787,12 @@
     "match_date": "2026-04-28",
     "match_time": "08:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUxLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
   },
   {
     "id": "BuffaloSabres-BostonBruins",
@@ -1836,24 +1849,185 @@
     "servers": []
   },
   {
-    "id": "LosAngelesAngels-KansasCityRoyals",
+    "id": "MiamiMarlins-LosAngelesDodgers",
+    "league": "Baseball",
+    "team1": {
+      "name": "Miami Marlins",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"
+    },
+    "team2": {
+      "name": "Los Angeles Dodgers",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+    },
+    "kickoff_date": "2026-04-28",
+    "kickoff_time": "08:10",
+    "match_date": "2026-04-28",
+    "match_time": "08:10",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIyLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "ChicagoCubs-SanDiegoPadres",
+    "league": "Baseball",
+    "team1": {
+      "name": "Chicago Cubs",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
+    },
+    "team2": {
+      "name": "San Diego Padres",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
+    },
+    "kickoff_date": "2026-04-28",
+    "kickoff_time": "07:40",
+    "match_date": "2026-04-28",
+    "match_time": "07:40",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIxLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NewYorkYankees-TexasRangers",
+    "league": "Baseball",
+    "team1": {
+      "name": "New York Yankees",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
+    },
+    "team2": {
+      "name": "Texas Rangers",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
+    },
+    "kickoff_date": "2026-04-28",
+    "kickoff_time": "06:05",
+    "match_date": "2026-04-28",
+    "match_time": "06:05",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIwLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "LosAngelesAngels-ChicagoWhiteSox",
     "league": "Baseball",
     "team1": {
       "name": "Los Angeles Angels",
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
     },
     "team2": {
-      "name": "Kansas City Royals",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
+      "name": "Chicago White Sox",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"
     },
-    "kickoff_date": "2026-04-27",
-    "kickoff_time": "05:20",
-    "match_date": "2026-04-27",
-    "match_time": "05:20",
+    "kickoff_date": "2026-04-28",
+    "kickoff_time": "05:40",
+    "match_date": "2026-04-28",
+    "match_time": "05:40",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMwLnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE4LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "SeattleMariners-MinnesotaTwins",
+    "league": "Baseball",
+    "team1": {
+      "name": "Seattle Mariners",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
+    },
+    "team2": {
+      "name": "Minnesota Twins",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
+    },
+    "kickoff_date": "2026-04-28",
+    "kickoff_time": "05:40",
+    "match_date": "2026-04-28",
+    "match_time": "05:40",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE5LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "BostonRedSox-TorontoBlueJays",
+    "league": "Baseball",
+    "team1": {
+      "name": "Boston Red Sox",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
+    },
+    "team2": {
+      "name": "Toronto Blue Jays",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
+    },
+    "kickoff_date": "2026-04-28",
+    "kickoff_time": "05:07",
+    "match_date": "2026-04-28",
+    "match_time": "05:07",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE3LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "StLouisCardinals-PittsburghPirates",
+    "league": "Baseball",
+    "team1": {
+      "name": "St. Louis Cardinals",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+    },
+    "team2": {
+      "name": "Pittsburgh Pirates",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
+    },
+    "kickoff_date": "2026-04-28",
+    "kickoff_time": "04:40",
+    "match_date": "2026-04-28",
+    "match_time": "04:40",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE2LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "TampaBayRays-ClevelandGuardians",
+    "league": "Baseball",
+    "team1": {
+      "name": "Tampa Bay Rays",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
+    },
+    "team2": {
+      "name": "Cleveland Guardians",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png"
+    },
+    "kickoff_date": "2026-04-28",
+    "kickoff_time": "04:10",
+    "match_date": "2026-04-28",
+    "match_time": "04:10",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE1LnBocA==",
         "label": "CH-EN"
       }
     ]
