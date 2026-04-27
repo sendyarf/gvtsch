@@ -54,60 +54,6 @@
     "servers": []
   },
   {
-    "id": "Marseille-Nice",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Marseille",
-      "logo": "https://static.flashscore.com/res/image/data/t6Kb5X76-AcP8ZdxL.png"
-    },
-    "team2": {
-      "name": "Nice",
-      "logo": "https://static.flashscore.com/res/image/data/bJCGymle-00sqJmg8.png"
-    },
-    "kickoff_date": "2026-04-27",
-    "kickoff_time": "01:45",
-    "match_date": "2026-04-27",
-    "match_time": "01:45",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ACMilan-Juventus",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "AC Milan",
-      "logo": "https://static.flashscore.com/res/image/data/WOOHTbSq-KtCfnbWp.png"
-    },
-    "team2": {
-      "name": "Juventus",
-      "logo": "https://static.flashscore.com/res/image/data/AufWJrhT-0nz5yHcE.png"
-    },
-    "kickoff_date": "2026-04-27",
-    "kickoff_time": "01:45",
-    "match_date": "2026-04-27",
-    "match_time": "01:45",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Cagliari-Atalanta",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Cagliari",
-      "logo": "https://static.flashscore.com/res/image/data/tSQII3hT-McvX4bye.png"
-    },
-    "team2": {
-      "name": "Atalanta",
-      "logo": "https://static.flashscore.com/res/image/data/z3aHqFBN-rg6usZns.png"
-    },
-    "kickoff_date": "2026-04-27",
-    "kickoff_time": "23:30",
-    "match_date": "2026-04-27",
-    "match_time": "23:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
     "id": "Lazio-Udinese",
     "league": "Italy - Serie A",
     "team1": {
@@ -126,24 +72,6 @@
     "servers": []
   },
   {
-    "id": "Villarreal-CeltaVigo",
-    "league": "Spain - Laliga",
-    "team1": {
-      "name": "Villarreal",
-      "logo": "https://static.flashscore.com/res/image/data/EBxZSOjT-GSuwY3p9.png"
-    },
-    "team2": {
-      "name": "Celta Vigo",
-      "logo": "https://static.flashscore.com/res/image/data/INW8oRBN-SOY3p1Si.png"
-    },
-    "kickoff_date": "2026-04-27",
-    "kickoff_time": "02:00",
-    "match_date": "2026-04-27",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
     "id": "Espanyol-Levante",
     "league": "Spain - Laliga",
     "team1": {
@@ -158,42 +86,6 @@
     "kickoff_time": "02:00",
     "match_date": "2026-04-28",
     "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "BaliUnited-PSMMakassar",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Bali United",
-      "logo": "https://static.flashscore.com/res/image/data/Me4JWEme-K6ujqDls.png"
-    },
-    "team2": {
-      "name": "PSM Makassar",
-      "logo": "https://static.flashscore.com/res/image/data/j7AOPb6k-jNkiROW3.png"
-    },
-    "kickoff_date": "2026-04-27",
-    "kickoff_time": "15:30",
-    "match_date": "2026-04-27",
-    "match_time": "15:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PersijaJakarta-PersisSolo",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Persija Jakarta",
-      "logo": "https://static.flashscore.com/res/image/data/804UVjme-65biHEjh.png"
-    },
-    "team2": {
-      "name": "Persis Solo",
-      "logo": "https://static.flashscore.com/res/image/data/drGWzvQq-UHp0ZgHn.png"
-    },
-    "kickoff_date": "2026-04-27",
-    "kickoff_time": "19:00",
-    "match_date": "2026-04-27",
-    "match_time": "19:00",
     "duration": "3.5",
     "servers": []
   },
@@ -288,6 +180,42 @@
     "servers": []
   },
   {
+    "id": "PSIMYogyakarta-Persita",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "PSIM Yogyakarta",
+      "logo": "https://static.flashscore.com/res/image/data/lCS3WI5k-IFY6Af8o.png"
+    },
+    "team2": {
+      "name": "Persita",
+      "logo": "https://static.flashscore.com/res/image/data/zZLAaUT0-Mw6HAN8i.png"
+    },
+    "kickoff_date": "2026-04-30",
+    "kickoff_time": "15:30",
+    "match_date": "2026-04-30",
+    "match_time": "15:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "FCBhayangkara-PersibBandung",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "FC Bhayangkara",
+      "logo": "https://static.flashscore.com/res/image/data/0rQnZJmC-UBTLvuxH.png"
+    },
+    "team2": {
+      "name": "Persib Bandung",
+      "logo": "https://static.flashscore.com/res/image/data/K0fBknlC-fXN2TGqm.png"
+    },
+    "kickoff_date": "2026-04-30",
+    "kickoff_time": "19:00",
+    "match_date": "2026-04-30",
+    "match_time": "19:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "PSG-BayernMunich",
     "league": "UEFA Champions League",
     "team1": {
@@ -306,56 +234,20 @@
     "servers": []
   },
   {
-    "id": "PortlandTrailBlazers-SanAntonioSpurs",
-    "league": "USA - NBA",
+    "id": "AtlMadrid-Arsenal",
+    "league": "UEFA Champions League",
     "team1": {
-      "name": "Portland Trail Blazers",
-      "logo": "https://static.flashscore.com/res/image/data/Y1757FjT-Sz1MOtvA.png"
+      "name": "Atl. Madrid",
+      "logo": "https://static.flashscore.com/res/image/data/Kv2QSkhT-GhHiNvXF.png"
     },
     "team2": {
-      "name": "San Antonio Spurs",
-      "logo": "https://static.flashscore.com/res/image/data/0l5OxLS0-SrHHDGUm.png"
+      "name": "Arsenal",
+      "logo": "https://static.flashscore.com/res/image/data/0n1ffK6k-vcNAdtF9.png"
     },
-    "kickoff_date": "2026-04-27",
-    "kickoff_time": "02:30",
-    "match_date": "2026-04-27",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Philadelphia76ers-BostonCeltics",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Philadelphia 76ers",
-      "logo": "https://static.flashscore.com/res/image/data/jTXULwA6-4bqaxRtQ.png"
-    },
-    "team2": {
-      "name": "Boston Celtics",
-      "logo": "https://static.flashscore.com/res/image/data/jaRhGsXH-0tHj7MWK.png"
-    },
-    "kickoff_date": "2026-04-27",
-    "kickoff_time": "06:00",
-    "match_date": "2026-04-27",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "HoustonRockets-LosAngelesLakers",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Houston Rockets",
-      "logo": "https://static.flashscore.com/res/image/data/MBTfOVoe-Q9iB8bcq.png"
-    },
-    "team2": {
-      "name": "Los Angeles Lakers",
-      "logo": "https://static.flashscore.com/res/image/data/dfovLU96-6y7aqqwb.png"
-    },
-    "kickoff_date": "2026-04-27",
-    "kickoff_time": "08:30",
-    "match_date": "2026-04-27",
-    "match_time": "08:30",
+    "kickoff_date": "2026-04-30",
+    "kickoff_time": "02:00",
+    "match_date": "2026-04-30",
+    "match_time": "02:00",
     "duration": "3.5",
     "servers": []
   },
@@ -468,74 +360,56 @@
     "servers": []
   },
   {
-    "id": "BostonBruins-BuffaloSabres",
-    "league": "USA - NHL",
+    "id": "DetroitPistons-OrlandoMagic",
+    "league": "USA - NBA",
     "team1": {
-      "name": "Boston Bruins",
-      "logo": "https://static.flashscore.com/res/image/data/UeHV59Pq-bP6XFTSM.png"
+      "name": "Detroit Pistons",
+      "logo": "https://static.flashscore.com/res/image/data/G6CnZjgT-xrW85HXg.png"
     },
     "team2": {
-      "name": "Buffalo Sabres",
-      "logo": "https://static.flashscore.com/res/image/data/UaXyO3lC-UkrSKu1K.png"
+      "name": "Orlando Magic",
+      "logo": "https://static.flashscore.com/res/image/data/lMTx9oXH-l0jb3WKi.png"
     },
-    "kickoff_date": "2026-04-27",
-    "kickoff_time": "01:00",
-    "match_date": "2026-04-27",
-    "match_time": "01:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "LosAngelesKings-ColoradoAvalanche",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Los Angeles Kings",
-      "logo": "https://static.flashscore.com/res/image/data/rRDf3Poe-Iih2qL9f.png"
-    },
-    "team2": {
-      "name": "Colorado Avalanche",
-      "logo": "https://static.flashscore.com/res/image/data/vTuaEfRq-UkrSKu1K.png"
-    },
-    "kickoff_date": "2026-04-27",
-    "kickoff_time": "03:30",
-    "match_date": "2026-04-27",
-    "match_time": "03:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "MontrealCanadiens-TampaBayLightning",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Montreal Canadiens",
-      "logo": "https://static.flashscore.com/res/image/data/rmLcPRlC-IBjau0c1.png"
-    },
-    "team2": {
-      "name": "Tampa Bay Lightning",
-      "logo": "https://static.flashscore.com/res/image/data/dE1G4mne-rRZyiiOu.png"
-    },
-    "kickoff_date": "2026-04-27",
+    "kickoff_date": "2026-04-30",
     "kickoff_time": "06:00",
-    "match_date": "2026-04-27",
+    "match_date": "2026-04-30",
     "match_time": "06:00",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "AnaheimDucks-EdmontonOilers",
-    "league": "USA - NHL",
+    "id": "ClevelandCavaliers-TorontoRaptors",
+    "league": "USA - NBA",
     "team1": {
-      "name": "Anaheim Ducks",
-      "logo": "https://static.flashscore.com/res/image/data/tthpeyXH-QFG0DyKS.png"
+      "name": "Cleveland Cavaliers",
+      "logo": "https://static.flashscore.com/res/image/data/xjtpSnU0-6ZJgih6O.png"
     },
     "team2": {
-      "name": "Edmonton Oilers",
-      "logo": "https://static.flashscore.com/res/image/data/UmLMgigT-8tsWJaGQ.png"
+      "name": "Toronto Raptors",
+      "logo": "https://static.flashscore.com/res/image/data/8tgmH0hT-dfaUavPf.png"
     },
-    "kickoff_date": "2026-04-27",
-    "kickoff_time": "08:30",
-    "match_date": "2026-04-27",
-    "match_time": "08:30",
+    "kickoff_date": "2026-04-30",
+    "kickoff_time": "06:30",
+    "match_date": "2026-04-30",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LosAngelesLakers-HoustonRockets",
+    "league": "USA - NBA",
+    "team1": {
+      "name": "Los Angeles Lakers",
+      "logo": "https://static.flashscore.com/res/image/data/dfovLU96-6y7aqqwb.png"
+    },
+    "team2": {
+      "name": "Houston Rockets",
+      "logo": "https://static.flashscore.com/res/image/data/MBTfOVoe-Q9iB8bcq.png"
+    },
+    "kickoff_date": "2026-04-30",
+    "kickoff_time": "09:00",
+    "match_date": "2026-04-30",
+    "match_time": "09:00",
     "duration": "3.5",
     "servers": []
   },
@@ -626,6 +500,42 @@
     "kickoff_time": "09:00",
     "match_date": "2026-04-29",
     "match_time": "09:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "TampaBayLightning-MontrealCanadiens",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Tampa Bay Lightning",
+      "logo": "https://static.flashscore.com/res/image/data/dE1G4mne-rRZyiiOu.png"
+    },
+    "team2": {
+      "name": "Montreal Canadiens",
+      "logo": "https://static.flashscore.com/res/image/data/rmLcPRlC-IBjau0c1.png"
+    },
+    "kickoff_date": "2026-04-30",
+    "kickoff_time": "06:00",
+    "match_date": "2026-04-30",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "VegasGoldenKnights-UtahMammoth",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Vegas Golden Knights",
+      "logo": "https://static.flashscore.com/res/image/data/lKulpF6k-MucFHXDq.png"
+    },
+    "team2": {
+      "name": "Utah Mammoth",
+      "logo": "https://static.flashscore.com/res/image/data/dCKj51UH-OvWpZvXb.png"
+    },
+    "kickoff_date": "2026-04-30",
+    "kickoff_time": "06:00",
+    "match_date": "2026-04-30",
+    "match_time": "06:00",
     "duration": "3.5",
     "servers": []
   }
