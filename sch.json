@@ -1146,7 +1146,16 @@
     "match_date": "2026-05-02",
     "match_time": "21:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Newcastle-Brighton",
@@ -1164,7 +1173,16 @@
     "match_date": "2026-05-02",
     "match_time": "21:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd11",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br2",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Wolves-Sunderland",
@@ -1182,7 +1200,12 @@
     "match_date": "2026-05-02",
     "match_time": "21:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Arsenal-Fulham",
@@ -1200,7 +1223,20 @@
     "match_date": "2026-05-02",
     "match_time": "23:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br2",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "Bournemouth-CrystalPalace",
@@ -1326,7 +1362,12 @@
     "match_date": "2026-05-03",
     "match_time": "01:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd9",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Nijmegen-Telstar",
@@ -1452,7 +1493,12 @@
     "match_date": "2026-05-02",
     "match_time": "20:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd4",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "PSG-Lorient",
@@ -1470,7 +1516,16 @@
     "match_date": "2026-05-02",
     "match_time": "22:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd4",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv4",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Metz-Monaco",
@@ -1488,7 +1543,16 @@
     "match_date": "2026-05-03",
     "match_time": "00:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd4",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv4",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Nice-Lens",
@@ -1506,7 +1570,12 @@
     "match_date": "2026-05-03",
     "match_time": "02:05",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd4",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Lille-LeHavre",
@@ -1596,7 +1665,20 @@
     "match_date": "2026-05-02",
     "match_time": "20:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd3",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven3",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br1",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "EintrachtFrankfurt-HamburgerSV",
@@ -1632,7 +1714,12 @@
     "match_date": "2026-05-02",
     "match_time": "20:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd10",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "UnionBerlin-FCKoln",
@@ -1686,7 +1773,20 @@
     "match_date": "2026-05-02",
     "match_time": "23:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd3",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven3",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br1",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "StPauli-Mainz",
@@ -1771,7 +1871,16 @@
     "match_date": "2026-05-02",
     "match_time": "20:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv3",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Como-Napoli",
@@ -1789,7 +1898,24 @@
     "match_date": "2026-05-02",
     "match_time": "23:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv3",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br4",
+        "label": "CH-4"
+      }
+    ]
   },
   {
     "id": "Atalanta-Genoa",
@@ -1807,7 +1933,16 @@
     "match_date": "2026-05-03",
     "match_time": "01:45",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv3",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Bologna-Cagliari",
@@ -1918,7 +2053,20 @@
     "match_date": "2026-05-02",
     "match_time": "19:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven2",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "Valencia-AtlMadrid",
@@ -1936,7 +2084,20 @@
     "match_date": "2026-05-02",
     "match_time": "21:15",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven2",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "Alaves-AthBilbao",
@@ -1954,7 +2115,20 @@
     "match_date": "2026-05-02",
     "match_time": "23:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven2",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br6",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "Osasuna-Barcelona",
@@ -1972,7 +2146,24 @@
     "match_date": "2026-05-03",
     "match_time": "02:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br2",
+        "label": "CH-4"
+      }
+    ]
   },
   {
     "id": "CeltaVigo-Elche",
@@ -2116,16 +2307,7 @@
     "match_date": "2026-05-01",
     "match_time": "06:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv3",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Philadelphia76ers-BostonCeltics",
@@ -2161,12 +2343,7 @@
     "match_date": "2026-05-01",
     "match_time": "08:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "OrlandoMagic-DetroitPistons",
