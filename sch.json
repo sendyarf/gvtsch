@@ -1201,7 +1201,16 @@
     "match_date": "2026-05-09",
     "match_time": "01:45",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd9",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv3",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Dortmund-EintrachtFrankfurt",
@@ -1219,7 +1228,20 @@
     "match_date": "2026-05-09",
     "match_time": "01:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd3",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven2",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br3",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "Augsburg-BMonchengladbach",
@@ -1327,7 +1349,16 @@
     "match_date": "2026-05-09",
     "match_time": "01:45",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Cagliari-Udinese",
@@ -1381,7 +1412,16 @@
     "match_date": "2026-05-09",
     "match_time": "02:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd6",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Elche-Alaves",
@@ -1543,12 +1583,7 @@
     "match_date": "2026-05-07",
     "match_time": "06:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "SanAntonioSpurs-MinnesotaTimberwolves",
@@ -1566,16 +1601,7 @@
     "match_date": "2026-05-07",
     "match_time": "08:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-2"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "DetroitPistons-ClevelandCavaliers",
@@ -1679,12 +1705,7 @@
     "match_date": "2026-05-07",
     "match_time": "06:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-1"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "VegasGoldenKnights-AnaheimDucks",
