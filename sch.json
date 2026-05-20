@@ -1111,7 +1111,20 @@
     "match_date": "2026-05-21",
     "match_time": "23:45",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=hd4",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "Utrecht-Heerenveen",
@@ -1129,7 +1142,16 @@
     "match_date": "2026-05-22",
     "match_time": "02:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd4",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven1",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Wolfsburg-Paderborn",
@@ -1147,7 +1169,20 @@
     "match_date": "2026-05-22",
     "match_time": "01:30",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd3",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=eleven2",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=br3",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "Fiorentina-Atalanta",
@@ -1165,7 +1200,16 @@
     "match_date": "2026-05-23",
     "match_time": "01:45",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv3",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Bologna-Inter",
@@ -1372,7 +1416,16 @@
     "match_date": "2026-05-22",
     "match_time": "07:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "SanAntonioSpurs-OklahomaCityThunder",
@@ -1412,6 +1465,10 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDUwLnBocA==",
         "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv3",
+        "label": "CH-1"
       }
     ]
   },
@@ -1431,7 +1488,12 @@
     "match_date": "2026-05-22",
     "match_time": "07:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv4",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "ColoradoAvalanche-VegasGoldenKnights",
