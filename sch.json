@@ -2444,51 +2444,5 @@
         "label": "CH-EN"
       }
     ]
-  },
-  {
-    "id": "Atalanta-Fiorentina",
-    "league": "Football",
-    "team1": {
-      "name": "Atalanta",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
-    },
-    "team2": {
-      "name": "Fiorentina",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
-    },
-    "kickoff_date": "2026-05-23",
-    "kickoff_time": "00:45",
-    "match_date": "2026-05-23",
-    "match_time": "00:45",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "HoustonAstros-ChicagoCubs",
-    "league": "Baseball",
-    "team1": {
-      "name": "Houston Astros",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
-    },
-    "team2": {
-      "name": "Chicago Cubs",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
-    },
-    "kickoff_date": "2026-05-23",
-    "kickoff_time": "00:20",
-    "match_date": "2026-05-23",
-    "match_time": "00:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE1LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
   }
 ]
