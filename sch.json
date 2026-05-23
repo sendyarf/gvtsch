@@ -1362,39 +1362,22 @@
     "servers": []
   },
   {
-    "id": "Bologna-Inter",
-    "league": "Italy - Serie A",
+    "id": "Paderborn-Wolfsburg",
+    "league": "Germany - Bundesliga",
     "team1": {
-      "name": "Bologna",
-      "logo": "https://static.flashscore.com/res/image/data/6ovaa9T0-McvX4bye.png"
+      "name": "Paderborn",
+      "logo": "https://static.flashscore.com/res/image/data/6ufhxjSq-Qmnf8wEL.png"
     },
     "team2": {
-      "name": "Inter",
-      "logo": "https://static.flashscore.com/res/image/data/fLNbBiQq-O8c8nWOb.png"
+      "name": "Wolfsburg",
+      "logo": "https://static.flashscore.com/res/image/data/0Mr1oIkC-SSSLeFGl.png"
     },
-    "kickoff_date": "2026-05-23",
-    "kickoff_time": "23:00",
-    "match_date": "2026-05-23",
-    "match_time": "23:00",
+    "kickoff_date": "2026-05-26",
+    "kickoff_time": "01:30",
+    "match_date": "2026-05-26",
+    "match_time": "01:30",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br5",
-        "label": "CH-3"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Lazio-Pisa",
@@ -1835,201 +1818,6 @@
     ]
   },
   {
-    "id": "Borneo-MalutUnited",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Borneo",
-      "logo": "https://static.flashscore.com/res/image/data/xvzHySR0-SKnIGW8l.png"
-    },
-    "team2": {
-      "name": "Malut United",
-      "logo": "https://static.flashscore.com/res/image/data/4UwHHmne-IijC3nOP.png"
-    },
-    "kickoff_date": "2026-05-23",
-    "kickoff_time": "16:00",
-    "match_date": "2026-05-23",
-    "match_time": "16:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80OTQyMDEubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMjMyMjYubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMjcxNTkubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MzQyMTkubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
-  },
-  {
-    "id": "FCBhayangkara-PSBSBiakNumfor",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "FC Bhayangkara",
-      "logo": "https://static.flashscore.com/res/image/data/0rQnZJmC-UBTLvuxH.png"
-    },
-    "team2": {
-      "name": "PSBS Biak Numfor",
-      "logo": "https://static.flashscore.com/res/image/data/4dlWiJoe-phR6Gnck.png"
-    },
-    "kickoff_date": "2026-05-23",
-    "kickoff_time": "16:00",
-    "match_date": "2026-05-23",
-    "match_time": "16:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "MaduraUnited-PSMMakassar",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Madura United",
-      "logo": "https://static.flashscore.com/res/image/data/lzhPY7Sq-llzIXtHf.png"
-    },
-    "team2": {
-      "name": "PSM Makassar",
-      "logo": "https://static.flashscore.com/res/image/data/j7AOPb6k-jNkiROW3.png"
-    },
-    "kickoff_date": "2026-05-23",
-    "kickoff_time": "16:00",
-    "match_date": "2026-05-23",
-    "match_time": "16:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81OTUzMzUubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8yODM1MDEubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
-  },
-  {
-    "id": "Persebaya-PersikKediri",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Persebaya",
-      "logo": "https://static.flashscore.com/res/image/data/0GTBRoiC-jaJfGoOS.png"
-    },
-    "team2": {
-      "name": "Persik Kediri",
-      "logo": "https://static.flashscore.com/res/image/data/pbvGiliT-fudV7NWp.png"
-    },
-    "kickoff_date": "2026-05-23",
-    "kickoff_time": "16:00",
-    "match_date": "2026-05-23",
-    "match_time": "16:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS82MDM5MTQubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81OTU3MTUubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zODc2OTQubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS82MDY0NDgubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81OTUzMzUubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8yODM1MDEubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
-  },
-  {
-    "id": "PersijaJakarta-SemenPadang",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Persija Jakarta",
-      "logo": "https://static.flashscore.com/res/image/data/804UVjme-65biHEjh.png"
-    },
-    "team2": {
-      "name": "Semen Padang",
-      "logo": "https://static.flashscore.com/res/image/data/bHF9RRA6-K4Cn0tro.png"
-    },
-    "kickoff_date": "2026-05-23",
-    "kickoff_time": "16:00",
-    "match_date": "2026-05-23",
-    "match_time": "16:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS82MDIxNTMubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81OTk2MzQubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
-  },
-  {
-    "id": "Persita-PersisSolo",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Persita",
-      "logo": "https://static.flashscore.com/res/image/data/zZLAaUT0-Mw6HAN8i.png"
-    },
-    "team2": {
-      "name": "Persis Solo",
-      "logo": "https://static.flashscore.com/res/image/data/drGWzvQq-UHp0ZgHn.png"
-    },
-    "kickoff_date": "2026-05-23",
-    "kickoff_time": "16:00",
-    "match_date": "2026-05-23",
-    "match_time": "16:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS82MDIxNTMubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81OTk2MzQubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
-  },
-  {
-    "id": "SanAntonioSpurs-OklahomaCityThunder",
-    "league": "Usa - Nba",
-    "team1": {
-      "name": "San Antonio Spurs",
-      "logo": "https://static.flashscore.com/res/image/data/0l5OxLS0-SrHHDGUm.png"
-    },
-    "team2": {
-      "name": "Oklahoma City Thunder",
-      "logo": "https://static.flashscore.com/res/image/data/KvT52V5k-4zc22IQb.png"
-    },
-    "kickoff_date": "2026-05-23",
-    "kickoff_time": "07:30",
-    "match_date": "2026-05-23",
-    "match_time": "07:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
     "id": "ClevelandCavaliers-NewYorkKnicks",
     "league": "Usa - Nba",
     "team1": {
@@ -2084,27 +1872,22 @@
     ]
   },
   {
-    "id": "ColoradoAvalanche-VegasGoldenKnights",
-    "league": "Usa - Nhl",
+    "id": "ClevelandCavaliers-NewYorkKnicks",
+    "league": "Usa - Nba",
     "team1": {
-      "name": "Colorado Avalanche",
-      "logo": "https://static.flashscore.com/res/image/data/vTuaEfRq-UkrSKu1K.png"
+      "name": "Cleveland Cavaliers",
+      "logo": "https://static.flashscore.com/res/image/data/xjtpSnU0-6ZJgih6O.png"
     },
     "team2": {
-      "name": "Vegas Golden Knights",
-      "logo": "https://static.flashscore.com/res/image/data/lKulpF6k-MucFHXDq.png"
+      "name": "New York Knicks",
+      "logo": "https://static.flashscore.com/res/image/data/IXahYvle-I30Q0K9l.png"
     },
-    "kickoff_date": "2026-05-23",
+    "kickoff_date": "2026-05-26",
     "kickoff_time": "07:00",
-    "match_date": "2026-05-23",
+    "match_date": "2026-05-26",
     "match_time": "07:00",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-1"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "CarolinaHurricanes-MontrealCanadiens",
@@ -2147,6 +1930,29 @@
     "kickoff_date": "2026-05-25",
     "kickoff_time": "07:00",
     "match_date": "2026-05-25",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv2",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "MontrealCanadiens-CarolinaHurricanes",
+    "league": "Usa - Nhl",
+    "team1": {
+      "name": "Montreal Canadiens",
+      "logo": "https://static.flashscore.com/res/image/data/rmLcPRlC-IBjau0c1.png"
+    },
+    "team2": {
+      "name": "Carolina Hurricanes",
+      "logo": "https://static.flashscore.com/res/image/data/rBPup6iT-Ea3nasx0.png"
+    },
+    "kickoff_date": "2026-05-26",
+    "kickoff_time": "07:00",
+    "match_date": "2026-05-26",
     "match_time": "07:00",
     "duration": "3.5",
     "servers": []
@@ -2681,15 +2487,15 @@
     ]
   },
   {
-    "id": "CanadianGrandPrixSprint",
-    "league": "Motor Sport",
+    "id": "Internazionale-Bologna",
+    "league": "Football",
     "team1": {
-      "name": "Canadian Grand Prix Sprint",
-      "logo": "data:image/png;base64,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"
+      "name": "Inter",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
     },
     "team2": {
-      "name": "",
-      "logo": "data:image/png;base64,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"
+      "name": "Bologna",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
     },
     "kickoff_date": "2026-05-23",
     "kickoff_time": "22:00",
@@ -2698,16 +2504,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQ5LnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDkucGhw",
         "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=hd8",
-        "label": "CH-2"
       }
     ]
   },
