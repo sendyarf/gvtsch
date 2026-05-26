@@ -1168,14 +1168,6 @@
       {
         "url": "https://multi.govoet.cc/?ss=hd2",
         "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.cc/?ss=br4",
-        "label": "CH-3"
       }
     ]
   },
@@ -1224,12 +1216,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-1"
-      },
-      {
         "url": "https://multi.govoet.cc/?ss=sporttv3",
-        "label": "CH-2"
+        "label": "CH-1"
       }
     ]
   },
