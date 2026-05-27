@@ -1,19 +1,37 @@
 [
   {
-    "id": "OklahomaCityThunder-SanAntonioSpurs",
-    "league": "USA - NBA",
+    "id": "Nice-StEtienne",
+    "league": "France - Ligue 1",
     "team1": {
-      "name": "Oklahoma City Thunder",
-      "logo": "https://static.flashscore.com/res/image/data/KvT52V5k-4zc22IQb.png"
+      "name": "Nice",
+      "logo": "https://static.flashscore.com/res/image/data/bJCGymle-00sqJmg8.png"
     },
     "team2": {
-      "name": "San Antonio Spurs",
-      "logo": "https://static.flashscore.com/res/image/data/0l5OxLS0-SrHHDGUm.png"
+      "name": "St Etienne",
+      "logo": "https://static.flashscore.com/res/image/data/SvNL7CBN-8Ca53MKO.png"
     },
-    "kickoff_date": "2026-05-27",
-    "kickoff_time": "07:30",
-    "match_date": "2026-05-27",
-    "match_time": "07:30",
+    "kickoff_date": "2026-05-30",
+    "kickoff_time": "01:45",
+    "match_date": "2026-05-30",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PSG-Arsenal",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "PSG",
+      "logo": "https://static.flashscore.com/res/image/data/fJgGn26k-A7UDDuOO.png"
+    },
+    "team2": {
+      "name": "Arsenal",
+      "logo": "https://static.flashscore.com/res/image/data/0n1ffK6k-vcNAdtF9.png"
+    },
+    "kickoff_date": "2026-05-30",
+    "kickoff_time": "23:00",
+    "match_date": "2026-05-30",
+    "match_time": "23:00",
     "duration": "3.5",
     "servers": []
   },
@@ -36,24 +54,6 @@
     "servers": []
   },
   {
-    "id": "VegasGoldenKnights-ColoradoAvalanche",
-    "league": "USA - NHL",
-    "team1": {
-      "name": "Vegas Golden Knights",
-      "logo": "https://static.flashscore.com/res/image/data/lKulpF6k-MucFHXDq.png"
-    },
-    "team2": {
-      "name": "Colorado Avalanche",
-      "logo": "https://static.flashscore.com/res/image/data/vTuaEfRq-UkrSKu1K.png"
-    },
-    "kickoff_date": "2026-05-27",
-    "kickoff_time": "08:00",
-    "match_date": "2026-05-27",
-    "match_time": "08:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
     "id": "MontrealCanadiens-CarolinaHurricanes",
     "league": "USA - NHL",
     "team1": {
@@ -67,6 +67,24 @@
     "kickoff_date": "2026-05-28",
     "kickoff_time": "07:00",
     "match_date": "2026-05-28",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "CarolinaHurricanes-MontrealCanadiens",
+    "league": "USA - NHL",
+    "team1": {
+      "name": "Carolina Hurricanes",
+      "logo": "https://static.flashscore.com/res/image/data/rBPup6iT-Ea3nasx0.png"
+    },
+    "team2": {
+      "name": "Montreal Canadiens",
+      "logo": "https://static.flashscore.com/res/image/data/rmLcPRlC-IBjau0c1.png"
+    },
+    "kickoff_date": "2026-05-30",
+    "kickoff_time": "07:00",
+    "match_date": "2026-05-30",
     "match_time": "07:00",
     "duration": "3.5",
     "servers": []
