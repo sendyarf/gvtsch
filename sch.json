@@ -1217,29 +1217,6 @@
     ]
   },
   {
-    "id": "MontrealCanadiens-CarolinaHurricanes",
-    "league": "Usa - Nhl",
-    "team1": {
-      "name": "Montreal Canadiens",
-      "logo": "https://static.flashscore.com/res/image/data/rmLcPRlC-IBjau0c1.png"
-    },
-    "team2": {
-      "name": "Carolina Hurricanes",
-      "logo": "https://static.flashscore.com/res/image/data/rBPup6iT-Ea3nasx0.png"
-    },
-    "kickoff_date": "2026-05-28",
-    "kickoff_time": "07:00",
-    "match_date": "2026-05-28",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv1",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
     "id": "CarolinaHurricanes-MontrealCanadiens",
     "league": "Usa - Nhl",
     "team1": {
@@ -1255,7 +1232,12 @@
     "match_date": "2026-05-30",
     "match_time": "07:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv1",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "IndianaFever-GoldenStateValkyries",
