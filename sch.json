@@ -1114,66 +1114,89 @@
     "servers": []
   },
   {
-    "id": "ChicagoCubs-StLouisCardinals",
+    "id": "LosAngelesDodgers-ArizonaDiamondbacks",
     "league": "Baseball",
     "team1": {
-      "name": "Chicago Cubs",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
+      "name": "Los Angeles Dodgers",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
     },
     "team2": {
-      "name": "St. Louis Cardinals",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+      "name": "Arizona Diamondbacks",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
     },
-    "kickoff_date": "2026-06-01",
-    "kickoff_time": "05:20",
-    "match_date": "2026-06-01",
-    "match_time": "05:20",
+    "kickoff_date": "2026-06-02",
+    "kickoff_time": "07:40",
+    "match_date": "2026-06-02",
+    "match_time": "07:40",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDI5LnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIyLnBocA==",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "LouisvilleKings-ColumbusAviators",
-    "league": "American Football",
+    "id": "NewYorkMets-SeattleMariners",
+    "league": "Baseball",
     "team1": {
-      "name": "Louisville Kings",
-      "logo": "https://a.espncdn.com/i/teamlogos/ufl/500/scoreboard/lou.png"
+      "name": "New York Mets",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
     },
     "team2": {
-      "name": "Columbus Aviators",
-      "logo": "https://a.espncdn.com/i/teamlogos/ufl/500/scoreboard/clb.png"
+      "name": "Seattle Mariners",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
     },
-    "kickoff_date": "2026-06-01",
-    "kickoff_time": "04:00",
-    "match_date": "2026-06-01",
-    "match_time": "04:00",
+    "kickoff_date": "2026-06-02",
+    "kickoff_time": "07:40",
+    "match_date": "2026-06-02",
+    "match_time": "07:40",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMxLnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIzLnBocA==",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "Panama-Brazil",
+    "id": "ColoradoRockies-LosAngelesAngels",
+    "league": "Baseball",
+    "team1": {
+      "name": "Colorado Rockies",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"
+    },
+    "team2": {
+      "name": "Los Angeles Angels",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
+    },
+    "kickoff_date": "2026-06-02",
+    "kickoff_time": "07:38",
+    "match_date": "2026-06-02",
+    "match_time": "07:38",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIxLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Uzbekistan-Canada",
     "league": "Football",
     "team1": {
-      "name": "Panama",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png"
+      "name": "Uzbekistan",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png"
     },
     "team2": {
-      "name": "Brazil",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png"
+      "name": "Canada",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png"
     },
-    "kickoff_date": "2026-06-01",
-    "kickoff_time": "03:30",
-    "match_date": "2026-06-01",
-    "match_time": "03:30",
+    "kickoff_date": "2026-06-02",
+    "kickoff_time": "07:00",
+    "match_date": "2026-06-02",
+    "match_time": "07:00",
     "duration": "3.5",
     "servers": [
       {
@@ -1183,89 +1206,158 @@
     ]
   },
   {
-    "id": "ArizonaDiamondbacks-SeattleMariners",
+    "id": "TexasRangers-StLouisCardinals",
     "league": "Baseball",
     "team1": {
-      "name": "Arizona Diamondbacks",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
+      "name": "Texas Rangers",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
     },
     "team2": {
-      "name": "Seattle Mariners",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
+      "name": "St. Louis Cardinals",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
     },
-    "kickoff_date": "2026-06-01",
-    "kickoff_time": "02:10",
-    "match_date": "2026-06-01",
-    "match_time": "02:10",
+    "kickoff_date": "2026-06-02",
+    "kickoff_time": "05:45",
+    "match_date": "2026-06-02",
+    "match_time": "05:45",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDI3LnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIwLnBocA==",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "PhiladelphiaPhillies-LosAngelesDodgers",
+    "id": "ChicagoWhiteSox-MinnesotaTwins",
     "league": "Baseball",
     "team1": {
-      "name": "Philadelphia Phillies",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
+      "name": "Chicago White Sox",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"
     },
     "team2": {
-      "name": "Los Angeles Dodgers",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+      "name": "Minnesota Twins",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
     },
-    "kickoff_date": "2026-06-01",
-    "kickoff_time": "02:10",
-    "match_date": "2026-06-01",
-    "match_time": "02:10",
+    "kickoff_date": "2026-06-02",
+    "kickoff_time": "05:40",
+    "match_date": "2026-06-02",
+    "match_time": "05:40",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDI4LnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE4LnBocA==",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "NewYorkYankees-Athletics",
+    "id": "SanFranciscoGiants-MilwaukeeBrewers",
     "league": "Baseball",
     "team1": {
-      "name": "New York Yankees",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
+      "name": "San Francisco Giants",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
     },
     "team2": {
-      "name": "Athletics",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
+      "name": "Milwaukee Brewers",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
     },
-    "kickoff_date": "2026-06-01",
-    "kickoff_time": "02:05",
-    "match_date": "2026-06-01",
-    "match_time": "02:05",
+    "kickoff_date": "2026-06-02",
+    "kickoff_time": "05:40",
+    "match_date": "2026-06-02",
+    "match_time": "05:40",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDI2LnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE5LnBocA==",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "Senegal-UnitedStates",
+    "id": "KansasCityRoyals-CincinnatiReds",
+    "league": "Baseball",
+    "team1": {
+      "name": "Kansas City Royals",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
+    },
+    "team2": {
+      "name": "Cincinnati Reds",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
+    },
+    "kickoff_date": "2026-06-02",
+    "kickoff_time": "05:10",
+    "match_date": "2026-06-02",
+    "match_time": "05:10",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE3LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "MiamiMarlins-WashingtonNationals",
+    "league": "Baseball",
+    "team1": {
+      "name": "Miami Marlins",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"
+    },
+    "team2": {
+      "name": "Washington Nationals",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
+    },
+    "kickoff_date": "2026-06-02",
+    "kickoff_time": "04:45",
+    "match_date": "2026-06-02",
+    "match_time": "04:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE2LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "DetroitTigers-TampaBayRays",
+    "league": "Baseball",
+    "team1": {
+      "name": "Detroit Tigers",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"
+    },
+    "team2": {
+      "name": "Tampa Bay Rays",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
+    },
+    "kickoff_date": "2026-06-02",
+    "kickoff_time": "04:40",
+    "match_date": "2026-06-02",
+    "match_time": "04:40",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE1LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NorthMacedonia-Trkiye",
     "league": "Football",
     "team1": {
-      "name": "Senegal",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sen.png"
+      "name": "North Macedonia",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mkd.png"
     },
     "team2": {
-      "name": "United States",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png"
+      "name": "Türkiye",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png"
     },
     "kickoff_date": "2026-06-01",
-    "kickoff_time": "01:30",
+    "kickoff_time": "23:30",
     "match_date": "2026-06-01",
-    "match_time": "01:30",
+    "match_time": "23:30",
     "duration": "3.5",
     "servers": [
       {
@@ -1275,93 +1367,24 @@
     ]
   },
   {
-    "id": "LasVegasAces-GoldenStateValkyries",
-    "league": "Basketball",
-    "team1": {
-      "name": "Las Vegas Aces",
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"
-    },
-    "team2": {
-      "name": "Golden State Valkyries",
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png"
-    },
-    "kickoff_date": "2026-06-01",
-    "kickoff_time": "01:30",
-    "match_date": "2026-06-01",
-    "match_time": "01:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDcwLnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "SanFranciscoGiants-ColoradoRockies",
-    "league": "Baseball",
-    "team1": {
-      "name": "San Francisco Giants",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
-    },
-    "team2": {
-      "name": "Colorado Rockies",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"
-    },
-    "kickoff_date": "2026-06-01",
-    "kickoff_time": "01:10",
-    "match_date": "2026-06-01",
-    "match_time": "01:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDI1LnBocA==",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Finland-Germany",
+    "id": "Sweden-Norway",
     "league": "Football",
     "team1": {
-      "name": "Finland",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png"
+      "name": "Sweden",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
     },
     "team2": {
-      "name": "Germany",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
+      "name": "Norway",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png"
     },
     "kickoff_date": "2026-06-01",
-    "kickoff_time": "00:45",
+    "kickoff_time": "23:00",
     "match_date": "2026-06-01",
-    "match_time": "00:45",
+    "match_time": "23:00",
     "duration": "3.5",
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "MotoGPItaly",
-    "league": "Motor Sport",
-    "team1": {
-      "name": "MotoGP Italy",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/3840px-Moto_Gp_logo.svg.png"
-    },
-    "team2": {
-      "name": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/3840px-Moto_Gp_logo.svg.png"
-    },
-    "kickoff_date": "2026-05-29",
-    "kickoff_time": "14:00",
-    "match_date": "2026-05-29",
-    "match_time": "14:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDQ5LnBocA==",
         "label": "CH-EN"
       }
     ]
