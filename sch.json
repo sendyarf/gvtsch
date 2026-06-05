@@ -1123,29 +1123,6 @@
     ]
   },
   {
-    "id": "CarolinaHurricanes-VegasGoldenKnights",
-    "league": "Usa - Nhl",
-    "team1": {
-      "name": "Carolina Hurricanes",
-      "logo": "https://static.flashscore.com/res/image/data/rBPup6iT-Ea3nasx0.png"
-    },
-    "team2": {
-      "name": "Vegas Golden Knights",
-      "logo": "https://static.flashscore.com/res/image/data/lKulpF6k-MucFHXDq.png"
-    },
-    "kickoff_date": "2026-06-05",
-    "kickoff_time": "07:00",
-    "match_date": "2026-06-05",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.cc/?ss=sporttv2",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
     "id": "VegasGoldenKnights-CarolinaHurricanes",
     "league": "Usa - Nhl",
     "team1": {
@@ -1161,7 +1138,12 @@
     "match_date": "2026-06-07",
     "match_time": "07:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=sporttv2",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "MonacoGrandPrixRace",
