@@ -1096,24 +1096,277 @@
     "servers": []
   },
   {
-    "id": "AtlantaDream-GoldenStateValkyries",
-    "league": "Basketball",
+    "id": "Australia-Paraguay",
+    "league": "Football",
     "team1": {
-      "name": "Atlanta Dream",
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/atl.png"
+      "name": "Australia",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png"
     },
     "team2": {
-      "name": "Golden State Valkyries",
-      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png"
+      "name": "Paraguay",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png"
     },
-    "kickoff_date": "2026-06-25",
+    "kickoff_date": "2026-06-26",
     "kickoff_time": "08:00",
-    "match_date": "2026-06-25",
+    "match_date": "2026-06-26",
     "match_time": "08:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDczLnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "UnitedStates-Trkiye",
+    "league": "Football",
+    "team1": {
+      "name": "United States",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png"
+    },
+    "team2": {
+      "name": "Türkiye",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png"
+    },
+    "kickoff_date": "2026-06-26",
+    "kickoff_time": "08:00",
+    "match_date": "2026-06-26",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "ArizonaDiamondbacks-StLouisCardinals",
+    "league": "Baseball",
+    "team1": {
+      "name": "Arizona Diamondbacks",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
+    },
+    "team2": {
+      "name": "St. Louis Cardinals",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+    },
+    "kickoff_date": "2026-06-26",
+    "kickoff_time": "05:45",
+    "match_date": "2026-06-26",
+    "match_time": "05:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIzLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "ChicagoCubs-NewYorkMets",
+    "league": "Baseball",
+    "team1": {
+      "name": "Chicago Cubs",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
+    },
+    "team2": {
+      "name": "New York Mets",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
+    },
+    "kickoff_date": "2026-06-26",
+    "kickoff_time": "05:10",
+    "match_date": "2026-06-26",
+    "match_time": "05:10",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIxLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NewYorkYankees-BostonRedSox",
+    "league": "Baseball",
+    "team1": {
+      "name": "New York Yankees",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
+    },
+    "team2": {
+      "name": "Boston Red Sox",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
+    },
+    "kickoff_date": "2026-06-26",
+    "kickoff_time": "05:10",
+    "match_date": "2026-06-26",
+    "match_time": "05:10",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIyLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "TexasRangers-TorontoBlueJays",
+    "league": "Baseball",
+    "team1": {
+      "name": "Texas Rangers",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
+    },
+    "team2": {
+      "name": "Toronto Blue Jays",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
+    },
+    "kickoff_date": "2026-06-26",
+    "kickoff_time": "05:07",
+    "match_date": "2026-06-26",
+    "match_time": "05:07",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDIwLnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Sweden-Japan",
+    "league": "Football",
+    "team1": {
+      "name": "Sweden",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png"
+    },
+    "team2": {
+      "name": "Japan",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png"
+    },
+    "kickoff_date": "2026-06-26",
+    "kickoff_time": "05:00",
+    "match_date": "2026-06-26",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Netherlands-Tunisia",
+    "league": "Football",
+    "team1": {
+      "name": "Netherlands",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
+    },
+    "team2": {
+      "name": "Tunisia",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png"
+    },
+    "kickoff_date": "2026-06-26",
+    "kickoff_time": "05:00",
+    "match_date": "2026-06-26",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "PhiladelphiaPhillies-WashingtonNationals",
+    "league": "Baseball",
+    "team1": {
+      "name": "Philadelphia Phillies",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
+    },
+    "team2": {
+      "name": "Washington Nationals",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
+    },
+    "kickoff_date": "2026-06-26",
+    "kickoff_time": "04:45",
+    "match_date": "2026-06-26",
+    "match_time": "04:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE5LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "HoustonAstros-DetroitTigers",
+    "league": "Baseball",
+    "team1": {
+      "name": "Houston Astros",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
+    },
+    "team2": {
+      "name": "Detroit Tigers",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"
+    },
+    "kickoff_date": "2026-06-26",
+    "kickoff_time": "04:40",
+    "match_date": "2026-06-26",
+    "match_time": "04:40",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE4LnBocA==",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "IvoryCoast-Curaao",
+    "league": "Football",
+    "team1": {
+      "name": "Ivory Coast",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png"
+    },
+    "team2": {
+      "name": "Curacao",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11678.png"
+    },
+    "kickoff_date": "2026-06-26",
+    "kickoff_time": "02:00",
+    "match_date": "2026-06-26",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Germany-Ecuador",
+    "league": "Football",
+    "team1": {
+      "name": "Germany",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png"
+    },
+    "team2": {
+      "name": "Ecuador",
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png"
+    },
+    "kickoff_date": "2026-06-26",
+    "kickoff_time": "02:00",
+    "match_date": "2026-06-26",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
         "label": "CH-EN"
       }
     ]
@@ -1129,106 +1382,60 @@
       "name": "San Francisco Giants",
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
     },
-    "kickoff_date": "2026-06-25",
-    "kickoff_time": "07:45",
-    "match_date": "2026-06-25",
-    "match_time": "07:45",
+    "kickoff_date": "2026-06-26",
+    "kickoff_time": "01:45",
+    "match_date": "2026-06-26",
+    "match_time": "01:45",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMwLnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE3LnBocA==",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "Mexico-Czechia",
-    "league": "Football",
-    "team1": {
-      "name": "Mexico",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png"
-    },
-    "team2": {
-      "name": "Czechia",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png"
-    },
-    "kickoff_date": "2026-06-25",
-    "kickoff_time": "07:00",
-    "match_date": "2026-06-25",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDMucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "SouthKorea-SouthAfrica",
-    "league": "Football",
-    "team1": {
-      "name": "South Korea",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png"
-    },
-    "team2": {
-      "name": "South Africa",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png"
-    },
-    "kickoff_date": "2026-06-25",
-    "kickoff_time": "07:00",
-    "match_date": "2026-06-25",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDEucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "AtlantaBraves-SanDiegoPadres",
+    "id": "SeattleMariners-PittsburghPirates",
     "league": "Baseball",
     "team1": {
-      "name": "Atlanta Braves",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
+      "name": "Seattle Mariners",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
     },
     "team2": {
-      "name": "San Diego Padres",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
+      "name": "Pittsburgh Pirates",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
     },
     "kickoff_date": "2026-06-25",
-    "kickoff_time": "06:40",
+    "kickoff_time": "22:35",
     "match_date": "2026-06-25",
-    "match_time": "06:40",
+    "match_time": "22:35",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDI5LnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE2LnBocA==",
         "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "2026NBADraftRound2",
-    "league": "Basketball",
+    "id": "KansasCityRoyals-TampaBayRays",
+    "league": "Baseball",
     "team1": {
-      "name": "2026 NBA Draft | Round 2",
-      "logo": ""
+      "name": "Kansas City Royals",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
     },
     "team2": {
-      "name": "",
-      "logo": ""
+      "name": "Tampa Bay Rays",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
     },
     "kickoff_date": "2026-06-25",
-    "kickoff_time": "06:00",
+    "kickoff_time": "22:10",
     "match_date": "2026-06-25",
-    "match_time": "06:00",
+    "match_time": "22:10",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY1LnBocA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDE1LnBocA==",
         "label": "CH-EN"
       }
     ]
