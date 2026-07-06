@@ -67,7 +67,7 @@
             "name": "Sao Paulo W",
             "logo": "https://static.flashscore.com/res/image/data/OpX3Ni7k-IaMbIQ9i.png"
         },
-        "kickoff_time": "18:00"
+        "kickoff_time": "HT"
     },
     {
         "id": "Limache-San Marcos de Arica",
@@ -151,7 +151,7 @@
             "name": "Ilbirs",
             "logo": "https://static.flashscore.com/res/image/data/2oeunSS0-0j0nrRMA.png"
         },
-        "kickoff_time": "14:00"
+        "kickoff_time": ""
     },
     {
         "id": "Super Nova-Ogre United",
@@ -165,7 +165,7 @@
             "name": "Ogre United",
             "logo": "https://static.flashscore.com/res/image/data/v3Ku9hne-2kHLLf4c.png"
         },
-        "kickoff_time": "16:00"
+        "kickoff_time": ""
     },
     {
         "id": "Suduva-Transinvest",
@@ -179,7 +179,7 @@
             "name": "Transinvest",
             "logo": "https://static.flashscore.com/res/image/data/IFY584BN-QsHXIQQ6.png"
         },
-        "kickoff_time": "15:45"
+        "kickoff_time": ""
     },
     {
         "id": "FC Ulaanbaatar-Deren",
@@ -221,7 +221,7 @@
             "name": "Kallon",
             "logo": "https://static.flashscore.com/res/image/data/SfP3zjWH-IciwOSVc.png"
         },
-        "kickoff_time": "16:15"
+        "kickoff_time": ""
     },
     {
         "id": "Kamboi Eagles-East End Lions",
@@ -235,7 +235,7 @@
             "name": "East End Lions",
             "logo": "https://static.flashscore.com/res/image/data/Ia85zj6k-xbGepqlg.png"
         },
-        "kickoff_time": "16:15"
+        "kickoff_time": ""
     },
     {
         "id": "Mighty Blackpool-Bhantal",
@@ -249,7 +249,7 @@
             "name": "Bhantal",
             "logo": "https://static.flashscore.com/res/image/data/Gn4iuVoe-z1W3PxKO.png"
         },
-        "kickoff_time": "16:15"
+        "kickoff_time": ""
     },
     {
         "id": "Ports Authority-Wilberforce Strikers",
@@ -291,7 +291,7 @@
             "name": "Dekedaha",
             "logo": "https://static.flashscore.com/res/image/data/4njhzwA6-x4ZGS7he.png"
         },
-        "kickoff_time": "12:30"
+        "kickoff_time": ""
     },
     {
         "id": "Brommapojkarna-GAIS",
@@ -305,7 +305,7 @@
             "name": "GAIS",
             "logo": "https://static.flashscore.com/res/image/data/0bnTzfAN-Aka1QK65.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": ""
     },
     {
         "id": "Hacken-Djurgarden",
@@ -319,21 +319,7 @@
             "name": "Djurgarden",
             "logo": "https://static.flashscore.com/res/image/data/hluRjvle-lvoaqOtj.png"
         },
-        "kickoff_time": "17:00"
-    },
-    {
-        "id": "Partizan (Srb)-Neftci Baku (Aze)",
-        "league": "WORLD - Club Friendly",
-        "sport": "soccer",
-        "team1": {
-            "name": "Partizan (Srb)",
-            "logo": "https://static.flashscore.com/res/image/data/vLhtb4Pq-prjDOVbf.png"
-        },
-        "team2": {
-            "name": "Neftci Baku (Aze)",
-            "logo": "https://static.flashscore.com/res/image/data/vRllzuA6-C4C6wm62.png"
-        },
-        "kickoff_time": "12:00"
+        "kickoff_time": ""
     },
     {
         "id": "Chelyabinsk (Rus)-Miass (Rus)",
@@ -347,7 +333,7 @@
             "name": "Miass (Rus)",
             "logo": "https://static.flashscore.com/res/image/data/AuKaAylC-AXTNA7mq.png"
         },
-        "kickoff_time": "13:00"
+        "kickoff_time": ""
     },
     {
         "id": "R. Volgograd (Rus)-Akron Togliatti (Rus)",
@@ -361,7 +347,7 @@
             "name": "Akron Togliatti (Rus)",
             "logo": "https://static.flashscore.com/res/image/data/KMPtnkVH-pKNNHowf.png"
         },
-        "kickoff_time": "14:00"
+        "kickoff_time": ""
     },
     {
         "id": "Cracovia (Pol)-Basaksehir (Tur)",
@@ -375,7 +361,21 @@
             "name": "Basaksehir (Tur)",
             "logo": "https://static.flashscore.com/res/image/data/8tyHVlRq-bwY1oXje.png"
         },
-        "kickoff_time": "15:00"
+        "kickoff_time": ""
+    },
+    {
+        "id": "Partizan (Srb)-Neftci Baku (Aze)",
+        "league": "WORLD - Club Friendly",
+        "sport": "soccer",
+        "team1": {
+            "name": "Partizan (Srb)",
+            "logo": "https://static.flashscore.com/res/image/data/vLhtb4Pq-prjDOVbf.png"
+        },
+        "team2": {
+            "name": "Neftci Baku (Aze)",
+            "logo": "https://static.flashscore.com/res/image/data/vRllzuA6-C4C6wm62.png"
+        },
+        "kickoff_time": ""
     },
     {
         "id": "FC Schwaig (Ger)-Regensburg (Ger)",
@@ -389,7 +389,7 @@
             "name": "Regensburg (Ger)",
             "logo": "https://static.flashscore.com/res/image/data/f5PjCkPq-ncNaLxYl.png"
         },
-        "kickoff_time": "16:30"
+        "kickoff_time": ""
     },
     {
         "id": "Colwyn Bay (Wal)-Rhyl (Wal)",
@@ -403,7 +403,7 @@
             "name": "Rhyl (Wal)",
             "logo": "https://static.flashscore.com/res/image/data/pduNnNU0-pnfTLZfC.png"
         },
-        "kickoff_time": "18:30"
+        "kickoff_time": "29"
     },
     {
         "id": "Japan U17 W-USA U17 W",
@@ -515,7 +515,7 @@
             "name": "Philippines",
             "logo": "https://static.flashscore.com/res/image/data/nupvGV76-C61WJZ3f.png"
         },
-        "kickoff_time": "10:30"
+        "kickoff_time": ""
     },
     {
         "id": "South Korea-Japan",
@@ -529,7 +529,7 @@
             "name": "Japan",
             "logo": "https://static.flashscore.com/res/image/data/zJ5wAMiT-dtzqTXTK.png"
         },
-        "kickoff_time": "10:30"
+        "kickoff_time": ""
     },
     {
         "id": "Czech Republic-Estonia",
@@ -543,7 +543,7 @@
             "name": "Estonia",
             "logo": "https://static.flashscore.com/res/image/data/IH45UA7k-nRdGpyH6.png"
         },
-        "kickoff_time": "15:00"
+        "kickoff_time": ""
     },
     {
         "id": "Hungary-Belgium",
@@ -557,7 +557,7 @@
             "name": "Belgium",
             "logo": "https://static.flashscore.com/res/image/data/OhoU54le-prStpyTu.png"
         },
-        "kickoff_time": "16:00"
+        "kickoff_time": ""
     },
     {
         "id": "Poland-Netherlands",
@@ -571,7 +571,7 @@
             "name": "Netherlands",
             "logo": "https://static.flashscore.com/res/image/data/h0wOB9Rq-6ZVOxU6F.png"
         },
-        "kickoff_time": "16:00"
+        "kickoff_time": ""
     },
     {
         "id": "Turkey-Switzerland",
@@ -585,7 +585,7 @@
             "name": "Switzerland",
             "logo": "https://static.flashscore.com/res/image/data/jaqgMtRq-fNEqmsjB.png"
         },
-        "kickoff_time": "16:00"
+        "kickoff_time": ""
     },
     {
         "id": "Latvia-Austria",
@@ -599,7 +599,7 @@
             "name": "Austria",
             "logo": "https://static.flashscore.com/res/image/data/69vVAqlC-MDObgICp.png"
         },
-        "kickoff_time": "16:30"
+        "kickoff_time": ""
     },
     {
         "id": "Germany-Cyprus",
@@ -613,7 +613,7 @@
             "name": "Cyprus",
             "logo": "https://static.flashscore.com/res/image/data/txQPFHlC-EHjsPmCg.png"
         },
-        "kickoff_time": "17:00"
+        "kickoff_time": ""
     },
     {
         "id": "Croatia-Israel",
@@ -627,7 +627,7 @@
             "name": "Israel",
             "logo": "https://static.flashscore.com/res/image/data/pd3JELjT-K6NdtgS4.png"
         },
-        "kickoff_time": "18:00"
+        "kickoff_time": ""
     },
     {
         "id": "Serbia-Bosnia & Herzegovina",
@@ -641,7 +641,7 @@
             "name": "Bosnia & Herzegovina",
             "logo": "https://static.flashscore.com/res/image/data/IqpRTNkC-OYQpqern.png"
         },
-        "kickoff_time": "18:00"
+        "kickoff_time": ""
     },
     {
         "id": "Slovenia-Sweden",
@@ -655,7 +655,7 @@
             "name": "Sweden",
             "logo": "https://static.flashscore.com/res/image/data/foyVLHT0-xj87XIpQ.png"
         },
-        "kickoff_time": "18:00"
+        "kickoff_time": ""
     },
     {
         "id": "France-Finland",
@@ -669,7 +669,7 @@
             "name": "Finland",
             "logo": "https://static.flashscore.com/res/image/data/2PclKESq-OYQpqern.png"
         },
-        "kickoff_time": "18:30"
+        "kickoff_time": ""
     },
     {
         "id": "Woodville Warriors-Forestville Eagles",
@@ -683,7 +683,7 @@
             "name": "Forestville Eagles",
             "logo": "https://static.flashscore.com/res/image/data/KfyAC5lC-67yFP43a.png"
         },
-        "kickoff_time": "11:00"
+        "kickoff_time": ""
     },
     {
         "id": "Woodville Warriors W-Forestville Eagles W",
@@ -697,7 +697,7 @@
             "name": "Forestville Eagles W",
             "logo": "https://static.flashscore.com/res/image/data/MwtvFDS0-2Z8S1ov2.png"
         },
-        "kickoff_time": "09:00"
+        "kickoff_time": ""
     },
     {
         "id": "Sergio Ceppi-Antofagasta",
@@ -725,7 +725,7 @@
             "name": "Moldova U16",
             "logo": "https://static.flashscore.com/res/image/data/GUXb5YQq-ABzqdYk5.png"
         },
-        "kickoff_time": "10:00"
+        "kickoff_time": ""
     },
     {
         "id": "Monaco U16-Andorra U16",
@@ -739,7 +739,7 @@
             "name": "Andorra U16",
             "logo": "https://static.flashscore.com/res/image/data/YLMsPUjC-rcUcZaKO.png"
         },
-        "kickoff_time": "12:30"
+        "kickoff_time": ""
     },
     {
         "id": "Kosovo U16-San Marino U16",
@@ -753,7 +753,7 @@
             "name": "San Marino U16",
             "logo": "https://static.flashscore.com/res/image/data/h0QKWf5k-tUHubqcP.png"
         },
-        "kickoff_time": "15:00"
+        "kickoff_time": ""
     },
     {
         "id": "Malta U16-Gibraltar U16",
@@ -767,7 +767,7 @@
             "name": "Gibraltar U16",
             "logo": "https://static.flashscore.com/res/image/data/dYYyNVme-YFWKntV5.png"
         },
-        "kickoff_time": "17:30"
+        "kickoff_time": ""
     },
     {
         "id": "Switzerland U20 W-Portugal U20 W",
@@ -781,7 +781,7 @@
             "name": "Portugal U20 W",
             "logo": "https://static.flashscore.com/res/image/data/MJRIEkWH-QuAlbyZh.png"
         },
-        "kickoff_time": "12:15"
+        "kickoff_time": ""
     },
     {
         "id": "Slovakia U20 W-Czech Republic U20 W",
@@ -795,7 +795,7 @@
             "name": "Czech Republic U20 W",
             "logo": "https://static.flashscore.com/res/image/data/dYaeeH8k-EFNlqax9.png"
         },
-        "kickoff_time": "12:30"
+        "kickoff_time": ""
     },
     {
         "id": "Greece U20 W-Azerbaijan U20 W",
@@ -809,7 +809,7 @@
             "name": "Azerbaijan U20 W",
             "logo": "https://static.flashscore.com/res/image/data/63VFce7k-I3b3ZFv5.png"
         },
-        "kickoff_time": "14:45"
+        "kickoff_time": ""
     },
     {
         "id": "Bulgaria U20 W-Bosnia & Herzegovina U20 W",
@@ -823,7 +823,7 @@
             "name": "Bosnia & Herzegovina U20 W",
             "logo": "https://static.flashscore.com/res/image/data/xldACggT-OO3plAwo.png"
         },
-        "kickoff_time": "15:00"
+        "kickoff_time": ""
     },
     {
         "id": "Netherlands U20 W-Romania U20 W",
@@ -837,7 +837,7 @@
             "name": "Romania U20 W",
             "logo": "https://static.flashscore.com/res/image/data/2qj9N7jC-b1xaMyVe.png"
         },
-        "kickoff_time": "17:15"
+        "kickoff_time": ""
     },
     {
         "id": "Ireland U20 W-Albania U20 W",
@@ -851,7 +851,7 @@
             "name": "Albania U20 W",
             "logo": "https://static.flashscore.com/res/image/data/xGRI5DS0-jVJyjk6a.png"
         },
-        "kickoff_time": "17:30"
+        "kickoff_time": ""
     },
     {
         "id": "Olimpia Kings-Dep. San Jose",
@@ -893,7 +893,7 @@
             "name": "Bataan Risers",
             "logo": "https://static.flashscore.com/res/image/data/l2cBQa6k-lWIAAzpl.png"
         },
-        "kickoff_time": "10:00"
+        "kickoff_time": ""
     },
     {
         "id": "Pasig City-Mindoro Tamaraws",
@@ -907,19 +907,19 @@
             "name": "Mindoro Tamaraws",
             "logo": "https://static.flashscore.com/res/image/data/hI8euaDN-vkV2DQYe.png"
         },
-        "kickoff_time": "12:00"
+        "kickoff_time": ""
     },
     {
-        "id": "Golden State Warriors-Miami Heat",
+        "id": "San Antonio Spurs-Los Angeles Lakers",
         "league": "USA - California Classic",
         "sport": "basketball",
         "team1": {
-            "name": "Golden State Warriors",
-            "logo": "https://static.flashscore.com/res/image/data/jLhKbSne-pfzjG61O.png"
+            "name": "San Antonio Spurs",
+            "logo": "https://static.flashscore.com/res/image/data/0l5OxLS0-SrHHDGUm.png"
         },
         "team2": {
-            "name": "Miami Heat",
-            "logo": "https://static.flashscore.com/res/image/data/CKMk7ijT-hrxbSkzm.png"
+            "name": "Los Angeles Lakers",
+            "logo": "https://static.flashscore.com/res/image/data/dfovLU96-6y7aqqwb.png"
         },
         "kickoff_time": "23:30"
     },
@@ -952,6 +952,34 @@
         "kickoff_time": "23:30"
     },
     {
+        "id": "Slovenia U20-Italy U20",
+        "league": "WORLD - Friendly International",
+        "sport": "basketball",
+        "team1": {
+            "name": "Slovenia U20",
+            "logo": "https://static.flashscore.com/res/image/data/0vb1sK76-dWxvhZJm.png"
+        },
+        "team2": {
+            "name": "Italy U20",
+            "logo": "https://static.flashscore.com/res/image/data/pAfcVTR0-xCsenx2O.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Croatia U20-Lithuania U20",
+        "league": "WORLD - Friendly International",
+        "sport": "basketball",
+        "team1": {
+            "name": "Croatia U20",
+            "logo": "https://static.flashscore.com/res/image/data/MXlAVwme-fPiNbpy3.png"
+        },
+        "team2": {
+            "name": "Lithuania U20",
+            "logo": "https://static.flashscore.com/res/image/data/Uc46W9VH-Iup9obkm.png"
+        },
+        "kickoff_time": ""
+    },
+    {
         "id": "Spain U20-France U20",
         "league": "WORLD - Friendly International",
         "sport": "basketball",
@@ -963,6 +991,6 @@
             "name": "France U20",
             "logo": "https://static.flashscore.com/res/image/data/QkFvqliT-21ZiK0Zj.png"
         },
-        "kickoff_time": "18:00"
+        "kickoff_time": ""
     }
 ]
