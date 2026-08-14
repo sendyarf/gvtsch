@@ -105,7 +105,12 @@
     "match_date": "2026-02-07",
     "match_time": "22:00",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.cc/?ss=hd5",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Fulham-Everton",
