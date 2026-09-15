@@ -1,1962 +1,3208 @@
 [
     {
-        "id": "Leeds-Newcastle",
-        "league": "ENGLAND - Premier League",
+        "id": "Uzbekistan U23-Philippines U23",
+        "league": "ASIA - Asian Games",
         "sport": "soccer",
         "team1": {
-            "name": "Leeds",
-            "logo": "https://static.flashscore.com/res/image/data/lvs4WW5k-MTp25XgE.png"
+            "name": "Uzbekistan U23",
+            "logo": "https://static.flashscore.com/res/image/data/nimdZm7k-xtaawszB.png"
         },
         "team2": {
-            "name": "Newcastle",
-            "logo": "https://static.flashscore.com/res/image/data/UXo7VXPq-2Vnc5VQf.png"
+            "name": "Philippines U23",
+            "logo": "https://static.flashscore.com/res/image/data/jFAF19ne-nBMJVzcT.png"
         },
         "kickoff_time": ""
     },
     {
-        "id": "Como-Parma",
-        "league": "ITALY - Serie A",
+        "id": "Vietnam U23-Kuwait U23",
+        "league": "ASIA - Asian Games",
         "sport": "soccer",
         "team1": {
-            "name": "Como",
-            "logo": "https://static.flashscore.com/res/image/data/4pxypIS0-hpmw8K1h.png"
+            "name": "Vietnam U23",
+            "logo": "https://static.flashscore.com/res/image/data/KEO8IMR0-A9PcSp30.png"
         },
         "team2": {
-            "name": "Parma",
-            "logo": "https://static.flashscore.com/res/image/data/WI9nVggT-fydXzLY6.png"
+            "name": "Kuwait U23",
+            "logo": "https://static.flashscore.com/res/image/data/UPxwU8S0-pYWEJTrt.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "10:00"
     },
     {
-        "id": "Torino-AS Roma",
-        "league": "ITALY - Serie A",
+        "id": "Qatar U23-South Korea U23",
+        "league": "ASIA - Asian Games",
         "sport": "soccer",
         "team1": {
-            "name": "Torino",
-            "logo": "https://static.flashscore.com/res/image/data/dhGobOA6-0lwy4Ij1.png"
+            "name": "Qatar U23",
+            "logo": "https://static.flashscore.com/res/image/data/8zBWXyWH-xdsSUnwr.png"
         },
         "team2": {
-            "name": "AS Roma",
-            "logo": "https://static.flashscore.com/res/image/data/j31Z1pne-GtNb9h2q.png"
+            "name": "South Korea U23",
+            "logo": "https://static.flashscore.com/res/image/data/67M5owSq-C0A1Du90.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "10:30"
     },
     {
-        "id": "Inter-Udinese",
-        "league": "ITALY - Serie A",
+        "id": "Ajax-Willem II",
+        "league": "NETHERLANDS - Eredivisie",
         "sport": "soccer",
         "team1": {
-            "name": "Inter",
-            "logo": "https://static.flashscore.com/res/image/data/fLNbBiQq-O8c8nWOb.png"
+            "name": "Ajax",
+            "logo": "https://static.flashscore.com/res/image/data/hEQxyYA6-bZZPiwAI.png"
         },
         "team2": {
-            "name": "Udinese",
-            "logo": "https://static.flashscore.com/res/image/data/277EtfPq-SYw7EcY6.png"
+            "name": "Willem II",
+            "logo": "https://static.flashscore.com/res/image/data/hbv1mqS0-WQMFphXe.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "18:00"
     },
     {
-        "id": "Villarreal-Betis",
+        "id": "Platense (Arg)-Fluminense (Bra)",
+        "league": "SOUTH AMERICA - Copa Libertadores - Play Offs",
+        "sport": "soccer",
+        "team1": {
+            "name": "Platense (Arg)",
+            "logo": "https://static.flashscore.com/res/image/data/pl4O86U0-pAQm6KvU.png"
+        },
+        "team2": {
+            "name": "Fluminense (Bra)",
+            "logo": "https://static.flashscore.com/res/image/data/SII56zA6-WUfDDYk1.png"
+        },
+        "kickoff_time": "22:00"
+    },
+    {
+        "id": "Rayo Vallecano-Espanyol",
         "league": "SPAIN - LaLiga",
         "sport": "soccer",
         "team1": {
-            "name": "Villarreal",
-            "logo": "https://static.flashscore.com/res/image/data/EBxZSOjT-GSuwY3p9.png"
+            "name": "Rayo Vallecano",
+            "logo": "https://static.flashscore.com/res/image/data/QyKcNfhT-EPWyZtpb.png"
         },
         "team2": {
-            "name": "Betis",
-            "logo": "https://static.flashscore.com/res/image/data/YV7lpDU0-zkU5wiAr.png"
+            "name": "Espanyol",
+            "logo": "https://static.flashscore.com/res/image/data/QeCoIpXH-Msjm1Bq4.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "17:00"
     },
     {
-        "id": "Huracan-Racing Club",
+        "id": "Alaves-Valencia",
+        "league": "SPAIN - LaLiga",
+        "sport": "soccer",
+        "team1": {
+            "name": "Alaves",
+            "logo": "https://static.flashscore.com/res/image/data/4rBxR4R0-EXAuP9cb.png"
+        },
+        "team2": {
+            "name": "Valencia",
+            "logo": "https://static.flashscore.com/res/image/data/8Cqphq8k-MHrRLNUo.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Elche-Real Madrid",
+        "league": "SPAIN - LaLiga",
+        "sport": "soccer",
+        "team1": {
+            "name": "Elche",
+            "logo": "https://static.flashscore.com/res/image/data/EVxB82BN-YmCZKGcR.png"
+        },
+        "team2": {
+            "name": "Real Madrid",
+            "logo": "https://static.flashscore.com/res/image/data/CGPhnpne-ttfpEDUq.png"
+        },
+        "kickoff_time": "19:30"
+    },
+    {
+        "id": "Uganda U20-Djibouti U20",
+        "league": "AFRICA - CECAFA Championship U20",
+        "sport": "soccer",
+        "team1": {
+            "name": "Uganda U20",
+            "logo": "https://static.flashscore.com/res/image/data/CfzsHtle-ldWGNVVE.png"
+        },
+        "team2": {
+            "name": "Djibouti U20",
+            "logo": "https://static.flashscore.com/res/image/data/pMwhFQmC-xdg5DQ6d.png"
+        },
+        "kickoff_time": "11:00"
+    },
+    {
+        "id": "South Sudan U20-Burundi U20",
+        "league": "AFRICA - CECAFA Championship U20",
+        "sport": "soccer",
+        "team1": {
+            "name": "South Sudan U20",
+            "logo": "https://static.flashscore.com/res/image/data/8UVIUK5k-4lYHiu5M.png"
+        },
+        "team2": {
+            "name": "Burundi U20",
+            "logo": "https://static.flashscore.com/res/image/data/A7P2ajgT-tbLlTEpt.png"
+        },
+        "kickoff_time": "14:00"
+    },
+    {
+        "id": "Tanzania U20-Rwanda U20",
+        "league": "AFRICA - CECAFA Championship U20",
+        "sport": "soccer",
+        "team1": {
+            "name": "Tanzania U20",
+            "logo": "https://static.flashscore.com/res/image/data/tdBX4m86-ldWGNVVE.png"
+        },
+        "team2": {
+            "name": "Rwanda U20",
+            "logo": "https://static.flashscore.com/res/image/data/0d97NTme-MBizNLYC.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Instituto-Estudiantes Rio Cuarto",
         "league": "ARGENTINA - Liga Profesional - Clausura",
         "sport": "soccer",
         "team1": {
-            "name": "Huracan",
-            "logo": "https://static.flashscore.com/res/image/data/2mxEfn7k-xxyFAG42.png"
+            "name": "Instituto",
+            "logo": "https://static.flashscore.com/res/image/data/IuZoU3iT-ImUFDktI.png"
         },
         "team2": {
-            "name": "Racing Club",
-            "logo": "https://static.flashscore.com/res/image/data/Wp6MmpQq-OCiVKiPK.png"
+            "name": "Estudiantes Rio Cuarto",
+            "logo": "https://static.flashscore.com/res/image/data/ShlduL7k-jesEVRhB.png"
         },
         "kickoff_time": ""
     },
     {
-        "id": "Banfield-Barracas Central",
-        "league": "ARGENTINA - Liga Profesional - Clausura",
-        "sport": "soccer",
-        "team1": {
-            "name": "Banfield",
-            "logo": "https://static.flashscore.com/res/image/data/j1G5vlQq-zPA7Mpsn.png"
-        },
-        "team2": {
-            "name": "Barracas Central",
-            "logo": "https://static.flashscore.com/res/image/data/YVxbV1iT-KxCl9RDG.png"
-        },
-        "kickoff_time": "HT"
-    },
-    {
-        "id": "Dep. Riestra-Lanus",
-        "league": "ARGENTINA - Liga Profesional - Clausura",
-        "sport": "soccer",
-        "team1": {
-            "name": "Dep. Riestra",
-            "logo": "https://static.flashscore.com/res/image/data/zFp4DxiT-rRNfwvij.png"
-        },
-        "team2": {
-            "name": "Lanus",
-            "logo": "https://static.flashscore.com/res/image/data/I7GXcZiT-rRPTjfbN.png"
-        },
-        "kickoff_time": "HT"
-    },
-    {
-        "id": "Def. de Belgrano-Deportivo Madryn",
-        "league": "ARGENTINA - Primera Nacional",
-        "sport": "soccer",
-        "team1": {
-            "name": "Def. de Belgrano",
-            "logo": "https://static.flashscore.com/res/image/data/WUCuod96-tCv660YH.png"
-        },
-        "team2": {
-            "name": "Deportivo Madryn",
-            "logo": "https://static.flashscore.com/res/image/data/E3OAK2me-Uyu9KPIO.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Neftchi Fargona (Uzb)-Al Quwa Al Jawiya (Irq)",
+        "id": "Daejeon (Kor)-Kyoto (Jpn)",
         "league": "ASIA - AFC Champions League - League phase",
         "sport": "soccer",
         "team1": {
-            "name": "Neftchi Fargona (Uzb)",
-            "logo": "https://static.flashscore.com/res/image/data/6gAfGRAN-tKbQtiAt.png"
+            "name": "Daejeon (Kor)",
+            "logo": "https://static.flashscore.com/res/image/data/0turXcne-t6Z2pYxB.png"
         },
         "team2": {
-            "name": "Al Quwa Al Jawiya (Irq)",
-            "logo": "https://static.flashscore.com/res/image/data/2VE0Xj7k-46X3z1y3.png"
+            "name": "Kyoto (Jpn)",
+            "logo": "https://static.flashscore.com/res/image/data/IX3ZbhU0-pztL7OMb.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "10:00"
     },
     {
-        "id": "Shabab Al-Ahli Dubai (Uae)-Tractor (Irn)",
+        "id": "Gamba Osaka (Jpn)-Cong An Ha Noi (Vie)",
         "league": "ASIA - AFC Champions League - League phase",
         "sport": "soccer",
         "team1": {
-            "name": "Shabab Al-Ahli Dubai (Uae)",
-            "logo": "https://static.flashscore.com/res/image/data/QksHauRq-8zUcYY2j.png"
+            "name": "Gamba Osaka (Jpn)",
+            "logo": "https://static.flashscore.com/res/image/data/Q9lHEF5k-WCk3MDxq.png"
         },
         "team2": {
-            "name": "Tractor (Irn)",
-            "logo": "https://static.flashscore.com/res/image/data/E1GAXuRq-YLLRGqLF.png"
+            "name": "Cong An Ha Noi (Vie)",
+            "logo": "https://static.flashscore.com/res/image/data/IRCezESq-KnmSRxvE.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "10:00"
     },
     {
-        "id": "Shamal (Qat)-Al Ittihad (Sau)",
+        "id": "Kashima Antlers (Jpn)-Newcastle Jets (Aus)",
         "league": "ASIA - AFC Champions League - League phase",
         "sport": "soccer",
         "team1": {
-            "name": "Shamal (Qat)",
-            "logo": "https://static.flashscore.com/res/image/data/j3Qg52U0-h24xRRj2.png"
+            "name": "Kashima Antlers (Jpn)",
+            "logo": "https://static.flashscore.com/res/image/data/2ZWjdFRq-4SARfF5k.png"
         },
         "team2": {
-            "name": "Al Ittihad (Sau)",
-            "logo": "https://static.flashscore.com/res/image/data/zTFRZ8ne-xdB0SprH.png"
+            "name": "Newcastle Jets (Aus)",
+            "logo": "https://static.flashscore.com/res/image/data/G2fVyzjC-ObhAjuZC.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "10:00"
     },
     {
-        "id": "Al Ahli SC (Sau)-Pakhtakor (Uzb)",
+        "id": "Ratchaburi (Tha)-Shanghai Port (Chn)",
         "league": "ASIA - AFC Champions League - League phase",
         "sport": "soccer",
         "team1": {
-            "name": "Al Ahli SC (Sau)",
-            "logo": "https://static.flashscore.com/res/image/data/YFt73dQq-tjD2oGGi.png"
+            "name": "Ratchaburi (Tha)",
+            "logo": "https://static.flashscore.com/res/image/data/UojoWS86-EqcBTBE3.png"
         },
         "team2": {
-            "name": "Pakhtakor (Uzb)",
-            "logo": "https://static.flashscore.com/res/image/data/2gkqKCUH-6qXe6T4n.png"
+            "name": "Shanghai Port (Chn)",
+            "logo": "https://static.flashscore.com/res/image/data/GOaievne-4Iubiv1h.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "10:00"
     },
     {
-        "id": "Al Qadsiah (Sau)-Al Wasl (Uae)",
+        "id": "Beijing Guoan (Chn)-Pohang (Kor)",
         "league": "ASIA - AFC Champions League - League phase",
         "sport": "soccer",
         "team1": {
-            "name": "Al Qadsiah (Sau)",
-            "logo": "https://static.flashscore.com/res/image/data/fm8umblC-OvCAgTwF.png"
+            "name": "Beijing Guoan (Chn)",
+            "logo": "https://static.flashscore.com/res/image/data/EBqbYgDN-0WVkf0ET.png"
         },
         "team2": {
-            "name": "Al Wasl (Uae)",
-            "logo": "https://static.flashscore.com/res/image/data/vHhuNn6k-K8vlWhPS.png"
+            "name": "Pohang (Kor)",
+            "logo": "https://static.flashscore.com/res/image/data/Wv5DEfWH-lG6iYHm8.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "12:15"
     },
     {
-        "id": "Esteghlal F.C. (Irn)-Al-Sadd (Qat)",
+        "id": "Johor DT (Mys)-Buriram (Tha)",
         "league": "ASIA - AFC Champions League - League phase",
         "sport": "soccer",
         "team1": {
-            "name": "Esteghlal F.C. (Irn)",
-            "logo": "https://static.flashscore.com/res/image/data/fyhmHABN-CCbRtrUN.png"
+            "name": "Johor DT (Mys)",
+            "logo": "https://static.flashscore.com/res/image/data/pSe4mFne-d29rUy0U.png"
         },
         "team2": {
-            "name": "Al-Sadd (Qat)",
-            "logo": "https://static.flashscore.com/res/image/data/6wz76yhT-EsInupY1.png"
+            "name": "Buriram (Tha)",
+            "logo": "https://static.flashscore.com/res/image/data/Q9V0grlC-AHLMjQO5.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "12:15"
     },
     {
-        "id": "Shan Utd-Ezra",
-        "league": "ASIA - ASEAN Club Championship - Qualification",
+        "id": "Al Ain (Uae)-Al Nassr (Sau)",
+        "league": "ASIA - AFC Champions League - League phase",
         "sport": "soccer",
         "team1": {
-            "name": "Shan Utd",
-            "logo": "https://static.flashscore.com/res/image/data/ji82pW7k-4SC6FALp.png"
+            "name": "Al Ain (Uae)",
+            "logo": "https://static.flashscore.com/res/image/data/4xQjb4kC-OKa9P8WR.png"
         },
         "team2": {
-            "name": "Ezra",
-            "logo": "https://static.flashscore.com/res/image/data/YFbsvRCN-hjh0nieS.png"
+            "name": "Al Nassr (Sau)",
+            "logo": "https://static.flashscore.com/res/image/data/ny6quoU0-dr3R7wGl.png"
         },
-        "kickoff_time": "Pen"
+        "kickoff_time": "16:00"
     },
     {
-        "id": "Philippines W-Uzbekistan W",
-        "league": "ASIA - Asian Games Women",
+        "id": "Al Hilal (Sau)-Al-Gharafa (Qat)",
+        "league": "ASIA - AFC Champions League - League phase",
         "sport": "soccer",
         "team1": {
-            "name": "Philippines W",
-            "logo": "https://static.flashscore.com/res/image/data/tO3ApVjT-jRswFqu2.png"
+            "name": "Al Hilal (Sau)",
+            "logo": "https://static.flashscore.com/res/image/data/EVoO06R0-joUWHZ1t.png"
         },
         "team2": {
-            "name": "Uzbekistan W",
-            "logo": "https://static.flashscore.com/res/image/data/h6i3ZL96-t61xvEQL.png"
+            "name": "Al-Gharafa (Qat)",
+            "logo": "https://static.flashscore.com/res/image/data/CSqp5VPq-hA8wSyki.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "18:15"
     },
     {
-        "id": "Chinese Taipei W-Vietnam W",
-        "league": "ASIA - Asian Games Women",
+        "id": "Arkadag (Tkm)-Al-Muharraq (Bhr)",
+        "league": "ASIA - AFC Champions League 2",
         "sport": "soccer",
         "team1": {
-            "name": "Chinese Taipei W",
-            "logo": "https://static.flashscore.com/res/image/data/8CfK6zjC-Iu66xHEi.png"
+            "name": "Arkadag (Tkm)",
+            "logo": "https://static.flashscore.com/res/image/data/8nduBOR0-Iafo3jHI.png"
         },
         "team2": {
-            "name": "Vietnam W",
-            "logo": "https://static.flashscore.com/res/image/data/jPP0m2S0-0xLZRP53.png"
+            "name": "Al-Muharraq (Bhr)",
+            "logo": "https://static.flashscore.com/res/image/data/EFzRuzU0-ALwI0fJ3.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "13:45"
     },
     {
-        "id": "North Korea W-Bangladesh W",
-        "league": "ASIA - Asian Games Women",
+        "id": "Gol Gohar (Irn)-Al Jazira (Uae)",
+        "league": "ASIA - AFC Champions League 2",
         "sport": "soccer",
         "team1": {
-            "name": "North Korea W",
-            "logo": "https://static.flashscore.com/res/image/data/8MkHmtRq-xpPmazWa.png"
+            "name": "Gol Gohar (Irn)",
+            "logo": "https://static.flashscore.com/res/image/data/EZLL0rlC-C4xHnkgm.png"
         },
         "team2": {
-            "name": "Bangladesh W",
-            "logo": "https://static.flashscore.com/res/image/data/KjlhGTT0-0EYShBaD.png"
+            "name": "Al Jazira (Uae)",
+            "logo": "https://static.flashscore.com/res/image/data/6sERlTkC-lWIXXvLm.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "13:45"
     },
     {
-        "id": "China W-Hong Kong W",
-        "league": "ASIA - Asian Games Women",
+        "id": "Kasuka (Bru)-Karketu Dili (Tls)",
+        "league": "ASIA - AFC Challenge League - Qualification",
         "sport": "soccer",
         "team1": {
-            "name": "China W",
-            "logo": "https://static.flashscore.com/res/image/data/dYBFA1me-nNtI3CTL.png"
+            "name": "Kasuka (Bru)",
+            "logo": "https://static.flashscore.com/res/image/data/GCDrJR5k-ttCzrmUH.png"
         },
         "team2": {
-            "name": "Hong Kong W",
-            "logo": "https://static.flashscore.com/res/image/data/Obsb6fUH-dCIdRhFh.png"
+            "name": "Karketu Dili (Tls)",
+            "logo": "https://static.flashscore.com/res/image/data/Aun9zQR0-hleFXRPu.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "12:15"
     },
     {
-        "id": "Japan W-Thailand W",
-        "league": "ASIA - Asian Games Women",
+        "id": "South Melbourne-Queensland Lions",
+        "league": "AUSTRALIA - Australia Cup",
         "sport": "soccer",
         "team1": {
-            "name": "Japan W",
-            "logo": "https://static.flashscore.com/res/image/data/AiWVfPjC-E1YhvyqD.png"
+            "name": "South Melbourne",
+            "logo": "https://static.flashscore.com/res/image/data/bJjvgGme-bTzLAEkQ.png"
         },
         "team2": {
-            "name": "Thailand W",
-            "logo": "https://static.flashscore.com/res/image/data/Y71HHRWH-0xLZRP53.png"
+            "name": "Queensland Lions",
+            "logo": "https://static.flashscore.com/res/image/data/juQjSH8k-GnWJ2Fya.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "19"
     },
     {
-        "id": "South Korea W-Myanmar W",
-        "league": "ASIA - Asian Games Women",
-        "sport": "soccer",
-        "team1": {
-            "name": "South Korea W",
-            "logo": "https://static.flashscore.com/res/image/data/hhLSZO76-h05QSROl.png"
-        },
-        "team2": {
-            "name": "Myanmar W",
-            "logo": "https://static.flashscore.com/res/image/data/2F7LMCne-OEMVS5jc.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Tahiti U19-New Zealand U19",
-        "league": "AUSTRALIA & OCEANIA - OFC Championship U19 - Play Offs",
-        "sport": "soccer",
-        "team1": {
-            "name": "Tahiti U19",
-            "logo": "https://static.flashscore.com/res/image/data/GW5kob7k-CSvd6tfO.png"
-        },
-        "team2": {
-            "name": "New Zealand U19",
-            "logo": "https://static.flashscore.com/res/image/data/KxuP79VH-Crka1xm9.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Safa Baku-Sabah Baku",
-        "league": "AZERBAIJAN - Premier League",
-        "sport": "soccer",
-        "team1": {
-            "name": "Safa Baku",
-            "logo": "https://static.flashscore.com/res/image/data/Ms0r41CN-YP74qAWu.png"
-        },
-        "team2": {
-            "name": "Sabah Baku",
-            "logo": "https://static.flashscore.com/res/image/data/h6OfmXR0-O8TAkqbq.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Tomayapo-Bolivar",
+        "id": "Real Oruro-Real Potosi",
         "league": "BOLIVIA - Division Profesional",
         "sport": "soccer",
         "team1": {
-            "name": "Tomayapo",
-            "logo": "https://static.flashscore.com/res/image/data/2uGH31A6-vDimPjdq.png"
+            "name": "Real Oruro",
+            "logo": "https://static.flashscore.com/res/image/data/8USpJ86k-IgJL63Se.png"
         },
         "team2": {
-            "name": "Bolivar",
-            "logo": "https://static.flashscore.com/res/image/data/8na9rjme-ULrHhAjS.png"
+            "name": "Real Potosi",
+            "logo": "https://static.flashscore.com/res/image/data/zDlDBrRq-hOiNe2t0.png"
+        },
+        "kickoff_time": "19:00"
+    },
+    {
+        "id": "Academia del Balompie-The Strongest",
+        "league": "BOLIVIA - Division Profesional",
+        "sport": "soccer",
+        "team1": {
+            "name": "Academia del Balompie",
+            "logo": "https://static.flashscore.com/res/image/data/x6fiYB7k-bP40ZzuI.png"
+        },
+        "team2": {
+            "name": "The Strongest",
+            "logo": "https://static.flashscore.com/res/image/data/bPKdT9hT-0rjUYb4J.png"
+        },
+        "kickoff_time": "21:15"
+    },
+    {
+        "id": "Avai-Vila Nova FC",
+        "league": "BRAZIL - Serie B",
+        "sport": "soccer",
+        "team1": {
+            "name": "Avai",
+            "logo": "https://static.flashscore.com/res/image/data/zyP05jWH-tOGtU4eT.png"
+        },
+        "team2": {
+            "name": "Vila Nova FC",
+            "logo": "https://static.flashscore.com/res/image/data/M5AhQV5k-OjIDDdYc.png"
         },
         "kickoff_time": ""
     },
     {
-        "id": "Bahia-Remo",
-        "league": "BRAZIL - Serie A Betano",
+        "id": "Londrina-Ponte Preta",
+        "league": "BRAZIL - Serie B",
         "sport": "soccer",
         "team1": {
-            "name": "Bahia",
-            "logo": "https://static.flashscore.com/res/image/data/IL73beA6-dKUmd286.png"
+            "name": "Londrina",
+            "logo": "https://static.flashscore.com/res/image/data/hWxFjziC-hlPnAf3r.png"
         },
         "team2": {
-            "name": "Remo",
-            "logo": "https://static.flashscore.com/res/image/data/GEFVWo96-vsDPUWUH.png"
+            "name": "Ponte Preta",
+            "logo": "https://static.flashscore.com/res/image/data/4OGSgN96-pM8eqsw3.png"
+        },
+        "kickoff_time": "22:30"
+    },
+    {
+        "id": "Nautico-Operario-PR",
+        "league": "BRAZIL - Serie B",
+        "sport": "soccer",
+        "team1": {
+            "name": "Nautico",
+            "logo": "https://static.flashscore.com/res/image/data/ADXIEPCN-4S2Tm4eJ.png"
+        },
+        "team2": {
+            "name": "Operario-PR",
+            "logo": "https://static.flashscore.com/res/image/data/p0AtzGQq-vm8qH06L.png"
+        },
+        "kickoff_time": "22:30"
+    },
+    {
+        "id": "Gremio Prudente-Linense",
+        "league": "BRAZIL - Copa Paulista - Play Offs",
+        "sport": "soccer",
+        "team1": {
+            "name": "Gremio Prudente",
+            "logo": "https://static.flashscore.com/res/image/data/6BNNd0BN-hxcX0AaP.png"
+        },
+        "team2": {
+            "name": "Linense",
+            "logo": "https://static.flashscore.com/res/image/data/6gesdTne-hdTXBdOD.png"
+        },
+        "kickoff_time": "22:30"
+    },
+    {
+        "id": "Barra FC-Blumenau",
+        "league": "BRAZIL - Copa Santa Catarina",
+        "sport": "soccer",
+        "team1": {
+            "name": "Barra FC",
+            "logo": "https://static.flashscore.com/res/image/data/KALmPqS0-ltdTeHH7.png"
+        },
+        "team2": {
+            "name": "Blumenau",
+            "logo": "https://static.flashscore.com/res/image/data/pEt197hT-h2Oz3EcN.png"
+        },
+        "kickoff_time": "22:00"
+    },
+    {
+        "id": "Kayanza-Aigle Noir",
+        "league": "BURUNDI - Primus League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Kayanza",
+            "logo": "https://static.flashscore.com/res/image/data/AJfhEvBN-6ozUJqCk.png"
+        },
+        "team2": {
+            "name": "Aigle Noir",
+            "logo": "https://static.flashscore.com/res/image/data/0rVmB1iT-r3aaqYj0.png"
+        },
+        "kickoff_time": "Postp"
+    },
+    {
+        "id": "Forge-Supra du Quebec",
+        "league": "CANADA - Championship",
+        "sport": "soccer",
+        "team1": {
+            "name": "Forge",
+            "logo": "https://static.flashscore.com/res/image/data/Ktn01ziC-EgMjWM13.png"
+        },
+        "team2": {
+            "name": "Supra du Quebec",
+            "logo": "https://static.flashscore.com/res/image/data/MZTKceQq-4roE8Tb8.png"
         },
         "kickoff_time": "23:00"
     },
     {
-        "id": "America MG-Sao Bernardo",
-        "league": "BRAZIL - Serie B",
+        "id": "America De Cali-Dep. Pasto",
+        "league": "COLOMBIA - Primera A - Clausura",
         "sport": "soccer",
         "team1": {
-            "name": "America MG",
-            "logo": "https://static.flashscore.com/res/image/data/K2MlyGoe-nHqWQgSo.png"
+            "name": "America De Cali",
+            "logo": "https://static.flashscore.com/res/image/data/OCsMaKUH-hSZHTo4B.png"
         },
         "team2": {
-            "name": "Sao Bernardo",
-            "logo": "https://static.flashscore.com/res/image/data/plaFSegT-AP3c0ay7.png"
-        },
-        "kickoff_time": "23"
-    },
-    {
-        "id": "Botafogo SP-Goias",
-        "league": "BRAZIL - Serie B",
-        "sport": "soccer",
-        "team1": {
-            "name": "Botafogo SP",
-            "logo": "https://static.flashscore.com/res/image/data/fy7q1GPq-dA1p8k46.png"
-        },
-        "team2": {
-            "name": "Goias",
-            "logo": "https://static.flashscore.com/res/image/data/YqfJ3686-G2OQQubE.png"
-        },
-        "kickoff_time": "25"
-    },
-    {
-        "id": "Ludogorets-Septemvri Sofia",
-        "league": "BULGARIA - efbet League",
-        "sport": "soccer",
-        "team1": {
-            "name": "Ludogorets",
-            "logo": "https://static.flashscore.com/res/image/data/KG84D6Rq-Kjkd1Ayp.png"
-        },
-        "team2": {
-            "name": "Septemvri Sofia",
-            "logo": "https://static.flashscore.com/res/image/data/G8c1lpgT-Oj0MPYxU.png"
+            "name": "Dep. Pasto",
+            "logo": "https://static.flashscore.com/res/image/data/xpPcZWWH-hjn5AE5Q.png"
         },
         "kickoff_time": ""
     },
     {
-        "id": "Union La Calera-Limache",
-        "league": "CHILE - Liga de Primera",
+        "id": "Bjelovar-Karlovac",
+        "league": "CROATIA - Croatian Cup",
         "sport": "soccer",
         "team1": {
-            "name": "Union La Calera",
-            "logo": "https://static.flashscore.com/res/image/data/fqvkkSmC-0p3SjwUb.png"
+            "name": "Bjelovar",
+            "logo": "https://static.flashscore.com/res/image/data/fLbIABPq-UPhyZXn8.png"
         },
         "team2": {
-            "name": "Limache",
-            "logo": "https://static.flashscore.com/res/image/data/Gf0ZHyB6-EawjMZXB.png"
+            "name": "Karlovac",
+            "logo": "https://static.flashscore.com/res/image/data/8WNxEx7k-2yv2uyE9.png"
+        },
+        "kickoff_time": "14:30"
+    },
+    {
+        "id": "Trinec-Mlada Boleslav",
+        "league": "CZECH REPUBLIC - MOL Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "Trinec",
+            "logo": "https://static.flashscore.com/res/image/data/tCSjWGme-nL16QaDh.png"
+        },
+        "team2": {
+            "name": "Mlada Boleslav",
+            "logo": "https://static.flashscore.com/res/image/data/Q1xUeLWH-4h6MU0eN.png"
+        },
+        "kickoff_time": "14:30"
+    },
+    {
+        "id": "Vlasim-Liberec",
+        "league": "CZECH REPUBLIC - MOL Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "Vlasim",
+            "logo": "https://static.flashscore.com/res/image/data/SvzOf5le-ULpLdDOG.png"
+        },
+        "team2": {
+            "name": "Liberec",
+            "logo": "https://static.flashscore.com/res/image/data/lvkyiaAN-GpqMVQ8j.png"
+        },
+        "kickoff_time": "15:00"
+    },
+    {
+        "id": "Skovshoved-FC Copenhagen",
+        "league": "DENMARK - Betano Pokalen",
+        "sport": "soccer",
+        "team1": {
+            "name": "Skovshoved",
+            "logo": "https://static.flashscore.com/res/image/data/SOBj1Rme-C0fVcc3d.png"
+        },
+        "team2": {
+            "name": "FC Copenhagen",
+            "logo": "https://static.flashscore.com/res/image/data/Gbsca9AN-xv6lkb7q.png"
+        },
+        "kickoff_time": "16:00"
+    },
+    {
+        "id": "Hellerup-Esbjerg",
+        "league": "DENMARK - Betano Pokalen",
+        "sport": "soccer",
+        "team1": {
+            "name": "Hellerup",
+            "logo": "https://static.flashscore.com/res/image/data/AZd1GJS0-UFaDtLwT.png"
+        },
+        "team2": {
+            "name": "Esbjerg",
+            "logo": "https://static.flashscore.com/res/image/data/lMsj0QVH-82YZVz8L.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Nordsjaelland W-Midtjylland W",
+        "league": "DENMARK - A-Liga Women",
+        "sport": "soccer",
+        "team1": {
+            "name": "Nordsjaelland W",
+            "logo": "https://static.flashscore.com/res/image/data/WIUioeCN-zFXMNdck.png"
+        },
+        "team2": {
+            "name": "Midtjylland W",
+            "logo": "https://static.flashscore.com/res/image/data/0GanAVoe-Qi8lUFsN.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "U. Catolica-Orense",
+        "league": "ECUADOR - Liga Pro",
+        "sport": "soccer",
+        "team1": {
+            "name": "U. Catolica",
+            "logo": "https://static.flashscore.com/res/image/data/MgHsGYU0-Kt2BHCfq.png"
+        },
+        "team2": {
+            "name": "Orense",
+            "logo": "https://static.flashscore.com/res/image/data/rHCAt0ne-4zwgEgF1.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Asyut Petroleum-Modern Sport",
+        "league": "EGYPT - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Asyut Petroleum",
+            "logo": "https://static.flashscore.com/res/image/data/nTXEYxWH-xYpJaFv3.png"
+        },
+        "team2": {
+            "name": "Modern Sport",
+            "logo": "https://static.flashscore.com/res/image/data/I3OSxBiT-zuoIGyJI.png"
+        },
+        "kickoff_time": "14:00"
+    },
+    {
+        "id": "Wadi Degla-Arab Contractors",
+        "league": "EGYPT - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Wadi Degla",
+            "logo": "https://static.flashscore.com/res/image/data/SCbuhyhT-nDyPqWH0.png"
+        },
+        "team2": {
+            "name": "Arab Contractors",
+            "logo": "https://static.flashscore.com/res/image/data/4x6HFG7k-SWYiaUwN.png"
+        },
+        "kickoff_time": "14:00"
+    },
+    {
+        "id": "Al Ahly-Abu Qir Semad",
+        "league": "EGYPT - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Al Ahly",
+            "logo": "https://static.flashscore.com/res/image/data/jPMoEDoe-CWnyifXm.png"
+        },
+        "team2": {
+            "name": "Abu Qir Semad",
+            "logo": "https://static.flashscore.com/res/image/data/QR8L3SPq-Mspxaqeq.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Al Masry-Al Ittihad",
+        "league": "EGYPT - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Al Masry",
+            "logo": "https://static.flashscore.com/res/image/data/O0QkpZne-K8vlWhPS.png"
+        },
+        "team2": {
+            "name": "Al Ittihad",
+            "logo": "https://static.flashscore.com/res/image/data/rZGWezQq-MHzP9uWK.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Bristol City-Lincoln",
+        "league": "ENGLAND - Championship",
+        "sport": "soccer",
+        "team1": {
+            "name": "Bristol City",
+            "logo": "https://static.flashscore.com/res/image/data/CGC2jhT0-OdaWmcNh.png"
+        },
+        "team2": {
+            "name": "Lincoln",
+            "logo": "https://static.flashscore.com/res/image/data/vPJrFoQq-jRNmGWXs.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "Middlesbrough-Millwall",
+        "league": "ENGLAND - Championship",
+        "sport": "soccer",
+        "team1": {
+            "name": "Middlesbrough",
+            "logo": "https://static.flashscore.com/res/image/data/p6waIw86-MgUZUr6h.png"
+        },
+        "team2": {
+            "name": "Millwall",
+            "logo": "https://static.flashscore.com/res/image/data/KE2n7iVH-prpZfVqU.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "Jersey Bulls-Burgess Hill",
+        "league": "ENGLAND - FA Cup - Qualification",
+        "sport": "soccer",
+        "team1": {
+            "name": "Jersey Bulls",
+            "logo": "https://static.flashscore.com/res/image/data/67mTFxUH-6BetCiiH.png"
+        },
+        "team2": {
+            "name": "Burgess Hill",
+            "logo": "https://static.flashscore.com/res/image/data/foAQunhT-pznQILEJ.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "Peterborough-Barnsley",
+        "league": "ENGLAND - EFL Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "Peterborough",
+            "logo": "https://static.flashscore.com/res/image/data/UXOm0396-QqrYeqde.png"
+        },
+        "team2": {
+            "name": "Barnsley",
+            "logo": "https://static.flashscore.com/res/image/data/xbz5uXhT-WdTjExSq.png"
+        },
+        "kickoff_time": "18:30"
+    },
+    {
+        "id": "West Ham-Fulham",
+        "league": "ENGLAND - EFL Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "West Ham",
+            "logo": "https://static.flashscore.com/res/image/data/YeSfKGlC-Q9DJHs4l.png"
+        },
+        "team2": {
+            "name": "Fulham",
+            "logo": "https://static.flashscore.com/res/image/data/fkbYUWme-ImMEe0UF.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "Ipswich-Arsenal",
+        "league": "ENGLAND - EFL Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "Ipswich",
+            "logo": "https://static.flashscore.com/res/image/data/r9vl4eQq-0C98slBk.png"
+        },
+        "team2": {
+            "name": "Arsenal",
+            "logo": "https://static.flashscore.com/res/image/data/0n1ffK6k-vcNAdtF9.png"
+        },
+        "kickoff_time": "19:00"
+    },
+    {
+        "id": "Liverpool-Tottenham",
+        "league": "ENGLAND - EFL Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "Liverpool",
+            "logo": "https://static.flashscore.com/res/image/data/nBClzyne-KCp4zq5F.png"
+        },
+        "team2": {
+            "name": "Tottenham",
+            "logo": "https://static.flashscore.com/res/image/data/v3SzDxVH-Ig5FKJZ5.png"
+        },
+        "kickoff_time": "19:00"
+    },
+    {
+        "id": "Reading-Brentford",
+        "league": "ENGLAND - EFL Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "Reading",
+            "logo": "https://static.flashscore.com/res/image/data/WxSczele-dvLIfKqM.png"
+        },
+        "team2": {
+            "name": "Brentford",
+            "logo": "https://static.flashscore.com/res/image/data/SjSCLv86-r9Mudk7j.png"
+        },
+        "kickoff_time": "19:00"
+    },
+    {
+        "id": "Chesterfield-Manchester City U21",
+        "league": "ENGLAND - EFL Trophy",
+        "sport": "soccer",
+        "team1": {
+            "name": "Chesterfield",
+            "logo": "https://static.flashscore.com/res/image/data/Me0J5MU0-CIDVVibD.png"
+        },
+        "team2": {
+            "name": "Manchester City U21",
+            "logo": "https://static.flashscore.com/res/image/data/zR4f1v7k-UPQNw1Wp.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Leyton Orient-Arsenal U21",
+        "league": "ENGLAND - EFL Trophy",
+        "sport": "soccer",
+        "team1": {
+            "name": "Leyton Orient",
+            "logo": "https://static.flashscore.com/res/image/data/Yovw905k-IXTMaFYM.png"
+        },
+        "team2": {
+            "name": "Arsenal U21",
+            "logo": "https://static.flashscore.com/res/image/data/ltDQhqkC-AoPf3VKt.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Swindon-Crystal Palace U21",
+        "league": "ENGLAND - EFL Trophy",
+        "sport": "soccer",
+        "team1": {
+            "name": "Swindon",
+            "logo": "https://static.flashscore.com/res/image/data/4hOx9vUH-6qsP6K6r.png"
+        },
+        "team2": {
+            "name": "Crystal Palace U21",
+            "logo": "https://static.flashscore.com/res/image/data/dO5GM9UH-8rhcoWfC.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Wycombe-Chelsea U21",
+        "league": "ENGLAND - EFL Trophy",
+        "sport": "soccer",
+        "team1": {
+            "name": "Wycombe",
+            "logo": "https://static.flashscore.com/res/image/data/hKlkKIUH-bgElVuX9.png"
+        },
+        "team2": {
+            "name": "Chelsea U21",
+            "logo": "https://static.flashscore.com/res/image/data/UoPK6gT0-p0NoeRrN.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "York City-Newcastle Utd U21",
+        "league": "ENGLAND - EFL Trophy",
+        "sport": "soccer",
+        "team1": {
+            "name": "York City",
+            "logo": "https://static.flashscore.com/res/image/data/0dAfIQne-2wDusEwU.png"
+        },
+        "team2": {
+            "name": "Newcastle Utd U21",
+            "logo": "https://static.flashscore.com/res/image/data/x4QYAI5k-jJDJHaGH.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Bromley U21-Ipswich U21",
+        "league": "ENGLAND - Premier League Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "Bromley U21",
+            "logo": "https://static.flashscore.com/res/image/data/2JOQWJne-4A5eQGjj.png"
+        },
+        "team2": {
+            "name": "Ipswich U21",
+            "logo": "https://static.flashscore.com/res/image/data/M7gAsVkC-GxBn2eBM.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Gillingham FC U21-Birmingham U21",
+        "league": "ENGLAND - Premier League Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "Gillingham FC U21",
+            "logo": "https://static.flashscore.com/res/image/data/rkuHmtgT-O4euqLTp.png"
+        },
+        "team2": {
+            "name": "Birmingham U21",
+            "logo": "https://static.flashscore.com/res/image/data/4fpdqzSq-OE8c02m0.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Mladost DG U19-Kairat Almaty U19",
+        "league": "EUROPE - UEFA Youth League - Winners Play Offs",
+        "sport": "soccer",
+        "team1": {
+            "name": "Mladost DG U19",
+            "logo": "https://static.flashscore.com/res/image/data/nXXsICAN-YZ2AdWjj.png"
+        },
+        "team2": {
+            "name": "Kairat Almaty U19",
+            "logo": "https://static.flashscore.com/res/image/data/vcOZGwU0-pMQfNBGN.png"
+        },
+        "kickoff_time": "14:00"
+    },
+    {
+        "id": "Aston Villa U21-Real Sociedad B",
+        "league": "EUROPE - Premier League International Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "Aston Villa U21",
+            "logo": "https://static.flashscore.com/res/image/data/l6RXfn7k-hh1UGvKP.png"
+        },
+        "team2": {
+            "name": "Real Sociedad B",
+            "logo": "https://static.flashscore.com/res/image/data/MwK5O35k-U144u08h.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Tottenham U21-NK Dinamo Zagreb 2",
+        "league": "EUROPE - Premier League International Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "Tottenham U21",
+            "logo": "https://static.flashscore.com/res/image/data/dCIAXeme-p09Kh4ok.png"
+        },
+        "team2": {
+            "name": "NK Dinamo Zagreb 2",
+            "logo": "https://static.flashscore.com/res/image/data/4pguXO6k-AabQOsPn.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Duisburg-TSV Havelse",
+        "league": "GERMANY - 3. Liga",
+        "sport": "soccer",
+        "team1": {
+            "name": "Duisburg",
+            "logo": "https://static.flashscore.com/res/image/data/OM3Hzcne-llQ95ECr.png"
+        },
+        "team2": {
+            "name": "TSV Havelse",
+            "logo": "https://static.flashscore.com/res/image/data/EH23eHPq-2XRGrsBo.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Grossaspach-Verl",
+        "league": "GERMANY - 3. Liga",
+        "sport": "soccer",
+        "team1": {
+            "name": "Grossaspach",
+            "logo": "https://static.flashscore.com/res/image/data/vuKyCDPq-UNgst50M.png"
+        },
+        "team2": {
+            "name": "Verl",
+            "logo": "https://static.flashscore.com/res/image/data/IJANR5UH-2VGlmGFh.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Meppen-Viktoria Koln",
+        "league": "GERMANY - 3. Liga",
+        "sport": "soccer",
+        "team1": {
+            "name": "Meppen",
+            "logo": "https://static.flashscore.com/res/image/data/pz0cJWTH-baDaGjjh.png"
+        },
+        "team2": {
+            "name": "Viktoria Koln",
+            "logo": "https://static.flashscore.com/res/image/data/bFj4097k-h0wZ9zwk.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Regensburg-Dusseldorf",
+        "league": "GERMANY - 3. Liga",
+        "sport": "soccer",
+        "team1": {
+            "name": "Regensburg",
+            "logo": "https://static.flashscore.com/res/image/data/f5PjCkPq-ncNaLxYl.png"
+        },
+        "team2": {
+            "name": "Dusseldorf",
+            "logo": "https://static.flashscore.com/res/image/data/4dR7FIjT-Qmnf8wEL.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Wurzburger Kickers-Alemannia Aachen",
+        "league": "GERMANY - 3. Liga",
+        "sport": "soccer",
+        "team1": {
+            "name": "Wurzburger Kickers",
+            "logo": "https://static.flashscore.com/res/image/data/OChMLD8k-8btt2rdi.png"
+        },
+        "team2": {
+            "name": "Alemannia Aachen",
+            "logo": "https://static.flashscore.com/res/image/data/EqCdUDSq-4hz8si14.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Antigua-Suchitepequez",
+        "league": "GUATEMALA - Liga Nacional - Apertura",
+        "sport": "soccer",
+        "team1": {
+            "name": "Antigua",
+            "logo": "https://static.flashscore.com/res/image/data/pruX2dDN-8GkSmkbF.png"
+        },
+        "team2": {
+            "name": "Suchitepequez",
+            "logo": "https://static.flashscore.com/res/image/data/IawfsfA6-SrRYQ9rd.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Fram-Breidablik",
+        "league": "ICELAND - Besta deild karla - Championship Group",
+        "sport": "soccer",
+        "team1": {
+            "name": "Fram",
+            "logo": "https://static.flashscore.com/res/image/data/nDrV2BUH-fL3dmxxd.png"
+        },
+        "team2": {
+            "name": "Breidablik",
+            "logo": "https://static.flashscore.com/res/image/data/Q7O0ncS0-vHTRibQp.png"
+        },
+        "kickoff_time": "19:15"
+    },
+    {
+        "id": "Coal India-Bhawanipore",
+        "league": "INDIA - Calcutta Premier Division - Championship Group",
+        "sport": "soccer",
+        "team1": {
+            "name": "Coal India",
+            "logo": "https://static.flashscore.com/res/image/data/IyAeOplC-vg59ZwrD.png"
+        },
+        "team2": {
+            "name": "Bhawanipore",
+            "logo": "https://static.flashscore.com/res/image/data/WAQQqoiT-Aqv3goi6.png"
+        },
+        "kickoff_time": "19"
+    },
+    {
+        "id": "Ironi Tiberias-Hapoel Jerusalem",
+        "league": "ISRAEL - Ligat ha'Al",
+        "sport": "soccer",
+        "team1": {
+            "name": "Ironi Tiberias",
+            "logo": "https://static.flashscore.com/res/image/data/dKo5J7Pq-MoYfhl4s.png"
+        },
+        "team2": {
+            "name": "Hapoel Jerusalem",
+            "logo": "https://static.flashscore.com/res/image/data/W81Fc1jT-Y1aUf0ik.png"
+        },
+        "kickoff_time": "16:30"
+    },
+    {
+        "id": "Beitar Jerusalem-Maccabi Petah Tikva",
+        "league": "ISRAEL - Ligat ha'Al",
+        "sport": "soccer",
+        "team1": {
+            "name": "Beitar Jerusalem",
+            "logo": "https://static.flashscore.com/res/image/data/Q3L4JfQq-llM9Ws6j.png"
+        },
+        "team2": {
+            "name": "Maccabi Petah Tikva",
+            "logo": "https://static.flashscore.com/res/image/data/2Pusm9S0-KbVn9zNU.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Casertana-Altamura",
+        "league": "ITALY - Serie C - Group C",
+        "sport": "soccer",
+        "team1": {
+            "name": "Casertana",
+            "logo": "https://static.flashscore.com/res/image/data/AyrNNTVH-r1GddVEp.png"
+        },
+        "team2": {
+            "name": "Altamura",
+            "logo": "https://static.flashscore.com/res/image/data/fsexYnBN-8f6p5h19.png"
+        },
+        "kickoff_time": "16:30"
+    },
+    {
+        "id": "Crotone-Inter U23",
+        "league": "ITALY - Serie C - Group C",
+        "sport": "soccer",
+        "team1": {
+            "name": "Crotone",
+            "logo": "https://static.flashscore.com/res/image/data/06kkEqQq-OfO7OVIe.png"
+        },
+        "team2": {
+            "name": "Inter U23",
+            "logo": "https://static.flashscore.com/res/image/data/fLNbBiQq-O8c8nWOb.png"
+        },
+        "kickoff_time": "16:30"
+    },
+    {
+        "id": "Giugliano-Cosenza",
+        "league": "ITALY - Serie C - Group C",
+        "sport": "soccer",
+        "team1": {
+            "name": "Giugliano",
+            "logo": "https://static.flashscore.com/res/image/data/bsUNe3BN-KbyStBWu.png"
+        },
+        "team2": {
+            "name": "Cosenza",
+            "logo": "https://static.flashscore.com/res/image/data/jHLbr0AN-j5ryYBSC.png"
+        },
+        "kickoff_time": "16:30"
+    },
+    {
+        "id": "Picerno-Catania",
+        "league": "ITALY - Serie C - Group C",
+        "sport": "soccer",
+        "team1": {
+            "name": "Picerno",
+            "logo": "https://static.flashscore.com/res/image/data/fLL9crU0-bVwIsq6I.png"
+        },
+        "team2": {
+            "name": "Catania",
+            "logo": "https://static.flashscore.com/res/image/data/ddGOuxBN-hnnCjjcF.png"
+        },
+        "kickoff_time": "16:30"
+    },
+    {
+        "id": "Bari-Potenza",
+        "league": "ITALY - Serie C - Group C",
+        "sport": "soccer",
+        "team1": {
+            "name": "Bari",
+            "logo": "https://static.flashscore.com/res/image/data/OCZAFtU0-plT8zlNA.png"
+        },
+        "team2": {
+            "name": "Potenza",
+            "logo": "https://static.flashscore.com/res/image/data/EiTbkNCN-tfP9H5ON.png"
+        },
+        "kickoff_time": "19:00"
+    },
+    {
+        "id": "Barletta-Salernitana",
+        "league": "ITALY - Serie C - Group C",
+        "sport": "soccer",
+        "team1": {
+            "name": "Barletta",
+            "logo": "https://static.flashscore.com/res/image/data/AajibnRq-t4GQxEM5.png"
+        },
+        "team2": {
+            "name": "Salernitana",
+            "logo": "https://static.flashscore.com/res/image/data/xIvN1djT-dvgFSUQH.png"
+        },
+        "kickoff_time": "19:00"
+    },
+    {
+        "id": "Casarano-Audace Cerignola",
+        "league": "ITALY - Serie C - Group C",
+        "sport": "soccer",
+        "team1": {
+            "name": "Casarano",
+            "logo": "https://static.flashscore.com/res/image/data/OvpVW496-Cb9oELdi.png"
+        },
+        "team2": {
+            "name": "Audace Cerignola",
+            "logo": "https://static.flashscore.com/res/image/data/I7vyAriC-QLHjJNgD.png"
+        },
+        "kickoff_time": "19:00"
+    },
+    {
+        "id": "Cavese-Sorrento",
+        "league": "ITALY - Serie C - Group C",
+        "sport": "soccer",
+        "team1": {
+            "name": "Cavese",
+            "logo": "https://static.flashscore.com/res/image/data/hKDTHR6k-lQsonYNp.png"
+        },
+        "team2": {
+            "name": "Sorrento",
+            "logo": "https://static.flashscore.com/res/image/data/EPleEMmC-xd98DIgi.png"
+        },
+        "kickoff_time": "19:00"
+    },
+    {
+        "id": "Foggia-Savoia",
+        "league": "ITALY - Serie C - Group C",
+        "sport": "soccer",
+        "team1": {
+            "name": "Foggia",
+            "logo": "https://static.flashscore.com/res/image/data/fe8o9Pme-v9LWknvd.png"
+        },
+        "team2": {
+            "name": "Savoia",
+            "logo": "https://static.flashscore.com/res/image/data/Gjgpwrle-vqt2IkuP.png"
+        },
+        "kickoff_time": "19:00"
+    },
+    {
+        "id": "Scafatese-Monopoli",
+        "league": "ITALY - Serie C - Group C",
+        "sport": "soccer",
+        "team1": {
+            "name": "Scafatese",
+            "logo": "https://static.flashscore.com/res/image/data/U75P1eBN-IkglGBNo.png"
+        },
+        "team2": {
+            "name": "Monopoli",
+            "logo": "https://static.flashscore.com/res/image/data/zHxTiVjC-Sl2pAhM7.png"
+        },
+        "kickoff_time": "19:00"
+    },
+    {
+        "id": "Genoa-Sudtirol",
+        "league": "ITALY - Coppa Italia",
+        "sport": "soccer",
+        "team1": {
+            "name": "Genoa",
+            "logo": "https://static.flashscore.com/res/image/data/S48z3Poe-hCD6m1R3.png"
+        },
+        "team2": {
+            "name": "Sudtirol",
+            "logo": "https://static.flashscore.com/res/image/data/2Xf8oTjT-UJeBD3ZT.png"
+        },
+        "kickoff_time": "16:00"
+    },
+    {
+        "id": "Fiorentina-Pisa",
+        "league": "ITALY - Coppa Italia",
+        "sport": "soccer",
+        "team1": {
+            "name": "Fiorentina",
+            "logo": "https://static.flashscore.com/res/image/data/fZhEFLjT-6XKdgOM6.png"
+        },
+        "team2": {
+            "name": "Pisa",
+            "logo": "https://static.flashscore.com/res/image/data/vPrevkT0-GMOw3SI3.png"
+        },
+        "kickoff_time": "19:00"
+    },
+    {
+        "id": "Racing United-Arnett Gardens",
+        "league": "JAMAICA - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Racing United",
+            "logo": "https://static.flashscore.com/res/image/data/ChMuqLS0-UoYqoCEa.png"
+        },
+        "team2": {
+            "name": "Arnett Gardens",
+            "logo": "https://static.flashscore.com/res/image/data/8EnG4Xoe-hr4cOWJA.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Super Nova-Riga FC",
+        "league": "LATVIA - Virsliga",
+        "sport": "soccer",
+        "team1": {
+            "name": "Super Nova",
+            "logo": "https://static.flashscore.com/res/image/data/GIWx0CjC-Qwg96XNN.png"
+        },
+        "team2": {
+            "name": "Riga FC",
+            "logo": "https://static.flashscore.com/res/image/data/WnBBFtRq-EmoyoZps.png"
+        },
+        "kickoff_time": "16:00"
+    },
+    {
+        "id": "Manonyane-LU FC",
+        "league": "LESOTHO - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Manonyane",
+            "logo": "https://static.flashscore.com/res/image/data/UiFhE7kC-r5tmsiVJ.png"
+        },
+        "team2": {
+            "name": "LU FC",
+            "logo": "https://static.flashscore.com/res/image/data/A7f7nNoe-UeVjGlwd.png"
+        },
+        "kickoff_time": "11:00"
+    },
+    {
+        "id": "Members-Lifofane",
+        "league": "LESOTHO - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Members",
+            "logo": "https://static.flashscore.com/res/image/data/YcZqwNlC-SKpHSQgU.png"
+        },
+        "team2": {
+            "name": "Lifofane",
+            "logo": "https://static.flashscore.com/res/image/data/zJyea8iT-htT4afEI.png"
+        },
+        "kickoff_time": "11:00"
+    },
+    {
+        "id": "LMPS-Bantu",
+        "league": "LESOTHO - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "LMPS",
+            "logo": "https://static.flashscore.com/res/image/data/WjwAZtlC-U3Hcth5Q.png"
+        },
+        "team2": {
+            "name": "Bantu",
+            "logo": "https://static.flashscore.com/res/image/data/UF6xxkS0-U3Hcth5Q.png"
+        },
+        "kickoff_time": "13:00"
+    },
+    {
+        "id": "Majantja-Linare",
+        "league": "LESOTHO - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Majantja",
+            "logo": "https://static.flashscore.com/res/image/data/fNUeYm7k-CncHWNjm.png"
+        },
+        "team2": {
+            "name": "Linare",
+            "logo": "https://static.flashscore.com/res/image/data/ABiteqiT-U3Hcth5Q.png"
+        },
+        "kickoff_time": "13:00"
+    },
+    {
+        "id": "Mzamane-LCS",
+        "league": "LESOTHO - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Mzamane",
+            "logo": "https://static.flashscore.com/res/image/data/E1lEtEVH-n7YMvvkj.png"
+        },
+        "team2": {
+            "name": "LCS",
+            "logo": "https://static.flashscore.com/res/image/data/QPOBozU0-WC3PyCDs.png"
+        },
+        "kickoff_time": "13:00"
+    },
+    {
+        "id": "Defence Force-Villa",
+        "league": "LESOTHO - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Defence Force",
+            "logo": "https://static.flashscore.com/res/image/data/zPosDome-U3Hcth5Q.png"
+        },
+        "team2": {
+            "name": "Villa",
+            "logo": "https://static.flashscore.com/res/image/data/SW8uwnBN-tzcpWvaA.png"
+        },
+        "kickoff_time": "13:30"
+    },
+    {
+        "id": "Machokha-Lioli",
+        "league": "LESOTHO - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Machokha",
+            "logo": "https://static.flashscore.com/res/image/data/ljXTHTT0-GEh10UgP.png"
+        },
+        "team2": {
+            "name": "Lioli",
+            "logo": "https://static.flashscore.com/res/image/data/EFPuaM8k-I32pmwSt.png"
+        },
+        "kickoff_time": "13:30"
+    },
+    {
+        "id": "Matlama-Lijabatho",
+        "league": "LESOTHO - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Matlama",
+            "logo": "https://static.flashscore.com/res/image/data/zXHEAw96-U3Hcth5Q.png"
+        },
+        "team2": {
+            "name": "Lijabatho",
+            "logo": "https://static.flashscore.com/res/image/data/MR9NE296-YcetJjnc.png"
+        },
+        "kickoff_time": "Postp"
+    },
+    {
+        "id": "Club Leon-Atl. San Luis",
+        "league": "MEXICO - Liga MX - Apertura",
+        "sport": "soccer",
+        "team1": {
+            "name": "Club Leon",
+            "logo": "https://static.flashscore.com/res/image/data/UuRwr5AN-bo0O7baB.png"
+        },
+        "team2": {
+            "name": "Atl. San Luis",
+            "logo": "https://static.flashscore.com/res/image/data/YD3Bg1Qq-dG08RUsN.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Toluca W-Club Tijuana W",
+        "league": "MEXICO - Liga MX Women - Apertura",
+        "sport": "soccer",
+        "team1": {
+            "name": "Toluca W",
+            "logo": "https://static.flashscore.com/res/image/data/dxtlTugT-vyGZIh6S.png"
+        },
+        "team2": {
+            "name": "Club Tijuana W",
+            "logo": "https://static.flashscore.com/res/image/data/td4KmbkC-vTwfVAOb.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Pachuca W-Club Leon W",
+        "league": "MEXICO - Liga MX Women - Apertura",
+        "sport": "soccer",
+        "team1": {
+            "name": "Pachuca W",
+            "logo": "https://static.flashscore.com/res/image/data/8YnG2eQq-K2yCsQaB.png"
+        },
+        "team2": {
+            "name": "Club Leon W",
+            "logo": "https://static.flashscore.com/res/image/data/6Zgy076k-xGqq07c2.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Jezero-Bokelj",
+        "league": "MONTENEGRO - Prva Crnogorska Liga",
+        "sport": "soccer",
+        "team1": {
+            "name": "Jezero",
+            "logo": "https://static.flashscore.com/res/image/data/IwxwKzBN-noyL6xy5.png"
+        },
+        "team2": {
+            "name": "Bokelj",
+            "logo": "https://static.flashscore.com/res/image/data/foVtu87k-ABpmWgn7.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Sofala-Ferroviario Maputo",
+        "league": "MOZAMBIQUE - Mocambola",
+        "sport": "soccer",
+        "team1": {
+            "name": "Sofala",
+            "logo": "https://static.flashscore.com/res/image/data/63gk9CWH-CvkKZgvj.png"
+        },
+        "team2": {
+            "name": "Ferroviario Maputo",
+            "logo": "https://static.flashscore.com/res/image/data/KvSFrLUH-ruXSDOxC.png"
+        },
+        "kickoff_time": "12:45"
+    },
+    {
+        "id": "Delfines Del Este (Dom)-Defence Force (Tri)",
+        "league": "NORTH & CENTRAL AMERICA - CONCACAF Caribbean Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "Delfines Del Este (Dom)",
+            "logo": "https://static.flashscore.com/res/image/data/by5y4oiT-zoQ0N7Vn.png"
+        },
+        "team2": {
+            "name": "Defence Force (Tri)",
+            "logo": "https://static.flashscore.com/res/image/data/AsPGbmSq-SQkjVH3I.png"
+        },
+        "kickoff_time": "23:00"
+    },
+    {
+        "id": "Violette (Hai)-Sando (Tri)",
+        "league": "NORTH & CENTRAL AMERICA - CONCACAF Caribbean Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "Violette (Hai)",
+            "logo": "https://static.flashscore.com/res/image/data/hYcDxhDN-hE6BPRI3.png"
+        },
+        "team2": {
+            "name": "Sando (Tri)",
+            "logo": "https://static.flashscore.com/res/image/data/GIEBOjBN-Gf6sycWq.png"
+        },
+        "kickoff_time": "23:00"
+    },
+    {
+        "id": "Ballymena-Carrick Rangers",
+        "league": "NORTHERN IRELAND - NIFL Premiership",
+        "sport": "soccer",
+        "team1": {
+            "name": "Ballymena",
+            "logo": "https://static.flashscore.com/res/image/data/6Dz1F0kC-6Xr4YRar.png"
+        },
+        "team2": {
+            "name": "Carrick Rangers",
+            "logo": "https://static.flashscore.com/res/image/data/WMQFf0AN-xOaZHl96.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "Crusaders-Dungannon",
+        "league": "NORTHERN IRELAND - NIFL Premiership",
+        "sport": "soccer",
+        "team1": {
+            "name": "Crusaders",
+            "logo": "https://static.flashscore.com/res/image/data/SA5WePWH-6BBVz3Rq.png"
+        },
+        "team2": {
+            "name": "Dungannon",
+            "logo": "https://static.flashscore.com/res/image/data/zLGtD26k-xOaZHl96.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "Glentoran-Coleraine",
+        "league": "NORTHERN IRELAND - NIFL Premiership",
+        "sport": "soccer",
+        "team1": {
+            "name": "Glentoran",
+            "logo": "https://static.flashscore.com/res/image/data/bJZUPpAN-l2qiVD1D.png"
+        },
+        "team2": {
+            "name": "Coleraine",
+            "logo": "https://static.flashscore.com/res/image/data/8njNmIjC-l2RHTltM.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "Larne-Cliftonville",
+        "league": "NORTHERN IRELAND - NIFL Premiership",
+        "sport": "soccer",
+        "team1": {
+            "name": "Larne",
+            "logo": "https://static.flashscore.com/res/image/data/jsdDsCBN-6DWdsjIR.png"
+        },
+        "team2": {
+            "name": "Cliftonville",
+            "logo": "https://static.flashscore.com/res/image/data/djXbEKle-OGT1hbmr.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "Limavady-Bangor FC",
+        "league": "NORTHERN IRELAND - NIFL Premiership",
+        "sport": "soccer",
+        "team1": {
+            "name": "Limavady",
+            "logo": "https://static.flashscore.com/res/image/data/KbbrjBjT-Usn9oOj7.png"
+        },
+        "team2": {
+            "name": "Bangor FC",
+            "logo": "https://static.flashscore.com/res/image/data/QmZYJ5Rq-hrxa6Pv9.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "Portadown-Linfield",
+        "league": "NORTHERN IRELAND - NIFL Premiership",
+        "sport": "soccer",
+        "team1": {
+            "name": "Portadown",
+            "logo": "https://static.flashscore.com/res/image/data/hnEM7jU0-C6HCzrGT.png"
+        },
+        "team2": {
+            "name": "Linfield",
+            "logo": "https://static.flashscore.com/res/image/data/8vO5MeT0-d08YyqWn.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "Miguelito-San Francisco",
+        "league": "PANAMA - LPF - Apertura",
+        "sport": "soccer",
+        "team1": {
+            "name": "Miguelito",
+            "logo": "https://static.flashscore.com/res/image/data/GviQey8k-xlqSvAq8.png"
+        },
+        "team2": {
+            "name": "San Francisco",
+            "logo": "https://static.flashscore.com/res/image/data/80z4opWH-vTLj5hDm.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Rakow-Zaglebie",
+        "league": "POLAND - Ekstraklasa",
+        "sport": "soccer",
+        "team1": {
+            "name": "Rakow",
+            "logo": "https://static.flashscore.com/res/image/data/judml86k-KpIcOmKL.png"
+        },
+        "team2": {
+            "name": "Zaglebie",
+            "logo": "https://static.flashscore.com/res/image/data/U52DqEVH-Ykwr8Dur.png"
+        },
+        "kickoff_time": "16:00"
+    },
+    {
+        "id": "Korona Kielce-Gornik Zabrze",
+        "league": "POLAND - Ekstraklasa",
+        "sport": "soccer",
+        "team1": {
+            "name": "Korona Kielce",
+            "logo": "https://static.flashscore.com/res/image/data/fq8mZthT-QwHphoES.png"
+        },
+        "team2": {
+            "name": "Gornik Zabrze",
+            "logo": "https://static.flashscore.com/res/image/data/G8TX8HAN-jJkcLdlk.png"
+        },
+        "kickoff_time": "18:30"
+    },
+    {
+        "id": "Widzew Lodz II-Polonia Bytom",
+        "league": "POLAND - Polish Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "Widzew Lodz II",
+            "logo": "https://static.flashscore.com/res/image/data/d4RPpaPq-zacAXWye.png"
+        },
+        "team2": {
+            "name": "Polonia Bytom",
+            "logo": "https://static.flashscore.com/res/image/data/nyMBx2jC-QPVxgHgK.png"
+        },
+        "kickoff_time": "13:00"
+    },
+    {
+        "id": "CSM Resita-FC Bacau",
+        "league": "ROMANIA - Liga 2",
+        "sport": "soccer",
+        "team1": {
+            "name": "CSM Resita",
+            "logo": "https://static.flashscore.com/res/image/data/KYDNAEUH-IoNPodjU.png"
+        },
+        "team2": {
+            "name": "FC Bacau",
+            "logo": "https://static.flashscore.com/res/image/data/QLPj9oSq-GbYLWabl.png"
+        },
+        "kickoff_time": "14:00"
+    },
+    {
+        "id": "Politehnica Timisoara W-Ol. Cluj W",
+        "league": "ROMANIA - Superliga Women",
+        "sport": "soccer",
+        "team1": {
+            "name": "Politehnica Timisoara W",
+            "logo": "https://static.flashscore.com/res/image/data/Cz5CQfBN-QBQVied4.png"
+        },
+        "team2": {
+            "name": "Ol. Cluj W",
+            "logo": "https://static.flashscore.com/res/image/data/Y1XdLOQq-l8hWdRv4.png"
+        },
+        "kickoff_time": "10:00"
+    },
+    {
+        "id": "Etincelles-Musanze",
+        "league": "RWANDA - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Etincelles",
+            "logo": "https://static.flashscore.com/res/image/data/QH8Y9UU0-8Y2rT0sN.png"
+        },
+        "team2": {
+            "name": "Musanze",
+            "logo": "https://static.flashscore.com/res/image/data/OIo0n9WH-OnWab9yA.png"
+        },
+        "kickoff_time": "13:00"
+    },
+    {
+        "id": "Etoile de L'Est-Gicumbi",
+        "league": "RWANDA - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Etoile de L'Est",
+            "logo": "https://static.flashscore.com/res/image/data/8UK5KaRq-29Vgx0Ht.png"
+        },
+        "team2": {
+            "name": "Gicumbi",
+            "logo": "https://static.flashscore.com/res/image/data/rkVNDKkC-OnWab9yA.png"
+        },
+        "kickoff_time": "13:00"
+    },
+    {
+        "id": "Kiyovu-Bugesera",
+        "league": "RWANDA - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Kiyovu",
+            "logo": "https://static.flashscore.com/res/image/data/4MJwktne-2cBw5mEH.png"
+        },
+        "team2": {
+            "name": "Bugesera",
+            "logo": "https://static.flashscore.com/res/image/data/GvPNJ7ne-fT5ojrk0.png"
+        },
+        "kickoff_time": "13:00"
+    },
+    {
+        "id": "Al Adalah-Al Jandal",
+        "league": "SAUDI ARABIA - Division 1",
+        "sport": "soccer",
+        "team1": {
+            "name": "Al Adalah",
+            "logo": "https://static.flashscore.com/res/image/data/MgWJ84Pq-CATmi5yJ.png"
+        },
+        "team2": {
+            "name": "Al Jandal",
+            "logo": "https://static.flashscore.com/res/image/data/MawNPhkC-fe8kvGSu.png"
+        },
+        "kickoff_time": "15:30"
+    },
+    {
+        "id": "Al Orubah-Al Jeel",
+        "league": "SAUDI ARABIA - Division 1",
+        "sport": "soccer",
+        "team1": {
+            "name": "Al Orubah",
+            "logo": "https://static.flashscore.com/res/image/data/hl8ZGFle-d8jfLLJ3.png"
+        },
+        "team2": {
+            "name": "Al Jeel",
+            "logo": "https://static.flashscore.com/res/image/data/jmTTkhlC-Awozrn8K.png"
+        },
+        "kickoff_time": "16:05"
+    },
+    {
+        "id": "Falkirk-Hearts",
+        "league": "SCOTLAND - Premiership",
+        "sport": "soccer",
+        "team1": {
+            "name": "Falkirk",
+            "logo": "https://static.flashscore.com/res/image/data/M77w9vme-EVwfgUro.png"
+        },
+        "team2": {
+            "name": "Hearts",
+            "logo": "https://static.flashscore.com/res/image/data/lOCLY2A6-Ae0zHiFc.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "Hibernian-Kilmarnock",
+        "league": "SCOTLAND - Premiership",
+        "sport": "soccer",
+        "team1": {
+            "name": "Hibernian",
+            "logo": "https://static.flashscore.com/res/image/data/dpI0AACN-0rzlDEOC.png"
+        },
+        "team2": {
+            "name": "Kilmarnock",
+            "logo": "https://static.flashscore.com/res/image/data/6HG2JU96-xAfKntqE.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "Motherwell-Aberdeen",
+        "league": "SCOTLAND - Premiership",
+        "sport": "soccer",
+        "team1": {
+            "name": "Motherwell",
+            "logo": "https://static.flashscore.com/res/image/data/nLYJxcCN-xGFNNID8.png"
+        },
+        "team2": {
+            "name": "Aberdeen",
+            "logo": "https://static.flashscore.com/res/image/data/dOffsEjT-SQqfdcHF.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "Stenhousemuir-Partick Thistle",
+        "league": "SCOTLAND - Championship",
+        "sport": "soccer",
+        "team1": {
+            "name": "Stenhousemuir",
+            "logo": "https://static.flashscore.com/res/image/data/EZyz7Jle-O2l6wJsK.png"
+        },
+        "team2": {
+            "name": "Partick Thistle",
+            "logo": "https://static.flashscore.com/res/image/data/Sbmv3BRq-bDGTe4kB.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "Ross County-Queen of South",
+        "league": "SCOTLAND - League One",
+        "sport": "soccer",
+        "team1": {
+            "name": "Ross County",
+            "logo": "https://static.flashscore.com/res/image/data/d2gqjfne-CYRA4Jdi.png"
+        },
+        "team2": {
+            "name": "Queen of South",
+            "logo": "https://static.flashscore.com/res/image/data/WfbIXijT-vLBOqDG6.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "East Fife-Motherwell B",
+        "league": "SCOTLAND - Challenge Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "East Fife",
+            "logo": "https://static.flashscore.com/res/image/data/Y5RrDAle-GYKwgq56.png"
+        },
+        "team2": {
+            "name": "Motherwell B",
+            "logo": "https://static.flashscore.com/res/image/data/vgJcTyme-8b4Nf0bk.png"
+        },
+        "kickoff_time": "18:45"
+    },
+    {
+        "id": "Velke Ludince-Dun. Streda",
+        "league": "SLOVAKIA - Slovak Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "Velke Ludince",
+            "logo": "https://static.flashscore.com/res/image/data/IqTDjH7k-2LPxb5iL.png"
+        },
+        "team2": {
+            "name": "Dun. Streda",
+            "logo": "https://static.flashscore.com/res/image/data/YoNa7tXH-IoNBgY5L.png"
+        },
+        "kickoff_time": "13:30"
+    },
+    {
+        "id": "Myjava-Galanta",
+        "league": "SLOVAKIA - Slovak Cup",
+        "sport": "soccer",
+        "team1": {
+            "name": "Myjava",
+            "logo": "https://static.flashscore.com/res/image/data/MTNGv0hT-dAJb3Ws0.png"
+        },
+        "team2": {
+            "name": "Galanta",
+            "logo": "https://static.flashscore.com/res/image/data/Mw1fhGCN-WInUZdnD.png"
+        },
+        "kickoff_time": "15:30"
+    },
+    {
+        "id": "Vasco (Bra)-Santa Fe (Col)",
+        "league": "SOUTH AMERICA - Copa Sudamericana - Play Offs",
+        "sport": "soccer",
+        "team1": {
+            "name": "Vasco (Bra)",
+            "logo": "https://static.flashscore.com/res/image/data/Qw7CsWAN-bam8o1Nj.png"
+        },
+        "team2": {
+            "name": "Santa Fe (Col)",
+            "logo": "https://static.flashscore.com/res/image/data/UacjBalC-AaS9a4Ho.png"
+        },
+        "kickoff_time": "22:00"
+    },
+    {
+        "id": "Blue Eagles-Sea Hawks",
+        "league": "SRI LANKA - Super League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Blue Eagles",
+            "logo": "https://static.flashscore.com/res/image/data/rPgEPFCN-lfyDBqhp.png"
+        },
+        "team2": {
+            "name": "Sea Hawks",
+            "logo": "https://static.flashscore.com/res/image/data/6qqBKs8k-tE1SvU1D.png"
+        },
+        "kickoff_time": "10:00"
+    },
+    {
+        "id": "Brage-Sandviken",
+        "league": "SWEDEN - Superettan",
+        "sport": "soccer",
+        "team1": {
+            "name": "Brage",
+            "logo": "https://static.flashscore.com/res/image/data/tEDw3GkC-buV4cEWT.png"
+        },
+        "team2": {
+            "name": "Sandviken",
+            "logo": "https://static.flashscore.com/res/image/data/dx6Iea96-8t1QRKO8.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Landskrona-Sundsvall",
+        "league": "SWEDEN - Superettan",
+        "sport": "soccer",
+        "team1": {
+            "name": "Landskrona",
+            "logo": "https://static.flashscore.com/res/image/data/bghLIA7k-8MQIUsm4.png"
+        },
+        "team2": {
+            "name": "Sundsvall",
+            "logo": "https://static.flashscore.com/res/image/data/0KV7PzVH-rFwxlpm5.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Varnamo-Oster",
+        "league": "SWEDEN - Superettan",
+        "sport": "soccer",
+        "team1": {
+            "name": "Varnamo",
+            "logo": "https://static.flashscore.com/res/image/data/OdotlAWH-hdwWI4JT.png"
+        },
+        "team2": {
+            "name": "Oster",
+            "logo": "https://static.flashscore.com/res/image/data/x8wJjCS0-OhPYORgk.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Grasshoppers-Sion",
+        "league": "SWITZERLAND - Super League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Grasshoppers",
+            "logo": "https://static.flashscore.com/res/image/data/SxnqXn86-WdBesfPo.png"
+        },
+        "team2": {
+            "name": "Sion",
+            "logo": "https://static.flashscore.com/res/image/data/8OdG9WTH-QsLBSppP.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Khujand-Istiqlol Dushanbe",
+        "league": "TAJIKISTAN - Vysshaya Liga",
+        "sport": "soccer",
+        "team1": {
+            "name": "Khujand",
+            "logo": "https://static.flashscore.com/res/image/data/GhM61JA6-xfGHBYTG.png"
+        },
+        "team2": {
+            "name": "Istiqlol Dushanbe",
+            "logo": "https://static.flashscore.com/res/image/data/hpUunPhT-ATHMZDbf.png"
+        },
+        "kickoff_time": "11:30"
+    },
+    {
+        "id": "Khosilot Parkhar-Parvoz-Aeroport Khujand",
+        "league": "TAJIKISTAN - Vysshaya Liga",
+        "sport": "soccer",
+        "team1": {
+            "name": "Khosilot Parkhar",
+            "logo": "https://static.flashscore.com/res/image/data/dSP8ggBN-6eZE5Nlm.png"
+        },
+        "team2": {
+            "name": "Parvoz-Aeroport Khujand",
+            "logo": "https://static.flashscore.com/res/image/data/YZPOhQR0-xfGHBYTG.png"
+        },
+        "kickoff_time": "14:00"
+    },
+    {
+        "id": "Young Africans-Geita Gold",
+        "league": "TANZANIA - Ligi Kuu Bara",
+        "sport": "soccer",
+        "team1": {
+            "name": "Young Africans",
+            "logo": "https://static.flashscore.com/res/image/data/WvPc1siT-EmiHOeHk.png"
+        },
+        "team2": {
+            "name": "Geita Gold",
+            "logo": "https://static.flashscore.com/res/image/data/fDgxNyhT-rmL4ZAyt.png"
+        },
+        "kickoff_time": "16:00"
+    },
+    {
+        "id": "Afyonkarahisaspor-Urgupspor",
+        "league": "TURKEY - Turkish Cup - Qualification",
+        "sport": "soccer",
+        "team1": {
+            "name": "Afyonkarahisaspor",
+            "logo": "https://static.flashscore.com/res/image/data/EZghbuhT-CjR9Hn88.png"
+        },
+        "team2": {
+            "name": "Urgupspor",
+            "logo": "https://static.flashscore.com/res/image/data/byy1V7CN-fRUsnG3R.png"
+        },
+        "kickoff_time": "14:00"
+    },
+    {
+        "id": "Altay-Soke 1970",
+        "league": "TURKEY - Turkish Cup - Qualification",
+        "sport": "soccer",
+        "team1": {
+            "name": "Altay",
+            "logo": "https://static.flashscore.com/res/image/data/0hVp2Vne-CGKJktBG.png"
+        },
+        "team2": {
+            "name": "Soke 1970",
+            "logo": "https://static.flashscore.com/res/image/data/zy7FRR86-KKObsI0A.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "BUL-Blacks Power",
+        "league": "UGANDA - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "BUL",
+            "logo": "https://static.flashscore.com/res/image/data/IJ38EFS0-OGu3TpGo.png"
+        },
+        "team2": {
+            "name": "Blacks Power",
+            "logo": "https://static.flashscore.com/res/image/data/U3NBkhWH-YDZYeNai.png"
+        },
+        "kickoff_time": "13:00"
+    },
+    {
+        "id": "NEC FC-URA SC",
+        "league": "UGANDA - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "NEC FC",
+            "logo": "https://static.flashscore.com/res/image/data/x4DlGcme-dj1bc0RQ.png"
+        },
+        "team2": {
+            "name": "URA SC",
+            "logo": "https://static.flashscore.com/res/image/data/Mco8rmS0-ldC4rPIn.png"
+        },
+        "kickoff_time": "13:00"
+    },
+    {
+        "id": "Villa-Kigezi HomeBoyz",
+        "league": "UGANDA - Premier League",
+        "sport": "soccer",
+        "team1": {
+            "name": "Villa",
+            "logo": "https://static.flashscore.com/res/image/data/GrXzHN6k-OGu3TpGo.png"
+        },
+        "team2": {
+            "name": "Kigezi HomeBoyz",
+            "logo": "https://static.flashscore.com/res/image/data/Gn2lfQjT-WUrr9Eeb.png"
+        },
+        "kickoff_time": "13:00"
+    },
+    {
+        "id": "Indy Eleven-Brooklyn",
+        "league": "USA - USL Championship",
+        "sport": "soccer",
+        "team1": {
+            "name": "Indy Eleven",
+            "logo": "https://static.flashscore.com/res/image/data/Qu7rX98k-SKM7ErGG.png"
+        },
+        "team2": {
+            "name": "Brooklyn",
+            "logo": "https://static.flashscore.com/res/image/data/GSZNbAAN-KnaKVDqe.png"
+        },
+        "kickoff_time": "23:00"
+    },
+    {
+        "id": "Carabobo-La Guaira",
+        "league": "VENEZUELA - Liga FUTVE - Clausura",
+        "sport": "soccer",
+        "team1": {
+            "name": "Carabobo",
+            "logo": "https://static.flashscore.com/res/image/data/fa2gFpUH-CtnfXRKE.png"
+        },
+        "team2": {
+            "name": "La Guaira",
+            "logo": "https://static.flashscore.com/res/image/data/W6fBjGme-YXN7iZz4.png"
+        },
+        "kickoff_time": "22:00"
+    },
+    {
+        "id": "Dep. Tachira-Puerto Cabello",
+        "league": "VENEZUELA - Liga FUTVE - Clausura",
+        "sport": "soccer",
+        "team1": {
+            "name": "Dep. Tachira",
+            "logo": "https://static.flashscore.com/res/image/data/GIcuo5UH-OxmaT1W4.png"
+        },
+        "team2": {
+            "name": "Puerto Cabello",
+            "logo": "https://static.flashscore.com/res/image/data/IVrm48WH-bkCHmVIM.png"
+        },
+        "kickoff_time": "22:30"
+    },
+    {
+        "id": "Universidad Central-Anzoategui FC",
+        "league": "VENEZUELA - Liga FUTVE - Clausura",
+        "sport": "soccer",
+        "team1": {
+            "name": "Universidad Central",
+            "logo": "https://static.flashscore.com/res/image/data/jNkTfR6k-rqNYPulj.png"
+        },
+        "team2": {
+            "name": "Anzoategui FC",
+            "logo": "https://static.flashscore.com/res/image/data/GQE9UdhT-E3syp48g.png"
         },
         "kickoff_time": "23:30"
     },
     {
-        "id": "Cucuta-Millonarios",
-        "league": "COLOMBIA - Primera A - Clausura",
+        "id": "Barry-Ammanford",
+        "league": "WALES - Cymru Premier",
         "sport": "soccer",
         "team1": {
-            "name": "Cucuta",
-            "logo": "https://static.flashscore.com/res/image/data/CIXgiT86-hCmseTFa.png"
+            "name": "Barry",
+            "logo": "https://static.flashscore.com/res/image/data/OGyHzSjC-x0ams4bn.png"
         },
         "team2": {
-            "name": "Millonarios",
-            "logo": "https://static.flashscore.com/res/image/data/I7bqaK6k-6kduDy6P.png"
+            "name": "Ammanford",
+            "logo": "https://static.flashscore.com/res/image/data/CWNXUaBN-AX9nNKwH.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "18:45"
     },
     {
-        "id": "Cartagines-Alajuelense",
-        "league": "COSTA RICA - Primera Division - Apertura",
+        "id": "Connahs Q.-Airbus",
+        "league": "WALES - Cymru Premier",
         "sport": "soccer",
         "team1": {
-            "name": "Cartagines",
-            "logo": "https://static.flashscore.com/res/image/data/4Whd97T0-S0r0ZEPB.png"
+            "name": "Connahs Q.",
+            "logo": "https://static.flashscore.com/res/image/data/lxbBTu6k-nwFtJ6d4.png"
         },
         "team2": {
-            "name": "Alajuelense",
-            "logo": "https://static.flashscore.com/res/image/data/IZE4pNjT-4v3Y4ReF.png"
+            "name": "Airbus",
+            "logo": "https://static.flashscore.com/res/image/data/ChIDaPRq-SY7hNqon.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "18:45"
     },
     {
-        "id": "Gorica-Varazdin",
-        "league": "CROATIA - HNL",
+        "id": "Holywell-Colwyn Bay",
+        "league": "WALES - Cymru Premier",
         "sport": "soccer",
         "team1": {
-            "name": "Gorica",
-            "logo": "https://static.flashscore.com/res/image/data/KEUjOG8k-rFDZLoVn.png"
+            "name": "Holywell",
+            "logo": "https://static.flashscore.com/res/image/data/Iie3x9VH-0C7XZ7Ka.png"
         },
         "team2": {
-            "name": "Varazdin",
-            "logo": "https://static.flashscore.com/res/image/data/pAIm8cne-CCW2Z0Rb.png"
+            "name": "Colwyn Bay",
+            "logo": "https://static.flashscore.com/res/image/data/KMN7hskC-EeyV1qlM.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "18:45"
     },
     {
-        "id": "Krasava-Aris",
-        "league": "CYPRUS - Cyprus League",
+        "id": "Llandudno-Caernarfon",
+        "league": "WALES - Cymru Premier",
         "sport": "soccer",
         "team1": {
-            "name": "Krasava",
-            "logo": "https://static.flashscore.com/res/image/data/l6V15H5k-zwjwOleQ.png"
+            "name": "Llandudno",
+            "logo": "https://static.flashscore.com/res/image/data/jBH9kYmC-8ESmY28i.png"
         },
         "team2": {
-            "name": "Aris",
-            "logo": "https://static.flashscore.com/res/image/data/692PjeDN-hntOaigG.png"
+            "name": "Caernarfon",
+            "logo": "https://static.flashscore.com/res/image/data/nJWMqLhT-Q7INJWDH.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "18:45"
     },
     {
-        "id": "Midtjylland-Brondby",
-        "league": "DENMARK - Superliga",
+        "id": "Penybont-Briton Ferry",
+        "league": "WALES - Cymru Premier",
         "sport": "soccer",
         "team1": {
-            "name": "Midtjylland",
-            "logo": "https://static.flashscore.com/res/image/data/QP9aS1AN-SMam5gj4.png"
+            "name": "Penybont",
+            "logo": "https://static.flashscore.com/res/image/data/QmutQvU0-IufDzkYs.png"
         },
         "team2": {
-            "name": "Brondby",
-            "logo": "https://static.flashscore.com/res/image/data/SfcKa9kC-WpN3aL79.png"
+            "name": "Briton Ferry",
+            "logo": "https://static.flashscore.com/res/image/data/faBTfiPq-IZjb4njN.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "18:45"
     },
     {
-        "id": "El Gaish-Smouha",
-        "league": "EGYPT - Premier League",
+        "id": "TNS-Flint",
+        "league": "WALES - Cymru Premier",
         "sport": "soccer",
         "team1": {
-            "name": "El Gaish",
-            "logo": "https://static.flashscore.com/res/image/data/U16I1I76-zcdwYkPa.png"
+            "name": "TNS",
+            "logo": "https://static.flashscore.com/res/image/data/vodmkvVH-zcb1Gz6r.png"
         },
         "team2": {
-            "name": "Smouha",
-            "logo": "https://static.flashscore.com/res/image/data/6DEg1o86-Y1Z3w2bI.png"
+            "name": "Flint",
+            "logo": "https://static.flashscore.com/res/image/data/ELS8NsiT-KbixPda2.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "18:45"
     },
     {
-        "id": "Ceramica Cleopatra-National Bank Egypt",
-        "league": "EGYPT - Premier League",
+        "id": "Trefelin-Cambrian United",
+        "league": "WALES - Cymru Premier",
         "sport": "soccer",
         "team1": {
-            "name": "Ceramica Cleopatra",
-            "logo": "https://static.flashscore.com/res/image/data/Me3ZjfT0-jFZNeE0K.png"
+            "name": "Trefelin",
+            "logo": "https://static.flashscore.com/res/image/data/Kv0ykr96-M73FC44i.png"
         },
         "team2": {
-            "name": "National Bank Egypt",
-            "logo": "https://static.flashscore.com/res/image/data/plJJBvBN-pjUF9hEb.png"
+            "name": "Cambrian United",
+            "logo": "https://static.flashscore.com/res/image/data/QDDppZBN-4EDpNSCD.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "18:45"
     },
     {
-        "id": "Inter Turku-VPS",
-        "league": "FINLAND - Veikkausliiga - Championship Group",
+        "id": "Penrhyncoch-Bala",
+        "league": "WALES - Cymru North",
         "sport": "soccer",
         "team1": {
-            "name": "Inter Turku",
-            "logo": "https://static.flashscore.com/res/image/data/Chr0TR76-xpBmN8u1.png"
+            "name": "Penrhyncoch",
+            "logo": "https://static.flashscore.com/res/image/data/vLyvvUT0-rT2z7SCH.png"
         },
         "team2": {
-            "name": "VPS",
-            "logo": "https://static.flashscore.com/res/image/data/EuTDSWne-WYtEUtB2.png"
+            "name": "Bala",
+            "logo": "https://static.flashscore.com/res/image/data/Qgq9aAA6-ba7lmHtG.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "18:45"
     },
     {
-        "id": "Red Star-Metz",
-        "league": "FRANCE - Ligue 2",
-        "sport": "soccer",
-        "team1": {
-            "name": "Red Star",
-            "logo": "https://static.flashscore.com/res/image/data/fT80UIA6-pEpm230o.png"
-        },
-        "team2": {
-            "name": "Metz",
-            "logo": "https://static.flashscore.com/res/image/data/SCdF7fjT-Chl7XNKI.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Meshakhte Tkibuli-Rustavi",
-        "league": "GEORGIA - Crystalbet Erovnuli Liga",
-        "sport": "soccer",
-        "team1": {
-            "name": "Meshakhte Tkibuli",
-            "logo": "https://static.flashscore.com/res/image/data/zRbb6STH-0rzO71d9.png"
-        },
-        "team2": {
-            "name": "Rustavi",
-            "logo": "https://static.flashscore.com/res/image/data/2NKXBv8k-WvdjqzuG.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Torpedo Kutaisi-Samgurali",
-        "league": "GEORGIA - Crystalbet Erovnuli Liga",
-        "sport": "soccer",
-        "team1": {
-            "name": "Torpedo Kutaisi",
-            "logo": "https://static.flashscore.com/res/image/data/KAipk2gT-EB9OaO1J.png"
-        },
-        "team2": {
-            "name": "Samgurali",
-            "logo": "https://static.flashscore.com/res/image/data/UiFIij6k-thxdQveD.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Dinamo Tbilisi-Gagra",
-        "league": "GEORGIA - Crystalbet Erovnuli Liga",
-        "sport": "soccer",
-        "team1": {
-            "name": "Dinamo Tbilisi",
-            "logo": "https://static.flashscore.com/res/image/data/jXbbBhiT-MqwiOmp3.png"
-        },
-        "team2": {
-            "name": "Gagra",
-            "logo": "https://static.flashscore.com/res/image/data/ETQDHcRq-zF9VPma8.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Bayer Leverkusen W-Bayern Munich W",
-        "league": "GERMANY - Bundesliga Women",
-        "sport": "soccer",
-        "team1": {
-            "name": "Bayer Leverkusen W",
-            "logo": "https://static.flashscore.com/res/image/data/lOXJ91kC-Q5uWoBwg.png"
-        },
-        "team2": {
-            "name": "Bayern Munich W",
-            "logo": "https://static.flashscore.com/res/image/data/jFLuYgle-GvWQ6nVp.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Panionios-Kalamaria",
-        "league": "GREECE - Super League 2",
-        "sport": "soccer",
-        "team1": {
-            "name": "Panionios",
-            "logo": "https://static.flashscore.com/res/image/data/nut44WAN-2yjBUpzG.png"
-        },
-        "team2": {
-            "name": "Kalamaria",
-            "logo": "https://static.flashscore.com/res/image/data/tQLSGsiC-0SR3RTfG.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Panthrakikos-PAOK B",
-        "league": "GREECE - Super League 2",
-        "sport": "soccer",
-        "team1": {
-            "name": "Panthrakikos",
-            "logo": "https://static.flashscore.com/res/image/data/jqGqO9kC-MeBb6502.png"
-        },
-        "team2": {
-            "name": "PAOK B",
-            "logo": "https://static.flashscore.com/res/image/data/bN5lXgT0-r121T6Nl.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Municipal-Malacateco",
-        "league": "GUATEMALA - Liga Nacional - Apertura",
-        "sport": "soccer",
-        "team1": {
-            "name": "Municipal",
-            "logo": "https://static.flashscore.com/res/image/data/tdFtpxhT-vTLj5hDm.png"
-        },
-        "team2": {
-            "name": "Malacateco",
-            "logo": "https://static.flashscore.com/res/image/data/UmctUR5k-Kd6FFBdj.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Atletico Independiente-Juticalpa",
-        "league": "HONDURAS - Liga Nacional - Apertura",
-        "sport": "soccer",
-        "team1": {
-            "name": "Atletico Independiente",
-            "logo": "https://static.flashscore.com/res/image/data/dxKvEE8k-M5pVan7T.png"
-        },
-        "team2": {
-            "name": "Juticalpa",
-            "logo": "https://static.flashscore.com/res/image/data/UaqNuHUH-dtnFGY4p.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Vikingur Reykjavik-Keflavik",
-        "league": "ICELAND - Besta deild karla - Championship Group",
-        "sport": "soccer",
-        "team1": {
-            "name": "Vikingur Reykjavik",
-            "logo": "https://static.flashscore.com/res/image/data/QsV2lrBN-ATBUwpjA.png"
-        },
-        "team2": {
-            "name": "Keflavik",
-            "logo": "https://static.flashscore.com/res/image/data/6RNlMnXH-bF7g2MXI.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "East Bengal-Mohammedan",
-        "league": "INDIA - Calcutta Premier Division - Championship Group",
-        "sport": "soccer",
-        "team1": {
-            "name": "East Bengal",
-            "logo": "https://static.flashscore.com/res/image/data/fDRtO2S0-UszV04Qg.png"
-        },
-        "team2": {
-            "name": "Mohammedan",
-            "logo": "https://static.flashscore.com/res/image/data/2wrR5hAN-bRHSiNvq.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "United SC-Mohun Bagan U23",
-        "league": "INDIA - Calcutta Premier Division - Championship Group",
-        "sport": "soccer",
-        "team1": {
-            "name": "United SC",
-            "logo": "https://static.flashscore.com/res/image/data/AwPBH3BN-EJsbTHFN.png"
-        },
-        "team2": {
-            "name": "Mohun Bagan U23",
-            "logo": "https://static.flashscore.com/res/image/data/YejiAfBN-8jbmlHLj.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Al Golan-Newroz",
-        "league": "IRAQ - Stars League",
-        "sport": "soccer",
-        "team1": {
-            "name": "Al Golan",
-            "logo": "https://static.flashscore.com/res/image/data/0AjPqzkC-4M3nA7jo.png"
-        },
-        "team2": {
-            "name": "Newroz",
-            "logo": "https://static.flashscore.com/res/image/data/MyigaESq-Kvcjhqr4.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Al Naft-Karbala",
-        "league": "IRAQ - Stars League",
-        "sport": "soccer",
-        "team1": {
-            "name": "Al Naft",
-            "logo": "https://static.flashscore.com/res/image/data/dWTKgDBN-4EDVpa7U.png"
-        },
-        "team2": {
-            "name": "Karbala",
-            "logo": "https://static.flashscore.com/res/image/data/A9UInCSq-xrphp3Rk.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Erbil-Al-Karma",
-        "league": "IRAQ - Stars League",
-        "sport": "soccer",
-        "team1": {
-            "name": "Erbil",
-            "logo": "https://static.flashscore.com/res/image/data/4EBI5EU0-4YgSElVF.png"
-        },
-        "team2": {
-            "name": "Al-Karma",
-            "logo": "https://static.flashscore.com/res/image/data/Olq4YKoe-r3sCq6Mh.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Dundalk-St. Patricks",
-        "league": "IRELAND - Premier Division",
-        "sport": "soccer",
-        "team1": {
-            "name": "Dundalk",
-            "logo": "https://static.flashscore.com/res/image/data/M9GQpFCN-lYZ4hM32.png"
-        },
-        "team2": {
-            "name": "St. Patricks",
-            "logo": "https://static.flashscore.com/res/image/data/IJvJBHBN-Q9iGJSbN.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Shelbourne-Drogheda",
-        "league": "IRELAND - Premier Division",
-        "sport": "soccer",
-        "team1": {
-            "name": "Shelbourne",
-            "logo": "https://static.flashscore.com/res/image/data/ngqbMoXH-W0ilzLPm.png"
-        },
-        "team2": {
-            "name": "Drogheda",
-            "logo": "https://static.flashscore.com/res/image/data/0UKbJ3gT-d6RqtYPb.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Sligo Rovers-Galway",
-        "league": "IRELAND - Premier Division",
-        "sport": "soccer",
-        "team1": {
-            "name": "Sligo Rovers",
-            "logo": "https://static.flashscore.com/res/image/data/M7Zg09U0-4zJqyaPk.png"
-        },
-        "team2": {
-            "name": "Galway",
-            "logo": "https://static.flashscore.com/res/image/data/KWN3Y8R0-UPA8RKUr.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Waterford-Derry City",
-        "league": "IRELAND - Premier Division",
-        "sport": "soccer",
-        "team1": {
-            "name": "Waterford",
-            "logo": "https://static.flashscore.com/res/image/data/IuEhBfjC-bkxvFKNM.png"
-        },
-        "team2": {
-            "name": "Derry City",
-            "logo": "https://static.flashscore.com/res/image/data/hGznfOlC-KjwWdukB.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Hap. Ramat Gan-Netanya",
-        "league": "ISRAEL - Ligat ha'Al",
-        "sport": "soccer",
-        "team1": {
-            "name": "Hap. Ramat Gan",
-            "logo": "https://static.flashscore.com/res/image/data/xQkYjg6k-MmLF6hQi.png"
-        },
-        "team2": {
-            "name": "Netanya",
-            "logo": "https://static.flashscore.com/res/image/data/CdhYGOhT-vk5aQxpF.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Hapoel Haifa-Sakhnin",
-        "league": "ISRAEL - Ligat ha'Al",
-        "sport": "soccer",
-        "team1": {
-            "name": "Hapoel Haifa",
-            "logo": "https://static.flashscore.com/res/image/data/WSoNq9VH-ImdO7J3k.png"
-        },
-        "team2": {
-            "name": "Sakhnin",
-            "logo": "https://static.flashscore.com/res/image/data/GfraZQle-Au2PKzWK.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Kiryat Shmona-Maccabi Haifa",
-        "league": "ISRAEL - Ligat ha'Al",
-        "sport": "soccer",
-        "team1": {
-            "name": "Kiryat Shmona",
-            "logo": "https://static.flashscore.com/res/image/data/8KI7gZne-AudDKFGO.png"
-        },
-        "team2": {
-            "name": "Maccabi Haifa",
-            "logo": "https://static.flashscore.com/res/image/data/h4m4NhUH-Q5Dpg1h8.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Maccabi Tel Aviv-Hapoel Tel Aviv",
-        "league": "ISRAEL - Ligat ha'Al",
-        "sport": "soccer",
-        "team1": {
-            "name": "Maccabi Tel Aviv",
-            "logo": "https://static.flashscore.com/res/image/data/vifKdrkC-EgfVDm2G.png"
-        },
-        "team2": {
-            "name": "Hapoel Tel Aviv",
-            "logo": "https://static.flashscore.com/res/image/data/QmX88KWH-UeZOJs03.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "H. Akko-SC Ashdod",
-        "league": "ISRAEL - Leumit League",
-        "sport": "soccer",
-        "team1": {
-            "name": "H. Akko",
-            "logo": "https://static.flashscore.com/res/image/data/hl7j7wiT-dYcEa0DE.png"
-        },
-        "team2": {
-            "name": "SC Ashdod",
-            "logo": "https://static.flashscore.com/res/image/data/zVNnuc96-n3SolM0c.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "M. Herzliya-MS Kafr Qasim",
-        "league": "ISRAEL - Leumit League",
-        "sport": "soccer",
-        "team1": {
-            "name": "M. Herzliya",
-            "logo": "https://static.flashscore.com/res/image/data/QXzWF5Pq-nFp9NYMD.png"
-        },
-        "team2": {
-            "name": "MS Kafr Qasim",
-            "logo": "https://static.flashscore.com/res/image/data/hCxfJ7R0-0InkJTkf.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "AS Roma U20-Como U20",
-        "league": "ITALY - Primavera 1",
-        "sport": "soccer",
-        "team1": {
-            "name": "AS Roma U20",
-            "logo": "https://static.flashscore.com/res/image/data/fDsvLvBN-fXL28CHk.png"
-        },
-        "team2": {
-            "name": "Como U20",
-            "logo": "https://static.flashscore.com/res/image/data/M7qD1Dne-p8y2WfpA.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Molynes-Treasure Beach",
-        "league": "JAMAICA - Premier League",
-        "sport": "soccer",
-        "team1": {
-            "name": "Molynes",
-            "logo": "https://static.flashscore.com/res/image/data/21F4BLmC-2iAG2f0F.png"
-        },
-        "team2": {
-            "name": "Treasure Beach",
-            "logo": "https://static.flashscore.com/res/image/data/Wv6zlNoe-YLwNQMl4.png"
-        },
-        "kickoff_time": "HT"
-    },
-    {
-        "id": "FC Ballkani-Dukagjini",
-        "league": "KOSOVO - Superliga",
-        "sport": "soccer",
-        "team1": {
-            "name": "FC Ballkani",
-            "logo": "https://static.flashscore.com/res/image/data/ENPPLACN-dnLkiUMD.png"
-        },
-        "team2": {
-            "name": "Dukagjini",
-            "logo": "https://static.flashscore.com/res/image/data/EgG77bVH-Aswa6lVD.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "KF Llapi-Malisheva",
-        "league": "KOSOVO - Superliga",
-        "sport": "soccer",
-        "team1": {
-            "name": "KF Llapi",
-            "logo": "https://static.flashscore.com/res/image/data/Gf7WbBhT-0nUxLTUs.png"
-        },
-        "team2": {
-            "name": "Malisheva",
-            "logo": "https://static.flashscore.com/res/image/data/C6HKHnS0-GlZoDEhC.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Banga-Transinvest",
-        "league": "LITHUANIA - TOPLYGA",
-        "sport": "soccer",
-        "team1": {
-            "name": "Banga",
-            "logo": "https://static.flashscore.com/res/image/data/dfqaGnjT-tGWvEQkr.png"
-        },
-        "team2": {
-            "name": "Transinvest",
-            "logo": "https://static.flashscore.com/res/image/data/IFY584BN-QsHXIQQ6.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Gzira-Zabbar",
-        "league": "MALTA - Premier League - First stage - Main",
-        "sport": "soccer",
-        "team1": {
-            "name": "Gzira",
-            "logo": "https://static.flashscore.com/res/image/data/UNfhSIT0-dWnUZWVt.png"
-        },
-        "team2": {
-            "name": "Zabbar",
-            "logo": "https://static.flashscore.com/res/image/data/pbAt1VVH-OGPt4kx0.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Santos Laguna-Juarez",
-        "league": "MEXICO - Liga MX - Apertura",
-        "sport": "soccer",
-        "team1": {
-            "name": "Santos Laguna",
-            "logo": "https://static.flashscore.com/res/image/data/bZZNKGWH-bmPslben.png"
-        },
-        "team2": {
-            "name": "Juarez",
-            "logo": "https://static.flashscore.com/res/image/data/WdtRY4iT-OSiYNR3p.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Guadalajara Chivas-UNAM Pumas",
-        "league": "MEXICO - Liga MX - Apertura",
-        "sport": "soccer",
-        "team1": {
-            "name": "Guadalajara Chivas",
-            "logo": "https://static.flashscore.com/res/image/data/4fFLAKlC-lEs0thDm.png"
-        },
-        "team2": {
-            "name": "UNAM Pumas",
-            "logo": "https://static.flashscore.com/res/image/data/A9NpRSR0-pEQGCKC1.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Mladost DG-Buducnost",
-        "league": "MONTENEGRO - Prva Crnogorska Liga",
-        "sport": "soccer",
-        "team1": {
-            "name": "Mladost DG",
-            "logo": "https://static.flashscore.com/res/image/data/vq8ERuiC-WdVjEXps.png"
-        },
-        "team2": {
-            "name": "Buducnost",
-            "logo": "https://static.flashscore.com/res/image/data/rHk2vaPq-hOkOiBHQ.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Mornar Bar-Otrant",
-        "league": "MONTENEGRO - Prva Crnogorska Liga",
-        "sport": "soccer",
-        "team1": {
-            "name": "Mornar Bar",
-            "logo": "https://static.flashscore.com/res/image/data/jBvQOMlC-2JKzUeUK.png"
-        },
-        "team2": {
-            "name": "Otrant",
-            "logo": "https://static.flashscore.com/res/image/data/QsYX4plC-I9wMWoLR.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Petrovac-Arsenal Tivat",
-        "league": "MONTENEGRO - Prva Crnogorska Liga",
-        "sport": "soccer",
-        "team1": {
-            "name": "Petrovac",
-            "logo": "https://static.flashscore.com/res/image/data/UFVX1R86-ABpmWgn7.png"
-        },
-        "team2": {
-            "name": "Arsenal Tivat",
-            "logo": "https://static.flashscore.com/res/image/data/UcenlXRq-25w9qSfP.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Jong PSV-Jong AZ",
-        "league": "NETHERLANDS - Eerste Divisie",
-        "sport": "soccer",
-        "team1": {
-            "name": "Jong PSV",
-            "logo": "https://static.flashscore.com/res/image/data/h2GwEZBN-l2DwMPtA.png"
-        },
-        "team2": {
-            "name": "Jong AZ",
-            "logo": "https://static.flashscore.com/res/image/data/jcZuB9Qq-YPa3AsA2.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Jong Utrecht-Jong Ajax",
-        "league": "NETHERLANDS - Eerste Divisie",
-        "sport": "soccer",
-        "team1": {
-            "name": "Jong Utrecht",
-            "logo": "https://static.flashscore.com/res/image/data/GdYaozAN-2R4NoUKh.png"
-        },
-        "team2": {
-            "name": "Jong Ajax",
-            "logo": "https://static.flashscore.com/res/image/data/hEQxyYA6-bZZPiwAI.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Niger Tornadoes-Plateau United",
-        "league": "NIGERIA - NPFL",
-        "sport": "soccer",
-        "team1": {
-            "name": "Niger Tornadoes",
-            "logo": "https://static.flashscore.com/res/image/data/Q7ZlzIne-tUg7DWkH.png"
-        },
-        "team2": {
-            "name": "Plateau United",
-            "logo": "https://static.flashscore.com/res/image/data/4KDNSBR0-p2th4IJk.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Shkendija Haracine-FK Skopje",
-        "league": "NORTH MACEDONIA - 1. MFL",
-        "sport": "soccer",
-        "team1": {
-            "name": "Shkendija Haracine",
-            "logo": "https://static.flashscore.com/res/image/data/EHpM9096-W8NE6Ooc.png"
-        },
-        "team2": {
-            "name": "FK Skopje",
-            "logo": "https://static.flashscore.com/res/image/data/fLkufES0-OxgxDRSa.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Bodo/Glimt-Sandefjord",
-        "league": "NORWAY - Eliteserien",
-        "sport": "soccer",
-        "team1": {
-            "name": "Bodo/Glimt",
-            "logo": "https://static.flashscore.com/res/image/data/CCIKVSlC-G4RlYr20.png"
-        },
-        "team2": {
-            "name": "Sandefjord",
-            "logo": "https://static.flashscore.com/res/image/data/nNrTThQq-KdS5ytp9.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Radomiak Radom-Piast Gliwice",
-        "league": "POLAND - Ekstraklasa",
-        "sport": "soccer",
-        "team1": {
-            "name": "Radomiak Radom",
-            "logo": "https://static.flashscore.com/res/image/data/xI6zlACN-A9opURNC.png"
-        },
-        "team2": {
-            "name": "Piast Gliwice",
-            "logo": "https://static.flashscore.com/res/image/data/MDnpAnCN-zkO8fXbB.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Stal Mielec-Termalica B-B.",
-        "league": "POLAND - Division 1",
-        "sport": "soccer",
-        "team1": {
-            "name": "Stal Mielec",
-            "logo": "https://static.flashscore.com/res/image/data/Qoo2URTH-tfVka94A.png"
-        },
-        "team2": {
-            "name": "Termalica B-B.",
-            "logo": "https://static.flashscore.com/res/image/data/IZbyGkne-KdpWArUq.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Rio Ave-Estrela",
-        "league": "PORTUGAL - Liga Portugal",
-        "sport": "soccer",
-        "team1": {
-            "name": "Rio Ave",
-            "logo": "https://static.flashscore.com/res/image/data/06rYX486-pjxqSmk4.png"
-        },
-        "team2": {
-            "name": "Estrela",
-            "logo": "https://static.flashscore.com/res/image/data/MDdmzPjC-OtN6V8lD.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Moreirense-Maritimo",
-        "league": "PORTUGAL - Liga Portugal",
-        "sport": "soccer",
-        "team1": {
-            "name": "Moreirense",
-            "logo": "https://static.flashscore.com/res/image/data/4rouTHVH-xjC3FA5b.png"
-        },
-        "team2": {
-            "name": "Maritimo",
-            "logo": "https://static.flashscore.com/res/image/data/dfD2U196-UqNXRsOt.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Braga-Estoril",
-        "league": "PORTUGAL - Liga Portugal",
-        "sport": "soccer",
-        "team1": {
-            "name": "Braga",
-            "logo": "https://static.flashscore.com/res/image/data/j3CGCQTH-6JDIcK05.png"
-        },
-        "team2": {
-            "name": "Estoril",
-            "logo": "https://static.flashscore.com/res/image/data/W6lzPAoe-8GL0cHSF.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "FC Porto B-Vizela",
-        "league": "PORTUGAL - Liga Portugal 2",
-        "sport": "soccer",
-        "team1": {
-            "name": "FC Porto B",
-            "logo": "https://static.flashscore.com/res/image/data/Eq4Fywme-Asys8E71.png"
-        },
-        "team2": {
-            "name": "Vizela",
-            "logo": "https://static.flashscore.com/res/image/data/QLNN7HA6-AoD8MJLa.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Sporting CP B-Lusitania FC",
-        "league": "PORTUGAL - Liga Portugal 2",
-        "sport": "soccer",
-        "team1": {
-            "name": "Sporting CP B",
-            "logo": "https://static.flashscore.com/res/image/data/KhqKCZ7k-bmoqXI61.png"
-        },
-        "team2": {
-            "name": "Lusitania FC",
-            "logo": "https://static.flashscore.com/res/image/data/21dHP7oe-4fgvkkeO.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "U. Cluj-Otelul",
-        "league": "ROMANIA - Superliga",
-        "sport": "soccer",
-        "team1": {
-            "name": "U. Cluj",
-            "logo": "https://static.flashscore.com/res/image/data/vqp1ptT0-v1mKniN8.png"
-        },
-        "team2": {
-            "name": "Otelul",
-            "logo": "https://static.flashscore.com/res/image/data/21YVNIjC-2sTKI8jQ.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "FCSB-Petrolul",
-        "league": "ROMANIA - Superliga",
-        "sport": "soccer",
-        "team1": {
-            "name": "FCSB",
-            "logo": "https://static.flashscore.com/res/image/data/tSilVMne-SCh1iPaa.png"
-        },
-        "team2": {
-            "name": "Petrolul",
-            "logo": "https://static.flashscore.com/res/image/data/lOM85M6k-pMdWmvh1.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Kamaz-Chelyabinsk",
-        "league": "RUSSIA - FNL",
-        "sport": "soccer",
-        "team1": {
-            "name": "Kamaz",
-            "logo": "https://static.flashscore.com/res/image/data/hGzkFG96-vD9TzUeh.png"
-        },
-        "team2": {
-            "name": "Chelyabinsk",
-            "logo": "https://static.flashscore.com/res/image/data/SznsLPPq-pK9TA6Ui.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "S. Kostroma-Neftekhimik",
-        "league": "RUSSIA - FNL",
-        "sport": "soccer",
-        "team1": {
-            "name": "S. Kostroma",
-            "logo": "https://static.flashscore.com/res/image/data/xbDf7Foe-vwkjP4tm.png"
-        },
-        "team2": {
-            "name": "Neftekhimik",
-            "logo": "https://static.flashscore.com/res/image/data/21yPzrUH-x6zoSAoA.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Shinnik Yaroslavl-Ural",
-        "league": "RUSSIA - FNL",
-        "sport": "soccer",
-        "team1": {
-            "name": "Shinnik Yaroslavl",
-            "logo": "https://static.flashscore.com/res/image/data/x8Vr5LAN-rB3ucgaU.png"
-        },
-        "team2": {
-            "name": "Ural",
-            "logo": "https://static.flashscore.com/res/image/data/2BicNOQq-WCLHJNjM.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Veles Moscow-Sochi",
-        "league": "RUSSIA - FNL",
-        "sport": "soccer",
-        "team1": {
-            "name": "Veles Moscow",
-            "logo": "https://static.flashscore.com/res/image/data/fitL6VjC-zcKZKJda.png"
-        },
-        "team2": {
-            "name": "Sochi",
-            "logo": "https://static.flashscore.com/res/image/data/hW5ZOm8k-Srennq2k.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Al Bukiryah-Damac",
-        "league": "SAUDI ARABIA - Division 1",
-        "sport": "soccer",
-        "team1": {
-            "name": "Al Bukiryah",
-            "logo": "https://static.flashscore.com/res/image/data/AXw91GPq-Q3KiA9EL.png"
-        },
-        "team2": {
-            "name": "Damac",
-            "logo": "https://static.flashscore.com/res/image/data/M7LnES86-29Hb7UEa.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Al Wehda-Al Okhdood",
-        "league": "SAUDI ARABIA - Division 1",
-        "sport": "soccer",
-        "team1": {
-            "name": "Al Wehda",
-            "logo": "https://static.flashscore.com/res/image/data/zTqAr7BN-h0wZ9zwk.png"
-        },
-        "team2": {
-            "name": "Al Okhdood",
-            "logo": "https://static.flashscore.com/res/image/data/Y5ea4JhT-nsNrUNVC.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Al-Ula-Jeddah",
-        "league": "SAUDI ARABIA - Division 1",
-        "sport": "soccer",
-        "team1": {
-            "name": "Al-Ula",
-            "logo": "https://static.flashscore.com/res/image/data/UkCgeOVH-O0yydsS1.png"
-        },
-        "team2": {
-            "name": "Jeddah",
-            "logo": "https://static.flashscore.com/res/image/data/QLURTBA6-ERioccwC.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Al Najma-Al Raed",
-        "league": "SAUDI ARABIA - Division 1",
-        "sport": "soccer",
-        "team1": {
-            "name": "Al Najma",
-            "logo": "https://static.flashscore.com/res/image/data/M96hs86k-lQBgfCk0.png"
-        },
-        "team2": {
-            "name": "Al Raed",
-            "logo": "https://static.flashscore.com/res/image/data/Qg5GoEoe-GWm8K7vb.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Zemun-Radnik",
-        "league": "SERBIA - Mozzart Bet Super Liga",
-        "sport": "soccer",
-        "team1": {
-            "name": "Zemun",
-            "logo": "https://static.flashscore.com/res/image/data/fT7cWOTH-hGwgJJa6.png"
-        },
-        "team2": {
-            "name": "Radnik",
-            "logo": "https://static.flashscore.com/res/image/data/vafVcGne-Msvqovsp.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Geylang-Tanjong Pagar",
-        "league": "SINGAPORE - Premier League",
-        "sport": "soccer",
-        "team1": {
-            "name": "Geylang",
-            "logo": "https://static.flashscore.com/res/image/data/WIMLdyXH-61YIFp8q.png"
-        },
-        "team2": {
-            "name": "Tanjong Pagar",
-            "logo": "https://static.flashscore.com/res/image/data/6u9pG7UH-8KNUIuLO.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Z. Moravce-Vrable-Zvolen",
-        "league": "SLOVAKIA - 2. liga",
-        "sport": "soccer",
-        "team1": {
-            "name": "Z. Moravce-Vrable",
-            "logo": "https://static.flashscore.com/res/image/data/pvcWvDVH-G6ERMxTE.png"
-        },
-        "team2": {
-            "name": "Zvolen",
-            "logo": "https://static.flashscore.com/res/image/data/IciOnM7k-UB77VLDH.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Seoul W-Hwacheon W",
-        "league": "SOUTH KOREA - WK League Women",
-        "sport": "soccer",
-        "team1": {
-            "name": "Seoul W",
-            "logo": "https://static.flashscore.com/res/image/data/K4x7EpXH-KvDrCGWc.png"
-        },
-        "team2": {
-            "name": "Hwacheon W",
-            "logo": "https://static.flashscore.com/res/image/data/0tQJQJBN-ATPVzAo4.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Celta Vigo B-Eibar",
-        "league": "SPAIN - LaLiga2",
-        "sport": "soccer",
-        "team1": {
-            "name": "Celta Vigo B",
-            "logo": "https://static.flashscore.com/res/image/data/OYnX3M6k-xd1MqkTp.png"
-        },
-        "team2": {
-            "name": "Eibar",
-            "logo": "https://static.flashscore.com/res/image/data/drsSo7UH-4U3vjZKk.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Ratnam-Blue Star",
-        "league": "SRI LANKA - Super League",
-        "sport": "soccer",
-        "team1": {
-            "name": "Ratnam",
-            "logo": "https://static.flashscore.com/res/image/data/GEMqMxBN-YVIitZYA.png"
-        },
-        "team2": {
-            "name": "Blue Star",
-            "logo": "https://static.flashscore.com/res/image/data/GKpda4UH-AZfH09yf.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Djurgarden-GAIS",
-        "league": "SWEDEN - Allsvenskan",
-        "sport": "soccer",
-        "team1": {
-            "name": "Djurgarden",
-            "logo": "https://static.flashscore.com/res/image/data/hluRjvle-lvoaqOtj.png"
-        },
-        "team2": {
-            "name": "GAIS",
-            "logo": "https://static.flashscore.com/res/image/data/0bnTzfAN-Aka1QK65.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Sirius-Degerfors",
-        "league": "SWEDEN - Allsvenskan",
-        "sport": "soccer",
-        "team1": {
-            "name": "Sirius",
-            "logo": "https://static.flashscore.com/res/image/data/txCFVWA6-KrZP8Bjn.png"
-        },
-        "team2": {
-            "name": "Degerfors",
-            "logo": "https://static.flashscore.com/res/image/data/ILVN6RhT-byiRP7dH.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Norrby-Varberg",
-        "league": "SWEDEN - Superettan",
-        "sport": "soccer",
-        "team1": {
-            "name": "Norrby",
-            "logo": "https://static.flashscore.com/res/image/data/xnWFU9Pq-UTQ3ZLRc.png"
-        },
-        "team2": {
-            "name": "Varberg",
-            "logo": "https://static.flashscore.com/res/image/data/nJUmhGPq-tdKAShEE.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Orebro-Nordic United",
-        "league": "SWEDEN - Superettan",
-        "sport": "soccer",
-        "team1": {
-            "name": "Orebro",
-            "logo": "https://static.flashscore.com/res/image/data/W8NZm4lC-faUNG9Ka.png"
-        },
-        "team2": {
-            "name": "Nordic United",
-            "logo": "https://static.flashscore.com/res/image/data/MkOVfGQq-zRuJJEbk.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Ostersund-Helsingborg",
-        "league": "SWEDEN - Superettan",
-        "sport": "soccer",
-        "team1": {
-            "name": "Ostersund",
-            "logo": "https://static.flashscore.com/res/image/data/tGO3DKQq-WnKsn5Ti.png"
-        },
-        "team2": {
-            "name": "Helsingborg",
-            "logo": "https://static.flashscore.com/res/image/data/G0ygoh8k-2TRrus0k.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "CSKA Pomir Dushanbe-Ravshan",
-        "league": "TAJIKISTAN - Vysshaya Liga",
-        "sport": "soccer",
-        "team1": {
-            "name": "CSKA Pomir Dushanbe",
-            "logo": "https://static.flashscore.com/res/image/data/0j49kSoe-S0G9mVD4.png"
-        },
-        "team2": {
-            "name": "Ravshan",
-            "logo": "https://static.flashscore.com/res/image/data/W6ecfY6k-GWNHAPHr.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Gaziantep-Fenerbahce",
-        "league": "TURKEY - Super Lig",
-        "sport": "soccer",
-        "team1": {
-            "name": "Gaziantep",
-            "logo": "https://static.flashscore.com/res/image/data/UH4szVne-nwcq2Drl.png"
-        },
-        "team2": {
-            "name": "Fenerbahce",
-            "logo": "https://static.flashscore.com/res/image/data/drRgiLlC-llnQ8REs.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Kayserispor-Istanbulspor AS",
-        "league": "TURKEY - 1. Lig",
-        "sport": "soccer",
-        "team1": {
-            "name": "Kayserispor",
-            "logo": "https://static.flashscore.com/res/image/data/UVNRzET0-Y99esCPN.png"
-        },
-        "team2": {
-            "name": "Istanbulspor AS",
-            "logo": "https://static.flashscore.com/res/image/data/jwWv2VA6-0GXEkkAD.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Dyn. Kyiv-Epitsentr",
-        "league": "UKRAINE - Premier League",
-        "sport": "soccer",
-        "team1": {
-            "name": "Dyn. Kyiv",
-            "logo": "https://static.flashscore.com/res/image/data/MPqCcHle-M1Cjh44S.png"
-        },
-        "team2": {
-            "name": "Epitsentr",
-            "logo": "https://static.flashscore.com/res/image/data/OSX1mB8k-O2KNgah2.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Shakhtar Donetsk-Ch. Odesa",
-        "league": "UKRAINE - Premier League",
-        "sport": "soccer",
-        "team1": {
-            "name": "Shakhtar Donetsk",
-            "logo": "https://static.flashscore.com/res/image/data/fLOld9A6-YmCZKGcR.png"
-        },
-        "team2": {
-            "name": "Ch. Odesa",
-            "logo": "https://static.flashscore.com/res/image/data/fJI22D7k-4bedUOPH.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Zhytomyr 2-Ahrobiznes Volochysk",
-        "league": "UKRAINE - Persha Liga",
-        "sport": "soccer",
-        "team1": {
-            "name": "Zhytomyr 2",
-            "logo": "https://static.flashscore.com/res/image/data/rPMKvDWH-6yyCrrXO.png"
-        },
-        "team2": {
-            "name": "Ahrobiznes Volochysk",
-            "logo": "https://static.flashscore.com/res/image/data/bcOUjH6k-YD3csSFp.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Oleksandriya-Viktoria",
-        "league": "UKRAINE - Persha Liga",
-        "sport": "soccer",
-        "team1": {
-            "name": "Oleksandriya",
-            "logo": "https://static.flashscore.com/res/image/data/25N2P5me-WhuO7nt3.png"
-        },
-        "team2": {
-            "name": "Viktoria",
-            "logo": "https://static.flashscore.com/res/image/data/QBlvsnDN-MkQ21faT.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Montevideo City-Liverpool M.",
-        "league": "URUGUAY - Liga AUF Uruguaya - Clausura",
-        "sport": "soccer",
-        "team1": {
-            "name": "Montevideo City",
-            "logo": "https://static.flashscore.com/res/image/data/YD3L0x6k-hOX9sHW0.png"
-        },
-        "team2": {
-            "name": "Liverpool M.",
-            "logo": "https://static.flashscore.com/res/image/data/vyrOK7jC-ziBT4qwJ.png"
-        },
-        "kickoff_time": "HT"
-    },
-    {
-        "id": "San Diego FC-Philadelphia Union",
-        "league": "USA - MLS",
-        "sport": "soccer",
-        "team1": {
-            "name": "San Diego FC",
-            "logo": "https://static.flashscore.com/res/image/data/hzGDoHUH-b7NYdTs6.png"
-        },
-        "team2": {
-            "name": "Philadelphia Union",
-            "logo": "https://static.flashscore.com/res/image/data/0UCoIkgT-juuH5vx4.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Azerbaijan U19 W-Moldova U19 W",
+        "id": "Austria U17 W-Poland U17 W",
         "league": "WORLD - Friendly International Women",
         "sport": "soccer",
         "team1": {
-            "name": "Azerbaijan U19 W",
-            "logo": "https://static.flashscore.com/res/image/data/2ez0rmne-IFAVFWPE.png"
+            "name": "Austria U17 W",
+            "logo": "https://static.flashscore.com/res/image/data/KzLmj5oe-byN2hxSj.png"
         },
         "team2": {
-            "name": "Moldova U19 W",
-            "logo": "https://static.flashscore.com/res/image/data/l2BYE2le-Kr7uRW73.png"
+            "name": "Poland U17 W",
+            "logo": "https://static.flashscore.com/res/image/data/YTm6EASq-ph1rYYT7.png"
         },
-        "kickoff_time": "Pen"
+        "kickoff_time": "09:00"
     },
     {
-        "id": "Bahrain-Kazakhstan",
-        "league": "ASIA - Asian Games",
-        "sport": "basketball",
+        "id": "Italy U17 W-Hungary U17 W",
+        "league": "WORLD - Friendly International Women",
+        "sport": "soccer",
         "team1": {
-            "name": "Bahrain",
-            "logo": "https://static.flashscore.com/res/image/data/tOjzU8Rq-IkyuUDEE.png"
+            "name": "Italy U17 W",
+            "logo": "https://static.flashscore.com/res/image/data/QDwJWiS0-My5qjuKd.png"
         },
         "team2": {
-            "name": "Kazakhstan",
-            "logo": "https://static.flashscore.com/res/image/data/zVJ7gPCN-6kKuCfBJ.png"
+            "name": "Hungary U17 W",
+            "logo": "https://static.flashscore.com/res/image/data/IsuBCsU0-Gfl8HJz7.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "13:00"
     },
     {
-        "id": "China-Philippines",
-        "league": "ASIA - Asian Games",
-        "sport": "basketball",
-        "team1": {
-            "name": "China",
-            "logo": "https://static.flashscore.com/res/image/data/tS6tn3jC-IkyuUDEE.png"
-        },
-        "team2": {
-            "name": "Philippines",
-            "logo": "https://static.flashscore.com/res/image/data/nupvGV76-C61WJZ3f.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "VEF Riga-Absheron Lions",
+        "id": "Promitheas-Vienna Basket",
         "league": "EUROPE - Champions League - Qualification 2",
         "sport": "basketball",
         "team1": {
-            "name": "VEF Riga",
-            "logo": "https://static.flashscore.com/res/image/data/p2UifEoe-Eq7auhan.png"
+            "name": "Promitheas",
+            "logo": "https://static.flashscore.com/res/image/data/prJL0QPq-GxBnvRSn.png"
         },
         "team2": {
-            "name": "Absheron Lions",
-            "logo": "https://static.flashscore.com/res/image/data/zsWc3slC-vD1ubSV8.png"
+            "name": "Vienna Basket",
+            "logo": "https://static.flashscore.com/res/image/data/h84M5gS0-rPvuON90.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "11:15"
     },
     {
-        "id": "Opava-Dziki Warszawa",
+        "id": "Korfez Basket-Kolossos Rhodes",
         "league": "EUROPE - Champions League - Qualification 2",
         "sport": "basketball",
         "team1": {
-            "name": "Opava",
-            "logo": "https://static.flashscore.com/res/image/data/rBDV2mQq-YkRws2jm.png"
+            "name": "Korfez Basket",
+            "logo": "https://static.flashscore.com/res/image/data/xIO8yuXH-U1biWr2h.png"
         },
         "team2": {
-            "name": "Dziki Warszawa",
-            "logo": "https://static.flashscore.com/res/image/data/jZsgaBPq-KtbOTBVL.png"
+            "name": "Kolossos Rhodes",
+            "logo": "https://static.flashscore.com/res/image/data/UwTAsune-86pJJoJ3.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "13:30"
     },
     {
-        "id": "Breogan-Rilski Sportist",
+        "id": "Benfica-Geneva Lions",
         "league": "EUROPE - Champions League - Qualification 2",
         "sport": "basketball",
         "team1": {
-            "name": "Breogan",
-            "logo": "https://static.flashscore.com/res/image/data/8v0F1BjC-UNsdztR4.png"
+            "name": "Benfica",
+            "logo": "https://static.flashscore.com/res/image/data/KI9O6bS0-4fqhWT8F.png"
         },
         "team2": {
-            "name": "Rilski Sportist",
-            "logo": "https://static.flashscore.com/res/image/data/rZi1uU86-U3Nif5nB.png"
+            "name": "Geneva Lions",
+            "logo": "https://static.flashscore.com/res/image/data/vDPBNZme-QBl1B5NH.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "15:45"
     },
     {
-        "id": "Wurzburg-Manchester Basketball",
+        "id": "Vechta-Denizli Basket",
         "league": "EUROPE - Champions League - Qualification 2",
         "sport": "basketball",
         "team1": {
-            "name": "Wurzburg",
-            "logo": "https://static.flashscore.com/res/image/data/0OeqlZA6-p8HNRbe9.png"
+            "name": "Vechta",
+            "logo": "https://static.flashscore.com/res/image/data/UmrWNfWH-fD3crGxH.png"
         },
         "team2": {
-            "name": "Manchester Basketball",
-            "logo": "https://static.flashscore.com/res/image/data/IZKtDRR0-8EvMB3Fr.png"
+            "name": "Denizli Basket",
+            "logo": "https://static.flashscore.com/res/image/data/bJB6CUlC-EVZYVuoj.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "18:00"
     },
     {
-        "id": "Catolica-Espanol de Talca",
-        "league": "CHILE - LNB - Clausura - Losers",
-        "sport": "basketball",
-        "team1": {
-            "name": "Catolica",
-            "logo": "https://static.flashscore.com/res/image/data/YDzBLKlC-SzVvkMXB.png"
-        },
-        "team2": {
-            "name": "Espanol de Talca",
-            "logo": "https://static.flashscore.com/res/image/data/dlluvriC-tU30ZkS0.png"
-        },
-        "kickoff_time": "23:00"
-    },
-    {
-        "id": "Puente Alto-U. De Concepcion",
+        "id": "CD Puerto Varas-Puerto Montt",
         "league": "CHILE - LNB - Clausura - Winners",
         "sport": "basketball",
         "team1": {
-            "name": "Puente Alto",
-            "logo": "https://static.flashscore.com/res/image/data/t2pxZS96-6JcnNVmg.png"
+            "name": "CD Puerto Varas",
+            "logo": "https://static.flashscore.com/res/image/data/4jcRIoRq-KCGRWc5T.png"
+        },
+        "team2": {
+            "name": "Puerto Montt",
+            "logo": "https://static.flashscore.com/res/image/data/WQX2lNRq-YaQRrvUa.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Leones Quilpue-U. De Concepcion",
+        "league": "CHILE - LNB - Clausura - Winners",
+        "sport": "basketball",
+        "team1": {
+            "name": "Leones Quilpue",
+            "logo": "https://static.flashscore.com/res/image/data/tI0gtI5k-b3eEYia3.png"
         },
         "team2": {
             "name": "U. De Concepcion",
             "logo": "https://static.flashscore.com/res/image/data/xGjqc8lC-zDva4V61.png"
         },
-        "kickoff_time": "23:00"
-    },
-    {
-        "id": "Valdivia-Ancud",
-        "league": "CHILE - LNB - Clausura - Winners",
-        "sport": "basketball",
-        "team1": {
-            "name": "Valdivia",
-            "logo": "https://static.flashscore.com/res/image/data/IghBJYiT-4b9zNcOh.png"
-        },
-        "team2": {
-            "name": "Ancud",
-            "logo": "https://static.flashscore.com/res/image/data/hxvubWlC-OKyUbWYj.png"
-        },
         "kickoff_time": "23:30"
     },
     {
-        "id": "Maccabi Rishon-Ironi Eilat",
+        "id": "Helsinki Seagulls-Lahti Basketball",
+        "league": "FINLAND - Suomen Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Helsinki Seagulls",
+            "logo": "https://static.flashscore.com/res/image/data/zo2GOhU0-WKL4NTJp.png"
+        },
+        "team2": {
+            "name": "Lahti Basketball",
+            "logo": "https://static.flashscore.com/res/image/data/rua5KpWH-YRU8OPm1.png"
+        },
+        "kickoff_time": "15:30"
+    },
+    {
+        "id": "Le Havre-Rouen",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Le Havre",
+            "logo": "https://static.flashscore.com/res/image/data/p6Q5EpT0-jghcWDRM.png"
+        },
+        "team2": {
+            "name": "Rouen",
+            "logo": "https://static.flashscore.com/res/image/data/r3O7w696-tSn1OFRO.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Angers-Nantes",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Angers",
+            "logo": "https://static.flashscore.com/res/image/data/h2USALUH-2ZSUUygm.png"
+        },
+        "team2": {
+            "name": "Nantes",
+            "logo": "https://static.flashscore.com/res/image/data/za8FXdgT-Eaaw4rWk.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Besancon-Saint Quentin",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Besancon",
+            "logo": "https://static.flashscore.com/res/image/data/2gz907lC-ATwMghEf.png"
+        },
+        "team2": {
+            "name": "Saint Quentin",
+            "logo": "https://static.flashscore.com/res/image/data/bLGTjcQq-OtwSfvVa.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Bordeaux-Poitiers",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Bordeaux",
+            "logo": "https://static.flashscore.com/res/image/data/6wjrmBA6-CnaYM3t9.png"
+        },
+        "team2": {
+            "name": "Poitiers",
+            "logo": "https://static.flashscore.com/res/image/data/x6On8ziC-4fyzZOLH.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Caen-Evreux",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Caen",
+            "logo": "https://static.flashscore.com/res/image/data/YDLsrbA6-8nSeLmbG.png"
+        },
+        "team2": {
+            "name": "Evreux",
+            "logo": "https://static.flashscore.com/res/image/data/hjnW66Qq-88iyXOU6.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Challans-CEP Lorient",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Challans",
+            "logo": "https://static.flashscore.com/res/image/data/YajBHkXH-6TvPh88r.png"
+        },
+        "team2": {
+            "name": "CEP Lorient",
+            "logo": "https://static.flashscore.com/res/image/data/nZGevcDN-YwamrMqD.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Chalons-Reims-Denain-Voltaire",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Chalons-Reims",
+            "logo": "https://static.flashscore.com/res/image/data/IT9KcjPq-f91ulBjI.png"
+        },
+        "team2": {
+            "name": "Denain-Voltaire",
+            "logo": "https://static.flashscore.com/res/image/data/AqUdxOoe-drH12LKf.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Chartres-Ada Blois",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Chartres",
+            "logo": "https://static.flashscore.com/res/image/data/xWxxgc96-pAKLfqHO.png"
+        },
+        "team2": {
+            "name": "Ada Blois",
+            "logo": "https://static.flashscore.com/res/image/data/ITlkGVVH-CnR3SbUf.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "La Ravoire-Challes-Antibes",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "La Ravoire-Challes",
+            "logo": "https://static.flashscore.com/res/image/data/40pUhMle-2golzO7U.png"
+        },
+        "team2": {
+            "name": "Antibes",
+            "logo": "https://static.flashscore.com/res/image/data/8Oltg0Rq-QTZoYaCB.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Laval-Fougeres",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Laval",
+            "logo": "https://static.flashscore.com/res/image/data/S6HWzKhT-fLkyJkEk.png"
+        },
+        "team2": {
+            "name": "Fougeres",
+            "logo": "https://static.flashscore.com/res/image/data/pIEedfme-tdvzjJ8M.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Loon Plage-Orleans",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Loon Plage",
+            "logo": "https://static.flashscore.com/res/image/data/p6tTt0VH-25uWjagG.png"
+        },
+        "team2": {
+            "name": "Orleans",
+            "logo": "https://static.flashscore.com/res/image/data/IN0Kg0UH-GbUfxc8c.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Lyonso-Vichy",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Lyonso",
+            "logo": "https://static.flashscore.com/res/image/data/htmyjQjC-regJT3pt.png"
+        },
+        "team2": {
+            "name": "Vichy",
+            "logo": "https://static.flashscore.com/res/image/data/2aWwDCle-2XVv9Gy0.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Mulhouse-ASA",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Mulhouse",
+            "logo": "https://static.flashscore.com/res/image/data/tQF3VeSq-vNO0Xee8.png"
+        },
+        "team2": {
+            "name": "ASA",
+            "logo": "https://static.flashscore.com/res/image/data/Cp4PMZ7k-xtVIIRqg.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Orchies-Charleville Mezieres",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Orchies",
+            "logo": "https://static.flashscore.com/res/image/data/dx567K7k-KdzBbwHc.png"
+        },
+        "team2": {
+            "name": "Charleville Mezieres",
+            "logo": "https://static.flashscore.com/res/image/data/O86vw0Qq-QVIoGxyD.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Pays Salonais-Hyeres-Toulon",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Pays Salonais",
+            "logo": "https://static.flashscore.com/res/image/data/UcQ8YnU0-QmO6nCfE.png"
+        },
+        "team2": {
+            "name": "Hyeres-Toulon",
+            "logo": "https://static.flashscore.com/res/image/data/8h8CE2U0-KS6pBJJe.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Saint Vallier-St. Chamond",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Saint Vallier",
+            "logo": "https://static.flashscore.com/res/image/data/84bTsVoe-Kja0Q5GH.png"
+        },
+        "team2": {
+            "name": "St. Chamond",
+            "logo": "https://static.flashscore.com/res/image/data/QXvi9FRq-rL85Wiv5.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Toulouse-La Rochelle",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Toulouse",
+            "logo": "https://static.flashscore.com/res/image/data/pCZaxIjC-bFX91URH.png"
+        },
+        "team2": {
+            "name": "La Rochelle",
+            "logo": "https://static.flashscore.com/res/image/data/69GbVHT0-YJWJQlVS.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Tours-Aurore",
+        "league": "FRANCE - French Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Tours",
+            "logo": "https://static.flashscore.com/res/image/data/YJbfJNRq-bFX91URH.png"
+        },
+        "team2": {
+            "name": "Aurore",
+            "logo": "https://static.flashscore.com/res/image/data/QThqkThT-nJAjmZgg.png"
+        },
+        "kickoff_time": "18:00"
+    },
+    {
+        "id": "Winling-Able Hon Friends",
+        "league": "HONG KONG - A1",
+        "sport": "basketball",
+        "team1": {
+            "name": "Winling",
+            "logo": "https://static.flashscore.com/res/image/data/OzGOKsBN-S4tKtVxF.png"
+        },
+        "team2": {
+            "name": "Able Hon Friends",
+            "logo": "https://static.flashscore.com/res/image/data/2m2CceUH-ngVHQtyI.png"
+        },
+        "kickoff_time": "11:00"
+    },
+    {
+        "id": "Eagle-HVAA",
+        "league": "HONG KONG - A1",
+        "sport": "basketball",
+        "team1": {
+            "name": "Eagle",
+            "logo": "https://static.flashscore.com/res/image/data/AL7YfGVH-x2QzhO64.png"
+        },
+        "team2": {
+            "name": "HVAA",
+            "logo": "https://static.flashscore.com/res/image/data/61fQwvBN-fTce8DVD.png"
+        },
+        "kickoff_time": "12:40"
+    },
+    {
+        "id": "Hapoel Beer Sheva-Maccabi Ashdod",
         "league": "ISRAEL - League Cup",
         "sport": "basketball",
         "team1": {
-            "name": "Maccabi Rishon",
-            "logo": "https://static.flashscore.com/res/image/data/Eq9RoTBN-t27bNGnE.png"
+            "name": "Hapoel Beer Sheva",
+            "logo": "https://static.flashscore.com/res/image/data/Y3CAmJVH-zRuz4NhG.png"
         },
         "team2": {
-            "name": "Ironi Eilat",
-            "logo": "https://static.flashscore.com/res/image/data/jwxP3V7k-tbZVozyU.png"
+            "name": "Maccabi Ashdod",
+            "logo": "https://static.flashscore.com/res/image/data/vmmUhCle-Wtuot60E.png"
+        },
+        "kickoff_time": "16:00"
+    },
+    {
+        "id": "Hapoel Holon-Ironi Kiryat Ata",
+        "league": "ISRAEL - League Cup",
+        "sport": "basketball",
+        "team1": {
+            "name": "Hapoel Holon",
+            "logo": "https://static.flashscore.com/res/image/data/Is3RSwXH-zDvEHaFB.png"
+        },
+        "team2": {
+            "name": "Ironi Kiryat Ata",
+            "logo": "https://static.flashscore.com/res/image/data/x2MA0Ine-EHrehdZ9.png"
+        },
+        "kickoff_time": "17:30"
+    },
+    {
+        "id": "Freseros-Soles",
+        "league": "MEXICO - LNBP",
+        "sport": "basketball",
+        "team1": {
+            "name": "Freseros",
+            "logo": "https://static.flashscore.com/res/image/data/OEbINyB6-vRMdOEd6.png"
+        },
+        "team2": {
+            "name": "Soles",
+            "logo": "https://static.flashscore.com/res/image/data/j9dcQChT-p62nOOhF.png"
         },
         "kickoff_time": ""
     },
     {
-        "id": "Dep. San Jose-Felix Perez Cardozo",
+        "id": "Capiata Bulls-Colonias Gold",
         "league": "PARAGUAY - LNB - Clausura",
         "sport": "basketball",
         "team1": {
-            "name": "Dep. San Jose",
-            "logo": "https://static.flashscore.com/res/image/data/rHMFvt6k-dINMEfSG.png"
+            "name": "Capiata Bulls",
+            "logo": ""
         },
         "team2": {
-            "name": "Felix Perez Cardozo",
-            "logo": "https://static.flashscore.com/res/image/data/lAD2wIWH-v1LFQcET.png"
+            "name": "Colonias Gold",
+            "logo": "https://static.flashscore.com/res/image/data/MiDoxYR0-dINMEfSG.png"
         },
         "kickoff_time": "23:00"
     },
     {
-        "id": "San Alfonzo-Olimpia Kings",
-        "league": "PARAGUAY - LNB - Clausura",
-        "sport": "basketball",
-        "team1": {
-            "name": "San Alfonzo",
-            "logo": "https://static.flashscore.com/res/image/data/Mw8KczVH-dINMEfSG.png"
-        },
-        "team2": {
-            "name": "Olimpia Kings",
-            "logo": "https://static.flashscore.com/res/image/data/hW3N688k-Us2MQC8b.png"
-        },
-        "kickoff_time": "23:00"
-    },
-    {
-        "id": "Deportivo Campoalto-Deportivo Amambay",
-        "league": "PARAGUAY - LNB - Clausura",
-        "sport": "basketball",
-        "team1": {
-            "name": "Deportivo Campoalto",
-            "logo": "https://static.flashscore.com/res/image/data/AZMWuQA6-MVDuhL74.png"
-        },
-        "team2": {
-            "name": "Deportivo Amambay",
-            "logo": "https://static.flashscore.com/res/image/data/SxnycLU0-f1XYhLsb.png"
-        },
-        "kickoff_time": "23:30"
-    },
-    {
-        "id": "GenSan Warriors-Sarangani Marlins",
+        "id": "San Juan Knights-Bulacan Kuyas",
         "league": "PHILIPPINES - MPBL",
         "sport": "basketball",
         "team1": {
-            "name": "GenSan Warriors",
-            "logo": "https://static.flashscore.com/res/image/data/lxM249S0-Iq0tNfof.png"
+            "name": "San Juan Knights",
+            "logo": "https://static.flashscore.com/res/image/data/UsxwR6jT-rPhaH5js.png"
         },
         "team2": {
-            "name": "Sarangani Marlins",
-            "logo": "https://static.flashscore.com/res/image/data/jiFlo8T0-prO010ar.png"
+            "name": "Bulacan Kuyas",
+            "logo": "https://static.flashscore.com/res/image/data/hxXOls86-KMZzaYLF.png"
         },
         "kickoff_time": ""
     },
     {
-        "id": "Basilan Steel-Meycauayan",
+        "id": "Quezon Huskers-Zamboanga Sikat",
         "league": "PHILIPPINES - MPBL",
         "sport": "basketball",
         "team1": {
-            "name": "Basilan Steel",
-            "logo": "https://static.flashscore.com/res/image/data/02tDPilC-nuxDTkWK.png"
+            "name": "Quezon Huskers",
+            "logo": "https://static.flashscore.com/res/image/data/8Gw7G28k-dvmFFpGo.png"
         },
         "team2": {
-            "name": "Meycauayan",
-            "logo": "https://static.flashscore.com/res/image/data/hAp7G8kC-hM8LmeoS.png"
+            "name": "Zamboanga Sikat",
+            "logo": "https://static.flashscore.com/res/image/data/O2WTr7Pq-I55D2EoK.png"
         },
         "kickoff_time": ""
     },
     {
-        "id": "Quezon City-Pasig City",
+        "id": "Batang Kankaloo-Batangas City",
         "league": "PHILIPPINES - MPBL",
         "sport": "basketball",
         "team1": {
-            "name": "Quezon City",
-            "logo": "https://static.flashscore.com/res/image/data/YPgT0zle-rXQZEtws.png"
+            "name": "Batang Kankaloo",
+            "logo": "https://static.flashscore.com/res/image/data/f7YCpgQq-t2NJlK7n.png"
         },
         "team2": {
-            "name": "Pasig City",
-            "logo": "https://static.flashscore.com/res/image/data/089rPPU0-4tCsF9wc.png"
+            "name": "Batangas City",
+            "logo": "https://static.flashscore.com/res/image/data/t4dxQBVH-lzqHzTXq.png"
         },
-        "kickoff_time": ""
+        "kickoff_time": "11:00"
     },
     {
-        "id": "Parma Perm 2-BC Moscow",
+        "id": "Neftekhimik Tobolsk-Uralmash Ekaterinburg 2",
         "league": "RUSSIA - Russian Cup - First stage",
         "sport": "basketball",
         "team1": {
-            "name": "Parma Perm 2",
-            "logo": "https://static.flashscore.com/res/image/data/ADzJiKR0-WdFXAiof.png"
+            "name": "Neftekhimik Tobolsk",
+            "logo": "https://static.flashscore.com/res/image/data/6N1aHk7k-YRvAYsXS.png"
         },
         "team2": {
+            "name": "Uralmash Ekaterinburg 2",
+            "logo": "https://static.flashscore.com/res/image/data/zy71xACN-hGaD4dXt.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Khimky M. 2-Druzhba Moscow",
+        "league": "RUSSIA - Russian Cup - First stage",
+        "sport": "basketball",
+        "team1": {
+            "name": "Khimky M. 2",
+            "logo": "https://static.flashscore.com/res/image/data/84cuDzT0-ttMH8SRC.png"
+        },
+        "team2": {
+            "name": "Druzhba Moscow",
+            "logo": ""
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "BC Moscow-Unics Kazan 2",
+        "league": "RUSSIA - Russian Cup - First stage",
+        "sport": "basketball",
+        "team1": {
             "name": "BC Moscow",
             "logo": "https://static.flashscore.com/res/image/data/jw2CO9R0-EZBjriM4.png"
         },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Unics Kazan 2-Saratov 2",
-        "league": "RUSSIA - Russian Cup - First stage",
-        "sport": "basketball",
-        "team1": {
+        "team2": {
             "name": "Unics Kazan 2",
             "logo": "https://static.flashscore.com/res/image/data/Mab3CriT-zuHrNjG8.png"
         },
+        "kickoff_time": "10:30"
+    },
+    {
+        "id": "Kamit Tver-Zenit Petersburg 2",
+        "league": "RUSSIA - Russian Cup - First stage",
+        "sport": "basketball",
+        "team1": {
+            "name": "Kamit Tver",
+            "logo": ""
+        },
         "team2": {
+            "name": "Zenit Petersburg 2",
+            "logo": "https://static.flashscore.com/res/image/data/KxtnV0Rq-QZ8u8lAG.png"
+        },
+        "kickoff_time": "10:30"
+    },
+    {
+        "id": "TSK Ural-Enisey 2",
+        "league": "RUSSIA - Russian Cup - First stage",
+        "sport": "basketball",
+        "team1": {
+            "name": "TSK Ural",
+            "logo": "https://static.flashscore.com/res/image/data/Yg9h0Ome-GGmHoyxM.png"
+        },
+        "team2": {
+            "name": "Enisey 2",
+            "logo": "https://static.flashscore.com/res/image/data/UarDZ1UH-SIF41tKt.png"
+        },
+        "kickoff_time": "10:30"
+    },
+    {
+        "id": "Saratov 2-Parma Perm 2",
+        "league": "RUSSIA - Russian Cup - First stage",
+        "sport": "basketball",
+        "team1": {
             "name": "Saratov 2",
             "logo": "https://static.flashscore.com/res/image/data/r1mgmule-42eHiwbc.png"
         },
-        "kickoff_time": ""
+        "team2": {
+            "name": "Parma Perm 2",
+            "logo": "https://static.flashscore.com/res/image/data/ADzJiKR0-WdFXAiof.png"
+        },
+        "kickoff_time": "13:00"
     },
     {
-        "id": "Metallurg Magnitogorsk W-Chelyabinsk W",
+        "id": "Yuzhnyi Slon-Titany Volgograd",
+        "league": "RUSSIA - Russian Cup - First stage",
+        "sport": "basketball",
+        "team1": {
+            "name": "Yuzhnyi Slon",
+            "logo": "https://static.flashscore.com/res/image/data/ptaGMuVH-xMUjq3cF.png"
+        },
+        "team2": {
+            "name": "Titany Volgograd",
+            "logo": ""
+        },
+        "kickoff_time": "13:00"
+    },
+    {
+        "id": "Dynamo MGTU-Lokomotiv Kuban 2",
+        "league": "RUSSIA - Russian Cup - First stage",
+        "sport": "basketball",
+        "team1": {
+            "name": "Dynamo MGTU",
+            "logo": "https://static.flashscore.com/res/image/data/fy7XpeQq-2RttYEfG.png"
+        },
+        "team2": {
+            "name": "Lokomotiv Kuban 2",
+            "logo": "https://static.flashscore.com/res/image/data/4b8iVxhT-pjMoztVO.png"
+        },
+        "kickoff_time": "15:30"
+    },
+    {
+        "id": "Chelyabinsk W-Enisey Krasnoyarsk 2 W",
         "league": "RUSSIA - Russian Cup Women - First stage",
         "sport": "basketball",
         "team1": {
-            "name": "Metallurg Magnitogorsk W",
-            "logo": "https://static.flashscore.com/res/image/data/Obly2qBN-Gd5wI3LA.png"
-        },
-        "team2": {
             "name": "Chelyabinsk W",
             "logo": "https://static.flashscore.com/res/image/data/v9VlQg5k-hMAU3V3g.png"
         },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Vologda W-Rostov W",
-        "league": "RUSSIA - Russian Cup Women - First stage",
-        "sport": "basketball",
-        "team1": {
-            "name": "Vologda W",
-            "logo": "https://static.flashscore.com/res/image/data/YyUh6u8k-p85PSoEG.png"
-        },
         "team2": {
-            "name": "Rostov W",
-            "logo": "https://static.flashscore.com/res/image/data/ITiCWTTH-AqQi13dn.png"
+            "name": "Enisey Krasnoyarsk 2 W",
+            "logo": "https://static.flashscore.com/res/image/data/hpBOod86-0zQ349zL.png"
         },
         "kickoff_time": ""
     },
     {
-        "id": "SKFU Stavropol W-Yunost Penzevskaya Oblast W",
+        "id": "Yunost Penzevskaya Oblast W-Vologda W",
         "league": "RUSSIA - Russian Cup Women - First stage",
         "sport": "basketball",
         "team1": {
-            "name": "SKFU Stavropol W",
-            "logo": "https://static.flashscore.com/res/image/data/fm65aZRq-WQG2STVB.png"
-        },
-        "team2": {
             "name": "Yunost Penzevskaya Oblast W",
             "logo": "https://static.flashscore.com/res/image/data/SrKQOxkC-fBAWaajG.png"
         },
-        "kickoff_time": ""
+        "team2": {
+            "name": "Vologda W",
+            "logo": "https://static.flashscore.com/res/image/data/YyUh6u8k-p85PSoEG.png"
+        },
+        "kickoff_time": "10:00"
     },
     {
-        "id": "Cedevita Olimpija (Slo)-Cibona (Cro)",
+        "id": "Rostov W-SKFU Stavropol W",
+        "league": "RUSSIA - Russian Cup Women - First stage",
+        "sport": "basketball",
+        "team1": {
+            "name": "Rostov W",
+            "logo": "https://static.flashscore.com/res/image/data/ITiCWTTH-AqQi13dn.png"
+        },
+        "team2": {
+            "name": "SKFU Stavropol W",
+            "logo": "https://static.flashscore.com/res/image/data/fm65aZRq-WQG2STVB.png"
+        },
+        "kickoff_time": "12:30"
+    },
+    {
+        "id": "Spartak Moscow 2 W-Noginsk W",
+        "league": "RUSSIA - Russian Cup Women - First stage",
+        "sport": "basketball",
+        "team1": {
+            "name": "Spartak Moscow 2 W",
+            "logo": "https://static.flashscore.com/res/image/data/MLvEeoU0-rXpwrk6s.png"
+        },
+        "team2": {
+            "name": "Noginsk W",
+            "logo": "https://static.flashscore.com/res/image/data/hM7yRFkC-UsEr42OI.png"
+        },
+        "kickoff_time": "12:30"
+    },
+    {
+        "id": "Spartak St. Petersburg W-Kazanochka K. W",
+        "league": "RUSSIA - Russian Cup Women - First stage",
+        "sport": "basketball",
+        "team1": {
+            "name": "Spartak St. Petersburg W",
+            "logo": "https://static.flashscore.com/res/image/data/ne2HgRjC-z7H8TIsG.png"
+        },
+        "team2": {
+            "name": "Kazanochka K. W",
+            "logo": "https://static.flashscore.com/res/image/data/W8BMSz96-dMTBJSIC.png"
+        },
+        "kickoff_time": "15:00"
+    },
+    {
+        "id": "Ryukyu (Jpn)-Ibaraki Robots (Jpn)",
         "league": "WORLD - Club Friendly",
         "sport": "basketball",
         "team1": {
-            "name": "Cedevita Olimpija (Slo)",
-            "logo": "https://static.flashscore.com/res/image/data/GEUdU5iT-E9So8n8h.png"
+            "name": "Ryukyu (Jpn)",
+            "logo": "https://static.flashscore.com/res/image/data/I58Beime-lWEyjm0F.png"
         },
         "team2": {
-            "name": "Cibona (Cro)",
-            "logo": "https://static.flashscore.com/res/image/data/lUF1bnS0-tbcrVBQe.png"
+            "name": "Ibaraki Robots (Jpn)",
+            "logo": "https://static.flashscore.com/res/image/data/hzfmLS96-W6jEWItG.png"
+        },
+        "kickoff_time": "10:35"
+    },
+    {
+        "id": "Morphou (Cyp)-Achilleas K. (Cyp)",
+        "league": "WORLD - Club Friendly",
+        "sport": "basketball",
+        "team1": {
+            "name": "Morphou (Cyp)",
+            "logo": "https://static.flashscore.com/res/image/data/GYAsKigT-0EhUCZhm.png"
+        },
+        "team2": {
+            "name": "Achilleas K. (Cyp)",
+            "logo": "https://static.flashscore.com/res/image/data/bRBD27le-jwErsUO8.png"
+        },
+        "kickoff_time": "14:00"
+    },
+    {
+        "id": "Minyor (Bul)-Polytechnica (Bul)",
+        "league": "WORLD - Club Friendly",
+        "sport": "basketball",
+        "team1": {
+            "name": "Minyor (Bul)",
+            "logo": "https://static.flashscore.com/res/image/data/fLPbw37k-vBvm8HVL.png"
+        },
+        "team2": {
+            "name": "Polytechnica (Bul)",
+            "logo": "https://static.flashscore.com/res/image/data/GhmUsBle-GApBa3fh.png"
+        },
+        "kickoff_time": "14:30"
+    },
+    {
+        "id": "Alba Fehervar (Hun)-NKA Pecs (Hun)",
+        "league": "WORLD - Club Friendly",
+        "sport": "basketball",
+        "team1": {
+            "name": "Alba Fehervar (Hun)",
+            "logo": "https://static.flashscore.com/res/image/data/nPd62RWH-Yc7ZWlxg.png"
+        },
+        "team2": {
+            "name": "NKA Pecs (Hun)",
+            "logo": "https://static.flashscore.com/res/image/data/hh9oTclC-hAbIkKt5.png"
+        },
+        "kickoff_time": "16:00"
+    },
+    {
+        "id": "Bilbao (Esp)-Baskonia (Esp)",
+        "league": "WORLD - Club Friendly",
+        "sport": "basketball",
+        "team1": {
+            "name": "Bilbao (Esp)",
+            "logo": "https://static.flashscore.com/res/image/data/dImvc2lC-0hu4VHO8.png"
+        },
+        "team2": {
+            "name": "Baskonia (Esp)",
+            "logo": "https://static.flashscore.com/res/image/data/xGQhkdAN-hhuZJcqF.png"
+        },
+        "kickoff_time": "17:00"
+    },
+    {
+        "id": "Illiabum (Por)-SC Marinhense (Por)",
+        "league": "WORLD - Club Friendly",
+        "sport": "basketball",
+        "team1": {
+            "name": "Illiabum (Por)",
+            "logo": "https://static.flashscore.com/res/image/data/SnqzoR7k-S4jkOGuO.png"
+        },
+        "team2": {
+            "name": "SC Marinhense (Por)",
+            "logo": "https://static.flashscore.com/res/image/data/KClNKqle-pzGQvSR7.png"
+        },
+        "kickoff_time": "19:00"
+    },
+    {
+        "id": "Braine W (Bel)-Phantoms W (Bel)",
+        "league": "WORLD - Club Friendly Women",
+        "sport": "basketball",
+        "team1": {
+            "name": "Braine W (Bel)",
+            "logo": "https://static.flashscore.com/res/image/data/8v88Wl86-2eSPRtGT.png"
+        },
+        "team2": {
+            "name": "Phantoms W (Bel)",
+            "logo": "https://static.flashscore.com/res/image/data/U58ZXwne-hMh5H6CM.png"
+        },
+        "kickoff_time": "18:30"
+    },
+    {
+        "id": "Poland 3x3 U23-Kenya 3x3 U23",
+        "league": "WORLD - World Cup 3x3 U23",
+        "sport": "basketball",
+        "team1": {
+            "name": "Poland 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/6s6AMYjC-pQ2X96od.png"
+        },
+        "team2": {
+            "name": "Kenya 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/bZ5YmMRq-Ao1IExaf.png"
         },
         "kickoff_time": ""
     },
     {
-        "id": "Shumen (Bul)-Cherno More (Bul)",
-        "league": "WORLD - Club Friendly",
+        "id": "Algeria 3x3 U23-France 3x3 U23",
+        "league": "WORLD - World Cup 3x3 U23",
         "sport": "basketball",
         "team1": {
-            "name": "Shumen (Bul)",
-            "logo": "https://static.flashscore.com/res/image/data/b5OaXm7k-QT9pwJug.png"
+            "name": "Algeria 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/INhpXBWH-d2Roxh4i.png"
         },
         "team2": {
-            "name": "Cherno More (Bul)",
-            "logo": "https://static.flashscore.com/res/image/data/jBxvXIWH-UPGL0EHb.png"
+            "name": "France 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/MFV1jzUH-p2dIDWV0.png"
         },
         "kickoff_time": ""
+    },
+    {
+        "id": "Australia 3x3 U23-Poland 3x3 U23",
+        "league": "WORLD - World Cup 3x3 U23",
+        "sport": "basketball",
+        "team1": {
+            "name": "Australia 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/O8eX6tXH-4AD3P3b3.png"
+        },
+        "team2": {
+            "name": "Poland 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/6s6AMYjC-pQ2X96od.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Algeria 3x3 U23-Kenya 3x3 U23",
+        "league": "WORLD - World Cup 3x3 U23",
+        "sport": "basketball",
+        "team1": {
+            "name": "Algeria 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/INhpXBWH-d2Roxh4i.png"
+        },
+        "team2": {
+            "name": "Kenya 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/bZ5YmMRq-Ao1IExaf.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "France 3x3 U23-Australia 3x3 U23",
+        "league": "WORLD - World Cup 3x3 U23",
+        "sport": "basketball",
+        "team1": {
+            "name": "France 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/MFV1jzUH-p2dIDWV0.png"
+        },
+        "team2": {
+            "name": "Australia 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/O8eX6tXH-4AD3P3b3.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Germany 3x3 U23-Kazakhstan 3x3 U23",
+        "league": "WORLD - World Cup 3x3 U23",
+        "sport": "basketball",
+        "team1": {
+            "name": "Germany 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/ngkkUb5k-pQ2X96od.png"
+        },
+        "team2": {
+            "name": "Kazakhstan 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/6L293RlC-6kEXElWe.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Netherlands 3x3 U23-Tonga 3x3 U23",
+        "league": "WORLD - World Cup 3x3 U23",
+        "sport": "basketball",
+        "team1": {
+            "name": "Netherlands 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/U9UpuA8k-23tVqjrP.png"
+        },
+        "team2": {
+            "name": "Tonga 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/pOmEk36k-0GgeztUI.png"
+        },
+        "kickoff_time": "09:20"
+    },
+    {
+        "id": "Serbia 3x3 U23-Kazakhstan 3x3 U23",
+        "league": "WORLD - World Cup 3x3 U23",
+        "sport": "basketball",
+        "team1": {
+            "name": "Serbia 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/0jv4RWlC-4CSduAjt.png"
+        },
+        "team2": {
+            "name": "Kazakhstan 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/6L293RlC-6kEXElWe.png"
+        },
+        "kickoff_time": "09:45"
+    },
+    {
+        "id": "Germany 3x3 U23-Netherlands 3x3 U23",
+        "league": "WORLD - World Cup 3x3 U23",
+        "sport": "basketball",
+        "team1": {
+            "name": "Germany 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/ngkkUb5k-pQ2X96od.png"
+        },
+        "team2": {
+            "name": "Netherlands 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/U9UpuA8k-23tVqjrP.png"
+        },
+        "kickoff_time": "11:25"
+    },
+    {
+        "id": "Tonga 3x3 U23-Serbia 3x3 U23",
+        "league": "WORLD - World Cup 3x3 U23",
+        "sport": "basketball",
+        "team1": {
+            "name": "Tonga 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/pOmEk36k-0GgeztUI.png"
+        },
+        "team2": {
+            "name": "Serbia 3x3 U23",
+            "logo": "https://static.flashscore.com/res/image/data/0jv4RWlC-4CSduAjt.png"
+        },
+        "kickoff_time": "13:20"
+    },
+    {
+        "id": "Latvia 3x3 U23 W-Madagascar 3x3 U23 W",
+        "league": "WORLD - World Cup 3x3 U23 Women",
+        "sport": "basketball",
+        "team1": {
+            "name": "Latvia 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/OYIMW7CN-2ileoUDg.png"
+        },
+        "team2": {
+            "name": "Madagascar 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/d8bSwD5k-Y7zOaGkN.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "France 3x3 U23 W-Philippines 3x3 U23 W",
+        "league": "WORLD - World Cup 3x3 U23 Women",
+        "sport": "basketball",
+        "team1": {
+            "name": "France 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/MoOZP4le-dWMD3tMD.png"
+        },
+        "team2": {
+            "name": "Philippines 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/v97ZFsle-UaZbRUSm.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Spain 3x3 U23 W-Tonga 3x3 U23 W",
+        "league": "WORLD - World Cup 3x3 U23 Women",
+        "sport": "basketball",
+        "team1": {
+            "name": "Spain 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/lhUSg4T0-4Qwgvwkc.png"
+        },
+        "team2": {
+            "name": "Tonga 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/tpIf5dgT-4zqoDw33.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Italy 3x3 U23 W-Egypt 3x3 U23 W",
+        "league": "WORLD - World Cup 3x3 U23 Women",
+        "sport": "basketball",
+        "team1": {
+            "name": "Italy 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/fPslgX5k-EPGWdh1N.png"
+        },
+        "team2": {
+            "name": "Egypt 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/Sdbi5eQq-82fMpXpE.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Spain 3x3 U23 W-Latvia 3x3 U23 W",
+        "league": "WORLD - World Cup 3x3 U23 Women",
+        "sport": "basketball",
+        "team1": {
+            "name": "Spain 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/lhUSg4T0-4Qwgvwkc.png"
+        },
+        "team2": {
+            "name": "Latvia 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/OYIMW7CN-2ileoUDg.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Madagascar 3x3 U23 W-Uganda 3x3 U23 W",
+        "league": "WORLD - World Cup 3x3 U23 Women",
+        "sport": "basketball",
+        "team1": {
+            "name": "Madagascar 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/d8bSwD5k-Y7zOaGkN.png"
+        },
+        "team2": {
+            "name": "Uganda 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/pvrdGwle-r3R0vU5n.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Uganda 3x3 U23 W-Tonga 3x3 U23 W",
+        "league": "WORLD - World Cup 3x3 U23 Women",
+        "sport": "basketball",
+        "team1": {
+            "name": "Uganda 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/pvrdGwle-r3R0vU5n.png"
+        },
+        "team2": {
+            "name": "Tonga 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/tpIf5dgT-4zqoDw33.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "China 3x3 U23 W-France 3x3 U23 W",
+        "league": "WORLD - World Cup 3x3 U23 Women",
+        "sport": "basketball",
+        "team1": {
+            "name": "China 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/IR0RPnBN-r3R0vU5n.png"
+        },
+        "team2": {
+            "name": "France 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/MoOZP4le-dWMD3tMD.png"
+        },
+        "kickoff_time": ""
+    },
+    {
+        "id": "Philippines 3x3 U23 W-Italy 3x3 U23 W",
+        "league": "WORLD - World Cup 3x3 U23 Women",
+        "sport": "basketball",
+        "team1": {
+            "name": "Philippines 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/v97ZFsle-UaZbRUSm.png"
+        },
+        "team2": {
+            "name": "Italy 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/fPslgX5k-EPGWdh1N.png"
+        },
+        "kickoff_time": "11:00"
+    },
+    {
+        "id": "China 3x3 U23 W-Egypt 3x3 U23 W",
+        "league": "WORLD - World Cup 3x3 U23 Women",
+        "sport": "basketball",
+        "team1": {
+            "name": "China 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/IR0RPnBN-r3R0vU5n.png"
+        },
+        "team2": {
+            "name": "Egypt 3x3 U23 W",
+            "logo": "https://static.flashscore.com/res/image/data/Sdbi5eQq-82fMpXpE.png"
+        },
+        "kickoff_time": "12:55"
     }
 ]
