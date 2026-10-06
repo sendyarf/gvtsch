@@ -322,20 +322,6 @@
         "kickoff_time": "17:00"
     },
     {
-        "id": "Algeria U20-Egypt U20",
-        "league": "AFRICA - Africa Cup of Nations U20 - Qualification",
-        "sport": "soccer",
-        "team1": {
-            "name": "Algeria U20",
-            "logo": "https://static.flashscore.com/res/image/data/4tb19akC-KAqUF00e.png"
-        },
-        "team2": {
-            "name": "Egypt U20",
-            "logo": "https://static.flashscore.com/res/image/data/MDeuN9S0-pf2ug9ZI.png"
-        },
-        "kickoff_time": "13:00"
-    },
-    {
         "id": "Libya U20-Morocco U20",
         "league": "AFRICA - Africa Cup of Nations U20 - Qualification",
         "sport": "soccer",
@@ -348,6 +334,20 @@
             "logo": "https://static.flashscore.com/res/image/data/WteXveAN-CEPH9Bbd.png"
         },
         "kickoff_time": "13:00"
+    },
+    {
+        "id": "Algeria U20-Egypt U20",
+        "league": "AFRICA - Africa Cup of Nations U20 - Qualification",
+        "sport": "soccer",
+        "team1": {
+            "name": "Algeria U20",
+            "logo": "https://static.flashscore.com/res/image/data/4tb19akC-KAqUF00e.png"
+        },
+        "team2": {
+            "name": "Egypt U20",
+            "logo": "https://static.flashscore.com/res/image/data/MDeuN9S0-pf2ug9ZI.png"
+        },
+        "kickoff_time": "13:30"
     },
     {
         "id": "Kabylie-MC Alger",
@@ -389,7 +389,7 @@
             "name": "Rosario Central",
             "logo": "https://static.flashscore.com/res/image/data/KSbaRoDN-vuxu02Jt.png"
         },
-        "kickoff_time": "45+3"
+        "kickoff_time": ""
     },
     {
         "id": "Bangladesh Police-City Club",
@@ -403,7 +403,7 @@
             "name": "City Club",
             "logo": "https://static.flashscore.com/res/image/data/tKrrj0gT-6Vuu2mdm.png"
         },
-        "kickoff_time": "09:00"
+        "kickoff_time": ""
     },
     {
         "id": "Dhaka Wanderers-Bashundara Kings",
@@ -417,7 +417,7 @@
             "name": "Bashundara Kings",
             "logo": "https://static.flashscore.com/res/image/data/SQX7YejC-Ikma8VfF.png"
         },
-        "kickoff_time": "09:00"
+        "kickoff_time": ""
     },
     {
         "id": "Mohammedan-Arambagh",
@@ -431,7 +431,7 @@
             "name": "Arambagh",
             "logo": "https://static.flashscore.com/res/image/data/67Xwzv7k-WpXbwYbD.png"
         },
-        "kickoff_time": "09:00"
+        "kickoff_time": ""
     },
     {
         "id": "Real Oruro-Tomayapo",
@@ -501,7 +501,7 @@
             "name": "D. Puerto Montt",
             "logo": "https://static.flashscore.com/res/image/data/YJS3v2BN-lGGssG8o.png"
         },
-        "kickoff_time": "23:30"
+        "kickoff_time": "23:00"
     },
     {
         "id": "Ind. Medellin-Santa Fe",
@@ -515,7 +515,7 @@
             "name": "Santa Fe",
             "logo": "https://static.flashscore.com/res/image/data/UacjBalC-AaS9a4Ho.png"
         },
-        "kickoff_time": "HT"
+        "kickoff_time": ""
     },
     {
         "id": "Atherton-Trafford",
@@ -1159,7 +1159,7 @@
             "name": "Kazakhstan U19 W",
             "logo": "https://static.flashscore.com/res/image/data/8GcNCr7k-6kKuCfBJ.png"
         },
-        "kickoff_time": "09:00"
+        "kickoff_time": ""
     },
     {
         "id": "Malta U19 W-Czech Republic U19 W",
@@ -1190,20 +1190,6 @@
         "kickoff_time": "15:30"
     },
     {
-        "id": "Zoman-Korhogo",
-        "league": "IVORY COAST - Ligue 1",
-        "sport": "soccer",
-        "team1": {
-            "name": "Zoman",
-            "logo": "https://static.flashscore.com/res/image/data/lMwyblAN-pMrWCxJj.png"
-        },
-        "team2": {
-            "name": "Korhogo",
-            "logo": "https://static.flashscore.com/res/image/data/lU89T1hT-Ie0Cqvvf.png"
-        },
-        "kickoff_time": "15:30"
-    },
-    {
         "id": "Arnett Gardens-Portmore",
         "league": "JAMAICA - Premier League",
         "sport": "soccer",
@@ -1215,7 +1201,7 @@
             "name": "Portmore",
             "logo": "https://static.flashscore.com/res/image/data/byn2HZme-2uWpT1r1.png"
         },
-        "kickoff_time": "01:00"
+        "kickoff_time": ""
     },
     {
         "id": "Kariobangi Sharks-Mombasa United",
@@ -1243,7 +1229,7 @@
             "name": "Suriname",
             "logo": "https://static.flashscore.com/res/image/data/MyZIvXlC-0tVbG58r.png"
         },
-        "kickoff_time": "46"
+        "kickoff_time": ""
     },
     {
         "id": "Honduras-Jamaica",
@@ -1257,7 +1243,7 @@
             "name": "Jamaica",
             "logo": "https://static.flashscore.com/res/image/data/xUz2mPlC-IPF97VQ3.png"
         },
-        "kickoff_time": "02:00"
+        "kickoff_time": ""
     },
     {
         "id": "Bermuda-Barbados",
@@ -1271,7 +1257,7 @@
             "name": "Barbados",
             "logo": "https://static.flashscore.com/res/image/data/00wvF9R0-EPEwybjP.png"
         },
-        "kickoff_time": "48"
+        "kickoff_time": ""
     },
     {
         "id": "Grenada-Bonaire",
@@ -1285,7 +1271,7 @@
             "name": "Bonaire",
             "logo": "https://static.flashscore.com/res/image/data/QRg9EcT0-ngJd9lUm.png"
         },
-        "kickoff_time": "46"
+        "kickoff_time": ""
     },
     {
         "id": "Saint Vincent and the Grenadines-Sint Maarten",
@@ -1369,7 +1355,7 @@
             "name": "Union Cocle",
             "logo": "https://static.flashscore.com/res/image/data/UB3m91kC-z1Qqexql.png"
         },
-        "kickoff_time": "3"
+        "kickoff_time": ""
     },
     {
         "id": "Ameliano-Rubio Nu",
@@ -1453,7 +1439,7 @@
             "name": "Silifke",
             "logo": "https://static.flashscore.com/res/image/data/Shv8STne-AkXtjKVi.png"
         },
-        "kickoff_time": "11:00"
+        "kickoff_time": "HT"
     },
     {
         "id": "Kirklarelispor-Bayburtspor",
@@ -1467,7 +1453,7 @@
             "name": "Bayburtspor",
             "logo": "https://static.flashscore.com/res/image/data/INSsEUoe-KS49wY82.png"
         },
-        "kickoff_time": "11:00"
+        "kickoff_time": "HT"
     },
     {
         "id": "Sakaryaspor-Arit Kayadibi",
@@ -1509,7 +1495,7 @@
             "name": "FC Chernihiv",
             "logo": "https://static.flashscore.com/res/image/data/x8R9mMhT-lWIpDY5t.png"
         },
-        "kickoff_time": "08:00"
+        "kickoff_time": ""
     },
     {
         "id": "Frontera-El Vigia",
@@ -1551,7 +1537,21 @@
             "name": "South Korea U23",
             "logo": "https://static.flashscore.com/res/image/data/67M5owSq-C0A1Du90.png"
         },
-        "kickoff_time": "02:00"
+        "kickoff_time": ""
+    },
+    {
+        "id": "Poland U18-Uruguay U18",
+        "league": "WORLD - Friendly International",
+        "sport": "soccer",
+        "team1": {
+            "name": "Poland U18",
+            "logo": "https://static.flashscore.com/res/image/data/QadV1X86-ph1rYYT7.png"
+        },
+        "team2": {
+            "name": "Uruguay U18",
+            "logo": "https://static.flashscore.com/res/image/data/zJxTjIPq-0KRH1UJH.png"
+        },
+        "kickoff_time": ""
     },
     {
         "id": "Belgium U18-Sweden U18",
@@ -1582,20 +1582,6 @@
         "kickoff_time": "09:00"
     },
     {
-        "id": "Poland U18-Uruguay U18",
-        "league": "WORLD - Friendly International",
-        "sport": "soccer",
-        "team1": {
-            "name": "Poland U18",
-            "logo": "https://static.flashscore.com/res/image/data/QadV1X86-ph1rYYT7.png"
-        },
-        "team2": {
-            "name": "Uruguay U18",
-            "logo": "https://static.flashscore.com/res/image/data/zJxTjIPq-0KRH1UJH.png"
-        },
-        "kickoff_time": "09:00"
-    },
-    {
         "id": "Saudi Arabia U20-Armenia U20",
         "league": "WORLD - Friendly International",
         "sport": "soccer",
@@ -1607,7 +1593,7 @@
             "name": "Armenia U20",
             "logo": "https://static.flashscore.com/res/image/data/IiX6AXjT-fkFRTpdQ.png"
         },
-        "kickoff_time": "09:00"
+        "kickoff_time": "Pen"
     },
     {
         "id": "USA U18-Netherlands U18",
@@ -1624,6 +1610,20 @@
         "kickoff_time": "09:00"
     },
     {
+        "id": "Croatia U17-Italy U17",
+        "league": "WORLD - Friendly International",
+        "sport": "soccer",
+        "team1": {
+            "name": "Croatia U17",
+            "logo": "https://static.flashscore.com/res/image/data/bVoBCrgT-Ei3Gsif9.png"
+        },
+        "team2": {
+            "name": "Italy U17",
+            "logo": "https://static.flashscore.com/res/image/data/O47rq8Qq-nZlXitYn.png"
+        },
+        "kickoff_time": "10:00"
+    },
+    {
         "id": "Denmark U19-Netherlands U19",
         "league": "WORLD - Friendly International",
         "sport": "soccer",
@@ -1635,7 +1635,7 @@
             "name": "Netherlands U19",
             "logo": "https://static.flashscore.com/res/image/data/xpmR10Pq-lhYGvjx3.png"
         },
-        "kickoff_time": "11:00"
+        "kickoff_time": "45+2"
     },
     {
         "id": "Ireland U18-Norway U18",
@@ -1663,7 +1663,7 @@
             "name": "Uzbekistan",
             "logo": "https://static.flashscore.com/res/image/data/najJX2oe-ABIAlQIr.png"
         },
-        "kickoff_time": "11:00"
+        "kickoff_time": "HT"
     },
     {
         "id": "France U17-Netherlands U17",
@@ -1691,7 +1691,21 @@
             "name": "Tajikistan",
             "logo": "https://static.flashscore.com/res/image/data/EcdS4zU0-r5trb9zO.png"
         },
-        "kickoff_time": "11:35"
+        "kickoff_time": "14"
+    },
+    {
+        "id": "Portugal U17-Denmark U17",
+        "league": "WORLD - Friendly International",
+        "sport": "soccer",
+        "team1": {
+            "name": "Portugal U17",
+            "logo": "https://static.flashscore.com/res/image/data/xnG3Kzne-nkBpaHJn.png"
+        },
+        "team2": {
+            "name": "Denmark U17",
+            "logo": "https://static.flashscore.com/res/image/data/YLX4wIU0-bNkQa7vS.png"
+        },
+        "kickoff_time": "12:00"
     },
     {
         "id": "Uzbekistan U20-Russia U20",
@@ -1748,6 +1762,20 @@
             "logo": "https://static.flashscore.com/res/image/data/6XrDVNjT-K4xXcb4T.png"
         },
         "kickoff_time": "14:00"
+    },
+    {
+        "id": "Oman U23-Tajikistan U23",
+        "league": "WORLD - Friendly International",
+        "sport": "soccer",
+        "team1": {
+            "name": "Oman U23",
+            "logo": "https://static.flashscore.com/res/image/data/SS8t4GUH-t6TQGRSb.png"
+        },
+        "team2": {
+            "name": "Tajikistan U23",
+            "logo": "https://static.flashscore.com/res/image/data/tpLqig7k-GdTxW9VR.png"
+        },
+        "kickoff_time": "14:30"
     },
     {
         "id": "Ecuador U20-Peru U20",
@@ -1845,7 +1873,21 @@
             "name": "Kalmar (Swe)",
             "logo": "https://static.flashscore.com/res/image/data/jied0PBN-CSvriyX1.png"
         },
-        "kickoff_time": "11:00"
+        "kickoff_time": "34"
+    },
+    {
+        "id": "Montenegro U19 W-Cyprus U19 W",
+        "league": "WORLD - Friendly International Women",
+        "sport": "soccer",
+        "team1": {
+            "name": "Montenegro U19 W",
+            "logo": "https://static.flashscore.com/res/image/data/tniDeyme-zc8wEAfR.png"
+        },
+        "team2": {
+            "name": "Cyprus U19 W",
+            "logo": "https://static.flashscore.com/res/image/data/hrbRkJle-dzgZQ9ss.png"
+        },
+        "kickoff_time": ""
     },
     {
         "id": "Cedevita Olimpija-Hapoel Jerusalem",
@@ -2086,48 +2128,6 @@
         "kickoff_time": "18:30"
     },
     {
-        "id": "Atlanta Hawks-Memphis Grizzlies",
-        "league": "USA - NBA - Pre-season",
-        "sport": "basketball",
-        "team1": {
-            "name": "Atlanta Hawks",
-            "logo": "https://static.flashscore.com/res/image/data/Glb3yYRq-4bqaxRtQ.png"
-        },
-        "team2": {
-            "name": "Memphis Grizzlies",
-            "logo": "https://static.flashscore.com/res/image/data/423TzPRq-OGDApLpE.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Detroit Pistons-Phoenix Suns",
-        "league": "USA - NBA - Pre-season",
-        "sport": "basketball",
-        "team1": {
-            "name": "Detroit Pistons",
-            "logo": "https://static.flashscore.com/res/image/data/G6CnZjgT-xrW85HXg.png"
-        },
-        "team2": {
-            "name": "Phoenix Suns",
-            "logo": "https://static.flashscore.com/res/image/data/hOv8stDN-fgP08kAm.png"
-        },
-        "kickoff_time": ""
-    },
-    {
-        "id": "Philadelphia 76ers-New York Knicks",
-        "league": "USA - NBA - Pre-season",
-        "sport": "basketball",
-        "team1": {
-            "name": "Philadelphia 76ers",
-            "logo": "https://static.flashscore.com/res/image/data/jTXULwA6-4bqaxRtQ.png"
-        },
-        "team2": {
-            "name": "New York Knicks",
-            "logo": "https://static.flashscore.com/res/image/data/IXahYvle-I30Q0K9l.png"
-        },
-        "kickoff_time": ""
-    },
-    {
         "id": "Milwaukee Bucks-Minnesota Timberwolves",
         "league": "USA - NBA - Pre-season",
         "sport": "basketball",
@@ -2153,7 +2153,7 @@
             "name": "Los Angeles Lakers",
             "logo": "https://static.flashscore.com/res/image/data/dfovLU96-6y7aqqwb.png"
         },
-        "kickoff_time": "02:00"
+        "kickoff_time": ""
     },
     {
         "id": "Charlotte Hornets-Brooklyn Nets",
@@ -2181,7 +2181,7 @@
             "name": "Atenas",
             "logo": "https://static.flashscore.com/res/image/data/COMJDv96-jwSNAKXj.png"
         },
-        "kickoff_time": "01:05"
+        "kickoff_time": ""
     },
     {
         "id": "Platense-La Union",
@@ -2209,7 +2209,7 @@
             "name": "South Korea U18 W",
             "logo": "https://static.flashscore.com/res/image/data/ht20TGjT-WvIBx2Ti.png"
         },
-        "kickoff_time": "03:30"
+        "kickoff_time": ""
     },
     {
         "id": "New Zealand U18 W-Philippines U18 W",
@@ -2223,7 +2223,7 @@
             "name": "Philippines U18 W",
             "logo": "https://static.flashscore.com/res/image/data/hfYBzcSq-tMV8739m.png"
         },
-        "kickoff_time": "06:00"
+        "kickoff_time": ""
     },
     {
         "id": "China U18 W-Japan U18 W",
@@ -2237,7 +2237,7 @@
             "name": "Japan U18 W",
             "logo": "https://static.flashscore.com/res/image/data/GMmlN85k-WvIBx2Ti.png"
         },
-        "kickoff_time": "08:30"
+        "kickoff_time": ""
     },
     {
         "id": "Chinese T. U18 W-Malaysia U18 W",
@@ -2251,7 +2251,7 @@
             "name": "Malaysia U18 W",
             "logo": "https://static.flashscore.com/res/image/data/8Oh2uAWH-Qgc1SH5p.png"
         },
-        "kickoff_time": "11:00"
+        "kickoff_time": ""
     },
     {
         "id": "Samaheej-Al Muharraq",
@@ -2335,7 +2335,7 @@
             "name": "Caimanes del Llano",
             "logo": "https://static.flashscore.com/res/image/data/neOCTZiT-z3ohO1t5.png"
         },
-        "kickoff_time": "01:30"
+        "kickoff_time": ""
     },
     {
         "id": "Capitanes Bogota-Motilones del Norte",
@@ -2755,7 +2755,7 @@
             "name": "Hong Kong Eastern",
             "logo": "https://static.flashscore.com/res/image/data/G8Nl5ple-6a1eFdQB.png"
         },
-        "kickoff_time": "11:00"
+        "kickoff_time": ""
     },
     {
         "id": "Eagle-SCAA",
@@ -3035,7 +3035,7 @@
             "name": "LG Sakers",
             "logo": "https://static.flashscore.com/res/image/data/EaainVPq-2el3ggr9.png"
         },
-        "kickoff_time": "10:00"
+        "kickoff_time": ""
     },
     {
         "id": "GC Zurich W-Baden W",
@@ -3050,5 +3050,47 @@
             "logo": "https://static.flashscore.com/res/image/data/xM8Dve96-08uVKp1P.png"
         },
         "kickoff_time": "18:00"
+    },
+    {
+        "id": "Flamengo (Bra)-Botafogo (Bra)",
+        "league": "WORLD - Club Friendly",
+        "sport": "basketball",
+        "team1": {
+            "name": "Flamengo (Bra)",
+            "logo": "https://static.flashscore.com/res/image/data/fki0827k-fZvFTLbd.png"
+        },
+        "team2": {
+            "name": "Botafogo (Bra)",
+            "logo": "https://static.flashscore.com/res/image/data/hA0Dqr86-f5khNE8B.png"
+        },
+        "kickoff_time": "14:30"
+    },
+    {
+        "id": "Minas (Bra)-Tatui (Bra)",
+        "league": "WORLD - Club Friendly",
+        "sport": "basketball",
+        "team1": {
+            "name": "Minas (Bra)",
+            "logo": "https://static.flashscore.com/res/image/data/Ygp91RVH-lbsn7DK6.png"
+        },
+        "team2": {
+            "name": "Tatui (Bra)",
+            "logo": "https://static.flashscore.com/res/image/data/x8PCLW86-l8IX0rZL.png"
+        },
+        "kickoff_time": "20:00"
+    },
+    {
+        "id": "Caxias do Sul (Bra)-Cruzeiro (Bra)",
+        "league": "WORLD - Club Friendly",
+        "sport": "basketball",
+        "team1": {
+            "name": "Caxias do Sul (Bra)",
+            "logo": "https://static.flashscore.com/res/image/data/djQo5qS0-dI9bUgEs.png"
+        },
+        "team2": {
+            "name": "Cruzeiro (Bra)",
+            "logo": "https://static.flashscore.com/res/image/data/vFYOrJkC-AFzHcxlI.png"
+        },
+        "kickoff_time": "22:30"
     }
 ]
