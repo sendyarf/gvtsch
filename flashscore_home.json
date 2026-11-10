@@ -11,7 +11,7 @@
             "name": "Deportivo Nacional",
             "logo": "https://static.flashscore.com/res/image/data/WzthTH96-SOGSc1vf.png"
         },
-        "kickoff_time": "00:30"
+        "kickoff_time": ""
     },
     {
         "id": "Aurora-Universitario de Vinto",
@@ -25,7 +25,7 @@
             "name": "Universitario de Vinto",
             "logo": "https://static.flashscore.com/res/image/data/8rhZC0jC-OAKJ6fWq.png"
         },
-        "kickoff_time": "90+11"
+        "kickoff_time": ""
     },
     {
         "id": "Furia-Dibrados FC",
@@ -95,7 +95,7 @@
             "name": "Don Bosco",
             "logo": "https://static.flashscore.com/res/image/data/KAzlhtjC-6kUv7TiA.png"
         },
-        "kickoff_time": "13:00"
+        "kickoff_time": "Postp"
     },
     {
         "id": "Arab Contractors-WE SC",
@@ -473,7 +473,7 @@
             "name": "Waterhouse",
             "logo": "https://static.flashscore.com/res/image/data/jL8z5bDN-6iLl2ZBo.png"
         },
-        "kickoff_time": "67"
+        "kickoff_time": ""
     },
     {
         "id": "Central Stallions-Hunters",
@@ -487,7 +487,7 @@
             "name": "Hunters",
             "logo": "https://static.flashscore.com/res/image/data/0rdqZC5k-velACmjh.png"
         },
-        "kickoff_time": "05:00"
+        "kickoff_time": ""
     },
     {
         "id": "Deren-FC Ulaanbaatar",
@@ -501,7 +501,7 @@
             "name": "FC Ulaanbaatar",
             "logo": "https://static.flashscore.com/res/image/data/Q7SjGaS0-ziRjVPgA.png"
         },
-        "kickoff_time": "08:00"
+        "kickoff_time": ""
     },
     {
         "id": "Metalul Buzau-Steaua Bucuresti",
@@ -641,7 +641,7 @@
             "name": "Tonga",
             "logo": "https://static.flashscore.com/res/image/data/zsWqVaUH-AFx4W13P.png"
         },
-        "kickoff_time": "06:00"
+        "kickoff_time": ""
     },
     {
         "id": "Qatar U23-Singapore U23",
@@ -655,7 +655,7 @@
             "name": "Singapore U23",
             "logo": "https://static.flashscore.com/res/image/data/C2Ka0kle-G01LILSk.png"
         },
-        "kickoff_time": "08:00"
+        "kickoff_time": ""
     },
     {
         "id": "Vietnam U23-Thailand U23",
@@ -667,9 +667,23 @@
         },
         "team2": {
             "name": "Thailand U23",
-            "logo": "https://static.flashscore.com/res/image/data/ER42r2le-rs2547O2.png"
+            "logo": "https://static.flashscore.com/res/image/data/ER42r2le-pzYnjNUe.png"
         },
-        "kickoff_time": "12:00"
+        "kickoff_time": "53"
+    },
+    {
+        "id": "Ramnicu Valcea (Rou)-Farcasesti (Rou)",
+        "league": "WORLD - Club Friendly",
+        "sport": "soccer",
+        "team1": {
+            "name": "Ramnicu Valcea (Rou)",
+            "logo": "https://static.flashscore.com/res/image/data/40D48f96-pS9wGfem.png"
+        },
+        "team2": {
+            "name": "Farcasesti (Rou)",
+            "logo": "https://static.flashscore.com/res/image/data/pMhndtlC-pYSIykM1.png"
+        },
+        "kickoff_time": ""
     },
     {
         "id": "Paderborn (Ger)-Braunschweig (Ger)",
@@ -686,18 +700,18 @@
         "kickoff_time": "12:00"
     },
     {
-        "id": "Gabon W-Chad W",
-        "league": "WORLD - Friendly International Women",
+        "id": "Bergisch Gladbach (Ger)-Schlebusch (Ger)",
+        "league": "WORLD - Club Friendly",
         "sport": "soccer",
         "team1": {
-            "name": "Gabon W",
-            "logo": "https://static.flashscore.com/res/image/data/dS5ILHRq-KlKhSYan.png"
+            "name": "Bergisch Gladbach (Ger)",
+            "logo": "https://static.flashscore.com/res/image/data/IDyPjnCN-QXJRVgQO.png"
         },
         "team2": {
-            "name": "Chad W",
-            "logo": "https://static.flashscore.com/res/image/data/APHNw1S0-n7MgLY3g.png"
+            "name": "Schlebusch (Ger)",
+            "logo": "https://static.flashscore.com/res/image/data/SAujP8BN-vc15lFOa.png"
         },
-        "kickoff_time": "10:00"
+        "kickoff_time": "18:30"
     },
     {
         "id": "Congo W-Central Africa W",
@@ -711,7 +725,21 @@
             "name": "Central Africa W",
             "logo": "https://static.flashscore.com/res/image/data/EctDNViT-xbd1HIGm.png"
         },
-        "kickoff_time": "12:00"
+        "kickoff_time": "12:15"
+    },
+    {
+        "id": "Gabon W-Chad W",
+        "league": "WORLD - Friendly International Women",
+        "sport": "soccer",
+        "team1": {
+            "name": "Gabon W",
+            "logo": "https://static.flashscore.com/res/image/data/dS5ILHRq-KlKhSYan.png"
+        },
+        "team2": {
+            "name": "Chad W",
+            "logo": "https://static.flashscore.com/res/image/data/APHNw1S0-n7MgLY3g.png"
+        },
+        "kickoff_time": "14:30"
     },
     {
         "id": "Balkan-PAOK",
@@ -991,7 +1019,7 @@
             "name": "New Orleans Pelicans",
             "logo": "https://static.flashscore.com/res/image/data/Gb6wqNkC-StvCsRZ7.png"
         },
-        "kickoff_time": "03:00Preview"
+        "kickoff_time": ""
     },
     {
         "id": "Akron-Muskingum",
@@ -1327,7 +1355,7 @@
             "name": "Oakland",
             "logo": "https://static.flashscore.com/res/image/data/CQWyrGjT-WIhNhFmO.png"
         },
-        "kickoff_time": "00:30"
+        "kickoff_time": ""
     },
     {
         "id": "McNeese State-CBS Ambassadors",
@@ -1341,7 +1369,7 @@
             "name": "CBS Ambassadors",
             "logo": "https://static.flashscore.com/res/image/data/KIk7jdQq-tfR9Lj5G.png"
         },
-        "kickoff_time": "00:30"
+        "kickoff_time": ""
     },
     {
         "id": "Mississippi St.-Jackson State",
@@ -1355,7 +1383,7 @@
             "name": "Jackson State",
             "logo": "https://static.flashscore.com/res/image/data/dItYOLR0-OzdJsP7e.png"
         },
-        "kickoff_time": "00:30"
+        "kickoff_time": ""
     },
     {
         "id": "UAB-Florida A&M",
@@ -1369,7 +1397,7 @@
             "name": "Florida A&M",
             "logo": "https://static.flashscore.com/res/image/data/0t03JOCN-pfjLNH5A.png"
         },
-        "kickoff_time": "00:30"
+        "kickoff_time": ""
     },
     {
         "id": "Louisiana Lafayette-Southern-New O.",
@@ -1383,7 +1411,7 @@
             "name": "Southern-New O.",
             "logo": "https://static.flashscore.com/res/image/data/ttxQk7me-6NJNlcC5.png"
         },
-        "kickoff_time": "01:00"
+        "kickoff_time": ""
     },
     {
         "id": "LSU-Louisiana Tech",
@@ -1397,7 +1425,7 @@
             "name": "Louisiana Tech",
             "logo": "https://static.flashscore.com/res/image/data/6w7912Qq-4ANWpHiB.png"
         },
-        "kickoff_time": "01:00"
+        "kickoff_time": ""
     },
     {
         "id": "Missouri-Siu Edwardsville",
@@ -1411,7 +1439,7 @@
             "name": "Siu Edwardsville",
             "logo": "https://static.flashscore.com/res/image/data/61QrgG7k-4WbRwRIG.png"
         },
-        "kickoff_time": "01:00"
+        "kickoff_time": ""
     },
     {
         "id": "Northwestern-Boston University",
@@ -1425,7 +1453,7 @@
             "name": "Boston University",
             "logo": "https://static.flashscore.com/res/image/data/lr94sZS0-SUVu8m0m.png"
         },
-        "kickoff_time": "01:00"
+        "kickoff_time": ""
     },
     {
         "id": "Oklahoma-North Alabama",
@@ -1439,7 +1467,7 @@
             "name": "North Alabama",
             "logo": "https://static.flashscore.com/res/image/data/dhb1L8jC-xfGdgZVq.png"
         },
-        "kickoff_time": "01:00"
+        "kickoff_time": ""
     },
     {
         "id": "Tennessee State-Fisk",
@@ -1453,7 +1481,7 @@
             "name": "Fisk",
             "logo": "https://static.flashscore.com/res/image/data/MuKT3k86-UkYG0YLn.png"
         },
-        "kickoff_time": "01:00"
+        "kickoff_time": ""
     },
     {
         "id": "Texas A&M-Louisiana Monroe",
@@ -1467,7 +1495,7 @@
             "name": "Louisiana Monroe",
             "logo": "https://static.flashscore.com/res/image/data/vgPjfbne-SKQxdLRC.png"
         },
-        "kickoff_time": "01:00"
+        "kickoff_time": ""
     },
     {
         "id": "Purdue-Illinois State",
@@ -1481,7 +1509,7 @@
             "name": "Illinois State",
             "logo": "https://static.flashscore.com/res/image/data/Yko1wMkC-r5frfeus.png"
         },
-        "kickoff_time": "01:30"
+        "kickoff_time": ""
     },
     {
         "id": "Auburn-Appalachian State",
@@ -1495,7 +1523,7 @@
             "name": "Appalachian State",
             "logo": "https://static.flashscore.com/res/image/data/jRWnLvUH-YDixKhPm.png"
         },
-        "kickoff_time": "02:00"
+        "kickoff_time": ""
     },
     {
         "id": "Charlotte-Seton Hall",
@@ -1509,7 +1537,7 @@
             "name": "Seton Hall",
             "logo": "https://static.flashscore.com/res/image/data/jwZ7Qyle-phsEpgji.png"
         },
-        "kickoff_time": "02:00"
+        "kickoff_time": ""
     },
     {
         "id": "DePaul-Alabama A&M",
@@ -1523,7 +1551,7 @@
             "name": "Alabama A&M",
             "logo": "https://static.flashscore.com/res/image/data/AJDp47BN-xr8nx1NE.png"
         },
-        "kickoff_time": "02:00"
+        "kickoff_time": ""
     },
     {
         "id": "Bethesda-UT Arlington",
@@ -1537,7 +1565,7 @@
             "name": "UT Arlington",
             "logo": "https://static.flashscore.com/res/image/data/lAdNWLA6-0SagAPAh.png"
         },
-        "kickoff_time": "02:30"
+        "kickoff_time": ""
     },
     {
         "id": "Oregon State-East. Washington",
@@ -1551,7 +1579,7 @@
             "name": "East. Washington",
             "logo": "https://static.flashscore.com/res/image/data/ppPWDYWH-jX2uegaN.png"
         },
-        "kickoff_time": "02:30"
+        "kickoff_time": ""
     },
     {
         "id": "Stanford-Rice",
@@ -1565,7 +1593,7 @@
             "name": "Rice",
             "logo": "https://static.flashscore.com/res/image/data/nVdHVTUH-4UNV115P.png"
         },
-        "kickoff_time": "03:00"
+        "kickoff_time": ""
     },
     {
         "id": "Washington-Miss. Valley St.",
@@ -1579,7 +1607,7 @@
             "name": "Miss. Valley St.",
             "logo": "https://static.flashscore.com/res/image/data/KYfKniUH-KIwlzF5A.png"
         },
-        "kickoff_time": "03:00"
+        "kickoff_time": ""
     },
     {
         "id": "Hawaii-Portland",
@@ -1593,7 +1621,7 @@
             "name": "Portland",
             "logo": "https://static.flashscore.com/res/image/data/zepexk8k-v1y3j2X4.png"
         },
-        "kickoff_time": "04:59"
+        "kickoff_time": ""
     },
     {
         "id": "Florida State-Florida",
@@ -1677,7 +1705,7 @@
             "name": "Bendigo W",
             "logo": "https://static.flashscore.com/res/image/data/UVmtY2hT-t4zWrAVM.png"
         },
-        "kickoff_time": "10:00"
+        "kickoff_time": ""
     },
     {
         "id": "Sitra Club-Al Najma",
@@ -1831,7 +1859,7 @@
             "name": "Tycoon BC",
             "logo": "https://static.flashscore.com/res/image/data/Ys9R0Poe-GOmBmyoF.png"
         },
-        "kickoff_time": "12:40"
+        "kickoff_time": ""
     },
     {
         "id": "Elitzur Yavne-Otef Darom",
@@ -1943,7 +1971,7 @@
             "name": "Osaka",
             "logo": "https://static.flashscore.com/res/image/data/21Wxn6oe-4zmIxk7H.png"
         },
-        "kickoff_time": "10:05"
+        "kickoff_time": ""
     },
     {
         "id": "Kobe-Tokyo Sunrockers",
@@ -1957,7 +1985,7 @@
             "name": "Tokyo Sunrockers",
             "logo": "https://static.flashscore.com/res/image/data/EJVSXU86-MueLkWG9.png"
         },
-        "kickoff_time": "10:05"
+        "kickoff_time": ""
     },
     {
         "id": "SeaHorses Mikawa-Shinshu",
@@ -1971,7 +1999,7 @@
             "name": "Shinshu",
             "logo": "https://static.flashscore.com/res/image/data/GMUEEljC-2Ts74Kkk.png"
         },
-        "kickoff_time": "10:05"
+        "kickoff_time": ""
     },
     {
         "id": "Barsy Atyrau W-Astana W",
@@ -1985,7 +2013,7 @@
             "name": "Astana W",
             "logo": "https://static.flashscore.com/res/image/data/6XEWuDne-h8m3sBXO.png"
         },
-        "kickoff_time": "12:00"
+        "kickoff_time": ""
     },
     {
         "id": "Okzhetpes W-Turan W",
@@ -2055,7 +2083,7 @@
             "name": "San Miguel Beermen",
             "logo": "https://static.flashscore.com/res/image/data/Ye1mALS0-xrx6DBl6.png"
         },
-        "kickoff_time": "11:30"
+        "kickoff_time": ""
     },
     {
         "id": "Al Gharafa-Al Arabi",
@@ -2167,7 +2195,7 @@
             "name": "Goyang Sono",
             "logo": "https://static.flashscore.com/res/image/data/ABGhemCN-8M6D6J3r.png"
         },
-        "kickoff_time": "10:00"
+        "kickoff_time": ""
     },
     {
         "id": "Koping Stars-Jamtland",
@@ -2251,7 +2279,7 @@
             "name": "San Diego Clippers",
             "logo": "https://static.flashscore.com/res/image/data/8xV2B86k-4Uy224Y7.png"
         },
-        "kickoff_time": "03:00"
+        "kickoff_time": ""
     },
     {
         "id": "Oklahoma City Blue-Rio Grande Valley Vipers",
@@ -2461,7 +2489,7 @@
             "name": "UMKC W",
             "logo": "https://static.flashscore.com/res/image/data/AHRkO4kC-6moAujxD.png"
         },
-        "kickoff_time": "00:30"
+        "kickoff_time": ""
     },
     {
         "id": "Louisiana Monroe W-Central Arkansas W",
@@ -2475,7 +2503,7 @@
             "name": "Central Arkansas W",
             "logo": "https://static.flashscore.com/res/image/data/WGXMn3AN-jJoWCGYG.png"
         },
-        "kickoff_time": "00:30"
+        "kickoff_time": ""
     },
     {
         "id": "Nebraska O. W-Western Illinois W",
@@ -2489,7 +2517,7 @@
             "name": "Western Illinois W",
             "logo": "https://static.flashscore.com/res/image/data/G0JZNIkC-lS0yvE6s.png"
         },
-        "kickoff_time": "00:30"
+        "kickoff_time": ""
     },
     {
         "id": "Vanderbilt W-Morehead State W",
@@ -2503,7 +2531,7 @@
             "name": "Morehead State W",
             "logo": "https://static.flashscore.com/res/image/data/xxq02Gne-t0ORTEQq.png"
         },
-        "kickoff_time": "00:30"
+        "kickoff_time": ""
     },
     {
         "id": "North Dakota St W-Creighton Bluejays W",
@@ -2517,7 +2545,7 @@
             "name": "Creighton Bluejays W",
             "logo": "https://static.flashscore.com/res/image/data/SEZqx48k-nu8Cx65E.png"
         },
-        "kickoff_time": "01:00"
+        "kickoff_time": ""
     },
     {
         "id": "Northern Colorado W-Northern New Mexico W",
@@ -2531,7 +2559,7 @@
             "name": "Northern New Mexico W",
             "logo": "https://static.flashscore.com/res/image/data/4r5iJOoe-buq0dsyH.png"
         },
-        "kickoff_time": "01:00"
+        "kickoff_time": ""
     },
     {
         "id": "Southern Utah W-Gilbert Buccaneers W",
@@ -2545,7 +2573,7 @@
             "name": "Gilbert Buccaneers W",
             "logo": "https://static.flashscore.com/res/image/data/MTYAMyU0-YgTkSLeD.png"
         },
-        "kickoff_time": "01:30"
+        "kickoff_time": ""
     },
     {
         "id": "Idaho State W-Cal Poly W",
@@ -2559,7 +2587,7 @@
             "name": "Cal Poly W",
             "logo": "https://static.flashscore.com/res/image/data/fZCH9vU0-r5IjLLRT.png"
         },
-        "kickoff_time": "02:00"
+        "kickoff_time": ""
     },
     {
         "id": "Long Beach State W-Santa Clara W",
@@ -2573,7 +2601,7 @@
             "name": "Santa Clara W",
             "logo": "https://static.flashscore.com/res/image/data/bqoPXCle-Igybk68h.png"
         },
-        "kickoff_time": "02:00"
+        "kickoff_time": ""
     },
     {
         "id": "UC Santa Barbara W-Seattle U Redhawks W",
@@ -2587,7 +2615,7 @@
             "name": "Seattle U Redhawks W",
             "logo": "https://static.flashscore.com/res/image/data/YFA9HVQq-Shhjmm2s.png"
         },
-        "kickoff_time": "02:00"
+        "kickoff_time": ""
     },
     {
         "id": "Utah Utes W-Bethune-Cookman W",
@@ -2601,7 +2629,7 @@
             "name": "Bethune-Cookman W",
             "logo": "https://static.flashscore.com/res/image/data/nRivwvB6-ATNtsgte.png"
         },
-        "kickoff_time": "02:00"
+        "kickoff_time": ""
     },
     {
         "id": "Sacramento State W-Cal St.-East Bay W",
@@ -2615,7 +2643,7 @@
             "name": "Cal St.-East Bay W",
             "logo": "https://static.flashscore.com/res/image/data/82xlmTBN-2uvxNZJi.png"
         },
-        "kickoff_time": "02:30"
+        "kickoff_time": ""
     },
     {
         "id": "Grand Canyon W-Oregon W",
@@ -2629,7 +2657,7 @@
             "name": "Oregon W",
             "logo": "https://static.flashscore.com/res/image/data/8Cy9mljC-prGBCaQL.png"
         },
-        "kickoff_time": "03:00"
+        "kickoff_time": ""
     },
     {
         "id": "Bowling Green W-Bellarmine W",
