@@ -518,20 +518,6 @@
         "kickoff_time": "17:00"
     },
     {
-        "id": "Sao Paulo-Remo",
-        "league": "BRAZIL - Serie A",
-        "sport": "soccer",
-        "team1": {
-            "name": "Sao Paulo",
-            "logo": "https://static.flashscore.com/res/image/data/jBU0jVPq-AkTesf41.png"
-        },
-        "team2": {
-            "name": "Remo",
-            "logo": "https://static.flashscore.com/res/image/data/GEFVWo96-vsDPUWUH.png"
-        },
-        "kickoff_time": "90+5"
-    },
-    {
         "id": "Fluminense-Cruzeiro",
         "league": "BRAZIL - Serie A",
         "sport": "soccer",
@@ -1649,7 +1635,7 @@
             "name": "Guadalajara Chivas",
             "logo": "https://static.flashscore.com/res/image/data/4fFLAKlC-lEs0thDm.png"
         },
-        "kickoff_time": "01:00"
+        "kickoff_time": "65"
     },
     {
         "id": "Club Leon-Cruz Azul",
@@ -1859,7 +1845,7 @@
             "name": "Matagalpa",
             "logo": "https://static.flashscore.com/res/image/data/6JL6oDUH-YkZgQT2l.png"
         },
-        "kickoff_time": "HT"
+        "kickoff_time": ""
     },
     {
         "id": "Douanes Niamey-Sahel",
@@ -2951,7 +2937,7 @@
             "name": "Nacional",
             "logo": "https://static.flashscore.com/res/image/data/bZ1tooDN-xErFNzEn.png"
         },
-        "kickoff_time": "28"
+        "kickoff_time": ""
     },
     {
         "id": "Buxoro-Mashal Muborak",
@@ -3413,7 +3399,7 @@
             "name": "Puerto Rico",
             "logo": "https://static.flashscore.com/res/image/data/Ascs5CT0-bcM0uDsB.png"
         },
-        "kickoff_time": "01:40"
+        "kickoff_time": ""
     },
     {
         "id": "Chile-Mexico",
@@ -3836,6 +3822,20 @@
         "kickoff_time": "19:00"
     },
     {
+        "id": "UCLA-Georgetown",
+        "league": "USA - NCAA",
+        "sport": "basketball",
+        "team1": {
+            "name": "UCLA",
+            "logo": "https://static.flashscore.com/res/image/data/zZEintAN-Ol106N2n.png"
+        },
+        "team2": {
+            "name": "Georgetown",
+            "logo": "https://static.flashscore.com/res/image/data/fe0l47le-2FCOJOJJ.png"
+        },
+        "kickoff_time": "19:30"
+    },
+    {
         "id": "Butler-Bellarmine",
         "league": "USA - NCAA",
         "sport": "basketball",
@@ -4004,6 +4004,20 @@
         "kickoff_time": "22:00"
     },
     {
+        "id": "St. Marys (CA)-Texas",
+        "league": "USA - NCAA",
+        "sport": "basketball",
+        "team1": {
+            "name": "St. Marys (CA)",
+            "logo": "https://static.flashscore.com/res/image/data/GMg2xNA6-jBssDY4h.png"
+        },
+        "team2": {
+            "name": "Texas",
+            "logo": "https://static.flashscore.com/res/image/data/OKFKpnXH-xOybRwL3.png"
+        },
+        "kickoff_time": "22:00"
+    },
+    {
         "id": "Texas A&M-Marquette",
         "league": "USA - NCAA",
         "sport": "basketball",
@@ -4114,20 +4128,6 @@
             "logo": "https://static.flashscore.com/res/image/data/Czi4Zu96-ShzCQ2bc.png"
         },
         "kickoff_time": "18:00"
-    },
-    {
-        "id": "El Talar W-Regatas San Nicolas W",
-        "league": "ARGENTINA - Liga Femenina Women - Apertura",
-        "sport": "basketball",
-        "team1": {
-            "name": "El Talar W",
-            "logo": "https://static.flashscore.com/res/image/data/nuMXYQiT-4ddmER2o.png"
-        },
-        "team2": {
-            "name": "Regatas San Nicolas W",
-            "logo": "https://static.flashscore.com/res/image/data/r7Pswmme-Euuef9Ap.png"
-        },
-        "kickoff_time": ""
     },
     {
         "id": "Union Florida W-Avellaneda W",
